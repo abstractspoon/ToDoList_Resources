@@ -1,2 +1,2 @@
 # todolist
-ToDoList Resources
+ToDoList Resources for Translation

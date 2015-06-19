@@ -2,6 +2,7 @@
 PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"" "" ""
 "% Complete"	""	"label.122"
   "% Complete"	""	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"

@@ -2,7 +2,6 @@
 PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"" "" ""
 "% Complete"	""	"label.122"
   "% Complete"	""	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"
@@ -747,7 +746,6 @@ NEED_TRANSLATION
 "Enable window fading when showing dialog boxes"	""	"checkbox.1311"
 "Encrypt Tasklist"	""	"menu.32958"
 "End Date"	""	"text"
-"End Session"	""	"menu.104"
 "End Time"	""	"text"
 "End after"	""	"checkbox.1444"
 "End of Next Month"	""	"text"
@@ -1542,13 +1540,10 @@ NEED_TRANSLATION
 "Show Formatting Toolbar"	""	"menu.32776"
 "Show Project Name Field"	""	"menu.33053"
 "Show Ruler"	""	"menu.32777"
-"Show Script Dialog..."	""	"menu.34531"
-"Show Setup Wizard..."	""	"menu.103"
 "Show Tasklist in Explorer"	""	"menu.34376"
 "Show Tasks Due by Today"	""	"menu"
 "Show Tasks Due"	""	"menu"
 "Show ToDoList"	""	"menu.32818"
-"Show Updater Dialog..."	""	"menu.34377"
 "Show all subtasks"	""	"text"
 "Show columns on the right of the task tree"	""	"checkbox.1241"
 "Show comments as simple text"	""	"checkbox.1159"
@@ -2216,3 +2211,7 @@ NEED_TRANSLATION
 "year(s) after previous task is completed"	""	"label"
 "Cost: %s"	""	"text"
 "Source Control Change(s)"	""	"text"
+"Close"	""	"button.1"
+"Hide the splitter bar between the task titles and attribute columns"	""	"checkbox.1456"
+"Resize attribute columns to fit"	""	"menu.34536"
+"Show checkbox beside task title when completion column is hidden"	""	"checkbox.1455"

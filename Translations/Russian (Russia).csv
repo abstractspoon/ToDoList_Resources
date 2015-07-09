@@ -473,8 +473,8 @@ Calculate missing 'Due' dates as	Рассчитать пропущенные с�
 Calculate missing 'Start' dates as	Рассчитать пропущенные сроки начала как	groupbox
 Calculate missing 'due' dates as being the later of the task's start date and 'today'.	Рассчитать пропущенные сроки как более поздние, чем сроки начала задачи и Сегодня.	checkbox.16013
 Calculate missing 'start' dates as being the earlier of the task's due date and 'today'.	Рассчитать пропущенные сроки как более ранние, чем сроки начала задачи и Сегодня.	checkbox.16012
-Calculate next occurence	Определить следующий повтор	label
-"  ""Calculate next occurence"""	Определить следующий повтор	label.1234
+Calculate next occurrence	Определить следующий повтор	label
+"  ""Calculate next occurrence"""	Определить следующий повтор	label.1234
 Calendar Preferences	Настройки календаря	dialog
 Calendar	Календарь	systabcontrol32.412
 "  ""Calendar"""	Календарь	text

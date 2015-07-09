@@ -130,7 +130,7 @@ NEED_TRANSLATION
 "Calculate missing 'Start' dates as"	""	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	""	"checkbox.16013"
 "Calculate missing 'start' dates as being the earlier of the task's due date and 'today'."	""	"checkbox.16012"
-"Calculate next occurence"	""	"label"
+"Calculate next occurrence"	""	"label"
 "Calendar Preferences"	""	"dialog"
 "Calendar"	""	"systabcontrol32.412"
   "Calendar"	""	"text"

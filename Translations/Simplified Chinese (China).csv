@@ -1001,7 +1001,7 @@ TRANSLATED
   "By"	""	"label"
 "Calculate a task's 'Remaining Time' as"	"计算任务的'剩余时间'作为："	"label"
   "Calculate a task's 'Remaining Time' as"	""	"groupbox"
-"Calculate next occurence"	"计算下一次发生(&C)"	"label"
+"Calculate next occurrence"	"计算下一次发生(&C)"	"label"
 "Can be a file, folder, website, email, or task link"	"可以是一个文件，目录，网址，邮件或任务链接"	"text"
 "Cancel"	"取消"	"button.2"
   "Cancel"	""	"menu.2"

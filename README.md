@@ -15,6 +15,9 @@ The [Wiki](../../../ToDoList_Wiki/wiki) is currently a Work In Progress, subject
  
 #### Repo Updates
 
+*2015-jul-12*
+- Added 'idea' label to separate a feature suggestion that sounds nice from an 'enhancement' label which actually requests a change solve an immediate need. An Issue can be promoted from idea to enhancement if Dan approves and adds it to his ToDoList.
+
 *2015-jul-11*
 - Added info about screenshots and emoji to ReadMe.
 

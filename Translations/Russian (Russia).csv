@@ -760,7 +760,7 @@ Due Time	Время завершения	label.120
 Due by	Завершается	label.1200
 Due date - Current date	Срок выполнения - Текущая дата	radiobutton.1055
 Due	Завершение	text
-Dyamically adjust the height of tasks to ensure full visibility	Для полной видимости динамически изменять высоту задач	checkbox.1040
+Dynamically adjust the height of tasks to ensure full visibility	Для полной видимости динамически изменять высоту задач	checkbox.1040
 Dynamic Droplists	Динамические выпадающие списки	label.1195
 Dynamic data, multi-selection	Динамич. данные, мультивыбор	text
 Dynamic data, single-selection	Динамич. данные, простой выбор	text
@@ -1912,7 +1912,7 @@ ToDoList is saving its settings.	ToDoList сохраняет настройки.
 ToDoList is updating your preferences. \nPlease wait...	ToDoList обновляет настройки. \nПожалуйста, подождите...	label
 ToDoList requires version 3 or later of the msxml component.\n\nTo update your version of this component, Google for 'msxml 3.0 download', \nand follow the relevant installation instructions. Then try again.	ToDoList требует версию 3 или выше компонента msxml.\n\nДля обновления вашей версии этого компонента, Google -> 'msxml 3.0 download', \nи следуйте инструкции по установке. Затем попробуйте еще раз.	text
 ToDoList supports the following commandline options	ToDoList поддерживает следующие опции командной строки	label
-ToDoList was unable to install the 'outlook:' protocol handler.\n\nYou may need to run ToDoList with administrator priveleges to install the handler.\n\nOnce installed you can then revert to your original security settings.	Невозможно установить обработчик протокола 'outlook:'.\n\nДля установки запустите ToDoList с правами администратора.\n\nПосле установки вы сможете вернуться к своим изначальным установкам безопасности.	text
+ToDoList was unable to install the 'outlook:' protocol handler.\n\nYou may need to run ToDoList with administrator privileges to install the handler.\n\nOnce installed you can then revert to your original security settings.	Невозможно установить обработчик протокола 'outlook:'.\n\nДля установки запустите ToDoList с правами администратора.\n\nПосле установки вы сможете вернуться к своим изначальным установкам безопасности.	text
 ToDoList was unable to print the active tasklist via your default  browser, which may mean that your browser does not support the 'print' command.\n\nPlease see your browser help for more information.	ToDoList не может напечатать активный список задач, т.к. ваш браузер по умолчанию, возможно, не поддерживает команду 'печать'.\n\nПросмотрите файл справки вашего браузера для детальной информации.	text
 Today	Сегодня	menu.32941
 "  ""Today"""	Сегодня	text

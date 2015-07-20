@@ -2214,3 +2214,6 @@ NEED_TRANSLATION
 "Hide the splitter bar between the task titles and attribute columns"	""	"checkbox.1456"
 "Resize attribute columns to fit"	""	"menu.34536"
 "Show checkbox beside task title when completion column is hidden"	""	"checkbox.1455"
+"Kanban Board"	""	"text"
+  "Kanban Board"	""	"systabcontrol32.411"
+  "Kanban Board"	""	"checklistbox.1413"

@@ -1359,12 +1359,12 @@ Quarters, wide \t\t(eg. January-March 2013)	Кварталы, широкие \t\
 Quick Find	Быстрый поиск	text
 "  ""Quick Find"""	Быстрый поиск	menu.34244
 Read-Only	Только для чтения	
-"  ""Read-Only"""	Только для чтения	text
+"  ""Read-only"""	Только для чтения	text
 Read-only	Только для чтения	text
 Read-only: Checked in	Только для чтения: изменения зафиксированы	text
 Read-only: Newer format	Только для чтения: новый формат	text
 Read-only: Under source control	Только для чтения: контроль версий включен	text
-Readonly Status Change	Изменение статуса Только для чтения	text
+Read-only Status Change	Изменение статуса Только для чтения	text
 Recalculate Time	Рассчитать время заново	
 "  ""Recalculate Time"""	Рассчитать время заново	text
 Recalculate a task's 'Estimated time' whenever its start or due dates change	Рассчитать заново 'Время оценки' задачи при изменении даты начала или сроков	checkbox.1061

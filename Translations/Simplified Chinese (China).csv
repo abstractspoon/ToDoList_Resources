@@ -431,7 +431,7 @@ NEED_TRANSLATION
 "Read-only: Checked in"	""	"text"
 "Read-only: Newer format"	""	"text"
 "Read-only: Under source control"	""	"text"
-"Readonly Status Change"	""	"text"
+"Read-only Status Change"	""	"text"
 "Received By"	""	"text"
 "Received Time"	""	"text"
 "Recently modified"	""	"text"

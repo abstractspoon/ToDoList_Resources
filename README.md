@@ -7,10 +7,13 @@ This repo contains resources which are included with the software. This includes
 All pages are currently a Work In Progress, subject to rapid change and even to being moved.
 That means any pages "missing" simply haven't been written yet and anything already written is going to get edited soon. Please have patience.
 
-To find anything from files, issues, or documentation, or to report issues, please see [GettingHelp](../../../ToDoList_Wiki/wiki/GettingHelp) which has links to everywhere else.
+To find anything from files, issues, or documentation, or to report issues, please see [Getting Help](../../../ToDoList_Wiki/wiki/Getting-Help) which has links to everywhere else.
 
 #### Repo Updates
 
+*2015-jul-20*
+- PascalCasePageNames have been replaced with Hyphen-Delimited-Names for clean page headers, like GettingHelp has been changed to Getting-Help.
+ 
 *2015-jul-15*
 - Rewrote ReadMe ... again.
 
@@ -28,4 +31,3 @@ To find anything from files, issues, or documentation, or to report issues, plea
 - Added 'performance' label for issues related to delays or speed improvements.
 - Added labels v6.9.6 and v7.0RC2 to help with filtering issues by version. Update notes here will no longer include changes to version labels.
 - Started applying labels to issues.
-

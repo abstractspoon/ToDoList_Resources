@@ -2390,7 +2390,7 @@ to specify the location of the Spell Checker."	"Om de eerste keer een spellingco
 "Would you like to reload it?"	"Wil je dit herladen?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"Wil je de aanpassingen opslaan naar '%s' \nalvorens af te sluiten?"	"text"
 "Would you like to save your changes before checking in?"	"Wil je de wijzigingen opslaan vooraleer in te checken?"	"text"
-"Would you like to update to this version?"	"Wens je te updaten naar deze versie?"	"text"
+"\nWould you like to update to this version?"	"\nWens je te updaten naar deze versie?"	"text"
 "Wrapped"	"Achter elkaar"	"radiobutton.1055"
 "XML (.xml)"	"XML (.xml)"	"combobox.1424"
 "XML (.xml)|XML Files (*.xml)|*.xml||"	"XML (.xml)|XML bestanden (*.xml)|*.xml||"	"text"

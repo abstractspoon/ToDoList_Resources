@@ -795,7 +795,7 @@ NEED_TRANSLATION
 "Would you like to recalculate the task time in the new units?"	""	"text"
 "Would you like to reload it?"	""	"text"
 "Would you like to save your changes before checking in?"	""	"text"
-"Would you like to update to this version?"	""	"text"
+"\nWould you like to update to this version?"	""	"text"
 "Wrapped"	""	"radiobutton.1055"
 "XML (.xml)|XML Files (*.xml)|*.xml||"	""	"text"
 "Year(s)"	""	"combobox.1106"

@@ -617,7 +617,7 @@ NEED_TRANSLATION
 "What's New"	""	"label.1431"
 "When filtering by 'Title', match on"	""	"label"
 "Wordwrap"	""	"tooltip"
-"Would you like to update to this version?"	""	"text"
+"\nWould you like to update to this version?"	""	"text"
 "Wrapped"	""	"radiobutton.1055"
 "XML (.xml)|XML Files (*.xml)|*.xml||"	""	"text"
 "Year(s)"	""	"combobox.1106"

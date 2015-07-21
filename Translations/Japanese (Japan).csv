@@ -606,7 +606,7 @@ NEED_TRANSLATION
 "Wordwrap"	""	"tooltip"
 "Would you like to reload it?"	""	"text"
 "Would you like to save your changes before checking in?"	""	"text"
-"Would you like to update to this version?"	""	"text"
+"\nWould you like to update to this version?"	""	"text"
 "XML (.xml)|XML Files (*.xml)|*.xml||"	""	"text"
 "Year(s)"	""	"combobox.1106"
 "Years \t\t\t\t(eg. 2013)"	""	"combobox.1015"

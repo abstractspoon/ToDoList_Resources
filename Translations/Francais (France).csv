@@ -2291,7 +2291,7 @@ TRANSLATED
 "Would you like to reload it?"	"Voulez-vous le recharger ?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"Voulez-vous sauvegarder les modifications de '%s' \navant de fermer ?"	"text"
 "Would you like to save your changes before checking in?"	"Voulez vous sauver vos modifications avant de déverrouiller?"	"text"
-"Would you like to update to this version?"	"Voulez vous faire cette mise à jour?"	"text"
+"\nWould you like to update to this version?"	"\nVoulez vous faire cette mise à jour?"	"text"
 "Y"	"O"	"text"
 "Y(ears)"	"A(ns)"	"menu.32773"
   "Y(ears)"	""	"text"

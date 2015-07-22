@@ -1,4 +1,4 @@
-version 1.0
+version 1.1
 
 Running TDL on Linux
 ::::::::::::::::::::
@@ -92,8 +92,8 @@ Feedback/ Further Information
 Comments and Discussions: 
 http://www.codeproject.com/Articles/5371/WebControls/#_comments
 
-Github/Wiki:
-https://github.com/abstractspoon/ToDoList_Resources/wiki
+GitHub/Wiki:
+https://github.com/abstractspoon/ToDoList_Wiki/wiki
 
 Youtube Channel:
 https://www.youtube.com/channel/UCxvJumT59uFITT_QDGGRAhQ

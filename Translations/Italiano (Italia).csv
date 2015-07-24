@@ -486,7 +486,6 @@ NEED_TRANSLATION
 "Quarters, narrow \t(eg. Q1 2013)"	""	"combobox.1015"
 "Quarters, wide \t\t(eg. January-March 2013)"	""	"combobox.1015"
 "Read-only"	""	"text"
-"Read-only"	""	"text"
 "Read-only: Checked in"	""	"text"
 "Read-only: Newer format"	""	"text"
 "Read-only: Under source control"	""	"text"

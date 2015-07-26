@@ -1,6 +1,9 @@
 ﻿TRANSTEXT 6.9.999.4
 PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"week(s)"	""	"label"
+"year(s)"	""	"label"
 TRANSLATED
 "% Complete"	"% Afgewerkt"	"text"
   "% Complete"	"% Afgewerkt"	"label.122"

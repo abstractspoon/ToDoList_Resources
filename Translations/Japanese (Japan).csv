@@ -2,6 +2,8 @@ TRANSTEXT 6.9.999.8
 PRIMARY_LANGID 17
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"week(s)"	""	"label"
+"year(s)"	""	"label"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"
 "%s %.2f %c"	""	"text"
 "%s %d"	""	"text"

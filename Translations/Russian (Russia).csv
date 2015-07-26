@@ -2,6 +2,8 @@ TRANSTEXT 6.9.999.8
 PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"week(s)"	""	"label"
+"year(s)"	""	"label"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	""	"text"
 "'%s' could not be saved because access to the file was denied.\n\nPlease select another filename."	""	"text"
 "'%s' could not be saved because the file is read-only.\n\nPlease select another filename."	""	"text"

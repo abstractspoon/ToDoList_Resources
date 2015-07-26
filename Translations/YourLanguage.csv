@@ -2217,3 +2217,5 @@ NEED_TRANSLATION
   "Kanban Board"	""	"systabcontrol32.411"
   "Kanban Board"	""	"checklistbox.1413"
 "Backlog"	""	"sysheader32"
+"week(s)"	""	"label"
+"year(s)"	""	"label"

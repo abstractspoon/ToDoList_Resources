@@ -490,8 +490,6 @@ NEED_TRANSLATION
 "Task Occurs"	""	"groupbox"
 "Task View Tab Bar"	""	"menu.34266"
 "Task View Visibility"	""	"menu"
-"Tasklist (*.tdl, *.xml)"	""	"combobox.1136"
-  "Tasklist (*.tdl, *.xml)"	""	"combobox.1006"
 "Tasklist could not be printed"	""	"text"
 "Tasks Not Started"	""	"text"
 "Tasks>Defaults"	""	"text"

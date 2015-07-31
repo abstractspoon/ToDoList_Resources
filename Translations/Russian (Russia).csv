@@ -1795,7 +1795,6 @@ TRANSLATED
 "Task View Visibility"	"Показать задачи как"	"menu"
 "Task"	"Задача"	"text"
   "Task"	"Задача"	"label"
-"Tasklist (*.tdl, *.xml)"	"Список задач (*.tdl, *.xml)"	"combobox.1136"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml|Unicode Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"Список задач (*.tdl, *.xml)|*.tdl;*.xml|Список задач Юникод (*.tdl, *.xml)|*.tdl;*.xml||"	"text"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"Список задач (*.tdl, *.xml)|*.tdl;*.xml||"	"text"
 "Tasklist (*.xml)|*.xml|Unicode Tasklist (*.xml)|*.xml||"	"Список задач (*.xml)|*.xml|Список задач Юникод (*.xml)|*.xml||"	"text"

@@ -554,8 +554,6 @@ NEED_TRANSLATION
 "Task Occurs"	""	"groupbox"
 "Task View Tab Bar"	""	"menu.34266"
 "Task View Visibility"	""	"menu"
-"Tasklist (*.tdl, *.xml)"	""	"combobox.1136"
-  "Tasklist (*.tdl, *.xml)"	""	"combobox.1006"
 "Tasklist"	""	"label"
 "Tasks>Defaults"	""	"text"
 "Tasks>Defaults>Dynamic Droplists"	""	"text"

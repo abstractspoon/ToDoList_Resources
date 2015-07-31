@@ -649,8 +649,6 @@ NEED_TRANSLATION
 "Task Reminder"	""	"dialog"
 "Task View Tab Bar"	""	"menu.34266"
 "Task View Visibility"	""	"menu"
-"Tasklist (*.tdl, *.xml)"	""	"combobox.1136"
-  "Tasklist (*.tdl, *.xml)"	""	"combobox.1006"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml|Unicode Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	""	"text"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	""	"text"
 "Tasklist File Title"	""	"menu.32914"

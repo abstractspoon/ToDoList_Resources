@@ -1999,7 +1999,6 @@ TRANSLATED
   "Task"	"Aufgabe"	"sysheader32"
   "Task"	""	"label"
   "Task"	""	"sysheader32.1004"
-"Tasklist (*.tdl, *.xml)"	"Tasklist (*.tdl, *.xml)"	"combobox.1136"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml|Unicode Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"Tasklist (*.tdl, *.xml)|*.tdl;*.xml|Unicode Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"text"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"text"
 "Tasklist (*.xml)|*.xml|Unicode Tasklist (*.xml)|*.xml||"	"Tasklist (*.xml)|*.xml|Unicode Tasklist (*.xml)|*.xml||"	"text"

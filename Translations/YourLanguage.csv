@@ -1684,8 +1684,6 @@ NEED_TRANSLATION
   "Task"	""	"sysheader32.1004"
   "Task"	""	"text"
   "Task"	""	"label.1301"
-"Tasklist (*.tdl, *.xml)"	""	"combobox.1136"
-  "Tasklist (*.tdl, *.xml)"	""	"combobox.1006"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml|Unicode Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	""	"text"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	""	"text"
 "Tasklist (*.xml)|*.xml|Unicode Tasklist (*.xml)|*.xml||"	""	"text"

@@ -1950,8 +1950,6 @@ to specify the location of the Spell Checker."	"Om de eerste keer een spellingco
   "Task"	"Taak"	"label"
   "Task"	"Taak"	"sysheader32.1004"
 "TaskContext"	"TaakContext"	"menu"
-"Tasklist (*.tdl, *.xml)"	"Taaklijst (*.tdl, *.xml)"	"combobox.1136"
-  "Tasklist (*.tdl, *.xml)"	"Taaklijst (*.tdl, *.xml)"	"combobox.1006"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml|Unicode Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"Taaklijst (*.tdl, *.xml)|*.tdl;*.xml|Unicode Taaklijst (*.tdl, *.xml)|*.tdl;*.xml||"	"text"
 "Tasklist (*.tdl, *.xml)|*.tdl;*.xml||"	"Taaklijst (*.tdl, *.xml)|*.tdl;*.xml||"	"text"
 "Tasklist (*.xml)|*.xml|Unicode Tasklist (*.xml)|*.xml||"	"Taaklijst (*.xml)|*.xml|Unicode Taaklijst (*.xml)|*.xml||"	"text"

@@ -2261,7 +2261,7 @@ TRANSLATED
 "Toggle visibility on clicking the tray icon"	"Sichtbarkeit mit Klick auf das Traysymbol umschalten"	"checkbox.1025"
 "Tomorrow"	"bis Morgen"	"menu.32942"
   "Tomorrow"	""	"text"
-"Tool '%s' will be run using the following commandline arguments:\n\n%s\n\nDo you want to continue?"	"Werkzeug '%s' wird mit diesen Befehlszeilenargumenten werden:\n\n%s\n\nMöchten sie fortsetzen?"	"text"
+"Tool '%s' will be run using the following commandline arguments:\n\n%s\n\nDo you want to continue?"	"Werkzeug\n'%s'\nwird mit diesen Befehlszeilenargumenten gestartet werden:\n\n%s\n\nMöchten sie fortsetzen?"	"text"
 "Tool Name"	"Werkzeugname"	"sysheader32"
   "Tool Name"	"Werkzeugname"	"text"
 "Toolbar"	"Werkzeugleiste"	"label.1194"

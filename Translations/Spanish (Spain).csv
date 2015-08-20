@@ -3,8 +3,6 @@ PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "- unnamed -"	""	"text"
-"Activate embedded or linked object"	""	"text"
-"Change icon of selected object\nChange Icon"	""	"text"
 "File Link:\t"	""	"text"
 "Small Icons"	""	"menu.59408"
 "Source Control Change(s)"	""	"text"

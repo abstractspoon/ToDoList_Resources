@@ -99,7 +99,7 @@ NEED_TRANSLATION
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	""	"text"
 "iCalendar (.ics)"	""	"combobox.1115"
   "iCalendar (.ics)"	""	"combobox.1316"
-"tab-stops"	""	"label"
+"tab-stops"	"Taquets de tabulation"	"label"
 TRANSLATED
 "% Complete"	"% &Accompli"	"label.122"
   "% Complete"	""	"text"

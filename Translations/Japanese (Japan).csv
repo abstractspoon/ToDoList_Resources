@@ -778,7 +778,7 @@ TRANSLATED
 "1 minute"	"1分"	"combobox.1174"
   "1 minute"	""	"combobox.1092"
 "1 space"	"1スペース"	"combobox.1029"
-"1 task selected (%d)"	"1個のタスク選択中(%)"	"text"
+"1 task selected (%d)"	"1個のタスク選択中(%d)"	"text"
 "1. Where do you want ToDoList to store your program settings ?"	"1. プログラム設定の保存場所"	"label"
 "10 (Highest)"	"10（最も高い）"	"combobox.1183"
   "10 (Highest)"	""	"menu.32892"

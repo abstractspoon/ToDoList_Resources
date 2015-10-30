@@ -1588,7 +1588,7 @@ TRANSLATED
   "Enter the password for encrypting this tasklist and then confirm it."	"Immettere la password per la cifratura di questa tasklist e comfermala"	"label"
 "Entry ID"	"ID iniziale"	"text"
 "Est."	"Est."	"text"
-"Est: %s"	"Est: &s"	"text"
+"Est: %s"	"Est: %s"	"text"
 "Exit"	"Esci"	"menu.32854"
 "Expand all tasks"	"&Espandi tutto"	"checkbox.1233"
 "Expand"	"&Espandi"	"menu"

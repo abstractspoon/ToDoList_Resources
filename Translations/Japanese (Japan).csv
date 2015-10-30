@@ -200,7 +200,7 @@ NEED_TRANSLATION
 "Display 'Alloc To' after task's gantt bar"	""	"checkbox.1016"
 "Display 'Alloc To' column"	""	"checkbox.16018"
 "Display confirmation dialog for each period logged"	""	"checkbox.1416"
-"Display delete confirmation dialog\n"	"削除の確認ダイアログを表示する"	"checkbox.1039"
+"Display delete confirmation dialog\n"	"削除の確認ダイアログを表示する\n"	"checkbox.1039"
 "Display task 'Completion' dates"	""	"checkbox.2010"
 "Display task 'Due' dates"	""	"checkbox.2004"
 "Display task 'Start' dates"	""	"checkbox.2003"

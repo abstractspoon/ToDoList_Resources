@@ -2307,8 +2307,4 @@ NEED_TRANSLATION
 "Backlog"	""	"sysheader32"
 "week(s)"	""	"label"
 "year(s)"	""	"label"
-"End Session"	""	"menu.104"
 "Preference Files (*.ini)"	""	"combobox.1136"
-"Show Script Dialog..."	""	"menu.34531"
-"Show Setup Wizard..."	""	"menu.103"
-"Show Updater Dialog..."	""	"menu.34377"

@@ -998,7 +998,7 @@ TRANSLATED
   "File Link"	""	"checklistbox.1294"
   "File Link"	"&Lien fichier"	"label.129"
   "File Link"	""	"text"
-"File Link:\t\t"	"Lien fichier:\t\t"	"text"
+"File Link:\t"	"Lien fichier:\t"	"text"
 "File Path"	"Chemin fichier"	"label.1169"
   "File Path"	""	"label"
   "File Path"	""	"text"

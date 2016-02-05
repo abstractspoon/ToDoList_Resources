@@ -3,7 +3,6 @@ PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "- unnamed -"	""	"text"
-"File Link:\t"	""	"text"
 "Small Icons"	""	"menu.59408"
 "Source Control Change(s)"	""	"text"
 "Spreadsheet Files (*.csv)"	""	"combobox.1136"
@@ -938,7 +937,7 @@ TRANSLATED
   "File Link"	"Enlace de archivo"	"checklistbox.1294"
   "File Link"	"Enlace de archivo"	"combobox.5000"
   "File Link"	"Enlace de archivo"	"label.129"
-"File Link:\t\t"	"Enlace del Fichero:\t\t"	"text"
+"File Link:\t"	"Enlace del Fichero:\t"	"text"
 "File Path"	"Ruta de archivo"	"text"
   "File Path"	"Ruta de archivo"	"label.1169"
   "File Path"	"Ruta de archivo"	"sysheader32"

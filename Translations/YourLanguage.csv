@@ -935,6 +935,7 @@ NEED_TRANSLATION
 "Hide un-mapped attributes"	""	"checkbox.1025"
 "Hide zero '% Complete' (0%)"	""	"checkbox.1403"
 "Hide zero 'Times' and 'Costs'"	""	"checkbox.1041"
+"Hide zero values"	""	"combobox.1348"
 "High"	""	"text"
 "High..."	""	"button.1057"
 "Highest"	""	"text"

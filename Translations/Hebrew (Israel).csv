@@ -40,7 +40,7 @@ NEED_TRANSLATION
 "Dependents:\t"	""	"text"
 "Display the following attributes for each task"	""	"groupbox"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton.16005"
-"Do you want to delete the existing row definitions?"	""	"text"
+"Do you want to delete the existing column definitions?"	""	"text"
 "Due Date:\t"	""	"text"
 "External ID:\t"	""	"text"
 "File Link:\t"	""	"text"

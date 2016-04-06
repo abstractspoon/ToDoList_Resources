@@ -205,7 +205,7 @@ NEED_TRANSLATION
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton.16005"
 "Display the image file directly\n(currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton.16005"
 "Do you want to create a new recurring task or reuse the existing recurring task ?"	""	"label"
-"Do you want to delete the existing row definitions?"	""	"text"
+"Do you want to delete the existing column definitions?"	""	"text"
 "Done!"	""	"text"
 "Download Progress (%d%%)"	""	"text"
 "Download Progress"	""	"dialog"

@@ -712,7 +712,7 @@ NEED_TRANSLATION
 "Display"	""	"label.16026"
 "Do Search"	""	"tooltip"
 "Do you want to create a new recurring task or reuse the existing recurring task ?"	""	"label"
-"Do you want to delete the existing row definitions?"	""	"text"
+"Do you want to delete the existing column definitions?"	""	"text"
 "Dock Below"	""	"tooltip"
 "Dock Left"	""	"tooltip"
 "Dock Right"	""	"tooltip"

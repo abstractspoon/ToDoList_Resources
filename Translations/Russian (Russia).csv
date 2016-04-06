@@ -10,7 +10,7 @@ NEED_TRANSLATION
 "Colour bar by task priority"	""	"checkbox.16044"
 "Copy Link"	""	"menu.34165"
 "Display the following attributes for each task"	""	"groupbox"
-"Do you want to delete the existing row definitions?"	""	"text"
+"Do you want to delete the existing column definitions?"	""	"text"
 "Fixed column definitions: (optional)"	""	"groupbox"
 "Hide zero values"	""	"combobox.1348"
 "License"	""	"label"

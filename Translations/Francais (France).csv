@@ -39,7 +39,7 @@ NEED_TRANSLATION
 "Default Versions"	""	"label"
 "Display the following attributes for each task"	""	"groupbox"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton.16005"
-"Do you want to delete the existing row definitions?"	""	"text"
+"Do you want to delete the existing column definitions?"	""	"text"
 "Entry ID"	""	"text"
 "Export Outline"	""	"dialog"
 "External ID:\t"	""	"text"

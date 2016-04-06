@@ -3,7 +3,7 @@ PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 TRANSLATED
 "% Complete"	"% erledigt"	"label.122"
-  "% Complete"	"% erledigt:"	"text"
+  "% Complete"	"% erledigt:"	"text" 
 "% Complete:\t"	"% erledigt\t"	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f kB bisher heruntergeladen (%0.1f kB verbleibend)"	"text"
 "%d / %d tasks"	"%d / %d Aufgaben"	"text"

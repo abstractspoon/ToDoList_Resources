@@ -2,7 +2,7 @@
 PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"% Complete:\t"	""	"text" 
+"% Complete:\t"	""	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"
 "%s (Custom)"	""	"text"
 "%s (Delay loaded)"	""	"text"
@@ -40,7 +40,7 @@ NEED_TRANSLATION
 "Dependents:\t"	""	"text"
 "Display the following attributes for each task"	""	"groupbox"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton.16005"
-"Do you want to delete the existing column definitions?"	""	"text"
+"Do you want to delete the existing row definitions?"	""	"text"
 "Due Date:\t"	""	"text"
 "External ID:\t"	""	"text"
 "File Link:\t"	""	"text"

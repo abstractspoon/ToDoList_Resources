@@ -1591,6 +1591,7 @@ NEED_TRANSLATION
   "Shortcut"	""	"text"
 "Show '% Complete' as a progress bar"	""	"checkbox.1099"
   "Show '% Complete' as a progress bar"	""	"checkbox.16022"
+"Show '% Complete' as progress on task's gantt bar"	""	"checkbox.16022"
 "Show 'Reminders' as dates and times"	""	"checkbox.1466"
 "Show Formatting Toolbar"	""	"menu.32776"
 "Show Project Name Field"	""	"menu.33053"

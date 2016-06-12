@@ -1715,6 +1715,7 @@ NEED_TRANSLATION
 "Subtasks"	""	"text"
 "Superscript"	""	"menu.32784"
 "Switch To..."	""	"button.604"
+"Synchronise a task's 'Completion' to changes in its 'Status'"	""	"checkbox.1487"
 "Table..."	""	"menu.32799"
 "Tabular"	""	"radiobutton.1056"
 "Tags"	""	"checklistbox.1252"

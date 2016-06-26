@@ -1149,7 +1149,7 @@ NEED_TRANSLATION
   "Nearest Year"	""	"text"
 "New Attribute"	""	"text"
   "New Attribute"	""	"tooltip"
-"New Dependent Task Below SelectedTask"	""	"menu.34555"
+"New Dependent Task Below Selected Task"	""	"menu.34555"
 "New Search"	""	"tooltip"
 "New Subtask at Bottom of Selected Task"	""	"menu.32802"
 "New Subtask at Top of Selected Task"	""	"menu.32801"

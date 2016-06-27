@@ -2042,7 +2042,7 @@ TRANSLATED
   "Start Time"	""	"text"
 "Start"	"開始"	"text"
   "Start"	""	"sysheader32.1004"
-"Start/Stop Clock"	"開始/停止"	"text"
+"Start/Stop Tracking"	"開始/停止"	"text"
 "Started Tasks"	"開始しているタスク"	"menu.34289"
   "Started Tasks"	""	"menu.34290"
 "Status"	"状態"	"label.1188"

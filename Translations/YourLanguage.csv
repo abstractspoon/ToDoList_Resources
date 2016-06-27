@@ -1676,7 +1676,7 @@ NEED_TRANSLATION
 "Start Tracking"	""	"text"
 "Start"	""	"sysheader32.1004"
   "Start"	""	"text"
-"Start/Stop Clock"	""	"text"
+"Start/Stop Tracking"	""	"text"
 "Started Tasks"	""	"menu.34289"
   "Started Tasks"	""	"menu.34290"
 "Started by"	""	"label.1198"

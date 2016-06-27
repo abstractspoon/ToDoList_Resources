@@ -1918,7 +1918,7 @@ TRANSLATED
   "Start Time"	""	"text"
 "Start"	"Début"	"text"
   "Start"	""	"sysheader32.1004"
-"Start/Stop Clock"	"Démarrer/Arrêter l'horloge"	"text"
+"Start/Stop Tracking"	"Démarrer/Arrêter l'horloge"	"text"
 "Started Tasks"	"Tâches Démarrées"	"menu.34289"
   "Started Tasks"	""	"menu.34290"
 "Started by"	"Débutant"	"label.1198"

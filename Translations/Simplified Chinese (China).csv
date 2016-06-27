@@ -1822,7 +1822,7 @@ TRANSLATED
 "Start Time"	"开始时间(&T)"	"text"
   "Start Time"	""	"label.116"
 "Start"	"开始"	"text"
-"Start/Stop Clock"	"开始/停止闹钟"	"text"
+"Start/Stop Tracking"	"开始/停止闹钟"	"text"
 "Started Tasks"	"开始任务(&T)"	"menu.33289"
   "Started Tasks"	"开始任务(&T)"	"menu.33290"
   "Started Tasks"	""	"menu.34289"

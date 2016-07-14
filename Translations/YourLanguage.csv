@@ -862,7 +862,7 @@ NEED_TRANSLATION
 "Filtering"	""	"label.1198"
 "Find In Comments"	""	"text"
 "Find Next"	""	"menu.34245"
-"Find Prev"	""	"menu.34246"
+"Find Previous"	""	"menu.34246"
 "Find Tasks Filter"	""	"text"
 "Find Tasks"	""	"dialog"
   "Find Tasks"	""	"text"

@@ -1,6 +1,10 @@
 ﻿TRANSTEXT 7.0.0.0
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Export Tasks to iCalendar"	""	"dialog"
+"Export tasks as 'event' items"	""	"radiobutton.15000"
+"Export tasks as 'to-do' items"	""	"radiobutton.15001"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"

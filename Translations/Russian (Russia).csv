@@ -24,6 +24,7 @@ NEED_TRANSLATION
 "Parent"	""	"checklistbox.16045"
 "Populate Columns"	""	"tooltip"
 "Quick Task Find"	""	"text"
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 "Resize Attribute Columns to Fit"	""	"menu.34536"
 "Show '% Complete' as progress on task's gantt bar"	""	"checkbox.16022"
 "Show Time Tracker"	""	"menu.34548"

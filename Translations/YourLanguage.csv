@@ -1415,6 +1415,7 @@ NEED_TRANSLATION
 "Refresh my active 'Find Tasks' search"	""	"checkbox.1160"
 "Refresh"	""	"button.1387"
   "Refresh"	""	"button.1411"
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 "Regular"	""	"combobox.1137"
 "Relative to due/start date"	""	"radiobutton.1058"
 "Reload Tasklist"	""	"menu.32837"

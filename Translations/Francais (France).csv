@@ -97,6 +97,7 @@ NEED_TRANSLATION
 "Populate Columns"	""	"tooltip"
 "Preference Files (*.ini)"	""	"combobox.1136"
 "Quick Task Find"	""	"text"
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 "Regular"	""	"combobox.1137"
 "Remind me again at"	""	"radiobutton.1459"
 "Remote file name"	""	"label.1008"

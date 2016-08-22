@@ -5,6 +5,7 @@ NEED_TRANSLATION
 "Export Tasks to iCalendar"	""	"dialog"
 "Export tasks as 'event' items"	""	"radiobutton.15000"
 "Export tasks as 'to-do' items"	""	"radiobutton.15001"
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 TRANSLATED
 "% Complete"	"% Finalizada"	"label.122"
   "% Complete"	""	"text"

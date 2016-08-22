@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 7.0.998.6
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 TRANSLATED
 "% Complete"	"% erledigt"	"label.122"
   "% Complete"	"% erledigt:"	"text"

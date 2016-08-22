@@ -75,6 +75,7 @@ NEED_TRANSLATION
 "Preference Files (*.ini)"	""	"combobox.1136"
 "Priority:\t\t"	""	"text"
 "Quick Task Find"	""	"text"
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 "Remind me again at"	""	"radiobutton.1459"
 "Resize Attribute Columns to Fit"	""	"menu.34536"
 "Rich Text Preferences"	""	"dialog"

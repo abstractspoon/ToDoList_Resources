@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.0.0.0
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"
@@ -279,7 +277,7 @@ TRANSLATED
 "Add Dependency"	"Aggiungi dipendenza"	"tooltip"
 "Add Rule"	"Aggiungi regola"	"tooltip"
 "Add Task Dependency"	"Aggiungi dipendenza compiti"	"menu.34218"
-"Add Task File Link..."	"Imp&osta file collegato al compito"	"menu.32893"
+"Add Task File Link..."	"Imp&osta file collegato al compito…"	"menu.32893"
 "Add Tasklist to Source Control"	"&Aggiungi lista di compiti al controllo sorgente"	"menu.34378"
 "Add Time to Task Log File"	"A&ggiungi tempo al file di registro dei compiti"	"menu.34263"
 "Adjusted"	"Corretto"	"text"
@@ -1081,9 +1079,9 @@ TRANSLATED
 "Manage edit/filter field visibility"	"Gestione visibilità dei campi per modifica e ricerca"	"groupbox.1439"
 "Matches"	"Trovati"	"sysheader32"
 "Matches"	"Trovati"	"text"
-"Maximise Comments"	"Ingrandisci &commenti"	"menu.34258"
-"Maximise Tasklist"	"Ingrandisci &lista di compiti"	"menu.32836"
-"Maximise Tasklist"	"Ingrandisci liste di compiti"	"tooltip"
+"Maximise Comments"	"Ingrandisci commenti"	"menu.34258"
+"Maximise Tasklist"	"Ingrandisci lista di compiti"	"menu.32836"
+"Maximise Tasklist"	"Ingrandisci lista di compiti"	"tooltip"
 "Maximum"	"Massimo"	"combobox.1348"
 "Maximum"	"Massimo"	"text"
 "Med-High"	"Medio-alto"	"text"
@@ -1417,6 +1415,7 @@ TRANSLATED
 "Refresh my active 'Find Tasks' search"	"Aggiorna la ricerca 'Trova compiti' attiva"	"checkbox.1160"
 "Refresh"	"Aggiorna"	"button.1387"
 "Refresh"	"Aggiorna"	"button.1411"
+"Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	"Modifica impostazioni internazionali|L’interfaccia utente verrà aggiornata al prossimo riavvio di ToDoList.\n\nRiavviare ToDoList adesso?"	"text"
 "Regular"	"Normale"	"combobox.1137"
 "Relative to due/start date"	"Relativo a scadenza/inizio"	"radiobutton.1058"
 "Reload Tasklist"	"&Ricarica lista di compiti"	"menu.32837"
@@ -2283,7 +2282,7 @@ TRANSLATED
 "tab-stops"	"tabulazioni"	"label"
 "the Close button is selected"	"Il pulsante Chiudi è selezionato"	"combobox.1093"
 "the Minimise button is selected"	"il pulsante Minimizza è selezionato"	"combobox.1093"
-"the Minimise or Close button is selected"	"Il pulsante Minimizza o Chiudi è selezionato"	"combobox.1093"
+"the Minimise or Close button is selected"	"il pulsante Minimizza o Chiudi è selezionato"	"combobox.1093"
 "the active tasklist"	"la lista di compiti attiva"	"combobox.1114"
 "the computer is hibernated or in stand-by"	"il computer è ibernato o in sospensione"	"checkbox.1162"
 "the task is not selected"	"il compito non è selezionato"	"checkbox.1158"

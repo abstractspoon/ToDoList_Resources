@@ -2,6 +2,7 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Alloc By"	""	"sysheader32.1004"
 "Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 TRANSLATED
 "% Complete"	"% erledigt"	"label.122"
@@ -746,6 +747,7 @@ TRANSLATED
   "Created By"	"Erstellt von"	"checklistbox.1294"
   "Created By"	"Erstellt von"	"combobox.5000"
   "Created By"	"Erstellt von"	"menu.33139"
+  "Created By"	"Erstellt von"	"sysheader32.1004"
 "Created"	"Erstellt"	"text"
 "Creation Date"	"Erstellungsdatum"	"menu.33138"
   "Creation Date"	"Erstellungsdatum"	"text"
@@ -2259,8 +2261,6 @@ TRANSLATED
 "Tiles"	"Kacheln"	"menu.30981"
   "Tiles"	"Kacheln"	"menu.4"
 "Time Est"	"Schätzung"	"text"
-"Time Est."	"Schätzung"	"label.131"
-  "Time Est."	"Schätzung"	"text"
 "Time Est:\t"	"Schätzung:\t"	"text"
 "Time Estimate : Spent"	"Schätzung : Zeitaufwand"	"label"
   "Time Estimate : Spent"	""	"label.1484"
@@ -2273,6 +2273,7 @@ TRANSLATED
   "Time Estimate"	"Schätzun&g"	"menu.33129"
   "Time Estimate"	"Schätzung"	"checklistbox.1236"
   "Time Estimate"	"Schätzung"	"checklistbox.1149"
+  "Time Estimate"	"Schätzung"	"label.131"
 "Time Period"	"Zeitperiode"	"groupbox"
 "Time Periods"	"Zeitperioden"	"label.1192"
 "Time Spent (Hrs)"	"Zeitaufwand (Std)"	"text"

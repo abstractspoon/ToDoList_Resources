@@ -2,6 +2,7 @@
 PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Alloc By"	""	"sysheader32.1004"
 "Export Tasks to iCalendar"	""	"dialog"
 "Export tasks as 'event' items"	""	"radiobutton.15000"
 "Export tasks as 'to-do' items"	""	"radiobutton.15001"
@@ -687,6 +688,7 @@ TRANSLATED
   "Created By"	"Creado por"	"checklistbox.1252"
   "Created By"	"Creado por"	"combobox.5000"
   "Created By"	"Creado por"	"checklistbox.1294"
+  "Created By"	"Creado por"	"sysheader32.1004"
 "Created"	"Creado"	"text"
 "Creation Date"	"Fecha de creación"	"text"
   "Creation Date"	"Fecha de creación"	"checklistbox.1069"
@@ -2105,8 +2107,6 @@ TRANSLATED
 "Tiles"	"Tiles"	"menu.30981"
   "Tiles"	"Tiles"	"menu.4"
 "Time Est"	"Tiempo est"	"text"
-"Time Est."	"Tiempo est."	"label.131"
-  "Time Est."	""	"text"
 "Time Est:\t"	"Time est:\t"	"text"
 "Time Estimate : Spent"	"Tiempo Estimado : Gastado"	"label"
 "Time Estimate"	"Tiempo estimado"	"text"
@@ -2121,6 +2121,7 @@ TRANSLATED
   "Time Estimate"	""	"combobox.5000"
   "Time Estimate"	""	"menu.33129"
   "Time Estimate"	""	"label"
+  "Time Estimate"	""	"label.131"
 "Time Period"	"Período de tiempo"	"groupbox"
 "Time Periods"	"Períodos temporales"	"label.1192"
 "Time Spent (Hrs)"	"Tiempo gastado (Hrs)"	"text"

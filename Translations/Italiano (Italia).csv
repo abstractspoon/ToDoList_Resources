@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 7.0.0.0
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Alloc By"	""	"sysheader32.1004"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"
@@ -599,6 +601,7 @@ TRANSLATED
 "Created By"	"Creato da"	"checklistbox.1252"
 "Created By"	"Creato da"	"combobox.5000"
 "Created By"	"Creato da"	"menu.33139"
+"Created By"	"Creato da"	"sysheader32.1004"
 "Created"	"Creato"	"text"
 "Creation Date"	"Data di creazione"	"checklistbox.1252"
 "Creation Date"	"Data di creazione"	"menu.33138"
@@ -1885,14 +1888,13 @@ TRANSLATED
 "Tiles"	"Piastrelle"	"menu.4"
 "Tiles"	"Piastrelle"	"menu.30981"
 "Time Est"	"Tempo stim."	"text"
-"Time Est."	"Tempo stim."	"label.131"
-"Time Est."	"Tempo stim."	"text"
 "Time Est:\t"	"Tempo stimato:\t"	"text"
 "Time Estimate : Spent"	"Tempo stimato : speso"	"label"
 "Time Estimate"	"Tempo stimato"	"checklistbox.1252"
 "Time Estimate"	"Tempo stimato"	"combobox.5000"
 "Time Estimate"	"Tempo st&imato"	"menu.33129"
 "Time Estimate"	"Tempo stimato"	"checklistbox.1149"
+"Time Estimate"	"Tempo stimato"	"label.131"
 "Time Period"	"Periodo temporale"	"groupbox"
 "Time Periods"	"Periodi temporali"	"label.1192"
 "Time Spent (Hrs)"	"Tempo speso (ore)"	"text"

@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.0.0.0
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Alloc By"	""	"sysheader32.1004"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"
@@ -279,7 +277,7 @@ TRANSLATED
 "Add Dependency"	"Aggiungi dipendenza"	"tooltip"
 "Add Rule"	"Aggiungi regola"	"tooltip"
 "Add Task Dependency"	"Aggiungi dipendenza compiti"	"menu.34218"
-"Add Task File Link..."	"Imp&osta file collegato al compito…"	"menu.32893"
+"Add Task File Link..."	"Aggiungi collegamento a file al compito…"	"menu.32893"
 "Add Tasklist to Source Control"	"&Aggiungi lista di compiti al controllo sorgente"	"menu.34378"
 "Add Time to Task Log File"	"A&ggiungi tempo al file di registro dei compiti"	"menu.34263"
 "Adjusted"	"Corretto"	"text"
@@ -298,6 +296,7 @@ TRANSLATED
 "All tasklists"	"Tutte le liste di compiti"	"radiobutton.1055"
 "All tasks"	"Tutti i compiti"	"radiobutton.1055"
 "All"	"Tutto"	"combobox.1248"
+"Alloc By"	"Assegna da"	"sysheader32.1004"
 "Alloc To"	"Assegna a"	"sysheader32.1004"
 "Allocated By"	"Assegnato da"	"menu.33133"
 "Allocated By"	"Assegnato da"	"combobox.1375"

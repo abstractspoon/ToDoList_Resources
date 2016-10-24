@@ -7,7 +7,7 @@
 		<COLOR NAME = "MENUBACK"		R = "220" G = "235" B = "255"/>
 		<COLOR NAME = "TOOLBARDARK"		R = "190" G = "220" B = "255"/>
 		<COLOR NAME = "TOOLBARLIGHT"	R = "220" G = "235" B = "255"/>
-		<COLOR NAME = "TOOLBARHOT"	R = "255" G = "225" B = "150"/>
+		<COLOR NAME = "TOOLBARHOT"		R = "255" G = "236" B = "181"/>
 		<COLOR NAME = "STATUSBARDARK"	R = "190" G = "220" B = "255"/>
 		<COLOR NAME = "STATUSBARLIGHT"	R = "220" G = "235" B = "255"/>
 <!--

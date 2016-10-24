@@ -2092,7 +2092,7 @@ TRANSLATED
 "Use tabs for indenting"	"Использовать табуляции для отступов"	"radiobutton.1055"
 "Use the following fixed columns only"	"Использовать только следующие фиксированные колонки"	"radiobutton.16032"
 "Use the following stylesheet"	"Использовать следущий стиль"	"checkbox.1201"
-"Use the following theme (XP and later only)"	"Использовать темы (только XP и выше)"	"checkbox.1309"
+"Use the following colour theme:"	"Использовать темы (только XP и выше)"	"checkbox.1309"
 "Use this colour"	"Использовать этот цвет"	"radiobutton.16017"
 "User Date"	"Своя дата"	"menu.32918"
 "User Defined Tool 1"	"Команда пользователя 1"	"menu.34481"

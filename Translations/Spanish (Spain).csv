@@ -2279,7 +2279,7 @@ TRANSLATED
 "Use tabs for indenting"	"Usar tabuladores para el sangrado"	"radiobutton.1055"
 "Use the following fixed columns only"	"Utilice sólo las siguientes columnas fijas"	"radiobutton.16032"
 "Use the following stylesheet"	"Usar la siguiente hoja de estilo"	"checkbox.1201"
-"Use the following theme (XP and later only)"	"Usar el tema siguiente (solo XP y posteriores)"	"checkbox.1309"
+"Use the following colour theme:"	"Usar el tema siguiente (solo XP y posteriores)"	"checkbox.1309"
 "Use this colour"	"Usar este color"	"radiobutton.16017"
 "User Date"	"Usar Fecha"	"menu.32918"
 "User Defined Tool 1"	"Herramienta definida por el usario 1"	"menu.34481"

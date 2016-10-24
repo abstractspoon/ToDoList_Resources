@@ -2028,7 +2028,7 @@ NEED_TRANSLATION
 "Use tabs for indenting"	""	"radiobutton.1055"
 "Use the following fixed columns only"	""	"radiobutton.16032"
 "Use the following stylesheet"	""	"checkbox.1201"
-"Use the following theme (XP and later only)"	""	"checkbox.1309"
+"Use the following colour theme:"	""	"checkbox.1309"
 "Use this colour"	""	"radiobutton.16017"
 "User Date"	""	"menu.32918"
 "User Defined Tool 1"	""	"menu.34481"

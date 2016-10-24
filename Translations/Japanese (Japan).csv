@@ -2253,7 +2253,7 @@ TRANSLATED
 "Use spaces for indenting"	"インデントに空白文字を使う"	"radiobutton.1056"
 "Use tabs for indenting"	"インデントにタブを使う"	"radiobutton.1055"
 "Use the following stylesheet"	"次のスタイルシートを使う"	"checkbox.1201"
-"Use the following theme (XP and later only)"	"次のテーマを使う（XPかそれ以降）"	"checkbox.1309"
+"Use the following colour theme:"	"次のテーマを使う（XPかそれ以降）"	"checkbox.1309"
 "Use this colour"	"色を指定する"	"radiobutton.16017"
 "User Defined Tools"	"ユーザ定義ツール"	"text"
 "User Filepath"	"ユーザーファイルパス"	"menu.32919"

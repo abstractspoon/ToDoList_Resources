@@ -2188,7 +2188,7 @@ TRANSLATED
 "Use spaces for indenting"	"使用空格缩进"	"radiobutton.1056"
 "Use tabs for indenting"	"使用制表符缩进"	"radiobutton.1055"
 "Use the following stylesheet"	"使用下列样式表"	"checkbox.1201"
-"Use the following theme (XP and later only)"	"使用以下主题(仅XP或更高版本)(&U)"	"checkbox.1309"
+"Use the following colour theme:"	"使用以下主题(仅XP或更高版本)(&U)"	"checkbox.1309"
 "Use this colour"	"使用此颜色"	"radiobutton.16017"
 "User Date"	"用户日期(&U)"	"menu.32918"
 "User Defined Tool 1"	"用户自定义工具 1"	"menu.34481"

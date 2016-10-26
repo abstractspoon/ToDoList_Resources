@@ -2027,7 +2027,7 @@ TRANSLATED
 "Use tabs for indenting"	"Usa tabulazioni per i rientri"	"radiobutton.1055"
 "Use the following fixed columns only"	"Usa solo le colonne fisse seguenti"	"radiobutton.16032"
 "Use the following stylesheet"	"Usa il seguente foglio di stile"	"checkbox.1201"
-"Use the following colour theme:"	"Usa il seguente tema (solo XP e successivi)"	"checkbox.1309"
+"Use the following colour theme:"	"Usa il seguente tema di colore:"	"checkbox.1309"
 "Use this colour"	"Usa questo colore"	"radiobutton.16017"
 "User Date"	"Data utente"	"menu.32918"
 "User Defined Tool 1"	"Strumento personalizzato 1"	"menu.34481"

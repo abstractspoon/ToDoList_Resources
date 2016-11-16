@@ -2686,6 +2686,7 @@ TRANSLATED
 "m"	"m"	"text"
 "m(inutes)"	"m(inuten)"	"menu.32768"
   "m(inutes)"	"m(inuten)"	"text"
+"m\t(minutes)"	"m\t(Minuten)"	"text"
 "minutes"	"Minuten"	"label"
 "month(s) after previous task is completed"	"Monat(e) nach Erledigung der vorigen Aufgabe"	"label"
 "month(s)"	". Monat"	"label"

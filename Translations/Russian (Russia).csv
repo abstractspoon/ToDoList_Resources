@@ -2346,6 +2346,7 @@ TRANSLATED
 "line(s)"	"строк(а)"	"label.1291"
 "m"	"м"	"text"
 "m(inutes)"	"м(инуты)"	"text"
+"m\t(minutes)"	"м\t(минуты)"	"text"
 "minutes"	"минут"	"label"
 "month(s) after previous task is completed"	"месяц(ев) после завершения предыдущей задачи"	"label"
 "month(s)"	"месяца(ов)"	"label"

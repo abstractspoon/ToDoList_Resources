@@ -1058,6 +1058,7 @@ NEED_TRANSLATION
   "is less than or equal to (<=)"	""	"combobox.5001"
 "last"	""	"combobox.1371"
 "m"	""	"text"
+"m\t(minutes)"	""	"text"
 "minutes"	""	"label"
 "month(s) after previous task is completed"	""	"label"
 "occurrences"	""	"label.1446"

@@ -2266,6 +2266,7 @@ NEED_TRANSLATION
 "line(s)"	""	"label.1291"
 "m"	""	"text"
 "m(inutes)"	""	"menu.32768"
+"m\t(minutes)"	""	"text"
 "minutes"	""	"label"
 "month(s) after previous task is completed"	""	"label"
 "month(s)"	""	"label"

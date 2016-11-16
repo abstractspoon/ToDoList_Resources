@@ -145,6 +145,7 @@ NEED_TRANSLATION
 "d\t(weekdays)"	""	"text"
 "iCalendar (.ics)"	""	"combobox.1115"
   "iCalendar (.ics)"	""	"combobox.1316"
+"m\t(minutes)"	""	"text"
 "occurrences"	""	"label.1446"
 "weekday(s)"	""	"label"
 TRANSLATED

@@ -812,6 +812,7 @@ NEED_TRANSLATION
   "is less than (<)"	""	"combobox.5001"
 "is less than or equal to (<=)"	""	"text"
   "is less than or equal to (<=)"	""	"combobox.5001"
+"m\t(minutes)"	""	"text"
 "occurrences"	""	"label.1446"
 "occurs after (>)"	""	"text"
   "occurs after (>)"	""	"combobox.5001"

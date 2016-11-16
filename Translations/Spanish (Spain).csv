@@ -16,6 +16,7 @@ NEED_TRANSLATION
 "Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 "Selected Task Custom Attribute"	""	"menu.32928"
 "Start/Stop Tracking"	""	"text"
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 TRANSLATED
 "% Complete"	"% Finalizada"	"label.122"
   "% Complete"	""	"text"
@@ -2278,7 +2279,6 @@ TRANSLATED
 "Use '%s' to switch tasklists"	"Usar '%s' para cambiar entre listas de tareas"	"text"
 "Use 'No' colour"	"'No' usar color"	"radiobutton.16016"
 "Use HSL to calculate intermediate colours"	"Usar HSL para calcular colores intermedios"	"checkbox.1148"
-"Use Microsoft Word to convert content to HTML for printing"	"Utilizar Microsoft Word para convertir el contenido a HTML para imprimir"	"checkbox.16013"
 "Use a task's colour for its title background"	"Usar un color de tarea para su título de fondo"	"checkbox.1026"
 "Use default colours"	"Usar colores por defecto"	"radiobutton.16015"
 "Use same font for comments field also"	"Usar la misma fuente también para campo comentarios"	"checkbox.1145"

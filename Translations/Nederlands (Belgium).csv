@@ -1,6 +1,8 @@
 TRANSTEXT 7.0.999.4
 PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 TRANSLATED
 "% Complete"	"% Afgewerkt"	"text"
   "% Complete"	"% Afgewerkt"	"text"
@@ -2299,7 +2301,6 @@ TRANSLATED
 "Use '%s' to switch tasklists"	"Gebruik '%s' om taaklijsten te wisselen"	"text"
 "Use 'No' colour"	"Gebruik 'geen' kleur"	"radiobutton.16016"
 "Use HSL to calculate intermediate colours"	"Gebruik HSL om tussenkleuren te berekenen"	"checkbox.1148"
-"Use Microsoft Word to convert content to HTML for printing"	"Gebruik Microsoft Word voor omzetting naar HTML om af te drukken"	"checkbox.16013"
 "Use a task's colour for its title background"	"Gebruik taakkleur als achtergrond voor titel"	"checkbox.1026"
 "Use default colours"	"Gebruik standaardkleuren"	"radiobutton.16015"
 "Use same font for comments field also"	"Gebruik hetzelfde lettertype ook voor de notities"	"checkbox.1145"

@@ -181,7 +181,7 @@ NEED_TRANSLATION
 "Upload Progress (%d%%)"	""	"dialog"
 "Upload Progress"	""	"dialog"
 "Uploading '%s' to '%s'"	""	"text"
-"Use Microsoft Word to convert content to HTML for printing"	""	"checkbox.16013"
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 "Use the following fixed columns only"	""	"radiobutton.16032"
 "Version"	""	"checklistbox.1252"
   "Version"	""	"label.1194"

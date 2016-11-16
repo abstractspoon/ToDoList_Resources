@@ -89,7 +89,7 @@ NEED_TRANSLATION
 "ToDoList was unable to install the 'tdl://' protocol handler.\n\nYou may need to run ToDoList with administrator privileges to install the handler.\n\nOnce installed you can then revert to your original security settings."	""	"text"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	""	"checkbox.1317"
 "Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
-"Use Microsoft Word to convert content to HTML for printing"	""	"checkbox.16013"
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 "Use the following fixed columns only"	""	"radiobutton.16032"
 "W\t(weeks)"	""	"text"
 "When time-tracking, remind me every"	""	"checkbox.1467"

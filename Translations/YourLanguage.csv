@@ -2026,7 +2026,7 @@ NEED_TRANSLATION
 "Use '%s' to switch tasklists"	""	"text"
 "Use 'No' colour"	""	"radiobutton.16016"
 "Use HSL to calculate intermediate colours"	""	"checkbox.1148"
-"Use Microsoft Word to convert content to HTML for printing"	""	"checkbox.16013"
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 "Use a task's colour for its title background"	""	"checkbox.1026"
 "Use default colours"	""	"radiobutton.16015"
 "Use same font for comments field also"	""	"checkbox.1145"

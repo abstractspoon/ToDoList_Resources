@@ -51,6 +51,7 @@ NEED_TRANSLATION
 "The file '%s' does not have a recognised format."	""	"text"
 "Time Tracker"	""	"dialog"
 "Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 "When"	""	"label"
 "occurrences"	""	"label.1446"
 TRANSLATED
@@ -2093,7 +2094,6 @@ TRANSLATED
   "Use '%s' to switch tasklists"	"Использовать '%s' для переключения списков"	"text"
 "Use 'No' colour"	"Не использовать цвет"	"radiobutton.16016"
 "Use HSL to calculate intermediate colours"	"Использовать HSL для расчета промежуточных цветов"	"checkbox.1148"
-"Use Microsoft Word to convert content to HTML for printing"	"Использовать Microsoft Word для конвертации содержимого в HTML и последующей печати"	"checkbox.16013"
 "Use a task's colour for its title background"	"Использовать цвет задачи для фона ее названия"	"checkbox.1026"
 "Use default colours"	"Использовать цвета по умолчанию"	"radiobutton.16015"
 "Use same font for comments field also"	"Использовать этот шрифт для поля 'Заметки'"	"checkbox.1145"

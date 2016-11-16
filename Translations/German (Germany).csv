@@ -20,6 +20,7 @@ NEED_TRANSLATION
 "Text"	""	"groupbox"
   "Text"	""	"menu.34193"
 "ToDoList Wiki"	""	"menu.33106"
+"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 TRANSLATED
 "% Complete"	"% erledigt"	"label.122"
   "% Complete"	"% erledigt:"	"text"
@@ -2432,7 +2433,6 @@ TRANSLATED
 "Use '%s' to switch tasklists"	"'%s', um zwischen Aufgabenlisten umzuschalten"	"text"
 "Use 'No' colour"	"Keine Farben verwenden"	"radiobutton.16016"
 "Use HSL to calculate intermediate colours"	"Benutze HSL-Methode, um Zwischenfarben zu berechnen"	"checkbox.1148"
-"Use Microsoft Word to convert content to HTML for printing"	"Microsoft Word verwenden, um den Inhalt zum Ausdruck in HTML zu konvertieren"	"checkbox.16013"
 "Use a task's colour for its title background"	"Aufgabenfarbe als Hintergrund (statt als Textfarbe)"	"checkbox.1026"
 "Use default colours"	"Vorgabefarben verwenden"	"radiobutton.16015"
 "Use same font for comments field also"	"Benutze Schriftart auch für das Kommentarfeld"	"checkbox.1145"

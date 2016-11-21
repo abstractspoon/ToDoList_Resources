@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.0.999.4
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"
@@ -2028,6 +2026,7 @@ TRANSLATED
 "Use '%s' to switch tasklists"	"Usa '%s' per cambiare lista di compiti"	"text"
 "Use 'No' colour"	"Usa colore 'No'"	"radiobutton.16016"
 "Use HSL to calculate intermediate colours"	"Usa HSL per determinare i colori intermedi"	"checkbox.1148"
+"Use Microsoft Word for content format conversions"	"Usa Microsoft Word per convertire il formato del contenuto"	"checkbox.16013"
 "Use a task's colour for its title background"	"Usa il colore di un compito come sfondo per il suo titolo"	"checkbox.1026"
 "Use default colours"	"Usa i colori predefiniti"	"radiobutton.16015"
 "Use same font for comments field also"	"Usa lo stesso carattere anche per il campo dei commenti"	"checkbox.1145"

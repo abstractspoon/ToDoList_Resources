@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.0.999.4
 PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Use Microsoft Word for content format conversions"	""	"checkbox.16013"
 TRANSLATED
 "% Complete"	"% Afgewerkt"	"text"
   "% Complete"	"% Afgewerkt"	"label.122"
@@ -2383,6 +2381,7 @@ TRANSLATED
 "User Interface>General>Task Comments"	"Gebruikersinterface>Algemeen>Taaknotities"	"text"
 "User Interface>General>Toolbar"	"Gebruikersinterface>Algemeen>Werkbalk"	"text"
 "User Interface>Tasklist Attributes"	"Gebruikersinterface>Taaklijst eigenschappen"	"text"
+"Use Microsoft Word for content format conversions"	"Gebruik Microsoft Word voor formaatomzetting van inhoud"	"checkbox.16013"
 "User Text"	"Gebruikerstekst"	"menu.32921"
 "Username"	"Gebruikersnaam:"	"label.1004"
   "Username"	"Gebruikersnaam"	"text"

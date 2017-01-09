@@ -313,7 +313,7 @@ TRANSLATED
 "Allocated To"	"Assegnato a"	"checklistbox.1149"
 "Allocated To:\t"	"Assegnato a:\t"	"text"
 "Allocated by"	"Assegnato da"	"label.1186"
-"Allocated to"	"Assegnato da"	"label.1180"
+"Allocated to"	"Assegnato a"	"label.1180"
 "Allow editing of task references"	"Permetti la modifica dei riferimenti dei compiti"	"checkbox.1393"
 "Allow multi selection in the filter droplists"	"Permetti la selezione multipla nelle liste dei filtri"	"checkbox.1223"
 "Allow multiple instances of ToDoList"	"Permetti più istanze di ToDoList"	"checkbox.1133"

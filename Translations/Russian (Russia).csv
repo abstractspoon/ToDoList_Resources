@@ -1,6 +1,14 @@
 ﻿TRANSTEXT 7.0.999.6
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
+NEEDTRANSLATION
+"Alpha Release"	""	"text"
+"Automatic"	""	"text"
+"Beta Release"	""	"text"
+"Development Preview"	""	"text"
+"Latest Release"	""	"text"
+"More Colours..."	""	"text"
+"Release Candidate"	""	"text"
 TRANSLATED
 "% Complete"	"Завершено %"	"label.122"
   "% Complete"	"Завершено %"	"text"

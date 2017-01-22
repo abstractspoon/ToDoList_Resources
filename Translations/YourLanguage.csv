@@ -1105,6 +1105,7 @@ NEED_TRANSLATION
 "Merge"	""	"text"
 "Microsoft Outlook"	""	"combobox.1115"
 "Mileage"	""	"text"
+"Milestone"	""	"text"
 "Minimise ToDoList after the following period of inactivity"	""	"checkbox.1388"
 "Minimise ToDoList to the 'System Tray' when"	""	"checkbox.1030"
 "Minimise ToDoList when [Escape] is pressed"	""	"checkbox.1232"

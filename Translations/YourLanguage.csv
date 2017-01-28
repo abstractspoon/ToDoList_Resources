@@ -1050,7 +1050,7 @@ NEED_TRANSLATION
 "Last Modified"	""	"text"
   "Last Modified"	""	"sysheader32"
 "Last Modified:\t"	""	"text"
-"Latest Release"	""	"text"
+"Stable Release"	""	"text"
 "Left Align"	""	"tooltip"
 "Left of Tasklist"	""	"combobox.1183"
   "Left of Tasklist"	""	"combobox.1184"

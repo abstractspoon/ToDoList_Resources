@@ -1800,7 +1800,7 @@ TRANSLATED
   "Spreadsheet (.csv)"	""	"combobox.1316"
 "Spreadsheet (.csv)|Spreadsheets (*.csv)|*.csv||"	"电子表格 (.csv)|电子表格 (*.csv)|*.csv||"	"text"
 "Spreadsheet Files (*.csv)"	"电子表格文件 (*.csv)"	"combobox.1136"
-"Stable Release"	"最新版本"	"text"
+"Stable Release"	"稳定发行版"	"text"
 "Stack tab bar items"	"重叠标签栏项目(&S)"	"checkbox.1026"
 "Start Date"	"开始日期"	"text"
   "Start Date"	""	"label.114"

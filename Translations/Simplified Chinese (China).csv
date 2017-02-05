@@ -1280,7 +1280,7 @@ TRANSLATED
 "No"	"不(&N)"	"button.7"
   "No"	"不"	"text"
 "No, I won't be sharing any of my tasklists"	"不要共享任何我的任务列表(&N)"	"radiobutton.1056"
-"No, let me see all available options"	"不必让我看到所有可用的选项(&N)"	"radiobutton.1055"
+"No, let me see all available options"	"不，让我看到所有可用的选项(&N)"	"radiobutton.1055"
 "No, thanks"	"不，谢谢(&O)"	"radiobutton.1058"
 "Not Yet Loaded"	"还未载入"	""
   "Not Yet Loaded"	"还未载入"	"text"

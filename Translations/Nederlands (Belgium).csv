@@ -3,6 +3,7 @@ PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "3rd Party Storage"	""	"menu"
+"3rd Party Storage %d"	""	"menu"
 "Alpha Release"	""	"text"
 "Automatic"	""	"text"
 "Beta Release"	""	"text"

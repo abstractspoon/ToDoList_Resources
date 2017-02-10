@@ -8,6 +8,7 @@ NEED_TRANSLATION
 "'Bar' colour for tasks having no colour"	""	"checkbox.16006"
 "- Fixed Columns -"	""	"combobox.16035"
 "3rd Party Storage"	""	"menu"
+"3rd Party Storage %d"	""	"menu"
 "<New Column>"	""	"text"
 "<filepath>\tOpens/selects the specified tasklist\n-m <filepath>\tImports the specified file\n-f <filepath2>[|<filepath3>|<filepath4>]\tAllows additional tasklists to be opened\n-v\tForces ToDoList to startup visible regardless of its last saved state\n-i <inipath>\tSpecifies an alternative settings file path\n-x\tTurns off password prompting except when first loading an encrypted tasklist\n-cmd <id>\tSends the specified command to ToDoList's main window\n-h, -help, -?\tThis messagebox\n"	""	"text"
 "AaBbYyZz"	""	"label.1092"

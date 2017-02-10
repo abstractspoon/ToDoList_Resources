@@ -3,6 +3,7 @@ PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "3rd Party Storage"	""	"menu"
+"3rd Party Storage %d"	""	"menu"
 "Alloc By"	""	"sysheader32.1004"
 "Alpha Release"	""	"text"
 "Automatic"	""	"text"

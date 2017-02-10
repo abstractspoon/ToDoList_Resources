@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.0.999.6
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"3rd Party Storage"	""	"menu"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"
@@ -149,6 +147,7 @@ TRANSLATED
 "30 minutes"	"30 minuti"	"combobox.1105"
   "30 minutes"	"30 minuti"	"combobox.1174"
 "30 seconds"	"30 secondi"	"combobox.1164"
+"3rd Party Storage"	"Archiviazione di terze parti"	"menu"
 "4 (Medium)"	"4 (medio)"	"combobox.113"
   "4 (Medium)"	"4 (medio)"	"combobox.136"
   "4 (Medium)"	"4 (medio)"	"combobox.1032"

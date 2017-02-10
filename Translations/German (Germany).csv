@@ -1,10 +1,9 @@
 ﻿TRANSTEXT 7.0.999.6
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"3rd Party Storage"	""	"menu"
-"3rd Party Storage %d"	""	"menu"
 TRANSLATED
+"3rd Party Storage"	"Speicherung bei Drittanbietern"	"menu"
+"3rd Party Storage %d"	"Speicherung bei Drittanbietern %d"	"menu"
 "% Complete"	"% erledigt"	"label.122"
   "% Complete"	"% erledigt:"	"text"
 "% Complete:\t"	"% erledigt\t"	"text"

@@ -163,6 +163,7 @@ NEED_TRANSLATION
 "Task Dialog"	""	"menu"
 "Task Occurs"	""	"groupbox"
 "Task View Tab Bar"	""	"menu.34266"
+"Task View Visibility %d"	""	"menu"
 "Task:\t\t"	""	"text"
 "The clipboard text contained no tasks which could be imported."	""	"text"
 "The clipboard text does not have a recognised format."	""	"text"

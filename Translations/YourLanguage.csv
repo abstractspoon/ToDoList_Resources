@@ -1725,6 +1725,7 @@ NEED_TRANSLATION
   "Task Tree"	""	"systabcontrol32.411"
 "Task View Tab Bar"	""	"menu.34266"
 "Task View Visibility"	""	"menu"
+"Task View Visibility %d"	""	"menu"
 "Task"	""	"sysheader32.1004"
   "Task"	""	"label.1301"
 "Task:\t\t"	""	"text"

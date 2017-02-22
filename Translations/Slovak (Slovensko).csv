@@ -745,6 +745,7 @@ NEED_TRANSLATION
 "Task Reminder"	""	"dialog"
 "Task View Tab Bar"	""	"menu.34266"
 "Task View Visibility"	""	"menu"
+"Task View Visibility %d"	""	"menu"
 "Task:\t\t"	""	"text"
 "Tasklist File Title"	""	"menu.32914"
 "Tasklist Filename"	""	"menu.32916"

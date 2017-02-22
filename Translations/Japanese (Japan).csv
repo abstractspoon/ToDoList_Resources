@@ -544,6 +544,7 @@ NEED_TRANSLATION
 "Tasks>Defaults>Task Attributes"	""	"text"
 "Text Colour"	""	"tooltip"
 "Text Files (*.txt)"	""	"combobox.1136"
+"Task View Visibility %d"	""	"menu"
 "The application was successfully upgraded to the latest version."	""	"text"
 "The clipboard text contained no tasks which could be imported."	""	"text"
 "The clipboard text does not have a recognised format."	""	"text"

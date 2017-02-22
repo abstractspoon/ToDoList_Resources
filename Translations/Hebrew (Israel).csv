@@ -120,6 +120,7 @@ NEED_TRANSLATION
 "Synchronise a task's 'Completion' to changes in its 'Status'"	""	"checkbox.1487"
 "Tags:\t\t\t"	""	"text"
 "Task:\t\t"	""	"text"
+"Task View Visibility %d"	""	"menu"
 "Tasks>Defaults>Inheritable Attributes"	""	"text"
 "Tasks>Defaults>Task Attributes"	""	"text"
 "Text Files (*.txt)"	""	"combobox.1136"

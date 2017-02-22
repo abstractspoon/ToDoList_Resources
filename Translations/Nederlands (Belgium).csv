@@ -14,6 +14,7 @@ NEED_TRANSLATION
 "Release Candidate"	""	"text"
 "Stable Release"	""	"text"
 "Symbols..."	""	"tooltip"
+"Task View Visibility %d"	""	"menu"
 "The following tasks are currently time tracked:\n\n%s"	""	"text"
 "Time Tracking Reminder"	""	"text"
 TRANSLATED

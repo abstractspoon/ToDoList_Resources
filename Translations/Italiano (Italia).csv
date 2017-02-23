@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.0.999.6
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Task View Visibility %d"	""	"menu"
 TRANSLATED
 "% Complete"	"% completo"	"label.122"
 "% Complete:\t"	"% completo:\t"	"text"
@@ -1726,6 +1724,7 @@ TRANSLATED
   "Task Tree"	"Albero dei compiti"	"systabcontrol32.411"
 "Task View Tab Bar"	"Barra delle schede delle &viste dei compiti"	"menu.34266"
 "Task View Visibility"	"Visibilit&à viste dei compiti"	"menu"
+"Task View Visibility %d"	"Visibilità vista dei compiti %d"	"menu"
 "Task"	"Compito"	"sysheader32.1004"
   "Task"	"Compito"	"label.1301"
 "Task:\t\t"	"Compito:\t\t"	"text"

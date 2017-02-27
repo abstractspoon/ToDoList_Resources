@@ -2,7 +2,7 @@ TRANSTEXT 7.0.999.6
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"Task View Visibility %d"	""	"menu"
+"Task View Visibility %d"	"任务视图可视性 %d"	"menu"
 TRANSLATED
 "% Complete"	"完成百分比"	"text"
   "% Complete"	"完成百分比"	"label.122"

@@ -20,9 +20,20 @@ To install ToDoList, carry out the following steps:
 
 3. Accept the default folder choice of 'ToDoList_exe' or change it to
    something else, and click OK to complete the file extraction.
-   
-4. If you are installing on Windows XP you will also need to rename
-   the file 'todolist.exe.xp.manifest' to 'todolist.exe.manifest',
+
+4. When you are ready double-click 'ToDoList.exe' to start working.
+
+------------------------------------
+Extra steps for XP users
+
+1. Rename the file 'todolist.exe.xp.manifest' to 'todolist.exe.manifest',
    otherwise ToDoList will not run.
 
-5. When you are ready double-click 'ToDoList.exe' to start working.
+2. To enable the 'Day View' and 'Word Cloud' plugins, download and install:
+
+   a) .NET Framework 4.0:
+   https://www.microsoft.com/en-au/download/confirmation.aspx?id=17718
+
+   b) Visual C++ 2010 Redistributables:
+   https://www.microsoft.com/en-au/download/confirmation.aspx?id=5555
+   

@@ -1,0 +1,29 @@
+// This file contains a list of localised words 
+// that the Word Cloud plugin will ignore when 
+// building its word list.
+// Each line should contain a single word only. 
+// Words are treated case-sensitively.
+//
+// Eg.
+
+able
+about
+above
+across
+add
+after
+again
+against
+ago
+air
+all
+almost
+along
+also
+among
+an
+and
+animal
+another
+answer
+any

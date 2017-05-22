@@ -3,7 +3,7 @@
 // building its word list.
 //
 // Each line should contain a single word only. 
-// Words are treated case-sensitively.
+// Words are treated case-insensitively.
 //
 // The following words are provided as an example.
 // Note: You are expected to replace them with words

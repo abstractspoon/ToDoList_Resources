@@ -377,7 +377,7 @@ NEED_TRANSLATION
   "HTML"	""	"menu.34194"
 "H\t(hours)"	""	"text"
 "Hi %s, ToDoList is being updated"	""	"text"
-"Hi %s, version %s is now available for download."	""	"text"
+"Hi %s, version %s is now available."	""	"text"
 "Hide Empty Columns"	""	"tooltip"
 "Hide confidential attributes"	""	"checkbox.1061"
 "Hide overdue tasks"	""	"text"

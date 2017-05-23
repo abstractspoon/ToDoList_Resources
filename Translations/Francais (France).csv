@@ -1208,7 +1208,7 @@ TRANSLATED
   "Help"	""	"text"
   "Help"	""	"menu"
 "Hi %s, ToDoList is being updated"	"Bonjour %s, ToDoList est en cours de mise à jour"	"text"
-"Hi %s, version %s is now available for download."	"Bonjour %s, la version %s est maintenant disponible en téléchargement"	"text"
+"Hi %s, version %s is now available."	"Bonjour %s, la version %s est maintenant disponible en téléchargement"	"text"
 "Hide '% Complete' for completed tasks"	"Masquer le '% Accompli' pour les tâches terminées"	"checkbox.1098"
 "Hide 'Priority' number"	"Cacher le numéro de 'Priorité'"	"checkbox.1064"
   "Hide 'Priority' number"	"Cacher le numéro de 'Priorité'"	"text"

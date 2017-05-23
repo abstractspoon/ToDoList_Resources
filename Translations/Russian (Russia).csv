@@ -979,7 +979,7 @@ TRANSLATED
   "Help"	"Справка"	"button.9"
   "Help"	"Справка"	"text"
 "Hi %s, ToDoList is being updated"	"Привет, %s, ToDoList обновляется…"	"text"
-"Hi %s, version %s is now available for download."	"Привет, %s, версия %s доступна для загрузки!"	"text"
+"Hi %s, version %s is now available."	"Привет, %s, версия %s доступна для загрузки!"	"text"
 "Hide '% Complete' for completed tasks"	"Скрыть '% выполнения' для завершенных"	"checkbox.1098"
 "Hide 'Priority' number"	"Скрывать номер приоритета"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"Скрыть даты 'Начало' и 'Конец' в завершенных"	"checkbox.1097"

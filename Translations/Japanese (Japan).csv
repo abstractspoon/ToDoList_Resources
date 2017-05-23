@@ -267,7 +267,7 @@ NEED_TRANSLATION
 "Gantt Preferences"	""	"tooltip"
 "H\t(hours)"	""	"text"
 "Hi %s, ToDoList is being updated"	""	"text"
-"Hi %s, version %s is now available for download."	""	"text"
+"Hi %s, version %s is now available."	""	"text"
 "Hide Empty Columns"	""	"tooltip"
 "Hide the splitter bar between the task titles and attribute columns"	""	"checkbox.1456"
 "Hide unflagged email items"	""	"checkbox.2006"

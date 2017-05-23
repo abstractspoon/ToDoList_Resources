@@ -1081,7 +1081,7 @@ TRANSLATED
   "Help"	"Hulp"	"button.1038"
   "Help"	"Hulp"	"menu"
 "Hi %s, ToDoList is being updated"	"Hallo %s, ToDoList is aan het updaten"	"text"
-"Hi %s, version %s is now available for download."	"Hallo %s, versie %s is nu beschikbaar om binnen te halen."	"text"
+"Hi %s, version %s is now available."	"Hallo %s, versie %s is nu beschikbaar om binnen te halen."	"text"
 "Hide '% Complete' for completed tasks"	"Verberg '% Afgewerkt' voor afgewerkte taken"	"checkbox.1098"
 "Hide 'Priority' number"	"Verberg 'Prioriteit' nummer"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"Verberg 'Start-' en 'Streef-' datums voor afgewerkte taken"	"checkbox.1097"

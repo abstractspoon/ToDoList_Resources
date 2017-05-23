@@ -937,7 +937,7 @@ NEED_TRANSLATION
   "Help"	""	"menu"
   "Help"	""	"button.1038"
 "Hi %s, ToDoList is being updated"	""	"text"
-"Hi %s, version %s is now available for download."	""	"text"
+"Hi %s, version %s is now available."	""	"text"
 "Hide '% Complete' for completed tasks"	""	"checkbox.1098"
 "Hide 'Priority' number"	""	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	""	"checkbox.1097"

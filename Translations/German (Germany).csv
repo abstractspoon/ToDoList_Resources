@@ -1143,7 +1143,7 @@ TRANSLATED
   "Help"	"Hilfe"	"button.1056"
   "Help"	"Hilfe"	"text"
 "Hi %s, ToDoList is being updated"	"Hallo %s, Todolist wird aktualisiert"	"text"
-"Hi %s, version %s is now available for download."	"Hallo %s, die Version %s steht nun zum Download bereit."	"text"
+"Hi %s, version %s is now available."	"Hallo %s, die Version %s steht nun zum Download bereit."	"text"
 "Hide '% Complete' for completed tasks"	"Verberge '% erledigt' bei erledigten Aufgaben"	"checkbox.1098"
 "Hide 'Priority' number"	"Verberge Prioritätswert (nur Farben anzeigen)"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"Verberge Beginn- und Fälligkeitsdatum für erledigte Aufgaben"	"checkbox.1097"

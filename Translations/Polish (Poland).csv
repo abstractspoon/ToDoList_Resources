@@ -953,7 +953,7 @@ TRANSLATED
   "Help"	"Pomoc"	"button.1038"
   "Help"	"Pomoc"	"menu"
 "Hi %s, ToDoList is being updated"	"Witam %s, ToDoList jest aktualizowane"	"text"
-"Hi %s, version %s is now available for download."	"Witam %s, wersja %s jest już dostępna do pobrania."	"text"
+"Hi %s, version %s is now available."	"Witam %s, wersja %s jest już dostępna do pobrania."	"text"
 "Hide '% Complete' for completed tasks"	"Ukryj '% Zakończenia' dla zakończonych zadań"	"checkbox.1098"
 "Hide 'Priority' number"	"Ukryj stopień 'Ważności'"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"Ukryj 'Date rozpoczęcia' i 'Date Realizacji' dla zakończonych zadań"	"checkbox.1097"

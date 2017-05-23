@@ -1055,7 +1055,7 @@ TRANSLATED
   "Help"	"Ayuda"	"menu"
   "Help"	""	"text"
 "Hi %s, ToDoList is being updated"	"Hola %s, ToDoList esta siendo actualizado"	"text"
-"Hi %s, version %s is now available for download."	"Hola %s, versión %s está ahora disponible para descargar."	"text"
+"Hi %s, version %s is now available."	"Hola %s, versión %s está ahora disponible para descargar."	"text"
 "Hide '% Complete' for completed tasks"	"Oculta '% Completo' para tareas finalizadas"	"checkbox.1098"
 "Hide 'Priority' number"	"Oculta el número de 'Prioridad'"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"Oculta fechas 'Inicio' y 'Vencimiento' en tareas finalizadas"	"checkbox.1097"

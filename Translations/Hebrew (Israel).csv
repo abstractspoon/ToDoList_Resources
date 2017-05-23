@@ -1135,7 +1135,7 @@ TRANSLATED
   "Help"	"עזרה"	"button.1056"
   "Help"	"עזרה"	"button.9"
 "Hi %s, ToDoList is being updated"	"שלום %s, התוכנה מעודכנת כעת"	"text"
-"Hi %s, version %s is now available for download."	"שלום %s, גירסה %s זמינה להורדה כעת"	"text"
+"Hi %s, version %s is now available."	"שלום %s, גירסה %s זמינה להורדה כעת"	"text"
 "Hide '% Complete' for completed tasks"	"הסתר '% הושלם' במשימות שהושלמו"	"checkbox.1098"
 "Hide 'Priority' number"	"הסתר מספר 'עדיפות'"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"הסתר תאריכי 'התחלה' ו'יעד' במשימות שהושלמו"	"checkbox.1097"

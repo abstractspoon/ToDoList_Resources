@@ -1004,7 +1004,7 @@ TRANSLATED
   "Help"	"帮助(&H)"	"menu"
   "Help"	"帮助"	"text"
 "Hi %s, ToDoList is being updated"	"你好 %s, ToDoList 正在更新"	"text"
-"Hi %s, version %s is now available."	"你好 %s,版本 %s 现在可供下载."	"text"
+"Hi %s, version %s is now available for download."	"你好 %s,版本 %s 现在可供下载."	"text"
 "Hide '% Complete' for completed tasks"	"已完成的任务隐藏完成百分比"	"checkbox.1098"
 "Hide 'Priority' number"	"隐藏优先级数字"	"checkbox.1064"
 "Hide 'Start' and 'Due' dates for completed tasks"	"已完成的任务隐藏开始和到期日期"	"checkbox.1097"

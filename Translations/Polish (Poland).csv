@@ -2,6 +2,7 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'{0}' appears in {1} task(s)"	""	"tooltip"
 "'%s' could not be opened because the network location is not currently accessible."	""	"text"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	""	"label"

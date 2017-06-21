@@ -2,6 +2,7 @@
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'{0}' appears in {1} task(s)"	""	"tooltip"
 "Colour Scheme"	""	"label"
 "Modify Reminder..."	""	"menu"
 TRANSLATED

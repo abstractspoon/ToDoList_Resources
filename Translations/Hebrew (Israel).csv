@@ -9,6 +9,7 @@ NEED_TRANSLATION
 "%s (Delay loaded)"	""	"text"
 "%s - %d task(s)"	""	"text"
 "%s [%s]"	""	"text"
+"'{0}' appears in {1} task(s)"	""	"tooltip"
 "'%s' could not be opened because the network location is not currently accessible."	""	"text"
 "'Bar' colour for tasks having no colour"	""	"checkbox"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"

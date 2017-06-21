@@ -10,6 +10,7 @@ NEED_TRANSLATION
 "%s (Delay loaded)"	""	"text"
 "%s - %d task(s)"	""	"text"
 "%s [%s]"	""	"text"
+"'{0}' appears in {1} task(s)"	""	"tooltip"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	""	"text"
 "'%s' could not be checked out\nbecause it is currently checked out to '%s'"	""	"text"
 "'%s' could not be found."	""	"text"

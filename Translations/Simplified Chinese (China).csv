@@ -2,6 +2,9 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Colour Scheme"	""	"label"
+"Modify Reminder..."	""	"menu"
+TRANSLATED
 "'%s' could not be opened because the network location is not currently accessible."	"'%s'无法打开，因为网络位置当前无法访问。"	"text"
 "'Stack' comments above (or left of) edit fields"	"'Stack'上面（或左边）编辑字段的注释"	"checkbox"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	"（注意：如果您确定传入的任务将具有正确的任务ID，则只能使用此选项）"	"label"
@@ -54,7 +57,6 @@ NEED_TRANSLATION
 "Treat subtasks of 'Locked' tasks as also being locked"	"处理”锁定“任务的子任务也被锁定"	"checkbox"
 "Type a version"	"键入一个版本"	"text"
 "Word Cloud"	"词云"	"systabcontrol32"
-TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"目前已下载 %0.1f Kb (剩余 %0.1f Kb )"	"text"

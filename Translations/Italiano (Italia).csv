@@ -1,6 +1,9 @@
 ﻿TRANSTEXT 7.1.997.6
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Colour Scheme"	""	"label"
+"Modify Reminder..."	""	"menu"
 TRANSLATED
 "% Complete"	"% completo"	"label"
 "% Complete:\t"	"% completo:\t"	"text"

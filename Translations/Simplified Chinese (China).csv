@@ -2,9 +2,9 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"'{0}' appears in {1} task(s)"	""	"tooltip"
-"Colour Scheme"	""	"label"
-"Modify Reminder..."	""	"menu"
+"'{0}' appears in {1} task(s)"	"'{0}' 出现在 {1} 个任务中"	"tooltip"
+"Colour Scheme"	"配色方案"	"label"
+"Modify Reminder..."	"修改提醒..."	"menu"
 TRANSLATED
 "'%s' could not be opened because the network location is not currently accessible."	"'%s'无法打开，因为网络位置当前无法访问。"	"text"
 "'Stack' comments above (or left of) edit fields"	"'Stack'上面（或左边）编辑字段的注释"	"checkbox"
@@ -25,7 +25,7 @@ TRANSLATED
 "Folder prompt"	"文件夹提示"	"text"
 "Hi %s, version %s is now available."	"Hi，%s，版本%s现在可用。"	"text"
 "Hours"	"小时"	"text"
-"Increment Font Size"	"增加字体大小"	"menu"
+"Increment Font Size"	"增大字体大小"	"menu"
 "Lock Task Attributes"	"锁定任务属性"	"menu"
 "Lock"	"锁定"	"menu"
 "Locked Tasks"	"锁定任务"	"text"
@@ -38,7 +38,7 @@ TRANSLATED
 "Restore Default Font Size"	"恢复默认字体大小"	"menu"
 "Run Tool Error"	"运行工具错误"	"text"
 "Save Task View to Image..."	"将任务视图保存到图像"	"menu"
-"Schedule and Priority"	"附表和优先权"	"text"
+"Schedule and Priority"	"进度和优先权"	"text"
 "Select Task Dependencies"	"选择任务依赖"	"menu"
 "Select Task Dependents"	"选择任务依赖"	"menu"
 "Some tasks could not be imported from '%s'."	"某些任务无法从'%s' 导入。"	"text"
@@ -46,7 +46,7 @@ TRANSLATED
 "Task View Font"	"任务视图字体"	"menu"
 "Task View"	"任务视图"	"radiobutton"
 "Tasklist Tab Colour"	"任务列表选项卡颜色"	"menu"
-"Text prompt"	"文字提示"	"text"
+"Text prompt"	"文本提示"	"text"
 "The selected tasks have no dependents."	"所选择的任务没有依赖。"	"text"
 "The tool '%s' could not be found.\n\nPlease check that it has not been moved or deleted and try again."	"找不到工具'%s' 。\n\n请检查它是否未被移动或删除，然后重试。"	"text"
 "The tool '%s' could not be run.\n\nPlease check you have the required access rights and try again."	"该工具'%s'无法运行。\n\n请检查您是否具有所需的访问权限，然后重试。"	"text"
@@ -55,7 +55,7 @@ TRANSLATED
 "The version of ToDoList specified in the tool (%d.%d) must be the same as the version of the running application (%d.%d)."	"工具(%d.%d)中指定的ToDoList版本必须与正在运行的应用程序(%d.%d)的版本相同。"	"text"
 "Tool Version Error"	"工具版本错误"	"text"
 "Total Work"	"工作总量"	"text"
-"Treat subtasks of 'Locked' tasks as also being locked"	"处理”锁定“任务的子任务也被锁定"	"checkbox"
+"Treat subtasks of 'Locked' tasks as also being locked"	"处理锁定的任务其子任务也被锁定"	"checkbox"
 "Type a version"	"键入一个版本"	"text"
 "Word Cloud"	"词云"	"systabcontrol32"
 "% Complete"	"完成百分比"	"label"

@@ -669,6 +669,7 @@ NEED_TRANSLATION
 "Treat tasks with the following tag as 'Milestones'"	""	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	""	"checkbox"
 "Two or more attributes shared the unique ID '%s'.\n\nYou will need to resolve this before closing the dialog."	""	"text"
+"Type a version"	""	"text"
 "Type"	""	"text"
 "Unable to Create Path"	""	"text"
 "Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"

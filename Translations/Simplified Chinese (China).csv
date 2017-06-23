@@ -56,6 +56,7 @@ TRANSLATED
 "Tool Version Error"	"工具版本错误"	"text"
 "Total Work"	"工作总量"	"text"
 "Treat subtasks of 'Locked' tasks as also being locked"	"处理锁定的任务其子任务也被锁定"	"checkbox"
+"Type a version"	"键入一个版本"	"text"
 "Word Cloud"	"词云"	"systabcontrol32"
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"

@@ -69,6 +69,7 @@ NEED_TRANSLATION
 "Tool Version Error"	""	"text"
 "Total Work"	""	"text"
 "Treat subtasks of 'Locked' tasks as also being locked"	""	"checkbox"
+"Type a version"	""	"text"
 "Word Cloud"	""	"systabcontrol32"
 TRANSLATED
 "% Complete"	"% Afgewerkt"	"label"

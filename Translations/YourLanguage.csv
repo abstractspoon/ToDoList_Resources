@@ -1794,6 +1794,7 @@ NEED_TRANSLATION
 "Type a status"	""	"text"
 "Type a tag"	""	"text"
 "Type a task ID"	""	"text"
+"Type a version"	""	"text"
 "Type an ID"	""	"text"
 "Type new shortcut key"	""	"label"
 "Type some comments"	""	"text"

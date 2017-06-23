@@ -234,6 +234,7 @@ NEED_TRANSLATION
 "Treat subtasks of 'Locked' tasks as also being locked"	""	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	""	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	""	"checkbox"
+"Type a version"	""	"text"
 "Type"	""	"text"
 "Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
 "Up One Level"	""	"tooltip"

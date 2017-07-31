@@ -1,6 +1,9 @@
 ﻿TRANSTEXT 7.1.997.6
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"begins in %s at %s"	""	"text"
+"is due in %s at %s"	""	"text"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"
@@ -1904,7 +1907,6 @@ TRANSLATED
 "before due date"	"到期日之前"	"combobox"
 "before start date"	"在开始日期之前"	"combobox"
 "begins in %.0f minute(s) at %s"	"开始于 %.0f 分钟在 %s"	"text"
-"begins in %.2f hour(s) at %s"	"开始于 %.2f 分钟在 %s"	"text"
 "begins now (%s)"	"现在开始(%s)"	"text"
 "characters"	"字符"	"label"
 "d"	"d\t(工作日)"	"text"
@@ -1926,7 +1928,6 @@ TRANSLATED
 "iCalendar Files (*.ics)"	"iCalendar 文件 (*.ics)"	"combobox"
 "includes"	"包含"	"text"
 "is due in %.0f minute(s) at %s"	"%.0f分钟内(在%s)到期"	"text"
-"is due in %.2f hour(s) at %s"	"%.f2f小时内(在%s)到期"	"text"
 "is due now (%s)"	"现在到期(%s)"	"text"
 "is due"	"到期"	"combobox"
 "is greater than (>)"	"大于(>)"	"text"

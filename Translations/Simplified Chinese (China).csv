@@ -2,8 +2,8 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"begins in %s at %s"	""	"text"
-"is due in %s at %s"	""	"text"
+"begins in %s at %s"	"开始于 %s 在 %s"	"text"
+"is due in %s at %s"	"到期于 %s 在 %s"	"text"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"

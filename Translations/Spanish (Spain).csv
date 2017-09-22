@@ -1089,7 +1089,7 @@ TRANSLATED
 "Number (whole)"	"Número (entero)"	"text"
 "Numbered List"	"Lista Numerada"	"tooltip"
 "OK"	"OK"	"button"
-"Offset Dates..."	"Fechas desplazadas..."	"menu"
+"Offset Task Dates..."	"Fechas desplazadas..."	"menu"
 "Offset Task Dates"	"Desplaza las fechas de las tareas"	"dialog"
 "Offset date(s) from today"	"Fecha(s) desplazada a partir de hoy"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Fecha de subtarea desplazada(s) por la misma cantidad"	"checkbox"

@@ -1578,7 +1578,7 @@ TRANSLATED
 "Notify me if the tasklist is read-only"	"&Oznámiť mi ak je zoznam úloh iba na čítanie"	"checkbox"
 "Notify me of all tasks due (and overdue)"	"&Oznám mi všetky úlohy v termíne (a po termíne) ukončenia"	"checkbox"
 "Numbered List"	"Číslovaný zoznam"	"tooltip"
-"Offset Dates..."	"&Posun dátumov..."	"menu"
+"Offset Task Dates..."	"&Posun dátumov..."	"menu"
 "On that day"	"V tento deň"	"combobox"
 "On the following day"	"V nasledujúci deň"	"combobox"
 "Once"	"Raz"	"radiobutton"

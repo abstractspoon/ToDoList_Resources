@@ -1204,7 +1204,7 @@ TRANSLATED
 "Numbered List"	"רשימה ממוספרת"	"tooltip"
 "OK"	"אשר"	"button"
   "OK"	"אשר"	"text"
-"Offset Dates..."	"תאריכי קיזוז..."	"menu"
+"Offset Task Dates..."	"תאריכי קיזוז..."	"menu"
 "Offset Task Dates"	"תאריכי יעד מקוזזים"	"dialog"
 "Offset date(s) from today"	"תאריכים מקוזזים מהיום"	"checkbox"
 "Offset subtask date(s) by the same amount"	"תאריכי תת-משימה המקוזזים באותו משך זמן"	"checkbox"

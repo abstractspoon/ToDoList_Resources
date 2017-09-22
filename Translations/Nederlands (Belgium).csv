@@ -1128,7 +1128,7 @@ TRANSLATED
 "Number (whole)"	"Getal (geheel)"	"text"
 "Numbered List"	"Genummerde lijst"	"tooltip"
 "OK"	"OK"	"button"
-"Offset Dates..."	"Verschuif datums..."	"menu"
+"Offset Task Dates..."	"Verschuif datums..."	"menu"
 "Offset Task Dates"	"Verschuif taakdatums"	"dialog"
 "Offset date(s) from today"	"Verschuif datum(s) vanaf vandaag"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Verschuif datum(s) van deeltaken met hetzelfde aantal"	"checkbox"

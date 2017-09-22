@@ -1449,7 +1449,7 @@ TRANSLATED
 "Number (fractional)"	"分数"	"text"
 "Number (whole)"	"整数"	"text"
 "OK"	"OK"	"button"
-"Offset Dates..."	"日にちをずらす"	"menu"
+"Offset Task Dates..."	"日にちをずらす"	"menu"
 "Offset Task Dates"	"タスクの日にちをずらす"	"dialog"
 "Offset subtask date(s) by the same amount"	"サブタスクを同じだけずらす"	"checkbox"
 "Offset"	"ずらす対象："	"label"

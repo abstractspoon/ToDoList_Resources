@@ -1102,7 +1102,7 @@ TRANSLATED
 "Number (whole)"	"Ganzzahl"	"text"
 "Numbered List"	"Nummerierung"	"tooltip"
 "OK"	"OK"	"button"
-"Offset Dates..."	"Verschiebe Datum..."	"menu"
+"Offset Task Dates..."	"Verschiebe Datum..."	"menu"
 "Offset Task Dates"	"Aufgabendatum verschieben"	"dialog"
 "Offset date(s) from today"	"Verschiebe Datum ab heute"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Verschiebe Datum der Teilaufgaben um den gleichen Wert"	"checkbox"

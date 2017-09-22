@@ -1105,7 +1105,7 @@ NEED_TRANSLATION
 "Numbered List"	""	"tooltip"
 "OK"	""	"button"
   "OK"	""	"text"
-"Offset Dates..."	""	"menu"
+"Offset Task Dates..."	""	"menu"
 "Offset Task Dates"	""	"dialog"
 "Offset date(s) from today"	""	"checkbox"
 "Offset subtask date(s) by the same amount"	""	"checkbox"

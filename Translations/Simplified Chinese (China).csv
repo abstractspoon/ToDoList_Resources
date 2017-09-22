@@ -1079,7 +1079,7 @@ TRANSLATED
 "Numbered List"	"有序列表"	"tooltip"
 "OK"	"确定"	"button"
   "OK"	"确定"	"text"
-"Offset Dates..."	"偏移日期(&O)"	"menu"
+"Offset Task Dates..."	"偏移日期(&O)"	"menu"
 "Offset Task Dates"	"偏移任务的日期"	"dialog"
 "Offset date(s) from today"	"偏移日期从今天开始"	"checkbox"
 "Offset subtask date(s) by the same amount"	"按相同数量偏移子任务的日期"	"checkbox"

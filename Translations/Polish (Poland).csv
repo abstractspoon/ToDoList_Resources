@@ -1141,7 +1141,7 @@ TRANSLATED
 "Numbered List"	"Lista numerowana"	"tooltip"
 "OK"	"OK"	"button"
   "OK"	"OK"	"text"
-"Offset Dates..."	"Przesunięcie daty"	"menu"
+"Offset Task Dates..."	"Przesunięcie daty"	"menu"
 "Offset Task Dates"	"Przesunięcie daty Zadania"	"dialog"
 "Offset date(s) from today"	"Przesunięcie dat od dzisiaj"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Przesunięcie dat podzadań o tą samą wartość"	"checkbox"

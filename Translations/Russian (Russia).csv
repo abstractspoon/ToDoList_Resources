@@ -1104,7 +1104,7 @@ TRANSLATED
 "Numbered List"	"Нумерованный список"	"tooltip"
 "OK"	"OK"	"button"
   "OK"	"OK"	"text"
-"Offset Dates..."	"Смещение сроков..."	"menu"
+"Offset Task Dates..."	"Смещение сроков..."	"menu"
 "Offset Task Dates"	"Сместить сроки задачи"	"dialog"
 "Offset date(s) from today"	"Сместить дату(ы) с 'Сегодня'"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Сместить срок(и) подзадачи соответственно"	"checkbox"

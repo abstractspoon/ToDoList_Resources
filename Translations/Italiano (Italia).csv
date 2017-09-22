@@ -1105,7 +1105,7 @@ TRANSLATED
 "Numbered List"	"Elenco numerato"	"tooltip"
 "OK"	"OK"	"button"
   "OK"	"OK"	"text"
-"Offset Dates..."	"&Slittamento date…"	"menu"
+"Offset Task Dates..."	"&Slittamento date…"	"menu"
 "Offset Task Dates"	"Slitta le date dei compiti"	"dialog"
 "Offset date(s) from today"	"Slittamento delle date da oggi"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Slittamento delle date della stessa quantità"	"checkbox"

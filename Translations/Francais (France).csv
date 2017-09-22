@@ -1243,7 +1243,7 @@ TRANSLATED
 "Number (whole)"	"Nombre (entier)"	"text"
 "Numbered List"	"Liste par numéros"	"tooltip"
 "OK"	"OK"	"button"
-"Offset Dates..."	"Décaler les dates..."	"menu"
+"Offset Task Dates..."	"Décaler les dates..."	"menu"
 "Offset Task Dates"	"Décaler les dates de la tâche"	"dialog"
 "Offset date(s) from today"	"Décaler les date à partir d'aujourd'hui"	"checkbox"
 "Offset subtask date(s) by the same amount"	"Décaler les dates des sous-tâche de la même quantité"	"checkbox"

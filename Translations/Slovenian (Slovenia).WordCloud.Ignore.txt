@@ -17,8 +17,69 @@ ponovno
 proti
 vse
 sem
-an
+
 in
+vsak
+so
+niso
+kot
+ob
+biti
+ker
+bil
+pred
+biti
+spodaj
+med
+oba
+toda
+z
+ne more
+ne more
+lahko
+ni mogel
+počel
+ni počel
+storiti
+storil
+ne
+počneš
+ne
+dol
+med
+vsak
+nekaj
+za
+od
+nadalje
+imel
+ni
+ima
+ni
+ima
+nima
+imeti
+on
+he'd
+he'll
+on je
+njo
+tukaj
+tukaj je
+njen
+sama
+njega
+sam
+his
+kako
+kako je
+jaz
+jaz bi
+jaz bom
+jaz sem
+sem
+če
+v
 vsak
 so
 niso
@@ -66,21 +127,21 @@ on je
 njo
 tukaj
 tukaj je
-hers
-herself
-him
-himself
-his
+njen
+sama
+njega
+sebe
+njegov
 kako
-how's
+kako je
 i
-i'd
-i'll
-i'm
-i've
+Jaz bi
+Jaz bom
+Jaz sem
+imam
 če
 in
-into
+v
 je
 ni
 to
@@ -88,7 +149,7 @@ to je
 svoje
 sama
 kajne
-me
+mene
 več
 najbolj
 ne sme
@@ -99,26 +160,26 @@ niti
 ne
 za
 od
-on
+na
 enkrat
 samo
 ali
 drugi
-ought
-our
-ours	
+bi
+naš
+naše	
 sami
-out
+zunaj
 čez
 lasten
-same
-shan't
-she
-she'd
-she'll
-she's
-should
-shouldn't
+isti
+ne
+ona
+ona bi
+ona bo
+ona je
+bi moral
+ne bi smel
 tako
 neki
 tako
@@ -142,7 +203,7 @@ oni so
 ta
 tiste
 skozi
-to
+za
 tudi
 pod
 vse do

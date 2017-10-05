@@ -920,7 +920,7 @@ NEED_TRANSLATION
 "List type"	""	"label"
 "Loading tasklist(s)..."	""	"text"
 "Locate Spell Check Engine"	""	"text"
-"Lock colour selection"	""	"tooltip"
+"Lock Colour Selection"	""	"tooltip"
 "Lock Task Attributes"	""	"menu"
 "Lock"	""	"menu"
 "Locked Tasks"	""	"text"

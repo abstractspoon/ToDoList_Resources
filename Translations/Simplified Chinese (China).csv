@@ -1,4 +1,4 @@
-﻿TRANSTEXT 7.1.997.12
+TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -13,7 +13,7 @@ NEED_TRANSLATION
 "Forwards By"	"向前"	"menu"
 "Go To Task"	"转到任务"	"dialog"
 "Go To Task..."	"转到任务"	"menu"
-"Import UDTs..."	"导入UDT"	"button"
+"Import UDTs..."	"导入UDTs"	"button"
 "Last Modified By"	"上次修改者"	"menu"
 "Last Modified Date"	"上次修改日期"	"menu"
 "Make Copy of Tool"	"制作工具副本"	"tooltip"

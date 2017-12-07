@@ -595,6 +595,7 @@ NEED_TRANSLATION
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
 "Display the image file directly\n(currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
 "Display the selected task's path in the header bar"	""	"checkbox"
+"Display 'User Defined Tools'"	""	"checkbox"
 "Display"	""	"label"
 "Do Search"	""	"tooltip"
 "Do you want to create a new recurring task or reuse the existing recurring task ?"	""	"label"

@@ -45,6 +45,7 @@ NEED_TRANSLATION
 "'Due' task colour"	""	"checkbox"
 "'New Subtask' button places subtask"	""	"label"
 "'New Task' button places task"	""	"label"
+"'Non-working hours' colour"	""	"button"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	""	"checkbox"
 "'Started Today' task colour"	""	"checkbox"

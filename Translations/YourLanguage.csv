@@ -636,6 +636,7 @@ NEED_TRANSLATION
   "Edit Task Title"	""	"tooltip"
 "Edit Tool Name"	""	"tooltip"
 "Edit"	""	"menu"
+"&Edit..."	""	"button"
 "Email Selected Task(s)..."	""	"menu"
 "Email Tasks..."	""	"menu"
 "Embed a copy of the file which can be viewed by double-clicking the icon"	""	"radiobutton"

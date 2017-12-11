@@ -204,6 +204,7 @@ NEED_TRANSLATION
 "Add Task File Link..."	""	"menu"
 "Add Tasklist to Source Control"	""	"menu"
 "Add Time to Task Log File"	""	"menu"
+"Add Tracked Time"	""	"tooltip"
 "Adjusted"	""	"text"
 "After Loading a Tasklist"	""	"label"
 "After completing a task, set its 'Status' to"	""	"checkbox"

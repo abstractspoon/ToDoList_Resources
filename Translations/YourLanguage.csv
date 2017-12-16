@@ -1715,6 +1715,7 @@ NEED_TRANSLATION
 "Toggle Filter"	""	"menu"
 "Toggle Task Completion"	""	"menu"
 "Toggle Task Expanded State"	""	"menu"
+"Toggle All Tasks Expanded State"	""	"menu"
 "Toggle Task Flag"	""	"menu"
 "Toggle between Task Tree and List View"	""	"menu"
 "Toggle between Tasks and Comments"	""	"menu"

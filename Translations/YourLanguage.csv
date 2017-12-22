@@ -827,6 +827,7 @@ NEED_TRANSLATION
 "If a tasklist's status changes to writable"	""	"checkbox"
 "If a tasklist's timestamp changes"	""	"checkbox"
 "If you reload the tasklist you will lose your current \nchanges.\n\nAre you sure you want to continue?"	""	"text"
+"Ignore '{0}'"	""	"menu"
 "Images..."	""	"tooltip"
 "Import From"	""	"groupbox"
 "Import Preferences into Registry..."	""	"menu"

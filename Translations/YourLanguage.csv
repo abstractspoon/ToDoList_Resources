@@ -1817,6 +1817,7 @@ NEED_TRANSLATION
 "User Interface>General>Sorting"	""	"text"
 "User Interface>General>Tab bar"	""	"text"
 "User Interface>General>Task Comments"	""	"text"
+"User Interface>General>Task View Visibility"	""	"text"
 "User Interface>General>Toolbar"	""	"text"
 "User Interface>Tasklist Attributes"	""	"text"
 "User Text"	""	"menu"

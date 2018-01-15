@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Week Planner"	""	"systabcontrol32"
 TRANSLATED
 "% Complete"	"% končano"	"label"
 "% Complete:\t"	"% končano:\t"	"text"
@@ -510,7 +512,6 @@ TRANSLATED
 "Date"	"Datum"	"label"
 "Date/Time Formatting"	"Oblikovanje Datuma/Časa"	"label"
 "Dates"	"Datumi"	"label"
-"Day View"	"Dnevni pogled"	"systabcontrol32"
 "Day"	"Dan"	"radiobutton"
 "Day(s)"	"Dni"	"combobox"
 "Days Remaining"	"Preostalih dni"	"combobox"

@@ -33,6 +33,7 @@ NEED_TRANSLATION
 "Time estimate"	""	"label"
 "Time spent"	""	"label"
 "Treat overdue tasks as being due 'Today'"	""	"checkbox"
+"Week Planner"	""	"systabcontrol32"
 "\n-copy <attrib1> <attrib2>\tCopies the value for 'attrib1' to 'attrib2' for the currently selected task\n-cs <cost>\tSets the 'Cost' for the currently selected task\n-md <date>\tSets the 'Creation Date' of the newly created task\n-sd <date>\tSets the 'Start Date' for the currently selected task\n-dd <date>\tSets the 'Due Date' for the currently selected task\n-cd <date>\tSets the 'Completion Date' for the currently selected task\n"	""	"text"
 TRANSLATED
 "% Complete"	"% completo"	"label"
@@ -535,7 +536,6 @@ TRANSLATED
 "Date"	"Data"	"label"
 "Date/Time Formatting"	"Formato data/ora"	"label"
 "Dates"	"Date"	"label"
-"Day View"	"Vista giornaliera"	"systabcontrol32"
 "Day"	"Giorno"	"radiobutton"
 "Day(s)"	"Giorno/i"	"combobox"
 "Days Remaining"	"Giorni rimanenti"	"combobox"

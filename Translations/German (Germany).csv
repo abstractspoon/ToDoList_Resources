@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Week Planner"	""	"systabcontrol32"
 TRANSLATED
 "% Complete"	"% erledigt"	"label"
 "% Complete:\t"	"% erledigt\t"	"text"
@@ -511,7 +513,6 @@ TRANSLATED
 "Date"	"Datum"	"label"
 "Date/Time Formatting"	"Datums-/Zeitformatierung"	"label"
 "Dates"	"Datum"	"label"
-"Day View"	"Tagesansicht"	"systabcontrol32"
 "Day"	"Am Tag ..."	"radiobutton"
 "Day(s)"	"Tag(e)"	"combobox"
 "Days Remaining"	"Verbleibende Tage"	"combobox"

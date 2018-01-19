@@ -1591,7 +1591,7 @@ NEED_TRANSLATION
 "The following tasklists have been checked in:\n\n%s"	""	"text"
 "The following tasklists have been checked out:\n\n%s"	""	"text"
 "The following tasklists have been reloaded:\n\n%s"	""	"text"
-"The following tasks are currently time tracked:\n\n%s"	""	"text"
+"The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
 "The following tasks are due by the end of next month"	""	"text"
 "The following tasks are due by the end of next week"	""	"text"
 "The following tasks are due by the end of this month"	""	"text"

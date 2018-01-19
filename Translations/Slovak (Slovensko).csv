@@ -1193,7 +1193,7 @@ TRANSLATED
 "By the end of the following month"	"Do konca nasledujúceho mesiaca"	"combobox"
 "By the end of the following week"	"Do konca nasledujúceho týždňa"	"combobox"
 "By"	"Kým"	"label"
-"Calculate a task's 'Remaining Time' as"	"Kalkulovať 'Zostávajúci čas' úlohy ako:"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Kalkulovať 'Zostávajúci čas' úlohy ako:"	"groupbox"
 "Calculate next occurrence"	"&Vypočítať nasledujúci výskyt"	"label"
 "Can be a file, folder, website, email, or task link"	"Linka na súbor, priečinok, webstránku, email alebo úlohu"	"text"
 "Cancel"	"Zrušiť"	"menu"

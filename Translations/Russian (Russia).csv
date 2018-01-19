@@ -350,7 +350,7 @@ TRANSLATED
 "By the end of the following month"	"В конце следующего месяца"	"combobox"
 "By the end of the following week"	"В конце следующей недели"	"combobox"
 "By"	"Кем создан"	"label"
-"Calculate a task's 'Remaining Time' as"	"Вычислять 'Оставшееся время' задачи как:"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Вычислять 'Оставшееся время' задачи как:"	"groupbox"
 "Calculate missing 'Due' dates as"	"Рассчитать пропущенные сроки выполнения как"	"groupbox"
 "Calculate missing 'Start' dates as"	"Рассчитать пропущенные сроки начала как"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"Рассчитать пропущенные сроки как более поздние, чем сроки начала задачи и Сегодня."	"checkbox"

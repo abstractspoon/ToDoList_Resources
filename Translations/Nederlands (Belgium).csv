@@ -438,7 +438,7 @@ TRANSLATED
 "By the end of the following month"	"Aan het einde van de onderstaande maand"	"combobox"
 "By the end of the following week"	"Aan het einde van de onderstaande week"	"combobox"
 "By"	"Met"	"label"
-"Calculate a task's 'Remaining Time' as"	"Bereken de 'Resterende Tijd' van een taak als"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Bereken de 'Resterende Tijd' van een taak als"	"groupbox"
 "Calculate missing 'Due' dates as"	"Bereken ontbrekende 'streef-' datums als"	"groupbox"
 "Calculate missing 'Start' dates as"	"Bereken ontbrekende 'start-' datums als"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"Bereken ontbrekende 'verval'datums als de laatste van 'startdatum' en 'vandaag'"	"checkbox"

@@ -450,7 +450,7 @@ TRANSLATED
 "By the end of the following month"	"Pod koniec następnego miesiąca"	"combobox"
 "By the end of the following week"	"Pod koniec następnego tygodnia"	"combobox"
 "By"	"Przez"	"label"
-"Calculate a task's 'Remaining Time' as"	"Licz 'Pozostały czas' zadania jako"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Licz 'Pozostały czas' zadania jako"	"groupbox"
 "Calculate missing 'Due' dates as"	"Licz brakującą 'Date Realizacji' jako"	"groupbox"
 "Calculate missing 'Start' dates as"	"Licz brakującą 'Date Rozpoczęcia' jako"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"Licz brakującą 'Date Realizacji' jako pożniejszą od daty rozpoczęcia date i 'today'."	"checkbox"

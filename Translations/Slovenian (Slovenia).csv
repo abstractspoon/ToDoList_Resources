@@ -353,7 +353,7 @@ TRANSLATED
 "By the end of the following month"	"Do konca naslednjega meseca"	"combobox"
 "By the end of the following week"	"Do konca naslednjega tedna"	"combobox"
 "By"	"Do"	"label"
-"Calculate a task's 'Remaining Time' as"	"Izračunaj 'Preostali čas' opravila kot"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Izračunaj 'Preostali čas' opravila kot"	"groupbox"
 "Calculate missing 'Due' dates as"	"Izračunaj manjkajoče datume 'Zapade', kot"	"groupbox"
 "Calculate missing 'Start' dates as"	"Izračunaj manjkajoče datume 'Začetek', kot"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"Izračunaj manjkajoče datume 'Zapade' kot kasnejše datume začetka opravila in 'Danes'."	"checkbox"

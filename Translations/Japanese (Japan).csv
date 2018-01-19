@@ -987,7 +987,7 @@ TRANSLATED
 "By the end of the following month"	"次の月の月末"	"combobox"
 "By the end of the following week"	"次の週の週末"	"combobox"
 "By"	"ずらす量"	"label"
-"Calculate a task's 'Remaining Time' as"	"「残り時間」の計算方法"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"「残り時間」の計算方法"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"期日がない場合には、タスクの開始日と「今日」の遅い方を期日として扱う"	"checkbox"
 "Calculate missing 'start' dates as being the earlier of the task's due date and 'today'."	"開始日がない場合には、タスクの期日と「今日」の早い方を開始日として扱う"	"checkbox"
 "Calculate next occurrence"	"繰り返しタスク生成の基準日："	"label"

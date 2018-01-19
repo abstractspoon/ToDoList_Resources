@@ -353,7 +353,7 @@ TRANSLATED
 "By the end of the following month"	"A finales del próximo mes"	"combobox"
 "By the end of the following week"	"A finales de la semana siguiente"	"combobox"
 "By"	"Por"	"label"
-"Calculate a task's 'Remaining Time' as"	"Calcula el 'Tiempo restante' de una tarea como:"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Calcula el 'Tiempo restante' de una tarea como:"	"groupbox"
 "Calculate missing 'Due' dates as"	"Calcular fecha 'Limite' vacío como"	"groupbox"
 "Calculate missing 'Start' dates as"	"Calcular fecha 'inicio' vacía como"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"Calcular fecha 'límite' vacía como siendo la última fecha de inicio de la tarea y 'hoy'."	"checkbox"

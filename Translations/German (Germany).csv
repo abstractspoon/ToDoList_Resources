@@ -354,7 +354,7 @@ TRANSLATED
 "By the end of the following month"	"Bis Ende des folgenden Monats"	"combobox"
 "By the end of the following week"	"Bis Ende der folgenden Woche"	"combobox"
 "By"	"durch (von)"	"label"
-"Calculate a task's 'Remaining Time' as"	"Berechne die 'Restzeit' einer Aufgabe als"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"Berechne die 'Restzeit' einer Aufgabe als"	"groupbox"
 "Calculate missing 'Due' dates as"	"Berechne fehlende 'Fällig'-Daten als"	"groupbox"
 "Calculate missing 'Start' dates as"	"Berechne fehlende 'Beginn'-Daten als"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"Berechne fehlendes Fälligkeitsdatum über späteren Wert von 'Startdatum' und 'Heute'"	"checkbox"

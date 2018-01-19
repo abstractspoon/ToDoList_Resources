@@ -348,7 +348,7 @@ NEED_TRANSLATION
 "By the end of the following month"	""	"combobox"
 "By the end of the following week"	""	"combobox"
 "By"	""	"label"
-"Calculate a task's 'Remaining Time' as"	""	"groupbox"
+"Display a task's 'Remaining Time' as:"	""	"groupbox"
 "Calculate missing 'Due' dates as"	""	"groupbox"
 "Calculate missing 'Start' dates as"	""	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	""	"checkbox"

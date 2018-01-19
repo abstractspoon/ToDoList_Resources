@@ -561,7 +561,7 @@ TRANSLATED
 "By the end of the following month"	"עד סוף החודש העוקב"	"combobox"
 "By the end of the following week"	"עד סוף השבוע העוקב"	"combobox"
 "By"	"עד"	"label"
-"Calculate a task's 'Remaining Time' as"	"חשב 'זמן נותר' למשימה כ-"	"groupbox"
+"Display a task's 'Remaining Time' as:"	"חשב 'זמן נותר' למשימה כ-"	"groupbox"
 "Calculate missing 'Due' dates as"	"חשב תאריכי 'יעד' חסרים כ-"	"groupbox"
 "Calculate missing 'Start' dates as"	"חשב תאריכי 'התחלה' חסרים כ-"	"groupbox"
 "Calculate missing 'due' dates as being the later of the task's start date and 'today'."	"חשב תאריכי 'יעד' חסרים, כמאוחר מבין זמן התחלת המשימה ו'היום'"	"checkbox"

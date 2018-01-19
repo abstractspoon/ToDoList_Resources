@@ -622,6 +622,7 @@ NEED_TRANSLATION
 "Rich Text"	""	"combobox"
 "Right"	""	"combobox"
 "Risk:\t\t"	""	"text"
+"Root"	""	"text"
 "Row count"	""	"label"
 "Run Tool Error"	""	"text"
 "Save As (%s)"	""	"text"

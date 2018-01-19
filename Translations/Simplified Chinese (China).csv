@@ -28,6 +28,7 @@ NEED_TRANSLATION
 "One Weekday"	"一个工作日"	"menu"
 "One Year"	"一年"	"menu"
 "Start date"	"开始日期"	"label"
+"Root"	""	"text"
 "Task title"	"任务标题"	"label"
 "The following files will be be overwritten by the export"	"以下文件将被导出"	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"

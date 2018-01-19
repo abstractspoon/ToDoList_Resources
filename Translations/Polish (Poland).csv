@@ -75,6 +75,7 @@ NEED_TRANSLATION
 "Quarter Centuries \t(eg. 2000-2024)"	""	"text"
 "Release Candidate"	""	"text"
 "Restore Default Font Size"	""	"menu"
+"Root"	""	"text"
 "Run Tool Error"	""	"text"
 "Save Task View to Image..."	""	"menu"
 "Schedule and Priority"	""	"text"

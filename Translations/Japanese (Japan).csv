@@ -474,6 +474,7 @@ NEED_TRANSLATION
 "Rich Text Preferences"	""	"dialog"
 "Right Align"	""	"tooltip"
 "Risk:\t\t"	""	"text"
+"Root"	""	"text"
 "Row count"	""	"label"
 "Run Tool Error"	""	"text"
 "Save As (%s)"	""	"text"

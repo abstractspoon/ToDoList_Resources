@@ -178,6 +178,7 @@ NEED_TRANSLATION
 "Resize Attribute Columns to Fit"	""	"menu"
 "Restore Default Font Size"	""	"menu"
 "Rich Text Preferences"	""	"dialog"
+"Root"	""	"text"
 "Run Tool Error"	""	"text"
 "Save As (%s)"	""	"text"
 "Save Task View to Image..."	""	"menu"

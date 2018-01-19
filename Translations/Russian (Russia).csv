@@ -2,6 +2,7 @@
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Root"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
 "Week Planner"	""	"systabcontrol32"
 TRANSLATED

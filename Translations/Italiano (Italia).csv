@@ -27,6 +27,7 @@ NEED_TRANSLATION
 "One Week"	""	"menu"
 "One Weekday"	""	"menu"
 "One Year"	""	"menu"
+"Root"	""	"text"
 "Start date"	""	"label"
 "Task title"	""	"label"
 "The following files will be be overwritten by the export"	""	"text"

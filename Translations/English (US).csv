@@ -1295,6 +1295,7 @@ NEED_TRANSLATION
   "Risk"	""	"combobox"
   "Risk"	""	"label"
 "Risk:\t\t"	""	"text"
+"Root"	""	"text"
 "Round 'Time Estimate/Spent' to whole numbers"	""	"checkbox"
 "Row count"	""	"label"
 "Run Tool Error"	""	"text"

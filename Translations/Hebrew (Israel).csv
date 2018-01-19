@@ -154,6 +154,7 @@ NEED_TRANSLATION
 "Restore Default Font Size"	""	"menu"
 "Rich Text Preferences"	""	"dialog"
 "Risk:\t\t"	""	"text"
+"Root"	""	"text"
 "Run Tool Error"	""	"text"
 "Save Task View to Image..."	""	"menu"
 "Schedule and Priority"	""	"text"

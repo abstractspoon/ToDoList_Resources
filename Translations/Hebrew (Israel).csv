@@ -69,6 +69,7 @@ NEED_TRANSLATION
 "Dependents:\t"	""	"text"
 "Development Preview"	""	"text"
 "Display a task as 'Flagged' if any of its subtasks are flagged"	""	"checkbox"
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Display the following attributes for each task"	""	"groupbox"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
 "Do you want to delete the existing column definitions?"	""	"text"

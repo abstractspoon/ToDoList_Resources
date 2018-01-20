@@ -8,6 +8,7 @@ NEED_TRANSLATION
 "Configure..."	"配置"	"button"
 "Create Tasks From Outlook"	"从Outlook创建任务"	"dialog"
 "Created by"	"创建者"	"label"
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Due date"	"到期日"	"label"
 "Edit Tool Name"	"编辑工具名称"	"tooltip"
 "Forwards By"	"向前"	"menu"

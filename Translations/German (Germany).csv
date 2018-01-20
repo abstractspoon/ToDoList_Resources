@@ -2,6 +2,7 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Root"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
 "Week Planner"	""	"systabcontrol32"

@@ -211,6 +211,7 @@ NEED_TRANSLATION
 "Display 'Alloc To' after task's gantt bar"	""	"checkbox"
 "Display 'Alloc To' column"	""	"checkbox"
 "Display a task as 'Flagged' if any of its subtasks are flagged"	""	"checkbox"
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Display confirmation dialog for each period logged"	""	"checkbox"
 "Display task 'Completion' dates"	""	"checkbox"
 "Display task 'Due' dates"	""	"checkbox"

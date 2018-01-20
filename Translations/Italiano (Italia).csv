@@ -8,6 +8,7 @@ NEED_TRANSLATION
 "Configure..."	""	"button"
 "Create Tasks From Outlook"	""	"dialog"
 "Created by"	""	"label"
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Due date"	""	"label"
 "Edit Tool Name"	""	"tooltip"
 "Forwards By"	""	"menu"

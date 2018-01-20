@@ -579,6 +579,7 @@ NEED_TRANSLATION
 "Display a task as 'Flagged' if any of its subtasks are flagged"	""	"checkbox"
 "Display a task's '% Completion' as being equal to its 'Time Spent' divided by its 'Time Estimate'"	""	"checkbox"
 "Display a task's 'Due Date' as"	""	"groupbox"
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Display a task's 'Start Date' as"	""	"groupbox"
 "Display a task's priority/risk as being the highest of its and all its subtasks' priorities/risks"	""	"checkbox"
 "Display a warning if I attempt to add or delete tasks from an archive"	""	"checkbox"

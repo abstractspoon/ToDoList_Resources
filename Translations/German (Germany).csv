@@ -3,10 +3,10 @@ PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
-"Root"	""	"text"
-"The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
-"Week Planner"	""	"systabcontrol32"
 TRANSLATED
+"Root"	"Stamm"	"text"
+"The following task has been tracked for %d minutes:\n\n%s: %s"	"Für die folgende Aufgabe wurde diese Zeit erfasst: %d Minuten:\n\n%s: %s"	"text"
+"Week Planner"	"Wochenplaner"	"systabcontrol32"
 "% Complete"	"% erledigt"	"label"
 "% Complete:\t"	"% erledigt\t"	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f kB bisher heruntergeladen (%0.1f kB verbleibend)"	"text"

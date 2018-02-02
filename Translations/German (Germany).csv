@@ -3,6 +3,9 @@ PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
+"Hide tasks whose Start and Due dates do not fall on the same day"	""	"checkbox"
+"Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
+"Hide tasks whose Start and Due times are not set"	""	"checkbox"
 TRANSLATED
 "Root"	"Stamm"	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	"Für die folgende Aufgabe wurde diese Zeit erfasst: %d Minuten:\n\n%s: %s"	"text"

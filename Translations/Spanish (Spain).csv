@@ -6,6 +6,7 @@ NEED_TRANSLATION
 "Hide tasks whose Start and Due dates do not fall on the same day"	""	"checkbox"
 "Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
 "Hide tasks whose Start and Due times are not set"	""	"checkbox"
+"Week Planner Preferences"	""	"dialog"
 TRANSLATED
 "% Complete"	"% Finalizado"	"label"
 "% Complete:\t"	"% Completo:\t"	"text"

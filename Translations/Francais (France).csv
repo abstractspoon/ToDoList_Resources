@@ -284,6 +284,7 @@ NEED_TRANSLATION
 "W\t(weeks)"	""	"text"
 "Web Page (.html)|Web Pages (*.html, *.htm)|*.html;*.htm||"	""	"text"
 "Week Planner"	""	"systabcontrol32"
+"Week Planner Preferences"	""	"dialog"
 "When time-tracking, remind me every"	""	"checkbox"
 "When"	""	"label"
 "Word Cloud"	""	"systabcontrol32"

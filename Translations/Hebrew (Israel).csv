@@ -233,6 +233,7 @@ NEED_TRANSLATION
 "Version:\t\t"	""	"text"
 "W\t(weeks)"	""	"text"
 "Week Planner"	""	"systabcontrol32"
+"Week Planner Preferences"	""	"dialog"
 "When time-tracking, remind me every"	""	"checkbox"
 "When"	""	"label"
 "Window %d"	""	"menu"

@@ -9,6 +9,7 @@ NEED_TRANSLATION
 "Root"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
 "Week Planner"	""	"systabcontrol32"
+"Week Planner Preferences"	""	"dialog"
 TRANSLATED
 "% Complete"	"Завершено %"	"label"
 "% Complete:\t"	"Завершено %:\t"	"text"

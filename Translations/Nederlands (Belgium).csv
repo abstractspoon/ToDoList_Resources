@@ -106,6 +106,7 @@ NEED_TRANSLATION
 "Treat subtasks of 'Locked' tasks as also being locked"	""	"checkbox"
 "Type a version"	""	"text"
 "Week Planner"	""	"systabcontrol32"
+"Week Planner Preferences"	""	"dialog"
 "Word Cloud"	""	"systabcontrol32"
 "\n-copy <attrib1> <attrib2>\tCopies the value for 'attrib1' to 'attrib2' for the currently selected task\n-cs <cost>\tSets the 'Cost' for the currently selected task\n-md <date>\tSets the 'Creation Date' of the newly created task\n-sd <date>\tSets the 'Start Date' for the currently selected task\n-dd <date>\tSets the 'Due Date' for the currently selected task\n-cd <date>\tSets the 'Completion Date' for the currently selected task\n"	""	"text"
 TRANSLATED

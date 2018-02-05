@@ -708,6 +708,7 @@ NEED_TRANSLATION
 "Web Page (*.htm, *.html)|*.htm;*.html|Text File (*.txt)|*.txt|All Files (*.*)|*.*||"	""	"text"
 "Web Page (.html)|Web Pages (*.html, *.htm)|*.html;*.htm||"	""	"text"
 "Week Planner"	""	"systabcontrol32"
+"Week Planner Preferences"	""	"dialog"
 "Weekday(s)"	""	"combobox"
 "Weeks, narrow"	""	"combobox"
 "Weeks, wide"	""	"combobox"

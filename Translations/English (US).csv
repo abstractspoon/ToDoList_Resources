@@ -1837,6 +1837,7 @@ NEED_TRANSLATION
 "Web Page (.html)"	""	"combobox"
 "Web Page (.html)|Web Pages (*.html, *.htm)|*.html;*.htm||"	""	"text"
 "Week Planner"	""	"systabcontrol32"
+"Week Planner Preferences"	""	"dialog"
 "Week(s)"	""	"combobox"
 "Weekday(s)"	""	"combobox"
 "Weekly"	""	"radiobutton"

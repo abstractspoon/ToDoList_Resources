@@ -1,14 +1,13 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
-"Hide tasks whose Start and Due dates do not fall on the same day"	""	"checkbox"
-"Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
-"Hide tasks whose Start and Due times are not set"	""	"checkbox"
-"Week Planner Preferences"	""	"dialog"
 TRANSLATED
-"Root"	"Stamm"	"text"
+"Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	"Letzte Änderung einer Aufgabe anzeigen als letzte der Aufgabe und all ihrer Teilaufgaben"	"checkbox"
+"Hide tasks whose Start and Due dates do not fall on the same day"	"Aufgaben ausblenden, wenn Beginn oder Fälligkeit nicht auf den gleichen Tag fallen"	"checkbox"
+"Hide tasks whose Start and Due times are not set"	"Aufgaben ausblenden, wenn Beginn und Fälligkeit nicht gesetzt sind"	"checkbox"
+"Hide tasks whose Start or Due date does not fall in the current week"	"Aufgaben ausblenden, wenn Beginn oder Fälligkeit nicht in die aktuelle Woche fallen"	"checkbox"
+"Week Planner Preferences"	"Einstellungen für Wochenplaner"	"dialog"
+"Root"	"Wurzel"	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	"Für die folgende Aufgabe wurde diese Zeit erfasst: %d Minuten:\n\n%s: %s"	"text"
 "Week Planner"	"Wochenplaner"	"systabcontrol32"
 "% Complete"	"% erledigt"	"label"
@@ -60,7 +59,7 @@ TRANSLATED
 "'Started' task colour"	"Farbe 'Begonnen'"	"checkbox"
 "'Today' colour"	"Farbe für 'Heute'"	"checkbox"
 "'Weekend' colour"	"Farbe für Wochenende"	"checkbox"
-"'{0}' appears in {1} task(s)"	"'{0}' erscheint in {1} Augabe(n)"	"tooltip"
+"'{0}' appears in {1} task(s)"	"'{0}' erscheint in {1} Aufgabe(n)"	"tooltip"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	"(Hinweis: Verwenden sie diese Option nur wenn sie sicher sind, dass die eingehenden Aufgaben die richtige Aufgaben-ID haben.)"	"label"
 "(Relative)"	"(Relativ)"	"text"
 "(completed: %s)"	"(abgeschlossen: %s)"	"text"
@@ -258,6 +257,7 @@ TRANSLATED
 "Analyse Logged Time"	"Zeitprotokoll analysieren"	"dialog"
 "Analyse Logged Time..."	"Zeitprotokoll analysieren..."	"menu"
 "And/Or"	"Und/Oder"	"sysheader32"
+"And then stop the timer"	"und beende die Zeiterfassung"	"label"
 "Anonymous Login"	"Anonymer Login"	"checkbox"
 "Any category can match"	"Irgendeine Kategorie kann zutreffen"	"text"
 "Any person can match"	"Irgendeine Person kann zutreffen"	"text"
@@ -808,7 +808,8 @@ TRANSLATED
 "Hide completed tasks"	"Verberge erledigte Aufgaben"	"text"
 "Hide confidential attributes"	"Verstecke vertrauliche Attribute"	"checkbox"
 "Hide overdue tasks"	"Verberge überfällige Aufgaben"	"text"
-"Hide parent tasks (List View)"	"Verberge Hauptaufgabe (Listenansicht)"	"text"
+"Hide parent tasks (List View)"	"Hauptaufgaben ausblenden (Listenansicht)"	"text"
+"Hide parent tasks"	"Hauptaufgaben ausblenden"	"checkbox"
 "Hide tab bar when only one tasklist is open"	"Verbergen, wenn nur eine Aufgabenliste offen ist"	"checkbox"
 "Hide the splitter bar between the task titles and attribute columns"	"Verberge Trennbalken zwischen Aufgabentiteln und Attributspalten"	"checkbox"
 "Hide un-mapped attributes"	"Verstecke nicht gemappte Attribute"	"checkbox"

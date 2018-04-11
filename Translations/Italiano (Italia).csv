@@ -2,7 +2,8 @@
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"<multiple formats>"	""	"text"
+""'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"Non è stato possibile sbloccare '%s'\npoiché è già stato sbloccato da '%s'"	"text"
+<multiple formats>"	""	"text"
 "<no such task>"	""	"text"
 "Backwards By"	""	"menu"
 "Configure..."	""	"button"
@@ -56,7 +57,6 @@ TRANSLATED
 "%s [%s]"	"%s [%s]"	"text"
 "'%s' contained no tasks which could be imported."	"“%s” non contiene alcun compito che può essere importato."	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"Impossibile sbloccare '%s'.\n\nVerificare che non sia stato rimosso o eliminato e di avere i necessari diritti di accesso."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"Non è stato possibile sbloccare '%s'\npoiché è già stato sbloccato da '%s'"	"text"
 "'%s' could not be found."	"Non è stato possibile trovare '%s'."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"Non è stato possibile aprire '%s' (%d).\n\nVerificare che il file esista e di avere i necessari diritti di accesso prima di riprovare."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"Non è stato possibile aprire '%s' poiché l'accesso al file è stato negato. \n\nVerificare di avere i necessari diritti di accesso e riprovare."	"text"

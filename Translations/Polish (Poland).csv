@@ -2,6 +2,7 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' nie może być wyrejestrowany\nbo został już wyrejestrowany wcześniej '%s'"	"text"
 "'%s' could not be opened because the network location is not currently accessible."	""	"text"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"
 "'{0}' appears in {1} task(s)"	""	"tooltip"
@@ -135,7 +136,6 @@ TRANSLATED
 "%s [%s]"	"%s [%s]"	"text"
 "'%s' contained no tasks which could be imported."	"Plik '%s' nie zawiera zadania które może być imporotowane"	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"'%s' nie może być wyrejestrowany.\n\nProszę o sprawdzenie czy nie został przeniesiony lub skasowany i czy masz odpowiednie uprawnienia dostępu."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"'%s' nie może być wyrejestrowany\nbo został już wyrejestrowany wcześniej '%s'"	"text"
 "'%s' could not be found."	"'%s' nie może być znaleziony."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"'%s' nie może być otwarte (%d).\n\nProszę o sprawdzenie czy plik istnieje i czy masz odpowiedni poziom dostępu."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"'%s' nie mógł być otwart ponieważ nastąpila odmowa dostępu.\n\nProszę sprawdzić czy posiadasz odpowiedni poziom dostępu i spróbować ponownie."	"text"

@@ -2,6 +2,7 @@
 PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' kan niet worden uitgecheckt\nwant momenteel uitgecheckt voor '%s'"	"text"
 "'%s' could not be opened because the network location is not currently accessible."	""	"text"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"
 "'{0}' appears in {1} task(s)"	""	"tooltip"
@@ -123,7 +124,6 @@ TRANSLATED
 "%s [%s]"	"%s [%s]"	"text"
 "'%s' contained no tasks which could be imported."	"Bestand '%s' bevat geen taken die geïmporteerd kunnen worden."	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"'%s' kan niet worden uitgecheckt.\n\nControleer dat hij niet is verplaatst of verwijderd en dat je voldoende toegangsrechten hebt."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"'%s' kan niet worden uitgecheckt\nwant momenteel uitgecheckt voor '%s'"	"text"
 "'%s' could not be found."	"'%s' kan niet gevonden worden."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"'%s' kan niet worden geopend (%d).\n\nControleer dat het bestand bestaat en dat je voldoende toegangsrechten hebt vooraleer je opnieuw probeert."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"'%s' kan niet worden geopend want toegang tot het bestand is niet mogelijk.\n\nControleer dat je voldoende toegangsrechten hebt vooraleer je opnieuw probeert."	"text"

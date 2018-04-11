@@ -2,6 +2,7 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' ni bilo mogoče odjaviti, \nker je trenutno prijavljena v '%s'"	"text"
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Root"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
@@ -22,7 +23,6 @@ TRANSLATED
 "'{0}' appears in {1} task(s)"	"'{0}' se prikaže v {1} opravilih"	"tooltip"
 "'%s' contained no tasks which could be imported."	"'%s' ne vsebuje nobenih opravil, ki bi jih bilo mogoče uvažati."	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"'%s' ni bilo mogoče odjaviti.\n\nPreverite, da ni bila premaknjena ali izbrisana in, da imate zahtevane pravice dostopa."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"'%s' ni bilo mogoče odjaviti, \nker je trenutno prijavljena v '%s'"	"text"
 "'%s' could not be found."	"'%s' ni bilo mogoče najti."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"'%s' ni bilo mogoče odpreti (%d).\n\nPreverite, ali datoteka obstaja in ali imate zahtevane pravice dostopa, preden poskusite znova."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"'%s' ni bilo mogoče odpreti, ker je bil dostop do datoteke zavrnjen.\n\nPreverite, ali imate zahtevane pravice in poskusite znova."	"text"

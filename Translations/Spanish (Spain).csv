@@ -2,6 +2,7 @@
 PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' no puede ser desprotegido\nporque actualmente esta desprotegido '%s'"	"text"
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Hide tasks whose Start and Due dates do not fall on the same day"	""	"checkbox"
 "Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
@@ -21,7 +22,6 @@ TRANSLATED
 "%s [%s]"	"%s [%s]"	"text"
 "'%s' contained no tasks which could be imported."	"El archivo '%s' no contiene tareas que puedan ser importadas."	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"'%s' no se pudo verificar.\n\nPor favor, compruebe que no se ha movido o eliminado y que tiene los derechos de acceso necesarios."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"'%s' no puede ser desprotegido\nporque actualmente esta desprotegido '%s'"	"text"
 "'%s' could not be found."	"'%s' no se pudo encontrar."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"'%s'no puede ser abierto (%d).\n\nPor favor compruebe si el archivo existe y si tiene derechos de acceso apropiados antes de escribir de nuevo."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"'%s' no puede ser abierto porque el acceso al archivo ha sido denegado.\n\nPor favor comprueba si tienes los permisos necesarios e inténtalo de nuevo."	"text"

@@ -16,7 +16,7 @@ NEED_TRANSLATION
 "'{0}' appears in {1} task(s)"	""	"tooltip"
 "'%s' contained no tasks which could be imported."	""	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	""	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	""	"text"
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	""	"text"
 "'%s' could not be found."	""	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	""	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	""	"text"

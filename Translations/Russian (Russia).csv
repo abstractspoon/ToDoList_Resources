@@ -2,6 +2,7 @@
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' не может быть проверен\nт.к. сейчас проверяется '%s'"	"text"
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Hide tasks whose Start and Due dates do not fall on the same day"	""	"checkbox"
 "Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
@@ -24,7 +25,6 @@ TRANSLATED
 "%s [%s]"	"%s [%s]"	"text"
 "'%s' contained no tasks which could be imported."	"Файл '%s' не содержит задач для импорта."	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"'%s' не может быть проверен.\n\nУбедитесь, что файл не перемещен или удален и что вы имеете к нему доступ."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"'%s' не может быть проверен\nт.к. сейчас проверяется '%s'"	"text"
 "'%s' could not be found."	"'%s' не найден."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"%s' невозможно открыть (%d).\n\nУбедитесь в наличии файла прав на доступ и попробуйте открыть его снова."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"%s' не может быть открыт из-за отказа доступа к файлу.\n\nПожалуйста, убедитесь в наличии необходимых разрешений и попробуйте снова."	"text"

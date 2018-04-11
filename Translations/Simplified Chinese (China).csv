@@ -2,6 +2,7 @@ TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"“%s”无法检出\n因为当前已被检出到“%s”"	"text"
 "<multiple formats>"	"多种格式"	"text"
 "<no such task>"	"<没有这样的任务>"	"text"
 "Backwards By"	"后退"	"menu"
@@ -56,7 +57,6 @@ TRANSLATED
 "%s [%s]"	"%s [%s]"	"text"
 "'%s' contained no tasks which could be imported."	"文件“%s”不包含可以导入的任务"	"text"
 "'%s' could not be checked out.\n\nPlease check that it has not been moved or deleted and that you have the required access rights."	"“%s” 无法检出. \n\n请检查它是否被移动或删除,并且您具有所需的访问权限."	"text"
-"'%s' could not be checked out\nbecause it is currently checked out to '%s'"	"“%s”无法检出\n因为当前已被检出到“%s”"	"text"
 "'%s' could not be found."	"“%s”无法找到."	"text"
 "'%s' could not be opened (%d).\n\nPlease check that the file exists and that you have the appropriate access rights before trying again."	"“%s”无法打开(%d).\n\n再次尝试前,请检查文件是否存在和您是否具有相应的访问权限."	"text"
 "'%s' could not be opened because access to the file was denied.\n\nPlease check that you have the required permissions and try again."	"“%s”无法打开,因为访问文件时被拒绝.\n\n请检查您具有所需权限后再试一次."	"text"

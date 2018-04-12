@@ -2,7 +2,8 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' konnte nicht ausgecheckt werden;\nes ist bereits ausgecheckt von '%s'."	"text"
+"'%s' could not be checked out \nbecause it is currently checked out to '%s' (Last saved: %s)."	"'%s' konnte nicht ausgecheckt werden;\nes ist bereits ausgecheckt von '%s'."	"text"
+"\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
 TRANSLATED
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	"Letzte Änderung einer Aufgabe anzeigen als letzte der Aufgabe und all ihrer Teilaufgaben"	"checkbox"
 "Hide tasks whose Start and Due dates do not fall on the same day"	"Aufgaben ausblenden, wenn Beginn oder Fälligkeit nicht auf den gleichen Tag fallen"	"checkbox"

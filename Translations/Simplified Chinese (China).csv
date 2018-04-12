@@ -2,7 +2,7 @@ TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"“%s”无法检出\n因为当前已被检出到“%s”"	"text"
+"'%s' could not be checked out \nbecause it is currently checked out to '%s' (Last saved: %s)."	"“%s”无法检出\n因为当前已被检出到“%s”"	"text"
 "<multiple formats>"	"多种格式"	"text"
 "<no such task>"	"<没有这样的任务>"	"text"
 "Backwards By"	"后退"	"menu"
@@ -42,6 +42,7 @@ NEED_TRANSLATION
 "Treat overdue tasks as being due 'Today'"	"把逾期的任务视为“今天”"	"checkbox"
 "Week Planner"	""	"systabcontrol32"
 "Week Planner Preferences"	""	"dialog"
+"\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
 "\n-copy <attrib1> <attrib2>\tCopies the value for 'attrib1' to 'attrib2' for the currently selected task\n-cs <cost>\tSets the 'Cost' for the currently selected task\n-md <date>\tSets the 'Creation Date' of the newly created task\n-sd <date>\tSets the 'Start Date' for the currently selected task\n-dd <date>\tSets the 'Due Date' for the currently selected task\n-cd <date>\tSets the 'Completion Date' for the currently selected task\n"	"\n-copy <attrib1> <attrib2>\t将当前所选任务的“属性1”值复制到“属性2”\n-cs <cost>\t设置当前所选任务的“成本”\n-md <date>\t设置新创建的任务的“创建日期”\n-sd <date>\t为当前选定的任务设置“开始日期”\n-dd <date>\t设置“到期日”当前所选任务\n-cd <date>\t为当前所选任务设置“完成日期”\n"	"text"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"

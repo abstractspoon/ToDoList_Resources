@@ -2,7 +2,7 @@
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-""'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"Non è stato possibile sbloccare '%s'\npoiché è già stato sbloccato da '%s'"	"text"
+""'%s' could not be checked out \nbecause it is currently checked out to '%s' (Last saved: %s)."	"Non è stato possibile sbloccare '%s'\npoiché è già stato sbloccato da '%s'"	"text"
 <multiple formats>"	""	"text"
 "<no such task>"	""	"text"
 "Backwards By"	""	"menu"
@@ -42,6 +42,7 @@ NEED_TRANSLATION
 "Treat overdue tasks as being due 'Today'"	""	"checkbox"
 "Week Planner"	""	"systabcontrol32"
 "Week Planner Preferences"	""	"dialog"
+"\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
 "\n-copy <attrib1> <attrib2>\tCopies the value for 'attrib1' to 'attrib2' for the currently selected task\n-cs <cost>\tSets the 'Cost' for the currently selected task\n-md <date>\tSets the 'Creation Date' of the newly created task\n-sd <date>\tSets the 'Start Date' for the currently selected task\n-dd <date>\tSets the 'Due Date' for the currently selected task\n-cd <date>\tSets the 'Completion Date' for the currently selected task\n"	""	"text"
 TRANSLATED
 "% Complete"	"% completo"	"label"

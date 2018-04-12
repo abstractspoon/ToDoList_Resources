@@ -2,12 +2,13 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' ni bilo mogoče odjaviti, \nker je trenutno prijavljena v '%s'"	"text"
+"'%s' could not be checked out \nbecause it is currently checked out to '%s' (Last saved: %s)."	"'%s' ni bilo mogoče odjaviti, \nker je trenutno prijavljena v '%s'"	"text"
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Root"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
 "Week Planner"	""	"systabcontrol32"
 "Week Planner Preferences"	""	"dialog"
+"\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
 TRANSLATED
 "% Complete"	"% končano"	"label"
 "% Complete:\t"	"% končano:\t"	"text"

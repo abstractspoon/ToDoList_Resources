@@ -2,7 +2,7 @@
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"'%s' could not be checked out \nbecause it is currently checked out to '%s'.\n\nThe file was last saved on %s."	"'%s' не может быть проверен\nт.к. сейчас проверяется '%s'"	"text"
+"'%s' could not be checked out \nbecause it is currently checked out to '%s' (Last saved: %s)."	"'%s' не может быть проверен\nт.к. сейчас проверяется '%s'"	"text"
 "Display a task's 'Last Modified' date as the latest of its and all its subtasks' last modified dates"	""	"checkbox"
 "Hide tasks whose Start and Due dates do not fall on the same day"	""	"checkbox"
 "Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
@@ -11,6 +11,7 @@ NEED_TRANSLATION
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
 "Week Planner"	""	"systabcontrol32"
 "Week Planner Preferences"	""	"dialog"
+"\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
 TRANSLATED
 "% Complete"	"Завершено %"	"label"
 "% Complete:\t"	"Завершено %:\t"	"text"

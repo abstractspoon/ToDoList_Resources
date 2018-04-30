@@ -22,14 +22,20 @@ To install ToDoList, carry out the following steps:
    something else, and click OK to complete the file extraction.
 
 4. When you are ready double-click 'ToDoList.exe' to start working.
+   
+----------------------------------------------------------------------
+Extra steps for Windows 8/8.1/10 users with 4K screens
 
-------------------------------------
-Extra steps for XP users
+1. Rename the file 'todolist.exe.4K.manifest' to 'todolist.exe.manifest',
+   otherwise Windows will auto-scale ToDoList which may appear blurry.
 
-1. Rename the file 'todolist.exe.xp.manifest' to 'todolist.exe.manifest',
+----------------------------------------------------------------------
+Extra steps for Windows XP users
+
+1. Rename the file 'todolist.exe.XP.manifest' to 'todolist.exe.manifest',
    otherwise ToDoList will not run.
 
-2. To enable the 'Day View' and 'Word Cloud' plugins, download and install:
+2. To enable the 'Day View', 'Word Cloud' and 'Mind Map' plugins, download and install:
 
    a) .NET Framework 4.0:
    https://www.microsoft.com/en-au/download/confirmation.aspx?id=17718

@@ -1,16 +1,15 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Find/Replace In Task Titles..."	""	"menu"
-"Image"	""	"text"
-"Mind Map"	""	"systabcontrol32"
-"Move Down"	""	"button"
-"Move Up"	""	"button"
-"User Interface>General>Custom Toolbar"	""	"text"
-"User Interface>General>Main Toolbar"	""	"text"
-"User Interface>General>Task View Visibility"	""	"text"
 TRANSLATED
+"Find/Replace In Task Titles..."	"In Aufgabentiteln suchen/ersetzen..."	"menu"
+"Image"	"Bild"	"text"
+"Mind Map"	"Mind Map"	"systabcontrol32"
+"Move Down"	"Nach unten schieben"	"button"
+"Move Up"	"Nach oben schieben"	"button"
+"User Interface>General>Custom Toolbar"	"Benutzerschnittstelle>Allgemein>Angepasste Werkzeugleiste"	"text"
+"User Interface>General>Main Toolbar"	"Benutzerschnittstelle>Allgemein>Haupt-Werkzeugleiste"	"text"
+"User Interface>General>Task View Visibility"	"Benutzerschnittstelle>Allgemein>Aufgabenansichten"	"text"
 "% Complete"	"% erledigt"	"label"
 "% Complete:\t"	"% erledigt\t"	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f kB bisher heruntergeladen (%0.1f kB verbleibend)"	"text"

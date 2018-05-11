@@ -2,13 +2,13 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"<New Button>"	""	"text"
-"<separator>"	""	"text"
-"Display 'Task Title' after task's gantt bar"	""	"checkbox"
-"Elapsed time"	""	"label"
-"Last Mod. By"	""	"text"
-"Main Toolbar"	""	"label"
-"User Interface>Custom Toolbar"	""	"text"
+"<New Button>"	"<新按钮>"	"text"
+"<separator>"	"分隔符"	"text"
+"Display 'Task Title' after task's gantt bar"	"在任务标题后显示甘特图"	"checkbox"
+"Elapsed time"	"经过的时间"	"label"
+"Last Mod. By"	"最后一个Mod."	"text"
+"Main Toolbar"	"主工具栏"	"label"
+"User Interface>Custom Toolbar"	"用户界面>自定义工具栏"	"text"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"

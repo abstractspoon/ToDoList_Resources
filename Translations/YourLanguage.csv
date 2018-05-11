@@ -486,7 +486,6 @@ NEED_TRANSLATION
 "Create Tasks From Outlook"	""	"dialog"
 "Create a new task"	""	"combobox"
   "Create a new task"	""	"radiobutton"
-"Create a New Tasklist"	""	"tooltip"
 "Created By"	""	"sysheader32"
   "Created By"	""	"combobox"
   "Created By"	""	"menu"

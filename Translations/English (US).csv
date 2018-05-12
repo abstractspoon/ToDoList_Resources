@@ -1487,7 +1487,7 @@ NEED_TRANSLATION
 "Task Not Found"	""	"text"
 "Task Occurs"	""	"groupbox"
 "Task Path"	""	"menu"
-"Task Reminder"	""	"dialog"
+"Task Reminders (%d)"	""	"dialog"
 "Task Title"	""	"menu"
 "Task Tree"	""	"menu"
   "Task Tree"	""	"systabcontrol32"

@@ -1718,7 +1718,7 @@ TRANSLATED
 "Task Link (full)"	"タスクリンク（フルパス）"	"menu"
 "Task Link"	"タスクリンク"	"menu"
 "Task Path"	"タスクパス"	"menu"
-"Task Reminder"	"タスクのリマインダ"	"dialog"
+"Task Reminders (%d)"	"タスクのリマインダ"	"dialog"
 "Task Title"	"タスク名"	"menu"
 "Task Tree"	"タスクツリー"	"menu"
   "Task Tree"	""	"systabcontrol32"

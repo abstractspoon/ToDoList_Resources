@@ -1499,7 +1499,7 @@ TRANSLATED
 "Task Not Found"	"任务没找到"	"text"
 "Task Occurs"	"任务发生"	"groupbox"
 "Task Path"	"任务路径(&P)"	"menu"
-"Task Reminder"	"任务提醒器"	"dialog"
+"Task Reminders (%d)"	"任务提醒器"	"dialog"
 "Task Title"	"任务标题(&T)"	"menu"
 "Task Tree"	"任务树"	"menu"
   "Task Tree"	"任务树"	"systabcontrol32"

@@ -770,7 +770,7 @@ NEED_TRANSLATION
 "Task Matches"	""	"text"
 "Task Not Found"	""	"text"
 "Task Occurs"	""	"groupbox"
-"Task Reminder"	""	"dialog"
+"Task Reminders (%d)"	""	"dialog"
 "Task View Font"	""	"menu"
 "Task View Tab Bar"	""	"menu"
 "Task View Visibility %d"	""	"menu"

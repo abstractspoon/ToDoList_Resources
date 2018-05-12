@@ -1507,7 +1507,7 @@ TRANSLATED
 "Task Not Found"	"Задача не найдена"	"text"
 "Task Occurs"	"Задача наступает"	"groupbox"
 "Task Path"	"Путь задачи"	"menu"
-"Task Reminder"	"Напоминание задачи"	"dialog"
+"Task Reminders (%d)"	"Напоминание задачи"	"dialog"
 "Task Title"	"Название задачи"	"menu"
 "Task Tree"	"Дерево задач"	"menu"
 "Task View Font"	"Шрифт Вида 'Задачи'"	"menu"

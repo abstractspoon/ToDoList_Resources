@@ -1567,7 +1567,7 @@ TRANSLATED
 "Task Not Found"	"Zadanie nie znalezione"	"text"
 "Task Occurs"	"Występowanie zadania"	"groupbox"
 "Task Path"	"Ścieżka zadania"	"menu"
-"Task Reminder"	"Przypomnienie o zadaniu"	"dialog"
+"Task Reminders (%d)"	"Przypomnienie o zadaniu"	"dialog"
 "Task Title"	"Tytuł zadania"	"menu"
 "Task Tree"	"Drzewo zadania"	"menu"
   "Task Tree"	"Drzewo zadania"	"systabcontrol32"

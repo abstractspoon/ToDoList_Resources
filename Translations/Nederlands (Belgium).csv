@@ -1557,7 +1557,7 @@ TRANSLATED
 "Task Not Found"	"Taak niet gevonden"	"text"
 "Task Occurs"	"Taak gebeurt"	"groupbox"
 "Task Path"	"Taak pad"	"menu"
-"Task Reminder"	"Taakherinnering"	"dialog"
+"Task Reminders (%d)"	"Taakherinnering"	"dialog"
 "Task Title"	"Taaktitel"	"menu"
 "Task Tree"	"Boomstructuur"	"menu"
   "Task Tree"	"Boomstructuur"	"systabcontrol32"

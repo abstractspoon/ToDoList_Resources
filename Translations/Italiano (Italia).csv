@@ -1546,7 +1546,7 @@ TRANSLATED
 "Task Not Found"	"Compito non trovato"	"text"
 "Task Occurs"	"Il compito si verifica"	"groupbox"
 "Task Path"	"&Percorso dei compiti"	"menu"
-"Task Reminder"	"Promemoria del compito"	"dialog"
+"Task Reminders (%d)"	"Promemoria del compito"	"dialog"
 "Task Title"	"&Titolo del compito"	"menu"
 "Task Tree"	"Albero dei compiti"	"menu"
   "Task Tree"	"Albero dei compiti"	"systabcontrol32"

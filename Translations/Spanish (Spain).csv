@@ -1517,7 +1517,7 @@ TRANSLATED
 "Task Not Found"	"Tarea No Encontrada"	"text"
 "Task Occurs"	"La Tarea Ocurre"	"groupbox"
 "Task Path"	"Ruta de la tarea"	"menu"
-"Task Reminder"	"Recordatorio de tarea"	"dialog"
+"Task Reminders (%d)"	"Recordatorio de tarea"	"dialog"
 "Task Title"	"Título de tarea"	"menu"
 "Task Tree"	"Árbol de tareas"	"menu"
   "Task Tree"	""	"systabcontrol32"

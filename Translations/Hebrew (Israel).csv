@@ -1596,7 +1596,7 @@ TRANSLATED
 "Task Not Found"	"משימה לא נמצאה"	"text"
 "Task Occurs"	"משימה מופיעה"	"groupbox"
 "Task Path"	"נתיב משימה"	"menu"
-"Task Reminder"	"תזכורת משימה"	"dialog"
+"Task Reminders (%d)"	"תזכורת משימה"	"dialog"
 "Task Title"	"כותרת משימה"	"menu"
 "Task Tree"	"עץ משימה"	"menu"
   "Task Tree"	"עץ משימה"	"systabcontrol32"

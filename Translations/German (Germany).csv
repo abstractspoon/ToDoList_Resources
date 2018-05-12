@@ -1522,7 +1522,7 @@ TRANSLATED
 "Task Not Found"	"Aufgabe nicht gefunden"	"text"
 "Task Occurs"	"Aufgabenvorkommen"	"groupbox"
 "Task Path"	"Aufgabenpfad"	"menu"
-"Task Reminder"	"Aufgabenerinnerung"	"dialog"
+"Task Reminders (%d)"	"Aufgabenerinnerung"	"dialog"
 "Task Title"	"Aufgabentitel"	"menu"
 "Task Tree"	"Baumansicht"	"menu"
   "Task Tree"	"Baumansicht"	"systabcontrol32"

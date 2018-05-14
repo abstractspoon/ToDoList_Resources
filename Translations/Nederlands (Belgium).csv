@@ -139,6 +139,7 @@ NEED_TRANSLATION
 "Tick the boxes of the tasklists you want to delete from your ini file"	""	"static"
 "Time Tracking Reminder"	""	"text"
 "Time estimate"	""	"label"
+"Time of Creation"	""	"checkbox"
 "Time spent"	""	"label"
 "Toggle All Tasks Expanded State"	""	"menu"
 "Tool Version Error"	""	"text"

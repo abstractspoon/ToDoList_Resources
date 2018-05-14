@@ -7,6 +7,7 @@ NEED_TRANSLATION
 "Display 'Task Title' after task's gantt bar"	""	"checkbox"
 "Elapsed time"	""	"label"
 "Main Toolbar"	""	"label"
+"Time of Creation"	""	"checkbox"
 "User Interface>Custom Toolbar"	""	"text"
 TRANSLATED
 "% Complete"	"% erledigt"	"label"

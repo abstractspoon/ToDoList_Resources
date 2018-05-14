@@ -880,6 +880,7 @@ NEED_TRANSLATION
 "Time Tracker"	""	"dialog"
 "Time Tracking Reminder"	""	"text"
 "Time estimate"	""	"label"
+"Time of Creation"	""	"checkbox"
 "Time spent"	""	"label"
 "Timestamp Change"	""	"text"
 "Titles and comments"	""	"radiobutton"

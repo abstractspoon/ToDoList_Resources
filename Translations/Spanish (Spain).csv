@@ -19,6 +19,7 @@ NEED_TRANSLATION
 "Move Down"	""	"button"
 "Move Up"	""	"button"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
+"Time of Creation"	""	"checkbox"
 "User Interface>Custom Toolbar"	""	"text"
 "User Interface>General>Main Toolbar"	""	"text"
 "Week Planner Preferences"	""	"dialog"

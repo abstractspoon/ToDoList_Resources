@@ -1220,7 +1220,7 @@ TRANSLATED
 "Open Tasklist"	"Otwórz listę zadań"	"dialog"
   "Open Tasklist"	"Otwórz listę zadań"	"tooltip"
 "Open Tasklist..."	"Otwórz listę zadań..."	"menu"
-"Open Tasklist|The file '%s' has a more recent file format than your \ncurrent version of ToDoList and you will therefore not be able to make any \nchanges to it."	"Otwórz Listę Zadań|Plik '%s' więcej formatów niż \nobecna wersja ToDoList i nie będziesz mógł wprowadzić zmian "	"text"
+"Open Tasklist|The file '%s' has a more recent file format than your \ncurrent version of ToDoList and you will therefore not be able to make any \nchanges to it."	"Otwórz Listę Zadań|Plik '%s' więcej formatów niż \nobecna wersja ToDoList i nie będziesz mógł wprowadzić zmian"	"text"
 "Open Tasklist|The file '%s' is currently read-only \nand you will not be able to make any changes to it."	"Otwórz Listę Zadań|Plik '%s' jest obecnie tylko do odczytu \ni nie będziesz mógł wprowadzić żadnych zmian"	"text"
 "Open Url"	"Otwórz URL"	"menu"
 "Open"	"Otwórz"	"button"

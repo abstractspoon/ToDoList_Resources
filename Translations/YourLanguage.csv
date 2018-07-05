@@ -2029,5 +2029,6 @@ NEED_TRANSLATION
 "week(s) on"	""	"label"
 "week(s)"	""	"label"
 "weekday(s)"	""	"label"
+"Weekdays"	""	"menu"
 "year(s) after previous task is completed"	""	"label"
 "year(s)"	""	"label"

@@ -550,7 +550,7 @@ NEED_TRANSLATION
 "Cut"	""	"menu"
 "D"	""	"menu"
 "Days"	""	"menu"
-"D\t(days)"	""	"text"
+"Days"	""	"text"
 "Daily"	""	"radiobutton"
 "Data Type"	""	"text"
 "Data type"	""	"label"

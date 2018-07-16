@@ -1,6 +1,10 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"End of Last Month"	""	"menu"
+"End of Last Week"	""	"menu"
+"End of Last Year"	""	"menu"
 TRANSLATED
 "% Complete"	"% erledigt"	"label"
 "% Complete:\t"	"% erledigt\t"	"text"
@@ -695,12 +699,12 @@ TRANSLATED
 "End Date"	"Enddatum"	"text"
 "End Time"	"Endzeit"	"text"
 "End after"	"Endet nach"	"checkbox"
-"End of Next Month"	"Ende nächsten Monats"	"text"
-"End of Next Week"	"Ende nächster Woche"	"text"
-"End of Next Year"	"Ende nächsten Jahres"	"text"
-"End of This Month"	"Ende dieses Monats"	"text"
-"End of This Week"	"Ende dieser Woche"	"text"
-"End of This Year"	"Ende dieses Jahres"	"text"
+"End of Next Month"	"Ende nächsten Monats"	"menu"
+"End of Next Week"	"Ende nächster Woche"	"menu"
+"End of Next Year"	"Ende nächsten Jahres"	"menu"
+"End of This Month"	"Ende dieses Monats"	"menu"
+"End of This Week"	"Ende dieser Woche"	"menu"
+"End of This Year"	"Ende dieses Jahres"	"menu"
 "Enter Password"	"Passwort eingeben:"	"label"
 "Enter Remote Server Details"	"Details zum Remoteserver eingeben"	"dialog"
 "Enter the password for encrypting this tasklist and then confirm it."	"Passwort eingeben, mit dem Sie diese Aufgabenliste verschlüsseln möchten, und dann bestätigen."	"label"

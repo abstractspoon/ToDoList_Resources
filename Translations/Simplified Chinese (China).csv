@@ -1,6 +1,10 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"End of Last Month"	""	"menu"
+"End of Last Week"	""	"menu"
+"End of Last Year"	""	"menu"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"
@@ -690,12 +694,12 @@ TRANSLATED
 "End Date"	"结束日期"	"text"
 "End Time"	"结束时间"	"text"
 "End after"	"结束于"	"checkbox"
-"End of Next Month"	"下月底"	"text"
-"End of Next Week"	"下周末"	"text"
-"End of Next Year"	"明年年底"	"text"
-"End of This Month"	"本月底"	"text"
-"End of This Week"	"本周末"	"text"
-"End of This Year"	"今年年底"	"text"
+"End of Next Month"	"下月底"	"menu"
+"End of Next Week"	"下周末"	"menu"
+"End of Next Year"	"明年年底"	"menu"
+"End of This Month"	"本月底"	"menu"
+"End of This Week"	"本周末"	"menu"
+"End of This Year"	"今年年底"	"menu"
 "Enter Password"	"输入密码"	"label"
 "Enter Remote Server Details"	"输入远程服务器明细"	"dialog"
 "Enter the password for encrypting this tasklist and then confirm it."	"为加密此任务列表输入密码并确认"	"label"

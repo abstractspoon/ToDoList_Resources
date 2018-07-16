@@ -2,9 +2,9 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"End of Last Month"	""	"menu"
-"End of Last Week"	""	"menu"
-"End of Last Year"	""	"menu"
+"End of Last Month"	"上月底"	"menu"
+"End of Last Week"	"上周末"	"menu"
+"End of Last Year"	"去年底"	"menu"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"

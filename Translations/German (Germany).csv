@@ -1,11 +1,10 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"End of Last Month"	""	"menu"
-"End of Last Week"	""	"menu"
-"End of Last Year"	""	"menu"
 TRANSLATED
+"End of Last Month"	"Ende des letzten Monats"	"menu"
+"End of Last Week"	"Ende der letzten Woche"	"menu"
+"End of Last Year"	"Ende des letzten Jahres"	"menu"
 "% Complete"	"% erledigt"	"label"
 "% Complete:\t"	"% erledigt\t"	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f kB bisher heruntergeladen (%0.1f kB verbleibend)"	"text"

@@ -377,6 +377,7 @@ NEED_TRANSLATION
 "Increase"	""	"menu"
 "Increment Font Size"	""	"menu"
 "Indent subtasks at each level with"	""	"label"
+"Indent subtasks"	""	"checkbox"
 "Info"	""	"menu"
 "Inheritable"	""	"text"
 "Inline Spell Checking"	""	"menu"

@@ -6,6 +6,7 @@ NEED_TRANSLATION
   "Comments Size"	""	"text"
 "Custom Attributes"	""	"text"
 "Find in Task Titles"	""	"text"
+"Indent subtasks"	""	"checkbox"
 "Inheritable"	""	"text"
 "KB"	""	"text"
 "Replace in Task Titles"	""	"text"

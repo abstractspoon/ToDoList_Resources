@@ -82,6 +82,7 @@ NEED_TRANSLATION
 "Images..."	""	"tooltip"
 "Import UDTs..."	""	"button"
 "Increment Font Size"	""	"menu"
+"Indent subtasks"	""	"checkbox"
 "Inheritable"	""	"text"
 "KB"	""	"text"
 "Last Mod. By"	""	"text"

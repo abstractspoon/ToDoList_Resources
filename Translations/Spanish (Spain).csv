@@ -34,6 +34,7 @@ NEED_TRANSLATION
 "Hide tasks whose Start and Due times are not set"	""	"checkbox"
 "Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
 "Image"	""	"text"
+"Indent subtasks"	""	"checkbox"
 "Inheritable"	""	"text"
 "KB"	""	"text"
 "Main Toolbar"	""	"label"

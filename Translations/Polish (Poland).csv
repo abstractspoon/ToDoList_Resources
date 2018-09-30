@@ -87,6 +87,7 @@ NEED_TRANSLATION
 "Import Tasks From Tasklist"	""	"dialog"
 "Import UDTs..."	""	"button"
 "Increment Font Size"	""	"menu"
+"Indent subtasks"	""	"checkbox"
 "Inheritable"	""	"text"
 "KB"	""	"text"
 "Last Mod. By"	""	"text"

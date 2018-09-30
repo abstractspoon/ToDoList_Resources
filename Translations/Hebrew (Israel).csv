@@ -168,6 +168,7 @@ NEED_TRANSLATION
 "Import UDTs..."	""	"button"
 "Include web link when pasting browser content"	""	"checkbox"
 "Increment Font Size"	""	"menu"
+"Indent subtasks"	""	"checkbox"
 "Inheritable"	""	"text"
 "Inline Spell Checking"	""	"menu"
 "KB"	""	"text"

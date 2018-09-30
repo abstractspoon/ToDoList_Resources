@@ -2,12 +2,14 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Indent subtasks"	""	"checkbox"
+"KB"	""	"text"
+TRANSLATED
 "Comments Size"	"评论大小"	"menu"
   "Comments Size"	"评论大小"	"text"
 "Custom Attributes"	"自定义属性"	"text"
 "Find in Task Titles"	"在任务标题中查找"	"text"
 "Inheritable"	"可继承"	"text"
-"KB"	""	"text"
 "Replace in Task Titles"	"替换任务标题"	"text"
 "Save Task View to Image"	"将任务视图保存到图像"	"text"
 "Saving task view image..."	"保存任务视图图像"	"text"
@@ -16,7 +18,6 @@ NEED_TRANSLATION
 "Time of creation"	"创建时间"	"checkbox"
 "ToDoList cannot start because your preferences file is locked by another application."	"ToDoList无法启动，因为您的首选项文件被另一个应用程序锁定。"	"text"
 "link"	"链接"	"text"
-TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% Complete:\t"	"完成百分比:\t"	"text"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"目前已下载 %0.1f Kb (剩余 %0.1f Kb )"	"text"

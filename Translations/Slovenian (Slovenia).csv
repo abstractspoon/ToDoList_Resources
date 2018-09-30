@@ -44,6 +44,7 @@ NEED_TRANSLATION
 "Hide tasks whose Start or Due date does not fall in the current week"	""	"checkbox"
 "Ignore '{0}'"	""	"menu"
 "Image"	""	"text"
+"Indent subtasks"	""	"checkbox"
 "Inheritable"	""	"text"
 "KB"	""	"text"
 "Last Mod. By"	""	"text"

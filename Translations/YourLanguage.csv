@@ -924,6 +924,7 @@ NEED_TRANSLATION
 "Increment Font Size"	""	"menu"
 "Increment Task % Completion"	""	"menu"
 "Increment Task Priority"	""	"menu"
+"Indent subtasks"	""	"checkbox"
 "Indent subtasks at each level with"	""	"label"
 "Individual"	""	"radiobutton"
 "Info"	""	"menu"

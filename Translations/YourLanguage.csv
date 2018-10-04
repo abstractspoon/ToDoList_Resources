@@ -1456,6 +1456,7 @@ NEED_TRANSLATION
 "Show 'Reminders' as dates and times"	""	"checkbox"
 "Show Formatting Toolbar"	""	"menu"
 "Show Project Name Field"	""	"menu"
+"Show Reminder Notification Window"	""	"menu"
 "Show Ruler"	""	"menu"
 "Show Tasklist in Explorer"	""	"menu"
 "Show Tasks Due by Today"	""	"menu"

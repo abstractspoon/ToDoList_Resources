@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Show Reminder Notification Window"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1521,6 +1519,7 @@ TRANSLATED
 "Show parent tasks"	"Zeige Hauptaufgaben"	"checkbox"
 "Show parent tasks with a folder icon"	"Zeige Hauptaufgaben mit einem Verzeichnissymbol"	"checkbox"
 "Show Project Name Field"	"Zeige &Projektnamenfeld"	"menu"
+"Show Reminder Notification Window"	"Erinnerungsfenster anzeigen"	"menu"
 "Show Ruler"	"Zeige Lineal"	"menu"
 "Show task infotips"	"Zeige Aufgabeninfos als ToolTips (Infotips)"	"checkbox"
 "Show task titles only"	"Zeige nur Aufgabentitel"	"checkbox"

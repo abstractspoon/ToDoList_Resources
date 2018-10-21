@@ -1309,6 +1309,7 @@ NEED_TRANSLATION
 "Regular"	""	"combobox"
 "Relative to due/start date"	""	"radiobutton"
 "Release Candidate"	""	"text"
+"Reload Icons"	""	"button"
 "Reload Tasklist"	""	"menu"
 "Reload it and notify me"	""	"combobox"
 "Reload it without asking me"	""	"combobox"

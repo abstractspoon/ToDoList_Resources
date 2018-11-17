@@ -1029,6 +1029,7 @@ NEED_TRANSLATION
 "Mileage"	""	"text"
 "Milestone"	""	"text"
 "Mind Map"	""	"systabcontrol32"
+"Minimise to System Tray"	""	"menu"
 "Minimise ToDoList after the following period of inactivity"	""	"checkbox"
 "Minimise ToDoList to the 'System Tray' when"	""	"checkbox"
 "Minimise ToDoList when [Escape] is pressed"	""	"checkbox"

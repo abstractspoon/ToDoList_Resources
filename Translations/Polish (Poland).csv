@@ -7,6 +7,7 @@ NEED_TRANSLATION
 "'Non-working hours' colour"	""	"button"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"
 "'{0}' appears in {1} task(s)"	""	"tooltip"
+"(handler not installed)"	""	"label"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	""	"label"
 "(paused)"	""	"text"
 "-ca <attribute id> <attribute value>\tSets the value for the specified custom attribute ID for the currently selected task"	""	"text"

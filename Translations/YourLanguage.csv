@@ -53,6 +53,7 @@ NEED_TRANSLATION
 "'Weekend' colour"	""	"checkbox"
 "'{0}' appears in {1} task(s)"	""	"tooltip"
 "(completed: %s)"	""	"text"
+"(handler not installed)"	""	"label"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	""	"label"
 "(paused)"	""	"text"
 "(Relative)"	""	"text"

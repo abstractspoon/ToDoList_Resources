@@ -1140,6 +1140,7 @@ NEED_TRANSLATION
 "Nearest Week"	""	"combobox"
 "Nearest Year"	""	"combobox"
 "New Attribute"	""	"tooltip"
+"New Dependent Task Above Selected Task"	""	"menu"
 "New Dependent Task Below Selected Task"	""	"menu"
 "New Search"	""	"tooltip"
 "New Subtask"	""	"menu"

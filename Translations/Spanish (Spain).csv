@@ -44,6 +44,7 @@ NEED_TRANSLATION
 "Minimise to System Tray"	""	"menu"
 "Move Down"	""	"button"
 "Move Up"	""	"button"
+"New Dependent Task Above Selected Task"	""	"menu"
 "Reload Icons"	""	"button"
 "Replace in Task Titles"	""	"text"
 "Reset Elapsed Time"	""	"tooltip"

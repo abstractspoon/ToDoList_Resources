@@ -2,8 +2,8 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"KB"	""	"text"
-"New Dependent Task Above Selected Task"	""	"menu"
+"KB"	"KB"	"text"
+"New Dependent Task Above Selected Task"	"在所选任务上方新建依赖任务"	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"
@@ -60,7 +60,7 @@ TRANSLATED
 "'Weekend' colour"	"周末的颜色"	"checkbox"
 "'{0}' appears in {1} task(s)"	"'{0}' 出现在 {1} 个任务中"	"tooltip"
 "(completed: %s)"	"(已完成: %s)"	"text"
-"(handler not installed)"	"(处理程序未安)"	"label"
+"(handler not installed)"	"(处理程序未安装)"	"label"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	"（注意：如果您确定传入的任务将具有正确的任务ID，则只能使用此选项）"	"label"
 "(paused)"	"（已暂停）"	"text"
 "(Relative)"	"(相对)"	"text"

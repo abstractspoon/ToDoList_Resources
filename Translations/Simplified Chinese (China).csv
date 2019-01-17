@@ -3,7 +3,7 @@ PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "KB"	"KB"	"text"
-"New Dependent Task Above Selected Task"	"在所选任务上方新建依赖任务"	"menu"
+"New Dependent Task Above Selected Task"	"在选定任务上方新建从属任务"	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"
@@ -1120,7 +1120,7 @@ TRANSLATED
 "Nearest Week"	"最近一星期"	"combobox"
 "Nearest Year"	"最近一年"	"combobox"
 "New Attribute"	"新建属性"	"tooltip"
-"New Dependent Task Below Selected Task"	"在选定任务下新建从属任务"	"menu"
+"New Dependent Task Below Selected Task"	"在选定任务下方新建从属任务"	"menu"
 "New Search"	"新搜索"	"tooltip"
 "New Subtask"	"新建子任务"	"menu"
   "New Subtask"	"新建子任务"	"tooltip"

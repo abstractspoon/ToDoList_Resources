@@ -185,6 +185,7 @@ NEED_TRANSLATION
 "The updater could not be run at this time.\n\nIf this was due to Windows SmartScreen, you may need to temporarily disable SmartScreen before trying again."	""	"text"
 "The version of ToDoList specified in the tool (%d.%d) must be the same as the version of the running application (%d.%d)."	""	"text"
 "There is currently no tasklist information which can be removed from your ini file."	""	"text"
+"There was a problem updating ToDoList at this time.\nOften this can be a problem with file and folder permissions.\n\nWould you like to view the update log file for possible clues?"	""	"text"
 "Tick the boxes of the tasklists you want to delete from your ini file"	""	"static"
 "Time estimate"	""	"label"
 "Time of creation"	""	"checkbox"

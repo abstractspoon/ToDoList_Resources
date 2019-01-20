@@ -2,7 +2,7 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"There was a problem updating ToDoList at this time.\nOften this can be a problem with file and folder permissions.\n\nWould you like to view the update log file for possible clues?"	""	"text"
+"There was a problem updating ToDoList at this time.\nOften this can be a problem with file and folder permissions.\n\nWould you like to view the update log file for possible clues?"	"更新ToDoList时出现问题。\n这可能是文件和文件夹权限的问题。\n\n您是否要查看更新日志文件以获取更多信息？"	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

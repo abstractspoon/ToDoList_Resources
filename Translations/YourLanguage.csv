@@ -1682,6 +1682,7 @@ NEED_TRANSLATION
 "Task View Tab Bar"	""	"menu"
 "Task View Visibility"	""	"menu"
 "Task View Visibility %d"	""	"menu"
+"Task Visibility"	""	"groupbox"
 "Task:\t\t"	""	"text"
 "Tasklist"	""	"menu"
   "Tasklist"	""	"label"

@@ -3,6 +3,7 @@ PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "Minimum height of each interval"	""	"label"
+"Number (fraction)"	""	"text"
 "s"	""	"menu"
 "Search Preferences"	""	"text"
 "Smallest editable interval"	""	"label"
@@ -1177,8 +1178,8 @@ TRANSLATED
 "Notify me if the tasklist is read-only"	"Nachricht bei Aufgabenlistenstatus 'nur lesen'"	"checkbox"
 "Notify me of all tasks due (and overdue)"	"Nachricht über alle Aufgaben, fällig und überfällig:"	"checkbox"
 "Now"	"Jetzt"	"text"
-"Number (fractional)"	"Dezimalzahl"	"text"
-"Number (whole)"	"Ganzzahl"	"text"
+"Number (decimal)"	"Dezimalzahl"	"text"
+"Number (integer)"	"Ganzzahl"	"text"
 "Numbered List"	"Nummerierung"	"tooltip"
 "occurrences"	"Vorkommen"	"label"
 "occurs after (>)"	"später als (>)"	"text"

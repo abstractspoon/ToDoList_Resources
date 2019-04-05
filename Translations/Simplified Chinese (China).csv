@@ -3,7 +3,7 @@ PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "Minimum height of each interval"	""	"label"
-"Number (fraction)"	""	"text"
+"Number (fraction eg. 2/3)"	""	"text"
 "s"	""	"menu"
 "Search Preferences"	""	"text"
 "Smallest editable interval"	""	"label"
@@ -1164,8 +1164,8 @@ TRANSLATED
 "Notify me if the tasklist is read-only"	"如果任务只读的话通知我"	"checkbox"
 "Notify me of all tasks due (and overdue)"	"通知我所有到期(和过期)的任务"	"checkbox"
 "Now"	"现在"	"text"
-"Number (decimal)"	"数字(小数)"	"text"
-"Number (integer)"	"数字(整数)"	"text"
+"Number (decimal eg. 5.62)"	"数字(小数)"	"text"
+"Number (integer eg. 13)"	"数字(整数)"	"text"
 "Numbered List"	"有序列表"	"tooltip"
 "occurrences"	"出现"	"label"
 "occurs after (>)"	"发生晚于 (>)"	"text"

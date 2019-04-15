@@ -1,14 +1,13 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Minimum height of each interval"	""	"label"
-"Number (fraction eg. 2/3)"	""	"text"
-"s"	""	"menu"
-"Search Preferences"	""	"text"
-"Smallest editable interval"	""	"label"
-"Task Visibility"	""	"groupbox"
 TRANSLATED
+"Minimum height of each interval"	"Minimale Höhe jedes Intervalls"	"label"
+"Number (fraction eg. 2/3)"	"Anzahl (Bruch z.B. 2/3"	"text"
+"s"	"s"	"menu"
+"Search Preferences"	"Sucheinstellungen"	"text"
+"Smallest editable interval"	"Kleinster bearbeitbarer Intervall"	"label"
+"Task Visibility"	"Aufgabensichtbarkeit"	"groupbox"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"

@@ -1,14 +1,13 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Minimum height of each interval"	""	"label"
-"Number (fraction eg. 2/3)"	""	"text"
-"s"	""	"menu"
-"Search Preferences"	""	"text"
-"Smallest editable interval"	""	"label"
-"Task Visibility"	""	"groupbox"
 TRANSLATED
+"Minimum height of each interval"	"每个间隔的最小高度"	"label"
+"Number (fraction eg. 2/3)"	"数字（分数，例如2/3）"	"text"
+"s"	"s"	"menu"
+"Search Preferences"	"搜索设置"	"text"
+"Smallest editable interval"	"最小的可编辑间隔"	"label"
+"Task Visibility"	"任务可见性"	"groupbox
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\n您是否想要强制检出任务列表？\n\n请注意：'%s'中未保存的任何数据将会丢失！"	"text"

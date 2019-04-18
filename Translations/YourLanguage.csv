@@ -58,6 +58,7 @@ NEED_TRANSLATION
 "(paused)"	""	"text"
 "(Relative)"	""	"text"
 "(untitled)"	""	"text"
+"(Week {0})"	""	"label"
 "- Fixed Columns -"	""	"combobox"
 "- unnamed -"	""	"text"
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	""	"text"

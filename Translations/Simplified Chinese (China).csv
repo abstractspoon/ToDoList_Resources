@@ -1,12 +1,11 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"(Week {0})"	""	"label"
-"Activate Filter"	""	"menu"
-"Filter %d"	""	"menu"
-"Filters"	""	"menu"
 TRANSLATED
+"(Week {0})"	"(周 {0})"	"label"
+"Activate Filter"	"激活筛选器"	"menu"
+"Filter %d"	"筛选 %d"	"menu"
+"Filters"	"筛选"	"menu
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\n您是否想要强制检出任务列表？\n\n请注意：'%s'中未保存的任何数据将会丢失！"	"text"

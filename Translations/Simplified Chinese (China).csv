@@ -1,11 +1,6 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"(Week {0})"	"(周 {0})"	"label"
-"Activate Filter"	"激活筛选器"	"menu"
-"Filter %d"	"筛选 %d"	"menu"
-"Filters"	"筛选"	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"
@@ -67,6 +62,7 @@ TRANSLATED
 "(paused)"	"（已暂停）"	"text"
 "(Relative)"	"(相对)"	"text"
 "(untitled)"	"未命名"	"text"
+"(Week {0})"	"(周 {0})"	"label"
 "- Fixed Columns -"	"- 固定列 -"	"combobox"
 "- unnamed -"	"- 未命名 -"	"text"
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <分配自>\t设置当前选定任务的“分配自”"	"text"
@@ -245,6 +241,7 @@ TRANSLATED
 "Above selected task"	"选择的任务"	"combobox"
 "Above Task"	"在任务之前(&E)"	"menu"
 "Accumulated"	"累计"	"combobox"
+"Activate Filter"	"激活筛选器"	"menu"
 "Active Dictionary"	"活动字典"	"label"
 "Active Keyboard Shortcuts"	"有效快捷键"	"dialog"
 "Active tasklist"	"活动的任务列表"	"text"
@@ -794,6 +791,7 @@ TRANSLATED
 "File Timestamp Change"	"文件时间戳改变"	"text"
 "Files of type"	"文件类型(&T)"	"label"
 "Filter"	"过滤"	"text"
+"Filter %d"	"筛选 %d"	"menu"
 "Filter Bar"	"过滤栏"	"menu"
 "Filter Bar Visibility"	"过滤栏可见性"	"sysheader32"
 "Filter Tasks"	"过滤任务"	"dialog"
@@ -802,6 +800,7 @@ TRANSLATED
 "Filtered Tasks"	"已过滤任务"	"radiobutton"
 "Filtered-out tasks"	"已滤除的任务"	"text"
 "Filtering"	"过滤"	"label"
+"Filters"	"筛选"	"menu"
 "Find In Comments"	"在注释中查找"	"dialog"
 "Find in Task Titles"	"在任务标题中查找"	"text"
 "Find In Task Titles"	"在任务标题中查找"	"dialog"

@@ -1,12 +1,11 @@
 ﻿TRANSTEXT 7.1.997.12
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"(Week {0})"	""	"label"
-"Activate Filter"	""	"menu"
-"Filter %d"	""	"menu"
-"Filters"	""	"menu"
 TRANSLATED
+"(Week {0})"	"(Woche {0})"	"label"
+"Activate Filter"	"Filter aktivieren"	"menu"
+"Filter %d"	"Filter %d"	"menu"
+"Filters"	"Filter"	"menu"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"

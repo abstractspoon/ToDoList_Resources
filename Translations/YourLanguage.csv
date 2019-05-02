@@ -810,6 +810,7 @@ NEED_TRANSLATION
 "Filter Bar Visibility"	""	"sysheader32"
 "Filter Tasks"	""	"dialog"
 "Filter..."	""	"menu"
+"Filterable"	""	"combobox"
 "Filtered task count / Total task count"	""	"text"
 "Filtered Tasks"	""	"radiobutton"
 "Filtered-out tasks"	""	"text"

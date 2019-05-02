@@ -32,6 +32,7 @@ NEED_TRANSLATION
 "End of Last Week"	""	"menu"
 "End of Last Year"	""	"menu"
 "Filter %d"	""	"menu"
+"Filterable"	""	"combobox"
 "Filters"	""	"menu"
 "Find in Task Titles"	""	"text"
 "Find/Replace In Task Titles..."	""	"menu"

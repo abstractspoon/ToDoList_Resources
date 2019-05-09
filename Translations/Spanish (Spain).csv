@@ -2,7 +2,7 @@
 PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"(Week {0})"	"bob"	"label"
+"(Week {0})"	""	"label"
 "Activate Filter"	""	"menu"
 "Create Tasks from Outlook"	""	"dialog"
 "Export Tasks to CSV"	""	"text"

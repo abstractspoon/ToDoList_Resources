@@ -5,7 +5,7 @@ NEED_TRANSLATION
 "(Week {0})"	"(Semana {0})"	"label"
 "Activate Filter"	"Activar Filtro"	"menu"
 "Create Tasks from Outlook"	"Crear Tareas desde Outlook"	"dialog"
-"Export Tasks to CSV"	"Exportar Tareas a CSV"	"text"
+"Export Tasks to CSV"	"Exportar Tareas a un archivo CSV"	"text"
 "Filter %d"	"Filtro %d"	"menu"
 "Filterable"	"Filtrable"	"combobox"
 "Filters"	"Filtros"	"menu"

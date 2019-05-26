@@ -2,16 +2,16 @@
 PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"(Week {0})"	""	"label"
-"Activate Filter"	""	"menu"
-"Create Tasks from Outlook"	""	"dialog"
-"Export Tasks to CSV"	""	"text"
-"Filter %d"	""	"menu"
-"Filterable"	""	"combobox"
-"Filters"	""	"menu"
-"Import Tasks from CSV"	""	"text"
-"Import Tasks from Tasklist"	""	"dialog"
-"Remote Server Details"	""	"dialog"
+"(Week {0})"	"(Semana {0})"	"label"
+"Activate Filter"	"Activar Filtro"	"menu"
+"Create Tasks from Outlook"	"Crear Tareas desde Outlook"	"dialog"
+"Export Tasks to CSV"	"Exportar Tareas a un archivo CSV"	"text"
+"Filter %d"	"Filtro %d"	"menu"
+"Filterable"	"Filtrable"	"combobox"
+"Filters"	"Filtros"	"menu"
+"Import Tasks from CSV"	"Importar Tareas desde un archivo CSV"	"text"
+"Import Tasks from Tasklist"	"Importar Tareas desde una Lista de Tareas"	"dialog"
+"Remote Server Details"	"Detalles del Servidor Remoto"	"dialog"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Una o más de estas tareas tiene subtareas que también serán eliminadas)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Esta tarea tiene subtareas que también serán eliminadas)"	"text"

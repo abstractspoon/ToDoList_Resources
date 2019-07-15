@@ -777,6 +777,7 @@ NEED_TRANSLATION
 "Export Tasks to iCalendar"	""	"dialog"
 "Export Tasks to Outline"	""	"dialog"
 "Export Tasks..."	""	"menu"
+"Export Tasklist|You must select a filename that does not match the tasklist being exported."	""	"label"
 "Export the project name as the first line"	""	"checkbox"
 "Export to folder"	""	"checkbox"
 "Export to one file"	""	"checkbox"

@@ -2052,8 +2052,6 @@ TRANSLATED
 "With"	"Con:"	"label"
 "Word Cloud"	"Nube de Palabras"	"systabcontrol32"
 "Word Wrap"	"Ajuste de línea"	"menu"
-"Wordwrap"	"Ajuste de línea"	"tooltip"
-"WordWrap"	"Ajuste de línea"	"menu"
 "Would you like to recalculate the task time in the new units?"	"¿Necesitas recalcular los tiempos de la tarea utilizando las nuevas unidades?"	"text"
 "Would you like to reload it?"	"¿Quieres recargarlo?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"¿Quiere guardar los cambios en '%s' \nantes de cerrar?"	"text"

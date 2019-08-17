@@ -2008,8 +2008,6 @@ TRANSLATED
 "Windows registry"	"רישום החלון"	"radiobutton"
 "With"	"עם"	"label"
 "Word Wrap"	"מניעת גלישת שורות"	"menu"
-"Wordwrap"	"מניעת גלישת שורות"	"tooltip"
-"WordWrap"	"מניעת גלישת שורות"	"menu"
 "Would you like to recalculate the task time in the new units?"	"האם לחשב את זמן המשימה ביחידות החדשות?"	"text"
 "Would you like to reload it?"	"האם לטעון מחדש?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"האם לשמור את השינויים ב- '%s' \nלפני היציאה?"	"text"

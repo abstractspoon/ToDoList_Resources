@@ -2011,8 +2011,6 @@ TRANSLATED
 "Windows registry"	"Windows registry"	"radiobutton"
 "With"	"Door"	"label"
 "Word Wrap"	"Tekstterugloop"	"menu"
-"Wordwrap"	"Tekstterugloop"	"tooltip"
-"WordWrap"	"Tekstterugloop"	"menu"
 "Would you like to recalculate the task time in the new units?"	"Wenst u de taaktijd te herberekenen in de nieuwe eenheden?"	"text"
 "Would you like to reload it?"	"Wil je dit herladen?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"Wil je de aanpassingen opslaan naar '%s' \nalvorens af te sluiten?"	"text"

@@ -1966,8 +1966,6 @@ NEED_TRANSLATION
 "With"	""	"label"
 "Word Cloud"	""	"systabcontrol32"
 "Word Wrap"	""	"menu"
-"WordWrap"	""	"menu"
-"Wordwrap"	""	"tooltip"
 "Would you like to recalculate the task time in the new units?"	""	"text"
 "Would you like to reload it?"	""	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	""	"text"

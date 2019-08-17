@@ -2017,8 +2017,6 @@ TRANSLATED
 "With"	"Con"	"label"
 "Word Cloud"	"Nuvola di parole"	"systabcontrol32"
 "Word Wrap"	"A capo automatico"	"menu"
-"Wordwrap"	"A capo automatico"	"tooltip"
-"WordWrap"	"A capo automatico"	"menu"
 "Would you like to recalculate the task time in the new units?"	"Ricalcolare i tempi dei compiti con queste unità^"	"text"
 "Would you like to reload it?"	"Si desidera ricaricarlo?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"Salvare le modifiche a '%s'\nprima di chiudere?"	"text"

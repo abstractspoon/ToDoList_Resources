@@ -2010,8 +2010,6 @@ TRANSLATED
 "With"	"&Largeur :"	"label"
 "Word Cloud"	"Nuage de mots"	"systabcontrol32"
 "Word Wrap"	"Retour à la ligne"	"menu"
-"Wordwrap"	"retour à la ligne"	"tooltip"
-"WordWrap"	"Césure du mot"	"menu"
 "Would you like to recalculate the task time in the new units?"	"Voulez-vous recalculer la durée de la tâche dans les nouvelles unités ?"	"text"
 "Would you like to reload it?"	"Voulez-vous le recharger ?"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"Voulez-vous sauvegarder les modifications de '%s' \navant de fermer ?"	"text"

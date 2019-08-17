@@ -2017,8 +2017,6 @@ TRANSLATED
 "Windows registry"	"Rejestry windows"	"radiobutton"
 "With"	"Z"	"label"
 "Word Wrap"	"Zawijanie tekstu"	"menu"
-"Wordwrap"	"Zawijanie tekstu"	"tooltip"
-"WordWrap"	"Zawijanie tekstu"	"menu"
 "Would you like to recalculate the task time in the new units?"	"Czy chcesz przeliczyć czas zadania w nowych jednostkach?"	"text"
 "Would you like to reload it?"	"Czy chcesz przeładować"	"text"
 "Would you like to save the changes to '%s' \nbefore closing?"	"Czy chcesz zachować zamiany do '%s' \nprzed zamknięciem"	"text"

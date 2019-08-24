@@ -193,7 +193,7 @@ TRANSLATED
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <分配自>\t设置当前选定任务的“分配自”"	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	"-at <分配到>\t设置当前选定任务的“分配到”"	"text"
 "-bid <task id>\tSpecifies the sibling task after which to create the new task"	"-bid <id>\t指定要在后面创建新任务的同级任务"	"text"
-"-c <categories>\tSets the 'Categories for the currently selected task"	"-c <类别>\t设置当前选定任务的“类别”"	"text"
+"-c <categories>\tSets the 'Categories' for the currently selected task"	"-c <类别>\t设置当前选定任务的“类别”"	"text"
 "-ca <attribute id> <attribute value>\tSets the value for the specified custom attribute ID for the currently selected task"	"-ca <attribute id> <attribute value>\t设置当前选定任务的指定自定义属性ID的值"	"text"
 "-cd <date>\tSets the 'Completion Date' for the currently selected task"	"-cd <date>\t为当前所选任务设置“完成日期”"	"text"
 "-cm <comments>\tAdds to the 'Comments' for the currently selected task"	"-cm <注释>\t为当前选定任务添加“注释”"	"text"

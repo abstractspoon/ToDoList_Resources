@@ -384,7 +384,7 @@ TRANSLATED
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <toewijzen door>\tInstellen van 'Toegewezen door' voor de geselecteerde taak"	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	"-at <toewijzen aan>\tInstellen van 'Toegewezen aan' voor de geselecteerde taak"	"text"
 "-bid <task id>\tSpecifies the sibling task after which to create the new task"	"-bid <id>\tBepaalt de tweelingtaak die model staat voor de nieuwe taak"	"text"
-"-c <categories>\tSets the 'Categories for the currently selected task"	"-c <rubrieken>\tInstellen van 'Rubrieken' voor de geselecteerde taak"	"text"
+"-c <categories>\tSets the 'Categories' for the currently selected task"	"-c <rubrieken>\tInstellen van 'Rubrieken' voor de geselecteerde taak"	"text"
 "-cd <date>\tSets the 'Completion Date' for the currently selected task"	"-cd <date>\tInstellen van 'Einddatum' voor de geselecteerde taak"	"text"
 "-cm <comments>\tAdds to the 'Comments' for the currently selected task"	"-cm <notities>\tInstellen van 'Notities' voor de geselecteerde taak"	"text"
 "-cmd <id>\tSends the specified command to ToDoList's main window"	"-cmd <id>\tStuurt de opgegeven opdracht naar het hoofdscherm van ToDoList"	"text"

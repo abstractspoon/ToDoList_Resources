@@ -291,7 +291,7 @@ TRANSLATED
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <alloc by>\tУстанавливает 'Поручено' для выбранной задачи"	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	"-at <alloc to>\tУстанавливает 'Ответственный(-ые)' для выбранной задачи"	"text"
 "-bid <task id>\tSpecifies the sibling task after which to create the new task"	"-bid <id>\tОпределяет подзадачу, после которой будет создана новая задача"	"text"
-"-c <categories>\tSets the 'Categories for the currently selected task"	"-c <categories>\tУстанавливает 'Категория(и)' для выбранной задачи"	"text"
+"-c <categories>\tSets the 'Categories' for the currently selected task"	"-c <categories>\tУстанавливает 'Категория(и)' для выбранной задачи"	"text"
 "-cd <date>\tSets the 'Completion Date' for the currently selected task"	"-cd <date>\tУстанавливает 'Дату окончания' для выделенной задачи"	"text"
 "-cm <comments>\tAdds to the 'Comments' for the currently selected task"	"-cm <comments>\tДобавляет к 'Заметки' для выбранной задачи"	"text"
 "-cmd <id>\tSends the specified command to ToDoList's main window"	"-cmd <id>\tОтправляет указанную команду в основное окно ToDoList"	"text"

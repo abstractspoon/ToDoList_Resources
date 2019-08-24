@@ -324,7 +324,7 @@ TRANSLATED
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <alloc by>\tImposta 'Assegnato da' per il compito attualmente selezionato"	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	"-at <alloc to>\tImposta 'Assegnato a' del compito attualmente selezionato"	"text"
 "-bid <task id>\tSpecifies the sibling task after which to create the new task"	"-bid <id>\tSpecifica il compito fratello dopo il quale creare il nuovo compito"	"text"
-"-c <categories>\tSets the 'Categories for the currently selected task"	"-c <categories>\tImposta le 'Categorie' del compito attualmente selezionato"	"text"
+"-c <categories>\tSets the 'Categories' for the currently selected task"	"-c <categories>\tImposta le 'Categorie' del compito attualmente selezionato"	"text"
 "-cd <date>\tSets the 'Completion Date' for the currently selected task"	"-cd <date>\tImposta la 'Data di completamento' per il compito attualmente selezionato"	"text"
 "-cm <comments>\tAdds to the 'Comments' for the currently selected task"	"-cm <comments>\tAggiunge ai 'Commenti' del compito attualmente selezionato"	"text"
 "-cmd <id>\tSends the specified command to ToDoList's main window"	"-cmd <id>\tInvia il comando specificato alla finestra principale di ToDoList"	"text"

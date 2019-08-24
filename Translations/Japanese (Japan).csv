@@ -55,7 +55,7 @@ NEED_TRANSLATION
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	""	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	""	"text"
 "-bid <task id>\tSpecifies the sibling task after which to create the new task"	""	"text"
-"-c <categories>\tSets the 'Categories for the currently selected task"	""	"text"
+"-c <categories>\tSets the 'Categories' for the currently selected task"	""	"text"
 "-ca <attribute id> <attribute value>\tSets the value for the specified custom attribute ID for the currently selected task"	""	"text"
 "-cd <date>\tSets the 'Completion Date' for the currently selected task"	""	"text"
 "-cm <comments>\tAdds to the 'Comments' for the currently selected task"	""	"text"

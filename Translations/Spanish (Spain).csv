@@ -193,7 +193,7 @@ TRANSLATED
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <asignado a>\tAsignar 'Asignado por' para la tarea activa seleccionada"	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	"-at <asignar a>\tEstablecer 'Asignado As' para la tarea activa seleccionada"	"text"
 "-bid <task id>\tSpecifies the sibling task after which to create the new task"	"-bid <id>\tEspecifica la tarea hermana después de la creación de la nueva tarea"	"text"
-"-c <categories>\tSets the 'Categories for the currently selected task"	"-c <categorias>\tAsignar 'Categorías para la tarea activa seleccionada"	"text"
+"-c <categories>\tSets the 'Categories' for the currently selected task"	"-c <categorias>\tAsignar 'Categorías para la tarea activa seleccionada"	"text"
 "-ca <attribute id> <attribute value>\tSets the value for the specified custom attribute ID for the currently selected task"	"-ca <attribute id> <attribute value>\tEstablece el valor para el ID del atributo personalizado especificado para la tarea seleccionada actualmente"	"text"
 "-cd <date>\tSets the 'Completion Date' for the currently selected task"	"-cd <fecha> \tConfigurar la 'Fecha de finalización' para la tarea actualmente seleccionada"	"text"
 "-cm <comments>\tAdds to the 'Comments' for the currently selected task"	"-cm <comentarios>\tAñadir 'Comentarios' para la tarea activa seleccionada"	"text"

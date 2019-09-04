@@ -2113,6 +2113,7 @@ NEED_TRANSLATION
 "View Menu"	""	"tooltip"
 "View Task Log File"	""	"menu"
 "Visible columns only"	""	"radiobutton"
+"Visible Date Range (%s)"	""	"label"
 "W"	""	"menu"
 "Warning"	""	"menu"
 "Web Page (*.htm, *.html)|*.htm;*.html|Text File (*.txt)|*.txt|All Files (*.*)|*.*||"	""	"text"

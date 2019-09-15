@@ -2204,3 +2204,4 @@ NEED_TRANSLATION
 "Your preferences have been successfully imported into the registry.\n\nDo you want to start using these settings immediately?"	""	"text"
 "Your registry settings have been successfully exported.\n\nDo you want to start using these preferences immediately?"	""	"text"
 "{0} minutes"	""	"text"
+"{0} (Custom)"	""	"menu"

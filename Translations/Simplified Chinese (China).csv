@@ -9,7 +9,7 @@ NEED_TRANSLATION
 "Copy Selected Values from '%s' Column"	"从'%s'列复制选定的值"	"menu"
 "Copy Selected Values from Column"	"从列中复制选定的值"	"menu"
 "Export To"	"导出到"	"groupbox"
-"Report Builder (*.html)"	"报告生成 (*.html)"	"combobox"
+"Report Builder (.html)"	"报告生成 (.html)"	"combobox"
 "Report Files (*.html)|*.html||"	"报告文件 (*.html)|*.html||"	"combobox"
 "Save Report Template As"	"将报告模板另存为"	"tooltip"
 TRANSLATED

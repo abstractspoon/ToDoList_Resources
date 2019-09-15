@@ -1478,7 +1478,7 @@ TRANSLATED
 "Reply Recipient Names"	"Empfängern antworten"	"text"
 "Report Attributes"	"Berichtsattribute"	"label"
 "Report Builder"	"Berichtsgenerator"	"dialog"
-"Report Builder (*.html)"	"Berichtsgenerator (*.html)"	"combobox"
+"Report Builder (.html)"	"Berichtsgenerator (.html)"	"combobox"
 "Report Date"	"Berichtsdatum"	"menu"
 "Report Files (*.html)|*.html||"	"Berichtsdateien (*.html)|*.html||"	"combobox"
 "Report Footer"	"Bericht - Fusszeile"	"label"

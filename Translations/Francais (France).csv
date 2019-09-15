@@ -203,7 +203,7 @@ NEED_TRANSLATION
 "Replace with"	""	"label"
 "Report Attributes"	""	"label"
 "Report Builder"	""	"dialog"
-"Report Builder (*.html)"	""	"combobox"
+"Report Builder (.html)"	""	"combobox"
 "Report Date"	""	"menu"
 "Report Files (*.html)|*.html||"	""	"combobox"
 "Report Footer"	""	"label"

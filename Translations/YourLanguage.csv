@@ -1497,7 +1497,7 @@ NEED_TRANSLATION
 "Reply Recipient Names"	""	"text"
 "Report Attributes"	""	"label"
 "Report Builder"	""	"dialog"
-"Report Builder (*.html)"	""	"combobox"
+"Report Builder (.html)"	""	"combobox"
 "Report Files (*.html)|*.html||"	""	"combobox"
 "Report Date"	""	"menu"
 "Report Footer"	""	"label"

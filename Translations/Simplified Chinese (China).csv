@@ -6,9 +6,12 @@ NEED_TRANSLATION
 "%s\n%d Estimated\n%d Actual"	""	"tooltip"
 "%s\n%d Estimated\n%d Spent"	""	"tooltip"
 "%s\n%d Started\n%d Completed"	""	"tooltip"
+"%s\n%d Tasks"	""	"tooltip"
+"Estimated/Spent Days"	""	"combobox"
 "Image Files (*.png, *.bmp, *.ico, *.jpg, *.jpeg, *.tiff, *.gif)|*.png;*.bmp;*.ico;*.jpg;*.jpeg;*.tiff;*.gif||"	""	"text"
 "Optional"	""	"text"
 "Select Image File"	""	"dialog"
+"Started/Completed Tasks"	""	"combobox"
 "{0} (Custom)"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"

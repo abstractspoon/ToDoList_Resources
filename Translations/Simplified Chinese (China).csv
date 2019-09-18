@@ -2,17 +2,17 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"% of page"	""	"combobox"
-"%s\n%d Estimated\n%d Actual"	""	"tooltip"
-"%s\n%d Estimated\n%d Spent"	""	"tooltip"
-"%s\n%d Started\n%d Completed"	""	"tooltip"
-"%s\n%d Tasks"	""	"tooltip"
-"Estimated/Spent Days"	""	"combobox"
-"Image Files (*.png, *.bmp, *.ico, *.jpg, *.jpeg, *.tiff, *.gif)|*.png;*.bmp;*.ico;*.jpg;*.jpeg;*.tiff;*.gif||"	""	"text"
-"Optional"	""	"text"
-"Select Image File"	""	"dialog"
-"Started/Completed Tasks"	""	"combobox"
-"{0} (Custom)"	""	"menu"
+"% of page"	"% 的页面"	"combobox"
+"%s\n%d Estimated\n%d Actual"	"%s\n%d 估计\n%d 实际"	"tooltip"
+"%s\n%d Estimated\n%d Spent"	"%s\n%d 估计\n%d 消耗"	"tooltip"
+"%s\n%d Started\n%d Completed"	"%s\n%d 已开始\n%d 已完成"	"tooltip"
+"%s\n%d Tasks"	"%s\n%d 任务"	"tooltip"
+"Estimated/Spent Days"	"估计/消耗的天数"	"combobox"
+"Image Files (*.png, *.bmp, *.ico, *.jpg, *.jpeg, *.tiff, *.gif)|*.png;*.bmp;*.ico;*.jpg;*.jpeg;*.tiff;*.gif||"	"图像文件 (*.png, *.bmp, *.ico, *.jpg, *.jpeg, *.tiff, *.gif)|*.png;*.bmp;*.ico;*.jpg;*.jpeg;*.tiff;*.gif||"	"text"
+"Optional"	"可选"	"text"
+"Select Image File"	"选择图像文件"	"dialog"
+"Started/Completed Tasks"	"已开始/已完成的任务"	"combobox"
+"{0} (Custom)"	"{0} (自定义)"	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

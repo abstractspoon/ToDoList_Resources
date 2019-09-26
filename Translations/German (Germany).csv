@@ -2,9 +2,9 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"Linear Regression (Line of best fit)"	""	"combobox"
-"Simple Rolling Average (30 day)"	""	"combobox"
-"Simple Rolling Average (7 day)"	""	"combobox"
+"Line of Best Fit"	""	"combobox"
+"30 Day Rolling Average"	""	"combobox"
+"7 Day Rolling Average"	""	"combobox"
 "Trend Line"	""	"label"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"

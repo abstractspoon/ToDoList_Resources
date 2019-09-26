@@ -2,9 +2,9 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"Linear Regression (Line of best fit)"	"线性回归（最适合的行）"	"combobox"
-"Simple Rolling Average (30 day)"	"简单滚动平均（30天）"	"combobox"
-"Simple Rolling Average (7 day)"	"简单滚动平均（7天）"	"combobox"
+"Line of Best Fit"	"最适合的行"	"combobox"
+"30 Day Rolling Average"	"30天滚动平均值"	"combobox"
+"7 Day Rolling Average"	"7天滚动平均值"	"combobox"
 "Trend Line"	"趋势线"	"label"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"

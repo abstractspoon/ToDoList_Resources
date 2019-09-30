@@ -1257,6 +1257,7 @@ NEED_TRANSLATION
 "No"	""	"button"
 "No custom attributes were imported."	""	"text"
 "No header row is required"	""	"combobox"
+"No Reminder"	""	"text"
 "No Snapping"	""	"combobox"
 "No task title colouring (except for due tasks)"	""	"radiobutton"
 "No tasks were imported."	""	"text"

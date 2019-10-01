@@ -506,7 +506,7 @@ NEED_TRANSLATION
 "Treat overdue tasks as being due 'Today'"	""	"checkbox"
 "Treat subtasks of 'Locked' tasks as also being locked"	""	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	""	"checkbox"
-"Trend Line"	""	"label"
+"Trend"	""	"label"
 "Trial License"	""	"text"
 "Type a value"	""	"text"
 "Type a version"	""	"text"

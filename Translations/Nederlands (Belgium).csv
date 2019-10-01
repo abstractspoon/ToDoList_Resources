@@ -353,7 +353,7 @@ NEED_TRANSLATION
 "Total Work"	""	"text"
 "Treat overdue tasks as being due 'Today'"	""	"checkbox"
 "Treat subtasks of 'Locked' tasks as also being locked"	""	"checkbox"
-"Trend Line"	""	"label"
+"Trend"	""	"label"
 "Trial License"	""	"text"
 "Type a value"	""	"text"
 "Type a version"	""	"text"

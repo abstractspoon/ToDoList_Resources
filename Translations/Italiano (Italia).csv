@@ -2047,7 +2047,7 @@ TRANSLATED
 "Treat tasks whose subtasks are all completed as also being 'completed'"	"Considera come 'Completati' i compiti che hanno tutti i sotto-compiti completati"	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	"Considera i compiti con l'etichetta seguente come 'Milestone'"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"Considera i compiti senza data di scadenza come da fare entro “Oggi”, o nella data di “Inizio” se successiva."	"checkbox"
-"Trend Line"	"Linea di tendenza"	"label"
+"Trend"	"Linea di tendenza"	"label"
 "Trial License"	"Licenza di prova"	"text"
 "Two (2) Equal Subtasks"	"Due (&2) sotto-compiti uguali"	"menu"
 "Two (2) Subtasks"	"Due (2) sotto-compiti"	"menu"

@@ -2063,7 +2063,7 @@ TRANSLATED
 "Treat tasks whose subtasks are all completed as also being 'completed'"	"Obravnavaj opravila katerih so vsa  podrejenih opravila končana kot, da so tudi ta 'končana'"	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	"Obravnavaj opravila z naslednjo oznako kot 'Mejnike'"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"Obravnavaj opravila brez datuma zapadlosti kot, da so določena za 'Danes' ali na datum 'Začetek', kakorkoli pozneje"	"checkbox"
-"Trend Line"	"Trend line"	"label"
+"Trend"	"Trend line"	"label"
 "Trial License"	"Poskusna licenca"	"text"
 "Two (2) Equal Subtasks"	"Dve enaki  podrejenih opravili"	"menu"
 "Two (2) Subtasks"	"Dve  podrejenih opravili"	"menu"

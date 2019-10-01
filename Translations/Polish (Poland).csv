@@ -2047,7 +2047,7 @@ TRANSLATED
 "Treat tasks whose subtasks are all completed as also being 'completed'"	"Traktuj zadania których podzadania są zakończone jako równierz zakończone"	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	"Traktuj zadania z następującą etykietą jako 'Kamień Milowy'"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"Traktuj zadania bez daty realizacji z terminem 'Dzisiaj' lub 'Datą Rozpoczęcia' jeżeli jest później"	"checkbox"
-"Trend Line"	"Linia trendu"	"label"
+"Trend"	"Linia trendu"	"label"
 "Trial License"	"Licencja testowa"	"text"
 "Two (2) Equal Subtasks"	"Dwa (2) równe podzadania"	"menu"
 "Two (2) Subtasks"	"Dwa (2) Podzadania"	"menu"

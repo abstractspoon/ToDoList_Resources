@@ -2054,7 +2054,7 @@ TRANSLATED
 "Treat tasks whose subtasks are all completed as also being 'completed'"	"&Spracovať úlohy, ktorých podúlohy sú všetky hotové tiež ako hotové"	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	"Za úlohy považujte nasledujúcu značku ako „míľniky“"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"S úlohami bez dátumu splatnosti zaobchádzajte ako s dnešným dátumom alebo s dátumom začiatku, podľa toho, čo nastane neskôr"	"checkbox"
-"Trend Line"	"Trendová čiara"	"label"
+"Trend"	"Trendová čiara"	"label"
 "Trial License"	"Skúšobná licencia"	"text"
 "Two (2) Equal Subtasks"	"&Dve (2) rovnaké podúlohy"	"menu"
 "Two (2) Subtasks"	"Dve (2) podúlohy"	"menu"

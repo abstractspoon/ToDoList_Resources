@@ -2016,7 +2016,7 @@ TRANSLATED
 "Treat tasks whose subtasks are all completed as also being 'completed'"	"将所有子任务已全部完成的任务视为已完成"	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	"将带有以下标签的任务视为里程碑"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"将没有到期日期的任务视今天或开始日期为到期"	"checkbox"
-"Trend Line"	"趋势线"	"label"
+"Trend"	"趋势线"	"label"
 "Trial License"	"试用许可证"	"text"
 "Two (2) Equal Subtasks"	"2个同样的子任务(&T)"	"menu"
 "Two (2) Subtasks"	"2个子任务"	"menu"

@@ -16,7 +16,7 @@ NEED_TRANSLATION
 "Status Frequency"	""	"combobox"
 "Tag Frequency"	""	"combobox"
 "Time Series"	""	"combobox"
-"Trend Line"	""	"label"
+"Trend"	""	"label"
 "Version Frequency"	""	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"

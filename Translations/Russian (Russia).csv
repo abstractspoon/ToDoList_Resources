@@ -2012,7 +2012,7 @@ TRANSLATED
 "Treat tasks whose subtasks are all completed as also being 'completed'"	"Рассматривать задачи с завершенными подзадачами как 'завершенные'"	"checkbox"
 "Treat tasks with the following tag as 'Milestones'"	"Использовать задачи со следующим тегом как 'Этапы'"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"Назначить задачам без даты окончания срок выполнения 'Сегодня' или 'Дата начала' в зависимости от того, что позже"	"checkbox"
-"Trend Line"	"Линия тренда"	"label"
+"Trend"	"Линия тренда"	"label"
 "Trial License"	"Пробная лицензия"	"text"
 "Two (2) Equal Subtasks"	"две (2) равные подзадачи"	"menu"
 "Two (2) Subtasks"	"две (2) подзадачи"	"menu"

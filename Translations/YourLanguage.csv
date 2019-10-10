@@ -801,6 +801,7 @@ NEED_TRANSLATION
 "Estimated/Spent Days"	""	"combobox"
 "Every"	""	"radiobutton"
 "Every weekday"	""	"radiobutton"
+"Exclude blank list item"	""	"text"
 "Exit"	""	"menu"
 "Exit ToDoList"	""	"menu"
 "Expand"	""	"menu"

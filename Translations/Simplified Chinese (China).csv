@@ -1730,7 +1730,7 @@ TRANSLATED
 "Switch To..."	"切换到..."	"button"
 "Symbols..."	"符号..."	"tooltip"
 "Synchronise a task's 'Completion' to changes in its 'Status'"	"将任务的完成同步到其状态中"	"checkbox"
-"System File Required|ToDoList requires the 'Microsoft Visual C++ 2010 SP1 Redistributable Package' to be installed.\n\nClick 'OK' to visit the appropriate download page or 'Cancel' to quit."	"系统要求ToLoistor需要安装Visual C++ 2010 SP1。\n\n单击“OK”访问下载页面或“取消”退出。"	"text"
+"System File Required|ToDoList requires the 'Microsoft Visual C++ 2010 SP1 Redistributable Package (32-bit)' to be installed.\n\nClick 'OK' to visit the appropriate download page or 'Cancel' to quit."	"系统要求ToLoistor需要安装Visual C++ 2010 SP1。\n\n单击“OK”访问下载页面或“取消”退出。"	"text"
 "tab"	"制表符"	"combobox"
 "tab-stops"	"制表位"	"label"
 "Table"	"表格"	"menu"

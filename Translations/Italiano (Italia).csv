@@ -1932,7 +1932,7 @@ TRANSLATED
 "Three (3) Subtasks"	"Tre (3) sotto-compiti"	"menu"
 "Thumbnails"	"Miniature"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"Seleziona le caselle delle liste di attività che desideri eliminare dal tuo file ini"	"static"
-"Time"	"Tempo"	"label"
+"Time (%s)"	"Tempo (%s)"	"label"
 "Time Est"	"Tempo stim."	"text"
 "Time Estimate"	"Tempo stimato"	"label"
   "Time Estimate"	"Tempo stimato"	"menu"

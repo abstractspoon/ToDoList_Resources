@@ -1899,7 +1899,7 @@ TRANSLATED
 "Three (3) Subtasks"	"три (3) подзадачи"	"menu"
 "Thumbnails"	"Миниатюры"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"Отметьте поля списков задач, которые вы хотите удалить из своего INI-файла."	"static"
-"Time"	"Время"	"label"
+"Time (%s)"	"Время (%s)"	"label"
 "Time Est"	"Расчетное время"	"text"
 "Time estimate"	"Расчетное время"	"label"
 "Time Estimate"	"Расчетное время"	"label"

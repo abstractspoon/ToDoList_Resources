@@ -1948,7 +1948,7 @@ TRANSLATED
 "Three (3) Subtasks"	"Tri (3) podúlohy"	"menu"
 "Thumbnails"	"M&iniatúry"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"Začiarknite políčka zoznamov úloh, ktoré chcete odstrániť zo súboru ini"	"static"
-"Time"	"Čas"	"label"
+"Time (%s)"	"Čas (%s)"	"label"
 "Time Est"	"Odhadovaný čas"	"text"
 "Time estimate"	"Odhad času"	"label"
 "Time Estimate"	"Zostáva cca"	"label"

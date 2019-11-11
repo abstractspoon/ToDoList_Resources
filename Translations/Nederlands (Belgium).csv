@@ -1960,7 +1960,7 @@ TRANSLATED
 "Three (3) Equal Subtasks"	"drie (3) gelijke deeltaken"	"menu"
 "Three (3) Subtasks"	"drie (3) deeltaken"	"menu"
 "Thumbnails"	"Miniatuur"	"menu"
-"Time"	"Tijd"	"label"
+"Time (%s)"	"Tijd (%s)"	"label"
 "Time Est"	"Tijd geschat"	"text"
 "Time Estimate"	"Tijdschatting"	"label"
   "Time Estimate"	"Tijdschatting"	"menu"

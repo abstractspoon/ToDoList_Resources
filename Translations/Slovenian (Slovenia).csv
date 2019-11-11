@@ -1947,7 +1947,7 @@ TRANSLATED
 "Three (3) Subtasks"	"Tri  podrejenih opravila"	"menu"
 "Thumbnails"	"Sličice"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"Označite polja na seznamih opravil, ki jih želite izbrisati iz INI datoteke"	"static"
-"Time"	"Čas"	"label"
+"Time (%s)"	"Čas (%s)"	"label"
 "Time Est"	"Ocenj. čas"	"text"
 "Time Estimate"	"Ocenjen čas"	"label"
   "Time Estimate"	"Ocenjen čas"	"menu"

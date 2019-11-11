@@ -1919,7 +1919,7 @@ TRANSLATED
 "Three (3) Subtasks"	"Tres (3) Subtareas"	"menu"
 "Thumbnails"	"Miniaturas"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"Marca las cajas de la lista de tareas que quiera borrar desde tu archivo ini"	"static"
-"Time"	"Hora"	"label"
+"Time (%s)"	"Hora (%s)"	"label"
 "Time Est"	"Tiempo est"	"text"
 "Time estimate"	"Tiempo estimado"	"label"
 "Time Estimate"	"Tiempo Estimado"	"label"

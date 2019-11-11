@@ -1973,7 +1973,7 @@ TRANSLATED
 "Three (3) Equal Subtasks"	"שלוש תתי-משימה זהות"	"menu"
 "Three (3) Subtasks"	"שלוש תתי-משימה"	"menu"
 "Thumbnails"	"תמונה ממוזערת"	"menu"
-"Time"	"זמן"	"label"
+"Time (%s)"	" (%s) זמן"	"label"
 "Time Est"	"זמן מוערך"	"text"
 "Time Estimate"	"הערכת זמן"	"label"
   "Time Estimate"	"הערכת זמן"	"menu"

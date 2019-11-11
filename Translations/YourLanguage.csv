@@ -1947,7 +1947,7 @@ NEED_TRANSLATION
 "Three (3) Subtasks"	""	"menu"
 "Thumbnails"	""	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	""	"static"
-"Time"	""	"label"
+"Time (%s)"	""	"label"
 "Time Est"	""	"text"
 "Time Estimate"	""	"label"
   "Time Estimate"	""	"menu"

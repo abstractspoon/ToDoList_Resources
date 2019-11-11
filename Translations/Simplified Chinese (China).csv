@@ -1901,7 +1901,7 @@ TRANSLATED
 "Three (3) Subtasks"	"3个子任务"	"menu"
 "Thumbnails"	"缩略图"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"勾选你想从你的Ini文件中删除的任务列表框"	"static"
-"Time"	"时间"	"label"
+"Time (%s)"	"时间 (%s)"	"label"
 "Time Est"	"估算时间"	"text"
 "Time Estimate"	"估算时间"	"label"
   "Time Estimate"	"估算时间"	"menu"

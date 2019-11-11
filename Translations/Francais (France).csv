@@ -1930,7 +1930,7 @@ TRANSLATED
 "Three (3) Subtasks"	"Trois (3) sous-tâches"	"menu"
 "Thumbnails"	"Vignettes"	"menu"
 "Tick the boxes of the tasklists you want to delete from your ini file"	"Cocher les cases des listes que vous voulez supprimer du fichier de préférences"	"static"
-"Time"	"Heure"	"label"
+"Time (%s)"	"Heure (%s)"	"label"
 "Time Est"	"Temps Est."	"text"
 "Time estimate"	"Durée estimée"	"label"
 "Time Estimate"	"Temps estimé"	"label"

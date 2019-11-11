@@ -2021,7 +2021,7 @@ TRANSLATED
 "This tasklist contains no tasks"	"このタスクリストにはタスクがありません"	"text"
 "Three (3) Equal Subtasks"	"3個のサブタスク"	"menu"
 "Three (3) Subtasks"	"3 個のサブタスク"	"menu"
-"Time"	"時刻"	"label"
+"Time (%s)"	"時刻 (%s)"	"label"
 "Time Est"	"時間見積り"	"text"
 "Time Estimate"	"見積時間"	"label"
   "Time Estimate"	""	"menu"

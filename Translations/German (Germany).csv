@@ -1344,7 +1344,7 @@ TRANSLATED
 "Paste (Normal)"	"Einfügen (Normal)"	"menu"
 "Paste below"	"Danach einfügen"	"menu"
 "Paste below Selected Task"	"Einfügen &nach der ausgewählten Aufgabe"	"menu"
-"Paste as a Subtask"	"Einfügen als Teilaufgabe"	"menu"
+"Paste as Subtask"	"Einfügen als Teilaufgabe"	"menu"
 "Paste as Reference"	"Als Referenz einfügen"	"menu"
 "Paste as Subtask of Selected Task"	"&Einfügen als Teilaufgabe der ausgewählten Aufgabe"	"menu"
 "Paste at bottom of tasklist"	"Am Ende der Aufgabenliste einfügen"	"text"

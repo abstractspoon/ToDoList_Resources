@@ -1317,7 +1317,7 @@ NEED_TRANSLATION
 "Paste (Normal)"	""	"menu"
 "Paste below"	""	"menu"
 "Paste below Selected Task"	""	"menu"
-"Paste as a Subtask"	""	"menu"
+"Paste as Subtask"	""	"menu"
 "Paste as Reference"	""	"menu"
 "Paste as Subtask of Selected Task"	""	"menu"
 "Paste at bottom of tasklist"	""	"text"

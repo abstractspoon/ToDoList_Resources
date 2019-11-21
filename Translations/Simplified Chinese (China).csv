@@ -1334,7 +1334,7 @@ TRANSLATED
 "Paste (Normal)"	"粘贴(标准)"	"menu"
 "Paste below"	"粘贴到后面"	"menu"
 "Paste below Selected Task"	"粘贴到选定任务后(&P)"	"menu"
-"Paste as a Subtask"	"作为子任务粘贴"	"menu"
+"Paste as Subtask"	"作为子任务粘贴"	"menu"
 "Paste as Reference"	"粘贴为引用"	"menu"
 "Paste as Subtask of Selected Task"	"作为选定任务的子任务粘贴(&A)"	"menu"
 "Paste at bottom of tasklist"	"粘贴在任务列表底部"	"text"

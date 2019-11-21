@@ -1738,7 +1738,7 @@ TRANSLATED
   "Paste"	""	"menu"
 "Paste below"	"後に貼り付け"	"menu"
 "Paste below Selected Task"	"貼り付け（選択タスクの下）"	"menu"
-"Paste as a Subtask"	"サブタスクとして貼り付け"	"menu"
+"Paste as Subtask"	"サブタスクとして貼り付け"	"menu"
 "Paste as Subtask of Selected Task"	"サブタスクとして貼り付け"	"menu"
 "Paste at bottom of tasklist"	"タスクリストの一番下に貼り付ける"	"text"
 "Paste Tasks as Links"	"タスクをリンクとして貼り付ける"	"menu"

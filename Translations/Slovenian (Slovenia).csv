@@ -1370,7 +1370,7 @@ TRANSLATED
 "Paste (Normal)"	"Prilepi (običajno)"	"menu"
 "Paste below"	"Prilepi za"	"menu"
 "Paste below Selected Task"	"Prilepi za izbranim opravilom"	"menu"
-"Paste as a Subtask"	"Prilepi kot podrejeno opravilo"	"menu"
+"Paste as Subtask"	"Prilepi kot podrejeno opravilo"	"menu"
 "Paste as Reference"	"Prilepi kot sklic"	"menu"
 "Paste as Subtask of Selected Task"	"Prilepi kot podrejeno opravilo izbranega opravila"	"menu"
 "Paste at bottom of tasklist"	"Prilepi na dnu seznama opravil"	"text"

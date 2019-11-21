@@ -1381,7 +1381,7 @@ TRANSLATED
 "Paste (Normal)"	"Coller (Normal)"	"menu"
 "Paste below"	"Coller après"	"menu"
 "Paste below Selected Task"	"Coller après la tâche sélectionnée"	"menu"
-"Paste as a Subtask"	"Coller comme sous-tâche"	"menu"
+"Paste as Subtask"	"Coller comme sous-tâche"	"menu"
 "Paste as Reference"	"Coller comme référence"	"menu"
 "Paste as Subtask of Selected Task"	"Coller comme une sous-tâche de la tâche sélectionnée"	"menu"
 "Paste at bottom of tasklist"	"Coller à la fin de la liste de tâches"	"text"

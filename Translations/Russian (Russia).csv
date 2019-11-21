@@ -1347,7 +1347,7 @@ TRANSLATED
 "Paste (Normal)"	"Вставить (Обычная)"	"menu"
 "Paste below"	"Вставить после"	"menu"
 "Paste below Selected Task"	"Вставить после выделенной задачи"	"menu"
-"Paste as a Subtask"	"Вставить как подзадачу"	"menu"
+"Paste as Subtask"	"Вставить как подзадачу"	"menu"
 "Paste as Reference"	"Вставить как ссылку"	"menu"
 "Paste as Subtask of Selected Task"	"Вставить как подзадачу в выделенную"	"menu"
 "Paste at bottom of tasklist"	"Вставить вниз списка"	"text"

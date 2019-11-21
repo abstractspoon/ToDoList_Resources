@@ -1353,7 +1353,7 @@ TRANSLATED
 "Paste (Normal)"	"Pegar (Normal)"	"menu"
 "Paste below"	"Pegar después"	"menu"
 "Paste below Selected Task"	"Pegar después de la tarea seleccionada"	"menu"
-"Paste as a Subtask"	"Pegar como Subtarea"	"menu"
+"Paste as Subtask"	"Pegar como Subtarea"	"menu"
 "Paste as Reference"	"Pegar como Referencia"	"menu"
 "Paste as Subtask of Selected Task"	"Pegar como subtarea de la tarea seleccionada"	"menu"
 "Paste at bottom of tasklist"	"Pegar al final de la lista de tareas"	"text"

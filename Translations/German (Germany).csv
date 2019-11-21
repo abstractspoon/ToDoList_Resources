@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.2.997.6
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"'Overlapping' tasks colour"	""	"checkbox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1330,6 +1328,7 @@ TRANSLATED
 "Outlook field..."	"Outlook Feld..."	"text"
 "Outlook must be installed before 'outlook:' links will work."	"Outlook muss installiert sein, bevor 'outlook:'-Links funktionieren"	"text"
 "Output"	"Ausgabe"	"groupbox"
+"'Overlapping' tasks colour"	"Farbe für 'Überlappung'"	"checkbox"
 "Owner"	"Eigentümer"	"text"
 "Paragraph"	"Einzug, Zeilenform"	"menu"
   "Paragraph"	"Einzug, Zeilenform"	"radiobutton"

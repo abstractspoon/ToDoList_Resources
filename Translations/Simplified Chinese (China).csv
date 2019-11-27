@@ -2,14 +2,14 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"'Overlapping' tasks colour"	""	"checkbox"
-"After selected task"	""	"combobox"
-"Bottom of tasklist"	""	"combobox"
-"Import Tasks from File"	""	"dialog"
-"Import Tasks from Text"	""	"dialog"
-"Import Tasks from Windows Clipboard"	""	"dialog"
-"Subtask of selected task"	""	"combobox"
-"Top of tasklist"	""	"combobox"
+"'Overlapping' tasks colour"	"重叠’任务的颜色"	"checkbox"
+"After selected task"	"选定任务后"	"combobox"
+"Bottom of tasklist"	"任务列表底部"	"combobox"
+"Import Tasks from File"	"从文件导入任务"	"dialog"
+"Import Tasks from Text"	"从文本导入任务"	"dialog"
+"Import Tasks from Windows Clipboard"	"从Windows剪贴板导入任务"	"dialog"
+"Subtask of selected task"	"所选任务的子任务"	"combobox"
+"Top of tasklist"	"任务列表顶部"	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

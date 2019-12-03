@@ -1235,6 +1235,8 @@ NEED_TRANSLATION
 "New Attribute"	""	"tooltip"
 "New Dependent Task Above Selected Task"	""	"menu"
 "New Dependent Task Below Selected Task"	""	"menu"
+"New file path"	""	"label"
+"New project name"	""	"label"
 "New Report Template"	""	"tooltip"
 "New Search"	""	"tooltip"
 "New Subtask"	""	"menu"

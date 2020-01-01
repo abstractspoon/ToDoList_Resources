@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReportBuilderTemplate>
+  <header>
+    <text>&lt;BLOCKQUOTE style="MARGIN-RIGHT: 0px" dir=ltr&gt;
+&lt;P align=center&gt;COMPANY&lt;/P&gt;&lt;/BLOCKQUOTE&gt;</text>
+    <enabled>true</enabled>
+    <wantDivider>false</wantDivider>
+    <pixelHeight>30</pixelHeight>
+    <backColor>#FFFFFF</backColor>
+  </header>
+  <title>
+    <text>&lt;P align=left&gt;&lt;STRONG&gt;Meeting minutes&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;
+&lt;HR&gt;
+
+&lt;P&gt;
+&lt;TABLE cellSpacing=2 cols=3 cellPadding=2 width="100%" border=0&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;Von&lt;/TD&gt;
+&lt;TD&gt;Abteilung&lt;/TD&gt;
+&lt;TD&gt;Datum&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&amp;nbsp;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/TD&gt;
+&lt;TD&gt;&lt;STRONG&gt;
+&lt;SCRIPT&gt; document.write(new Date().toLocaleDateString()); &lt;/SCRIPT&gt;
+&lt;/STRONG&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;/TD&gt;
+&lt;TD&gt;&lt;/TD&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;Standort&lt;/TD&gt;
+&lt;TD&gt;Telefon&lt;/TD&gt;
+&lt;TD&gt;E-Mail&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/TD&gt;
+&lt;TD&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/TD&gt;
+&lt;TD&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+&lt;P&gt;
+&lt;P&gt;
+&lt;HR&gt;
+
+&lt;P&gt;&lt;/P&gt;
+&lt;P&gt;Betreff&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;$(title)&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;
+&lt;HR&gt;
+
+&lt;P&gt;&lt;/P&gt;
+&lt;P&gt;Teilnehmer&lt;/P&gt;
+&lt;P&gt;&lt;SPAN ATOMICSELECTION="true"&gt;$(cust_participants)&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;
+&lt;HR&gt;
+
+&lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Allgemeines&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;$(comments)&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Arbeitspackete&lt;/STRONG&gt;&lt;/P&gt;</text>
+    <enabled>true</enabled>
+    <separatePage>false</separatePage>
+  </title>
+  <task>
+    <text>&lt;TABLE cellSpacing=2 cols=1 cellPadding=1 width="100%" align=left border=0&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;TABLE cellSpacing=1 cols=3 cellPadding=1 width="100%" border=1&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;P&gt;&lt;SPAN title="Title&amp;#10;Top-level tasks" ATOMICSELECTION="true"&gt;\&lt;/SPAN&gt;&lt;SPAN title="Title&amp;#10;First level of subtasks" ATOMICSELECTION="true"&gt;$(title.2)&lt;/SPAN&gt;\&lt;SPAN ATOMICSELECTION="true"&gt;$(title.3)&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD width="30%"&gt;
+&lt;P&gt;Wer&lt;/P&gt;
+&lt;P&gt;&lt;SPAN ATOMICSELECTION="true"&gt;$(allocTo)&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD width="10%"&gt;
+&lt;P&gt;Fällig&lt;/P&gt;
+&lt;P&gt;&lt;SPAN ATOMICSELECTION="true"&gt;$(dueDate)&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;&lt;SPAN title="Comments&amp;#10;Unspecified Levels" ATOMICSELECTION="true"&gt;$(comments)&lt;/SPAN&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</text>
+    <enabled>true</enabled>
+    <tableHeaderOption>2</tableHeaderOption>
+  </task>
+  <footer>
+    <text>&lt;P align=right&gt;&amp;nbsp;&lt;/P&gt;</text>
+    <enabled>false</enabled>
+    <wantDivider>false</wantDivider>
+    <pixelHeight>50</pixelHeight>
+  </footer>
+</ReportBuilderTemplate>

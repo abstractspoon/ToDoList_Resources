@@ -1135,7 +1135,7 @@ TRANSLATED
 "M"	"м"	"menu"
 "m"	"m"	"menu"
 "Main Toolbar"	"Главная панель инструментов"	"label"
-"Make Copy of Tool"	"Скопировать инструмент"	"tooltip"
+"Duplicate Tool"	"Скопировать инструмент"	"tooltip"
 "Make this list read-only"	"Список доступен только для чтения"	"checkbox"
 "Make this my automatic choice"	"Запомнить для автоматического выбора"	"checkbox"
 "Manage edit/filter field visibility"	"Управление видимостью поля редактирования/фильтрации"	"groupbox"

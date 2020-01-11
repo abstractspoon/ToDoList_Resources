@@ -286,7 +286,7 @@ NEED_TRANSLATION
 "Locked Tasks"	""	"text"
 "Lunch break (added to duration)"	""	"checkbox"
 "Main Toolbar"	""	"label"
-"Make Copy of Tool"	""	"tooltip"
+"Duplicate Tool"	""	"tooltip"
 "Match by task ID"	""	"radiobutton"
 "Match by task title"	""	"radiobutton"
 "Match case"	""	"label"

@@ -1244,7 +1244,7 @@ TRANSLATED
 "M"	"M"	"menu"
 "m"	"m"	"menu"
 "Main Toolbar"	"Hlavný panel s nástrojmi"	"label"
-"Make Copy of Tool"	"Vytvorte kópiu nástroja"	"tooltip"
+"Duplicate Tool"	"Vytvorte kópiu nástroja"	"tooltip"
 "Make this my automatic choice"	"Vyberte si môj automatický výber"	"checkbox"
 "Match by task ID"	"Zhoda podľa ID úlohy"	"radiobutton"
 "Match by task title"	"Zhoda podľa názvu úlohy"	"radiobutton"

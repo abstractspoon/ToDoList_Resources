@@ -1127,7 +1127,7 @@ TRANSLATED
 "m"	"m"	"menu"
 "M"	"M"	"menu"
 "Main Toolbar"	"Haupt-Werkzeugleiste"	"label"
-"Make Copy of Tool"	"Werkzeug duplizieren"	"tooltip"
+"Duplicate Tool"	"Werkzeug duplizieren"	"tooltip"
 "Make this list read-only"	"Diese Liste schreibschützen"	"checkbox"
 "Make this my automatic choice"	"Diese Auswahl als Vorgabe verwenden"	"checkbox"
 "Manage edit/filter field visibility"	"Sichtbarkeit der Eingabe-/Filterfelder bearbeiten"	"groupbox"

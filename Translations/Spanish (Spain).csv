@@ -1138,7 +1138,7 @@ TRANSLATED
 "m"	"m"	"menu"
 "M"	"M"	"menu"
 "Main Toolbar"	"Barra de Herramientas Principal"	"label"
-"Make Copy of Tool"	"Hacer Copia de la Herramienta"	"tooltip"
+"Duplicate Tool"	"Hacer Copia de la Herramienta"	"tooltip"
 "Make this list read-only"	"Hacer esta lista de solo lectura"	"checkbox"
 "Make this my automatic choice"	"Que sea mi opción automática"	"checkbox"
 "Manage edit/filter field visibility"	"Administrar visibilidad del campo editar/filtro"	"groupbox"

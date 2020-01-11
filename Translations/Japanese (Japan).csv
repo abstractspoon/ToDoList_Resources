@@ -528,7 +528,7 @@ NEED_TRANSLATION
 "Lowest"	""	"text"
 "Lunch break (added to duration)"	""	"checkbox"
 "Main Toolbar"	""	"label"
-"Make Copy of Tool"	""	"tooltip"
+"Duplicate Tool"	""	"tooltip"
 "Make this list read-only"	""	"checkbox"
 "Make this my automatic choice"	""	"checkbox"
 "Manage edit/filter field visibility"	""	"groupbox"

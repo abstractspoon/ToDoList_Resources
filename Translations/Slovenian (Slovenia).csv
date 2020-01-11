@@ -1154,7 +1154,7 @@ TRANSLATED
 "m"	"m"	"menu"
 "M"	"M"	"menu"
 "Main Toolbar"	"Glavna orodna vrstica"	"label"
-"Make Copy of Tool"	"Naredi kopijo orodja"	"tooltip"
+"Duplicate Tool"	"Naredi kopijo orodja"	"tooltip"
 "Make this list read-only"	"Ta seznam naj bo samo za branje"	"checkbox"
 "Make this my automatic choice"	"Naj bo to moja samodejna izbira"	"checkbox"
 "Manage edit/filter field visibility"	"Upravljaj vidnost urejanja/filtriranja polj"	"groupbox"

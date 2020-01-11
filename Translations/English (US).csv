@@ -1105,7 +1105,7 @@ NEED_TRANSLATION
 "M"	""	"menu"
 "m"	""	"menu"
 "Main Toolbar"	""	"label"
-"Make Copy of Tool"	""	"tooltip"
+"Duplicate Tool"	""	"tooltip"
 "Make this list read-only"	""	"checkbox"
 "Make this my automatic choice"	""	"checkbox"
 "Manage edit/filter field visibility"	""	"groupbox"

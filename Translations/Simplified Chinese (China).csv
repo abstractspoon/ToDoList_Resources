@@ -1117,7 +1117,7 @@ TRANSLATED
 "M"	"M"	"menu"
 "m"	"m"	"menu"
 "Main Toolbar"	"主工具栏"	"label"
-"Make Copy of Tool"	"制作工具副本"	"tooltip"
+"Duplicate Tool"	"制作工具副本"	"tooltip"
 "Make this list read-only"	"此列表设置为只读"	"checkbox"
 "Make this my automatic choice"	"作为我的自动选择"	"checkbox"
 "Manage edit/filter field visibility"	"管理编辑/筛选字段的可见性"	"groupbox"

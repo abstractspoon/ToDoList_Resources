@@ -1159,7 +1159,7 @@ TRANSLATED
 "M"	"M"	"menu"
 "m"	"m"	"menu"
 "Main Toolbar"	"Główny pasek narzędzi"	"label"
-"Make Copy of Tool"	"Wykonaj kopię narzędzia"	"tooltip"
+"Duplicate Tool"	"Wykonaj kopię narzędzia"	"tooltip"
 "Make this list read-only"	"Zrób tą listę jako tylko do odczytu"	"checkbox"
 "Make this my automatic choice"	"Zrób tą Listę jako tylko do odczytu"	"checkbox"
 "Manage edit/filter field visibility"	"Zarządzaj edycją/filtrem widoczności pola"	"groupbox"

@@ -966,7 +966,7 @@ NEED_TRANSLATION
 "Type a version"	""	"text"
 "Typewriter"	""	"text"
 "Unable to Create Path"	""	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	""	"text"
 "Under Development"	""	"label"
 "Underline"	""	"menu"
   "Underline"	""	"tooltip"

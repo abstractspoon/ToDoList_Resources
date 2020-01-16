@@ -2056,7 +2056,7 @@ TRANSLATED
 "Type some comments"	"Wpisz komentarze"	"text"
 "Typewriter"	"Maszyna do pisania"	"text"
 "Unable to Create Path"	"Nie możliwe utworzenie ścieżki"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"Nie możliwe rozpoczęcie Opcji Rozpoczęcia|Jeżeli więcej niż jedna kopia programu jest włączona musisz wyspecyfikować ścieżke"	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"Nie możliwe rozpoczęcie Opcji Rozpoczęcia|Jeżeli więcej niż jedna kopia programu jest włączona musisz wyspecyfikować ścieżke"	"text"
 "Uncompleted tasks"	"Nie ukończone zadania"	"checkbox"
 "Under Development"	"W budowie"	"label"
 "Underline"	"Pod linią"	"menu"

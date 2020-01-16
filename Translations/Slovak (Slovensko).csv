@@ -285,7 +285,7 @@ NEED_TRANSLATION
 "Tool '%s' will be run using the following commandline arguments:\n\n%s\n\nDo you want to continue?"	""	"text"
 "Top of tasklist"	""	"combobox"
 "Two or more attributes shared the unique ID '%s'.\n\nYou will need to resolve this before closing the dialog."	""	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	""	"text"
 "Updating %s..."	""	"text"
 "Upload Progress (%d%%)"	""	"dialog"
 "Uploading '%s' to '%s'"	""	"text"

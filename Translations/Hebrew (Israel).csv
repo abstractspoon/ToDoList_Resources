@@ -501,7 +501,7 @@ NEED_TRANSLATION
 "Type a value"	""	"text"
 "Type a version"	""	"text"
 "Typewriter"	""	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	""	"text"
 "Under Development"	""	"label"
 "Use 'Time Estimate' in preference to 'Duration' when calculating allocations"	""	"checkbox"
 "Use Microsoft Word for content format conversions"	""	"checkbox"

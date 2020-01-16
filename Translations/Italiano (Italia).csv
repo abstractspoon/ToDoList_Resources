@@ -2056,7 +2056,7 @@ TRANSLATED
 "Type some comments"	"Inserire qualche commento"	"text"
 "Typewriter"	"Macchina da scrivere"	"text"
 "Unable to Create Path"	"Impossibile creare il percorso"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"Non è stato possibile analizzare le opzioni di avvio|Quando più di un’istanza di ToDoList è in esecuzione è necessario specificare anche un percorso di un file."	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"Non è stato possibile analizzare le opzioni di avvio|Quando più di un’istanza di ToDoList è in esecuzione è necessario specificare anche un percorso di un file."	"text"
 "Uncompleted tasks"	"Compiti incompleti"	"checkbox"
 "Under Development"	"In fase di sviluppo"	"label"
 "Underline"	"Sottolineato"	"menu"

@@ -2008,7 +2008,7 @@ NEED_TRANSLATION
 "Type some comments"	""	"text"
 "Typewriter"	""	"text"
 "Unable to Create Path"	""	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	""	"text"
 "Uncompleted tasks"	""	"checkbox"
 "Under Development"	""	"label"
 "Underline"	""	"menu"

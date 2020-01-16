@@ -2071,7 +2071,7 @@ TRANSLATED
 "Type some comments"	"Vnesite nekaj komentarjev"	"text"
 "Typewriter"	"Pisalni stroj"	"text"
 "Unable to Create Path"	"Ni mogoče ustvariti poti"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"Ni možno izvesti možnosti zagona|Če se hkrati izvaja več kot en primerek ToDoLista, morate tudi navesti pot datoteke."	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"Ni možno izvesti možnosti zagona|Če se hkrati izvaja več kot en primerek ToDoLista, morate tudi navesti pot datoteke."	"text"
 "Uncompleted tasks"	"Nedokončana opravila"	"checkbox"
 "Under Development"	"V razvoju"	"label"
 "Underline"	"Podčrtaj"	"menu"

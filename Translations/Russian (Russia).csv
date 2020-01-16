@@ -2021,7 +2021,7 @@ TRANSLATED
 "Type some comments"	"Введите заметку"	"text"
 "Typewriter"	"Пишущая машинка"	"text"
 "Unable to Create Path"	"Невозможно создать путь"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"Невозможно обработать опции запуска|При запуске нескольких копий ToDoList укажите путь."	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"Невозможно обработать опции запуска|При запуске нескольких копий ToDoList укажите путь."	"text"
 "Uncompleted tasks"	"Незавершенные задачи"	"checkbox"
 "Under Development"	"В разработке"	"label"
 "Underline"	"Подчеркнутый"	"menu"

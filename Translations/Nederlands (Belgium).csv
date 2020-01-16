@@ -2067,7 +2067,7 @@ TRANSLATED
 "Type new shortcut key"	"Tik nieuwe sneltoets:"	"label"
 "Type some comments"	"Tik enkele notities"	"text"
 "Unable to Create Path"	"Kan pad niet aanmaken"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"Kan de opstartopties niet verwerken|Als er meerdere exemplaren van ToDoList actief zijn dan moet het pad ook worden opgegeven."	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"Kan de opstartopties niet verwerken|Als er meerdere exemplaren van ToDoList actief zijn dan moet het pad ook worden opgegeven."	"text"
 "Uncompleted tasks"	"Onvolledige taken"	"checkbox"
 "Underline"	"Onderlijn"	"menu"
   "Underline"	"Onderlijn"	"tooltip"

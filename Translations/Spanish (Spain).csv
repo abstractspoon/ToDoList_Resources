@@ -2043,7 +2043,7 @@ TRANSLATED
 "Type some comments"	"Teclea algunos comentarios"	"text"
 "Typewriter"	"Maquina de escribir"	"text"
 "Unable to Create Path"	"No se puede crear ruta"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"No se puede procesar Opciones de Inicio|Cuando más de una instancia de la Lista de Tareas se está ejecutando también debe especificar una ruta de archivo."	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"No se puede procesar Opciones de Inicio|Cuando más de una instancia de la Lista de Tareas se está ejecutando también debe especificar una ruta de archivo."	"text"
 "Uncompleted tasks"	"Tareas sin acabar"	"checkbox"
 "Under Development"	"En desarrollo"	"label"
 "Underline"	"Subrayado"	"menu"

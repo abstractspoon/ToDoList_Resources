@@ -2024,7 +2024,7 @@ TRANSLATED
 "Type some comments"	"输入一些注释"	"text"
 "Typewriter"	"打字机"	"text"
 "Unable to Create Path"	"不能创建路径"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"无法处理启动选项|当多个ToDoList实例运行时，您必须指定一个文件路径。"	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"无法处理启动选项|当多个ToDoList实例运行时，您必须指定一个文件路径。"	"text"
 "Uncompleted tasks"	"未完成的任务"	"checkbox"
 "Under Development"	"正在开发中"	"label"
 "Underline"	"下划线"	"menu"

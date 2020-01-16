@@ -2044,7 +2044,7 @@ TRANSLATED
 "Type some comments"	"Kommentar eingeben"	"text"
 "Typewriter"	"Typewriter"	"text"
 "Unable to Create Path"	"Pfad kann nicht angelegt werden"	"text"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	"Startoptionen können nicht ausgeführt werden|Wenn mehr als eine Instanz von ToDoList läuft, muss auch ein Dateipfad angegeben werden."	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	"Startoptionen können nicht ausgeführt werden|Wenn mehr als eine Instanz von ToDoList läuft, muss auch ein Dateipfad angegeben werden."	"text"
 "Uncompleted tasks"	"Unerledigte Aufgaben"	"checkbox"
 "Under Development"	"In Entwicklung"	"label"
 "Underline"	"Unterstrichen"	"menu"

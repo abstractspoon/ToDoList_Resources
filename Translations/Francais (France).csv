@@ -125,7 +125,7 @@ NEED_TRANSLATION
 "ToDoList was unable to install the '.tdl' extension handler.\n\nYou may need to run ToDoList with administrator privileges to install the handler.\n\nOnce installed you can then revert to your original security settings."	""	"text"
 "ToDoList was unable to install the 'tdl://' protocol handler.\n\nYou may need to run ToDoList with administrator privileges to install the handler.\n\nOnce installed you can then revert to your original security settings."	""	"text"
 "Top of tasklist"	""	"combobox"
-"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a filepath as well."	""	"text"
+"Unable to process Startup Options|When more than one instance of ToDoList is running you must specify a tasklist path as well."	""	"text"
 "Uploading '%s' to '%s'"	""	"text"
 "Version Frequency"	""	"combobox"
 "Visible Date Range (%s)"	""	"label"

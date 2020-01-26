@@ -26,6 +26,7 @@ NEED_TRANSLATION
 "-mt <time>\tSets the 'Creation Time' of the newly created task"	""	"text"
 "-pc <percentage>\tSets the 'Percentage Completion' for the currently selected task"	""	"text"
 "-st <time>\tSets the 'Start Time' for the currently selected task"	""	"text"
+"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 "-z\tStores attribute visibility settings within each tasklist"	""	"text"
 "3rd Party Storage %d"	""	"menu"
 "Active Date Range (%s)"	""	"label"

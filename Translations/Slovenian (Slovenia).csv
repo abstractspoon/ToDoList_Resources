@@ -10,6 +10,7 @@ NEED_TRANSLATION
 "%s weekdays"	""	"text"
 "'Overlapping' tasks colour"	""	"checkbox"
 "(Week {0})"	""	"label"
+"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 "Active Date Range (%s)"	""	"label"
 "After selected task"	""	"combobox"
 "Allocated By Frequency"	""	"combobox"

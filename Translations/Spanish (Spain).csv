@@ -9,6 +9,7 @@ NEED_TRANSLATION
 "%s\n%d Tasks"	"%s\n%d Tareas"	"tooltip"
 "%s weekdays"	"%s días laborable"	"text"
 "'Overlapping' tasks colour"	"'Superponer' color de tarea"	"checkbox"
+"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 "Active Date Range (%s)"	"Rango de Fecha Activo (%s)"	"label"
 "After selected task"	"Después de la tarea seleccionada"	"combobox"
 "Allocated By Frequency"	"Asignado Por Frecuencia"	"combobox"

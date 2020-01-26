@@ -2,6 +2,7 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 "New file path"	"新文件路径"	"label"
 "New project name"	"新项目名称"	"label"
 TRANSLATED

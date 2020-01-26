@@ -86,6 +86,7 @@ NEED_TRANSLATION
 "-tg <tags>\tSets the 'Tags' for the currently selected task"	""	"text"
 "-tid <task id>\tSelects the specified task in the active tasklist"	""	"text"
 "-ts <hrs>\tSets the 'Time Spent' for the currently selected task"	""	"text"
+"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 "-tv <version>\tSets the 'Version' for the currently selected task"	""	"text"
 "-v\tForces ToDoList to startup visible regardless of its last saved state"	""	"text"
 "-x\tTurns off password prompting except when first loading an encrypted tasklist"	""	"text"

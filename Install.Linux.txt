@@ -43,6 +43,27 @@ If winetricks is not part of the repository, it cannot be installed via GUI or C
 http://wiki.winehq.org/winetricks
 
 
+* Note for wine >3.0 and recent debian distibutions
+-------------------------
+
+The following procedure is tested with Wine 3.0 and under Ubuntu 18.04 LTS after installing wine with
+
+	sudo apt-get install wine winetricks
+
+Two modifications were needed:
+a) Force a 32bit wine configuration (default is 64bits and will cause issues with comctl32)
+b) DO NOT install comctl32 and vcrun6 with winetricks. You will use versions already present in the wine debian package instead.
+
+Run the following commands after wine installation:
+
+	WINEARCH=win32 WINEPREFIX=~/.wine-todolist winecfg
+	WINEARCH=win32 WINEPREFIX=~/.wine-todolist winetricks mfc42
+
+Then, launch ToDoList with:
+
+	WINEARCH=win32 WINEPREFIX=~/.wine-todolist wine start /unix /path/to/ToDoList.exe
+
+
 Setup/ Start of TDL
 ===================
 

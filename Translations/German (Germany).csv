@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 TRANSLATED
 "New file path"	"Neuer Dateipfad"	"label"
 "New project name"	"Neuer Projektname"	"label"
@@ -110,6 +108,7 @@ TRANSLATED
 "-tg <tags>\tSets the 'Tags' for the currently selected task"	"-tg <Tags>\tSetzt die 'Tags' für die ausgewählte Aufgabe"	"text"
 "-tid <task id>\tSelects the specified task in the active tasklist"	"-tid <id>\tWählt die Aufgabe in der aktiven Aufgabenliste"	"text"
 "-ts <hrs>\tSets the 'Time Spent' for the currently selected task"	"-ts <Stunden>\tSetzt 'Zeitaufwand' für die ausgewählte Aufgabe"	"text"
+"-tt <title>\tSets the 'Title' for the currently selected task"	"-tt <Titel>\tSetzt 'Titel' für die ausgewählte Aufgabe"	"text"
 "-tv <version>\tSets the 'Version' for the currently selected task"	"-tv <Version>\tSetzt 'Version' für die ausgewählte Aufgabe"	"text"
 "-v\tForces ToDoList to startup visible regardless of its last saved state"	"-v\tStartet ToDoList sichtbar, unabhängig vom gesicherten Status"	"text"
 "-x\tTurns off password prompting except when first loading an encrypted tasklist"	"-x\tSchaltet die Passwortabfrage aus, ausser beim ersten Laden einer verschlüsselten Aufgabenliste"	"text"

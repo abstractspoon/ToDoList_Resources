@@ -2,16 +2,16 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
-"By Now"	""	"text"
-"By the End of Next Year"	""	"text"
-"By the End of This Year"	""	"text"
-"By the Next 7 Days"	""	"text"
-"By Today"	""	"menu"
-  "By Today"	""	"text"
-"By Tomorrow"	""	"menu"
-  "By Tomorrow"	""	"text"
-"By Yesterday"	""	"text"
+"-tt <title>\tSets the 'Title' for the currently selected task"	"-tt <标题>\t设置当前所选任务的'标题'"	"text"
+"By Now"	"到现在为止"	"text"
+"By the End of Next Year"	"到明年年底"	"text"
+"By the End of This Year"	"到今年年底"	"text"
+"By the Next 7 Days"	"在接下来的7天之内"	"text"
+"By Today"	"到今天为止"	"menu"
+  "By Today"	"到今天为止"	"text"
+"By Tomorrow"	"到明天为止"	"menu"
+  "By Tomorrow"	"到明天为止"	"text"
+"By Yesterday"	"到昨天为止"	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

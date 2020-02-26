@@ -272,6 +272,7 @@ NEED_TRANSLATION
 "Add Tracked Time"	""	"tooltip"
 "Adjust allocations equally"	""	"radiobutton"
 "Adjust allocations in proportion to their existing values"	""	"radiobutton"
+"Adjust Task % Completion to match today's date"	""	"menu"
 "Adjusted"	""	"text"
 "After completing a task, set its 'Status' to"	""	"checkbox"
 "After Loading a Tasklist"	""	"label"

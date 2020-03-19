@@ -1678,7 +1678,7 @@ TRANSLATED
 "Show all subtasks"	"Pokaż wszystkie podzadania"	"text"
 "Show checkbox beside task title when completion column is hidden"	"Pokaż pole odznaczenia obok tytułu zadania kiedy kolumna 'Data Zakończenia' jest ukryta"	"checkbox"
 "Show close button on each tasklist tab"	"Pokaż przycisk zamknięcia na każdej karcie listy zadań"	"checkbox"
-"Show columns on the right of the task tree"	"Pokaż kolumny na prawo od drzewka zadań"	"checkbox"
+"Show attribute columns to the right of the task tree"	"Pokaż kolumny na prawo od drzewka zadań"	"checkbox"
 "Show comments as simple text"	"Pokaż komentarze jako prosty tekst"	"checkbox"
 "Show comments even when tasklist is maximised"	"Pokaż komentarze nawet kiedy lista zadań jest zmaksymalizowana"	"checkbox"
 "Show default filters"	"Pokaż domyślne filtry"	"checkbox"

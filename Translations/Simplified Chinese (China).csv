@@ -1633,7 +1633,7 @@ TRANSLATED
 "Show all subtasks"	"显示所有子任务"	"text"
 "Show checkbox beside task title when completion column is hidden"	"当完成列隐藏时在任务标题旁边显示复选框"	"checkbox"
 "Show close button on each tasklist tab"	"在每个任务列表选项卡上显示关闭按钮"	"checkbox"
-"Show columns on the right of the task tree"	"在任务树的右边显示列"	"checkbox"
+"Show attribute columns to the right of the task tree"	"在任务树的右边显示列"	"checkbox"
 "Show comments as simple text"	"以纯文本显示注释"	"checkbox"
 "Show comments even when tasklist is maximised"	"任务列表最大化时也显示注释"	"checkbox"
 "Show default filters"	"显示默认筛选器"	"checkbox"

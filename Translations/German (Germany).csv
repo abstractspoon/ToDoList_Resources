@@ -1649,7 +1649,7 @@ TRANSLATED
 "Show all subtasks"	"Zeige alle Teilaufgaben"	"text"
 "Show checkbox beside task title when completion column is hidden"	"Checkbox neben Aufgabentitel anzeigen, wenn Erledigt-Spalte ausgeblendet ist"	"checkbox"
 "Show close button on each tasklist tab"	"Zeige 'Schliessen Button' auf jeder Aufgabenliste"	"checkbox"
-"Show columns on the right of the task tree"	"Zeige Spalten rechts von der Baumansicht"	"checkbox"
+"Show attribute columns to the right of the task tree"	"Zeige Spalten rechts von der Baumansicht"	"checkbox"
 "Show comments as simple text"	"Kommentare als einfachen Text anzeigen"	"checkbox"
 "Show comments even when tasklist is maximised"	"Kommentare auch bei Vollbild anzeigen"	"checkbox"
 "Show default filters"	"Zeige Vorgabefilter"	"checkbox"

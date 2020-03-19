@@ -1679,7 +1679,7 @@ TRANSLATED
 "Show all subtasks"	"Montrer toutes les sous-tâches"	"text"
 "Show checkbox beside task title when completion column is hidden"	"Montrer case à cocher à côté du titre de la tâche quand la colonne d'achèvement est cachée"	"checkbox"
 "Show close button on each tasklist tab"	"Afficher bouton 'Fermer' sur chaque onglet de liste de tâches"	"checkbox"
-"Show columns on the right of the task tree"	"Afficher les colonnes à droite de l'arbre des tâches"	"checkbox"
+"Show attribute columns to the right of the task tree"	"Afficher les colonnes à droite de l'arbre des tâches"	"checkbox"
 "Show comments as simple text"	"Montrer les commentaires comme texte simple"	"checkbox"
 "Show comments even when tasklist is maximised"	"Montrer les commentaires même quand la liste de tâches est maximisée"	"checkbox"
 "Show default filters"	"Montrer les filtres par défaut"	"checkbox"

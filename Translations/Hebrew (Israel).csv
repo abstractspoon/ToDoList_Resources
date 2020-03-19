@@ -1768,7 +1768,7 @@ TRANSLATED
 "Show '% Complete' as a progress bar"	"הצג '% הושלמו' כפס התקדמות"	"checkbox"
 "Show all subtasks"	"הצג את כל תתי-המשימות"	"text"
 "Show checkbox beside task title when completion column is hidden"	"הצג תיבת סימון לצד רשומת המשימה כאשר טור מאפיין סיום משימה מוסתר"	"checkbox"
-"Show columns on the right of the task tree"	"הצג עמודות מימין לעץ המשימות"	"checkbox"
+"Show attribute columns to the right of the task tree"	"הצג עמודות מימין לעץ המשימות"	"checkbox"
 "Show comments as simple text"	"הצג הערות כטקסט בלבד"	"checkbox"
 "Show comments even when tasklist is maximised"	"הצג הערות גם בתצוגה מכסימלית"	"checkbox"
 "Show default filters"	"הצד סנני ברירת מחדל"	"checkbox"

@@ -1645,7 +1645,7 @@ TRANSLATED
 "Show all subtasks"	"Показать все подзадачи"	"text"
 "Show checkbox beside task title when completion column is hidden"	"Показывать кнопку выполнения рядом с названием задачи при скрытой колонке выполнения"	"checkbox"
 "Show close button on each tasklist tab"	"Показывать кнопку 'Закрыть' на каждой закладке списка задач"	"checkbox"
-"Show columns on the right of the task tree"	"Показывать колонки справа от дерева задач"	"checkbox"
+"Show attribute columns to the right of the task tree"	"Показывать колонки справа от дерева задач"	"checkbox"
 "Show comments as simple text"	"Показать заметки как простой текст"	"checkbox"
 "Show comments even when tasklist is maximised"	"Показывать заметки, даже если список задач развернут"	"checkbox"
 "Show default filters"	"Показывать фильтры по умолчанию"	"checkbox"

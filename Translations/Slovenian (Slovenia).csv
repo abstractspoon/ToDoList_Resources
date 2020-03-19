@@ -1679,7 +1679,7 @@ TRANSLATED
 "Show all subtasks"	"Prikaži vsa  podrejenih opravila"	"text"
 "Show checkbox beside task title when completion column is hidden"	"Pokaži potrditveno polje poleg naslova opravila, ko je skrit stolpec dokončanja"	"checkbox"
 "Show close button on each tasklist tab"	"Na vsakem zavihku seznamu opravil prikaži gumb 'Zapri'"	"checkbox"
-"Show columns on the right of the task tree"	"Prikaži stolpce na desni strani drevesa opravil"	"checkbox"
+"Show attribute columns to the right of the task tree"	"Prikaži stolpce na desni strani drevesa opravil"	"checkbox"
 "Show comments as simple text"	"Prikaži komentarje kot preprosto besedilo"	"checkbox"
 "Show comments even when tasklist is maximised"	"Prikaži komentarje, tudi če je seznam opravil povečan"	"checkbox"
 "Show default filters"	"Prikaži privzete filtre"	"checkbox"

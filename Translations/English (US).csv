@@ -1620,7 +1620,7 @@ NEED_TRANSLATION
 "Show all subtasks"	""	"text"
 "Show checkbox beside task title when completion column is hidden"	""	"checkbox"
 "Show close button on each tasklist tab"	""	"checkbox"
-"Show columns on the right of the task tree"	""	"checkbox"
+"Show attribute columns to the right of the task tree"	""	"checkbox"
 "Show comments as simple text"	""	"checkbox"
 "Show default filters"	""	"checkbox"
 "Show default task icons in icon selection dialog"	""	"checkbox"

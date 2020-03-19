@@ -1740,7 +1740,7 @@ TRANSLATED
 "Show all subtasks"	"Toon alle deeltaken"	"text"
 "Show checkbox beside task title when completion column is hidden"	"Toon keuzevakje naast taaktitel indien kolom 'Afwerking' is verborgen"	"checkbox"
 "Show close button on each tasklist tab"	"Toon sluitknop op elke taaklijsttab"	"checkbox"
-"Show columns on the right of the task tree"	"Toon kolommen rechts van de boomstructuur"	"checkbox"
+"Show attribute columns to the right of the task tree"	"Toon kolommen rechts van de boomstructuur"	"checkbox"
 "Show comments as simple text"	"Toon notities als platte tekst"	"checkbox"
 "Show comments even when tasklist is maximised"	"Toon notities als taaklijst gemaximaliseerd is"	"checkbox"
 "Show default filters"	"Toon standaardfilters"	"checkbox"

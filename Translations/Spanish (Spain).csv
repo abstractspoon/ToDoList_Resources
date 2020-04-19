@@ -639,7 +639,7 @@ TRANSLATED
 "Days, mid"	"Dias, media"	"combobox"
 "Days, narrow"	"Dias, estrecho"	"combobox"
 "Days, wide"	"Dias, amplio"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"Décades \t\t\t(eg, 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"Décades \t\t\t\t(ej. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"Décadas comienzan en el año '1' y no en el año '0' ej. '2001' en lugar de '2000'"	"checkbox"
 "Decrease"	"Decrementar"	"menu"
 "Decrease Font Size"	"Decrementar tamaño de la Fuente"	"tooltip"

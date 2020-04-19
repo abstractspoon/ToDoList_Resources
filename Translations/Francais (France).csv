@@ -698,7 +698,7 @@ TRANSLATED
 "Days, mid"	"Jours, moyen"	"combobox"
 "Days, narrow"	"Jours, étroit"	"combobox"
 "Days, wide"	"Jours, large"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"Décennies \t\t\t(par exemple, 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"Décennies \t\t\t(par exemple. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"Les décennies commencent l'année '1' plutôt que l'année '0'. Par exemple '2001' plutôt que '2000'"	"checkbox"
 "Decrease"	"Diminuer"	"menu"
 "Decrease Font Size"	"Diminuer la taille de caractère"	"tooltip"

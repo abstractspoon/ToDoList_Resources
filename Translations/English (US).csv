@@ -612,7 +612,7 @@ NEED_TRANSLATION
 "Days, mid"	""	"combobox"
 "Days, narrow"	""	"combobox"
 "Days, wide"	""	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	""	"text"
+"Decades \t\t\t(eg. 2000-2009)"	""	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	""	"checkbox"
 "Decrease"	""	"menu"
 "Decrease Font Size"	""	"tooltip"

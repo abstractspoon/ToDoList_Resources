@@ -56,7 +56,7 @@ NEED_TRANSLATION
 "Current Period (%s)"	""	"text"
 "Current Period: %d weekdays"	""	"label"
 "Current Period: %s"	""	"text"
-"Decades \t\t\t(eg, 2000-2009)"	""	"text"
+"Decades \t\t\t(eg. 2000-2009)"	""	"text"
 "Dependents"	""	"tooltip"
 "Duplicate"	""	"button"
 "Estimated/Spent Days"	""	"combobox"

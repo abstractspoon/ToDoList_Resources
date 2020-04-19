@@ -109,7 +109,7 @@ NEED_TRANSLATION
 "Custom Toolbar"	""	"menu"
 "Date prompt"	""	"text"
 "Days Remaining"	""	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	""	"text"
+"Decades \t\t\t(eg. 2000-2009)"	""	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	""	"checkbox"
 "Decrement Font Size"	""	"menu"
 "Default Browser..."	""	"button"

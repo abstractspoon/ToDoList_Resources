@@ -143,7 +143,7 @@ NEED_TRANSLATION
 "Current Period: %s"	""	"text"
 "Currently assigned to:\n\n'%s'"	""	"text"
 "Date/Time Formatting"	""	"label"
-"Decades \t\t\t(eg, 2000-2009)"	""	"text"
+"Decades \t\t\t(eg. 2000-2009)"	""	"text"
 "Dependents"	""	"tooltip"
 "Dictionaries (*.dic)"	""	"combobox"
 "Dictionaries (*.dic)|*.dic||"	""	"text"

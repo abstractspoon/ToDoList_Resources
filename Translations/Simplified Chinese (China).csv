@@ -1052,7 +1052,7 @@ TRANSLATED
 "Inline Spell Checking"	"在线拼写检查"	"menu"
 "Insert"	"插入"	"menu"
 "Insert Date"	"插入日期(&D)"	"menu"
-"Insert Date  Time"	"插入时间和日期(&I)"	"menu"
+"Insert Date and Time"	"插入时间和日期(&I)"	"menu"
 "Insert File Link..."	"插入文件链接(&F)..."	"menu"
 "Insert Html"	"插入Html"	"dialog"
 "Insert Image"	"插入图片"	"tooltip"

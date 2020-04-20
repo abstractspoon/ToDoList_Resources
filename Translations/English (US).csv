@@ -1025,7 +1025,7 @@ NEED_TRANSLATION
 "Inline Spell Checking"	""	"menu"
 "Insert"	""	"menu"
 "Insert Date"	""	"menu"
-"Insert Date  Time"	""	"menu"
+"Insert Date and Time"	""	"menu"
 "Insert File Link..."	""	"menu"
 "Insert Html"	""	"dialog"
 "Insert Image"	""	"tooltip"

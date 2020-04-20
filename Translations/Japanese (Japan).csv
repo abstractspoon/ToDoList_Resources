@@ -1603,7 +1603,7 @@ TRANSLATED
 "Ini file"	"ini ファイル"	"radiobutton"
 "Initialising %s..."	"%s の初期化中"	"text"
 "Insert Date"	"日にちを挿入"	"menu"
-"Insert Date  Time"	"日時を挿入"	"menu"
+"Insert Date and Time"	"日時を挿入"	"menu"
 "Insert File Link..."	"ファイルリンクの挿入..."	"menu"
 "Insert Symbol"	"シンボルの挿入"	"text"
 "Insert Time"	"時間を挿入"	"menu"

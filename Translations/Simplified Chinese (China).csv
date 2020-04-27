@@ -2063,7 +2063,7 @@ TRANSLATED
 "Unique ID"	"唯一ID"	"label"
 "Unless they are flagged"	"除非被标记"	"checkbox"
 "Unsorted"	"未排序"	"menu"
-"untitled"	"无标题\r\n"	"text"
+"untitled"	"无标题"	"text"
 "Unzipping update..."	"正在解压缩更新..."	"text"
 "Up One Level"	"上一级"	"tooltip"
 "Update all tasklists when the comments field is resized"	"调整“注释”字段的大小时更新所有任务列表"	"checkbox"

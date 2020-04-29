@@ -348,7 +348,7 @@ NEED_TRANSLATION
 "Download Progress"	""	"dialog"
 "Download Progress (%d%%)"	""	"text"
 "Downloading '%s' from '%s'"	""	"text"
-"Downloading latest update... %d%%"	""	"text"
+"Downloading latest update..."	""	"text"
 "Due date"	""	"label"
 "Due date - Current date"	""	"radiobutton"
 "Duplicate"	""	"button"

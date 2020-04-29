@@ -740,7 +740,7 @@ TRANSLATED
 "Download Progress"	"下载进度"	"dialog"
 "Download Progress (%d%%)"	"下载进度 (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"正在下载“%s”来自“%s”"	"text"
-"Downloading latest update... %d%%"	"正在下载最新更新... %d%%"	"text"
+"Downloading latest update..."	"正在下载最新更新..."	"text"
 "Due"	"到期"	"sysheader32"
 "Due date"	"到期日"	"label"
 "Due Date"	"到期日期"	"menu"

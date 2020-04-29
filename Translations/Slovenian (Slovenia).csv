@@ -769,7 +769,7 @@ TRANSLATED
 "Download Progress"	"Napredek prenosa"	"dialog"
 "Download Progress (%d%%)"	"Napredek prenosa (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Prenos '%s' z '%s'"	"text"
-"Downloading latest update... %d%%"	"Prenos zadnje posodobitve... %d%%"	"text"
+"Downloading latest update..."	"Prenos zadnje posodobitve..."	"text"
 "Due"	"Rok"	"sysheader32"
 "Due date"	"Datum zapadlosti"	"label"
 "Due Date"	"Datum roka zapadlosti"	"menu"

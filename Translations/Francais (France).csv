@@ -794,7 +794,7 @@ TRANSLATED
 "Download Progress"	"Progression du téléchargement"	"dialog"
 "Download Progress (%d%%)"	"Progression du Téléchargement (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Télécharge '%s' de '%s'"	"text"
-"Downloading latest update... %d%%"	"Téléchargement de la dernière mise à jour... %d%%"	"text"
+"Downloading latest update..."	"Téléchargement de la dernière mise à jour..."	"text"
 "Due"	"Prévu"	"sysheader32"
 "Due date"	"Date de fin prévue"	"label"
 "Due Date"	"Date de fin prévue"	"menu"

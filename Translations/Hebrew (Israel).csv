@@ -1082,7 +1082,7 @@ TRANSLATED
 "Download Progress"	"התקדמות ההורדה"	"dialog"
 "Download Progress (%d%%)"	"התקדמות ההורדה (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"הושלמו '%s' מתוך '%s'"	"text"
-"Downloading latest update... %d%%"	"הורדה עודכנה לאחרונה... %d%%"	"text"
+"Downloading latest update..."	"הורדה עודכנה לאחרונה..."	"text"
 "Due"	"יעד"	"sysheader32"
 "Due Date"	"תאריך יעד"	"menu"
   "Due Date"	"תאריך יעד"	"label"

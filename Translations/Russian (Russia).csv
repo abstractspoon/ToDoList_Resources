@@ -767,7 +767,7 @@ TRANSLATED
 "Download Progress"	"Прогресс загрузки"	"dialog"
 "Download Progress (%d%%)"	"Прогресс загрузки (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Загрузка '%s' из '%s'"	"text"
-"Downloading latest update... %d%%"	"Загрузка последнего обновления... %d%%"	"text"
+"Downloading latest update..."	"Загрузка последнего обновления..."	"text"
 "Due"	"Срок"	"sysheader32"
 "Due date"	"Срок"	"label"
 "Due Date"	"Срок"	"menu"

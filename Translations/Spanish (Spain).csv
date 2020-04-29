@@ -736,7 +736,7 @@ TRANSLATED
 "Download Progress"	"Progreso de descarga"	"dialog"
 "Download Progress (%d%%)"	"Progreso de descarga(%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Descargando '%s' de '%s'"	"text"
-"Downloading latest update... %d%%"	"Descargando última actualización... %d%%"	"text"
+"Downloading latest update..."	"Descargando última actualización..."	"text"
 "Due"	"Vencimiento"	"sysheader32"
 "Due date"	"Fecha Vencimiento"	"label"
 "Due Date"	"Fecha vencimiento"	"menu"

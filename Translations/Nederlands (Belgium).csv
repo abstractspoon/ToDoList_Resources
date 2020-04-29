@@ -1008,7 +1008,7 @@ TRANSLATED
 "Download Progress"	"Voortgang van binnenhalen"	"dialog"
 "Download Progress (%d%%)"	"Voortgang van binnenhalen (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Bezig met binnenhalen '%s' van '%s'"	"text"
-"Downloading latest update... %d%%"	"Binnenhalen laatste update... %d%%"	"text"
+"Downloading latest update..."	"Binnenhalen laatste update..."	"text"
 "Due"	"Verwacht"	"sysheader32"
 "Due Date"	"Streefdatum"	"menu"
   "Due Date"	"Streefdatum"	"label"

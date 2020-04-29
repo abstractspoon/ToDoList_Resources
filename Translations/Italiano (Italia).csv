@@ -773,7 +773,7 @@ TRANSLATED
 "Download Progress"	"Avanzamento del download"	"dialog"
 "Download Progress (%d%%)"	"Avanzamento del download (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Scaricamento di '%s' da '%s'"	"text"
-"Downloading latest update... %d%%"	"Scaricamento dell'ultimo aggiornamento… %d%%"	"text"
+"Downloading latest update..."	"Scaricamento dell'ultimo aggiornamento..."	"text"
 "Due"	"Scadenza"	"sysheader32"
 "Due Date"	"Scadenza"	"menu"
   "Due Date"	"Scadenza"	"label"

@@ -729,7 +729,7 @@ TRANSLATED
 "Download Progress"	"Download-Fortschritt"	"dialog"
 "Download Progress (%d%%)"	"Download-Fortschritt (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"'%s' wird von '%s' heruntergeladen"	"text"
-"Downloading latest update... %d%%"	"Neuestes Update wird heruntergeladen ... %d%%"	"text"
+"Downloading latest update..."	"Neuestes Update wird heruntergeladen ..."	"text"
 "Due"	"Fällig"	"sysheader32"
 "Due date"	"Fälligkeitsdatum"	"label"
 "Due Date"	"Fälligkeitsdatum"	"menu"

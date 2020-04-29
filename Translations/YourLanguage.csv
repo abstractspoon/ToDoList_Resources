@@ -733,7 +733,7 @@ NEED_TRANSLATION
 "Download Progress"	""	"dialog"
 "Download Progress (%d%%)"	""	"text"
 "Downloading '%s' from '%s'"	""	"text"
-"Downloading latest update... %d%%"	""	"text"
+"Downloading latest update..."	""	"text"
 "Due"	""	"sysheader32"
 "Due date"	""	"label"
 "Due Date"	""	"menu"

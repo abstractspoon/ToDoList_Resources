@@ -154,7 +154,7 @@ NEED_TRANSLATION
 "Display the image file directly\n(currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
 "Download Progress (%d%%)"	""	"text"
 "Downloading '%s' from '%s'"	""	"text"
-"Downloading latest update... %d%%"	""	"text"
+"Downloading latest update..."	""	"text"
 "Due date - Current date"	""	"radiobutton"
 "Duplicate"	""	"button"
 "Dynamic data, multi-selection"	""	"text"

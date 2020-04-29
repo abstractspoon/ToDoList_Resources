@@ -781,7 +781,7 @@ TRANSLATED
 "Download Progress"	"Postęp ściągania"	"dialog"
 "Download Progress (%d%%)"	"Postęp ściągania (%d%%)"	"text"
 "Downloading '%s' from '%s'"	"Ściągam '%s' z '%s'"	"text"
-"Downloading latest update... %d%%"	"Ściągam ostatnią aktualizację... %d%%"	"text"
+"Downloading latest update..."	"Ściągam ostatnią aktualizację..."	"text"
 "Due"	"Data Realizacji"	"sysheader32"
 "Due date"	"Termin"	"label"
 "Due Date"	"Data realizacji"	"menu"

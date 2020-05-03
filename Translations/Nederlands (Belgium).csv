@@ -1746,7 +1746,7 @@ TRANSLATED
 "Show checkbox beside task title when completion column is hidden"	"Toon keuzevakje naast taaktitel indien kolom 'Afwerking' is verborgen"	"checkbox"
 "Show close button on each tasklist tab"	"Toon sluitknop op elke taaklijsttab"	"checkbox"
 "Show comments as simple text"	"Toon notities als platte tekst"	"checkbox"
-"Show comments even when tasklist is maximised"	"Toon notities als taaklijst gemaximaliseerd is"	"checkbox"
+"Show comments even when task view is maximised"	"Toon notities als taaklijst gemaximaliseerd is"	"checkbox"
 "Show default filters"	"Toon standaardfilters"	"checkbox"
 "Show default task icons in icon selection dialog"	"Toon standaard taakpictogrammen in selectiedialoog voor pictogrammen"	"checkbox"
 "Show empty columns"	"Toon lege kolommen"	"combobox"

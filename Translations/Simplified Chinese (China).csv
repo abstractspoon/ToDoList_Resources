@@ -1654,7 +1654,7 @@ TRANSLATED
 "Show checkbox beside task title when completion column is hidden"	"当完成列隐藏时在任务标题旁边显示复选框"	"checkbox"
 "Show close button on each tasklist tab"	"在每个任务列表选项卡上显示关闭按钮"	"checkbox"
 "Show comments as simple text"	"以纯文本显示注释"	"checkbox"
-"Show comments even when tasklist is maximised"	"任务列表最大化时也显示注释"	"checkbox"
+"Show comments even when task view is maximised"	"任务列表最大化时也显示注释"	"checkbox"
 "Show default filters"	"显示默认筛选器"	"checkbox"
 "Show default task icons in icon selection dialog"	"在图标选择对话框中显示默认任务图标"	"checkbox"
 "Show empty columns"	"显示空列"	"combobox"

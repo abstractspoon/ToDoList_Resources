@@ -1678,7 +1678,7 @@ TRANSLATED
 "Show checkbox beside task title when completion column is hidden"	"Mostra casella di controllo accanto al titolo del compito quando la colonna Completato è nascosta"	"checkbox"
 "Show close button on each tasklist tab"	"Mostra pulsante di chiusura in ciascuna scheda di elenco compiti"	"checkbox"
 "Show comments as simple text"	"Mostra i commenti come solo testo"	"checkbox"
-"Show comments even when tasklist is maximised"	"Mostra i commenti anche quando l'elenco dei compiti è ingrandito"	"checkbox"
+"Show comments even when task view is maximised"	"Mostra i commenti anche quando l'elenco dei compiti è ingrandito"	"checkbox"
 "Show default filters"	"Mostra i filtri predefiniti"	"checkbox"
 "Show default task icons in icon selection dialog"	"Mostra le icone predefinite dei compiti nella finestra di selezione delle icone"	"checkbox"
 "Show empty columns"	"Mostra colonne vuote"	"combobox"

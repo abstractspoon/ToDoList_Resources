@@ -1651,7 +1651,7 @@ TRANSLATED
 "Show checkbox beside task title when completion column is hidden"	"Показывать кнопку выполнения рядом с названием задачи при скрытой колонке выполнения"	"checkbox"
 "Show close button on each tasklist tab"	"Показывать кнопку 'Закрыть' на каждой закладке списка задач"	"checkbox"
 "Show comments as simple text"	"Показать заметки как простой текст"	"checkbox"
-"Show comments even when tasklist is maximised"	"Показывать заметки, даже если список задач развернут"	"checkbox"
+"Show comments even when task view is maximised"	"Показывать заметки, даже если список задач развернут"	"checkbox"
 "Show default filters"	"Показывать фильтры по умолчанию"	"checkbox"
 "Show default task icons in icon selection dialog"	"Показывать иконки задач по умолчанию в окне выбора иконок"	"checkbox"
 "Show empty columns"	"Показать пустые колонки"	"combobox"

@@ -1737,7 +1737,7 @@ TRANSLATED
 "Show checkbox beside task title when completion column is hidden"	"Ak je stĺpec dokončenia skrytý, začiarknite políčko vedľa názvu úlohy"	"checkbox"
 "Show close button on each tasklist tab"	"Zobraziť tlačidlo Zatvoriť na každej karte zoznamu úloh"	"checkbox"
 "Show comments as simple text"	"Zobraziť komentáre ako jednoduchý text"	"checkbox"
-"Show comments even when tasklist is maximised"	"Zobraziť komentáre, aj keď je maximalizovaný zoznam úloh"	"checkbox"
+"Show comments even when task view is maximised"	"Zobraziť komentáre, aj keď je maximalizovaný zoznam úloh"	"checkbox"
 "Show default filters"	"Zobraziť predvolené filtre"	"checkbox"
 "Show default task icons in icon selection dialog"	"Zobraziť predvolené ikony úloh v dialógovom okne výberu ikon"	"checkbox"
 "Show empty columns"	"Zobraziť prázdne stĺpce"	"combobox"

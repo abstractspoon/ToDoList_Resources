@@ -1917,7 +1917,7 @@ TRANSLATED
 "Show '% Complete' as a progress bar"	"進捗度(%)をプログレスバーで表示する"	"checkbox"
 "Show all subtasks"	"全てのサブタスクを表示"	"text"
 "Show attribute columns to the right of the task tree"	"タスクツリーの右側に欄を表示する"	"checkbox"
-"Show comments even when tasklist is maximised"	"タスクリストの最大表示の際であってもコメントを表示する"	"checkbox"
+"Show comments even when task view is maximised"	"タスクリストの最大表示の際であってもコメントを表示する"	"checkbox"
 "Show default filters"	"デフォルトのフィルタを表示する"	"checkbox"
 "Show default task icons in icon selection dialog"	"アイコン選択ダイアログにデフォルトのタスクアイコンを表示する"	"checkbox"
 "Show gridlines"	"ガイドラインを表示する"	"checkbox"

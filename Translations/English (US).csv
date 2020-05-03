@@ -2193,7 +2193,7 @@ TRANSLATED
 "Run Minimised"	"Run Minimized"	"checkbox"
 "Set Task Colour..."	"Set Task Color..."	"menu"
 "Show a task's colour as a vertical bar"	"Show a task's color as a vertical bar"	"checkbox"
-"Show comments even when tasklist is maximised"	"Show comments even when tasklist is maximized"	"checkbox"
+"Show comments even when task view is maximised"	"Show comments even when tasklist is maximized"	"checkbox"
 "Synchronise a task's 'Completion' to changes in its 'Status'"	"Synchronize a task's 'Completion' to changes in its 'Status'"	"checkbox"
 "Task Colouring"	"Task Coloring"	"label"
 "Text Colour"	"Text Color"	"tooltip"

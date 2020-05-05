@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps]
+"DumpFolder"="C:\\Temp\\CrashDumps"
+"DumpCount"=dword:00000004
+"DumpType"=dword:00000002
+
+; Collecting user-mode dumps: 
+; http://msdn.microsoft.com/en-us/library/windows/desktop/bb787181%28v=vs.85%29.aspx

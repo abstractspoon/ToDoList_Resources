@@ -69,7 +69,7 @@ TRANSLATED
 "(untitled)"	"(unbenannt)"	"text"
 "(Week {0})"	"(Woche {0})"	"label"
 "- Fixed Columns -"	"- Feste Spalten -"	"combobox"
-"- unnamed -"	"- unbenannt"	"text"
+"- unnamed -"	"- unbenannt -"	"text"
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	"-ab <zugewiesen von>\tSetzt 'Zugewiesen von' für die ausgewählte Aufgabe"	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	"-at <zugewiesen an>\tSetzt 'zugewiesen an' für die ausgewählte Aufgabe"	"text"
 "-bid <task id>\tSpecifies the sibling task below which to create the new task"	"-bid <id>\tDefiniert die Geschwisteraufgabe, nach der die neue Aufgabe erstellt wird"	"text"

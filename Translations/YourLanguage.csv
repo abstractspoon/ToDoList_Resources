@@ -1676,7 +1676,7 @@ NEED_TRANSLATION
 "Show attribute columns to the right of the task tree"	""	"checkbox"
 "Show comments as simple text"	""	"checkbox"
 "Show comments even when task view is maximised"	""	"checkbox"
-"Show default filters"	""	"checkbox"
+"Show default filters in 'Filter Bar'"	""	"checkbox"
 "Show default task icons in icon selection dialog"	""	"checkbox"
 "Show empty columns"	""	"combobox"
 "Show fields whose corresponding column is visible"	""	"radiobutton"

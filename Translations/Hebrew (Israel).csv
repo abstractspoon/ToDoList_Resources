@@ -1719,7 +1719,7 @@ TRANSLATED
 "Select Dictionary"	"בחר מילון"	"dialog"
 "Select File"	"בחר קובץ"	"dialog"
 "Select File to Download (%s)"	"בחר קובץ להורדה (%s)"	"text"
-"Select File to which Task Refers"	"בחר קובץ שהרשימה מפנה אליו"	"text"
+"Select File to Link to Task"	"בחר קובץ שהרשימה מפנה אליו"	"text"
 "Select Folder"	"בחר תיקיה"	"text"
 "Select items to import"	"בחר פריטים לייבוא"	"label"
 "Select Next Task"	"בחר במשימה הבאה"	"menu"

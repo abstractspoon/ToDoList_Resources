@@ -1587,7 +1587,7 @@ TRANSLATED
 "Select Dictionary"	"Wörterbuch wählen"	"dialog"
 "Select File"	"Datei wählen"	"dialog"
 "Select File to Download (%s)"	"Datei zum Download (%s) wählen"	"text"
-"Select File to which Task Refers"	"Wähle Datei, auf die sich die Aufgabe bezieht"	"text"
+"Select File to Link to Task"	"Wähle Datei, auf die sich die Aufgabe bezieht"	"text"
 "Select Folder"	"Verzeichnis wählen"	"text"
 "Select Image File"	"Bilddatei wählen"	"dialog"
 "Select items to import"	"Einträge zum Importieren wählen"	"label"

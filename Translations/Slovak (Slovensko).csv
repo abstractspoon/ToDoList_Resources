@@ -1672,7 +1672,7 @@ TRANSLATED
   "Select All"	"Vybrať &všetko"	"menu"
 "Select Dictionary"	"Vyberte Slovník"	"dialog"
 "Select File"	"Vybrať súbor"	"dialog"
-"Select File to which Task Refers"	"Vyberte Súbor, na ktorý sa úloha vzťahuje"	"text"
+"Select File to Link to Task"	"Vyberte Súbor, na ktorý sa úloha vzťahuje"	"text"
 "Select Folder"	"Vybrať priečinok"	"text"
 "Select Image File"	"Vyberte Súbor obrázkov"	"dialog"
 "Select items to import"	"Vyberte položky na import"	"label"

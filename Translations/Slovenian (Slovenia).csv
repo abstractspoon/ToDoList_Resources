@@ -1616,7 +1616,7 @@ TRANSLATED
 "Select Dictionary"	"Izberi slovar"	"dialog"
 "Select File"	"Izberi datoteko"	"dialog"
 "Select File to Download (%s)"	"Izberi datoteko za prenos (%s)"	"text"
-"Select File to which Task Refers"	"Izberi datoteko na katero se sklicuje opravilo"	"text"
+"Select File to Link to Task"	"Izberi datoteko na katero se sklicuje opravilo"	"text"
 "Select Folder"	"Izberi mapo"	"text"
 "Select Image File"	"Izberite slikovno datoteko"	"dialog"
 "Select items to import"	"Izberi vnose za uvoz"	"label"

@@ -1060,7 +1060,7 @@ TRANSLATED
 "'Due' task colour"	"期限のきたタスクの色"	"checkbox"
 "'New Subtask' button places subtask"	"「新規サブタスク」ボタンで新規作成するタスクの配置"	"label"
 "'New Task' button places task"	"「新規タスク」ボタンで新規作成するタスクの配置"	"label"
-"'Started Today' task colour"	"今日開始のタスクの色タスクの色"	"checkbox"
+"'Starts Today' task colour"	"今日開始のタスクの色タスクの色"	"checkbox"
 "'Started' task colour"	"開始したタスクの色"	"checkbox"
 "'Today' colour"	"今日の色"	"checkbox"
 "'Weekend' colour"	"週末の色"	"checkbox"

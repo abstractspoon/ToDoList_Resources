@@ -80,7 +80,7 @@ TRANSLATED
 "'Overlapping' tasks colour"	"'Superponer' color de tarea"	"checkbox"
 "'Stack' comments above (or left of) edit fields"	"'Apilar'' comentarios arriba (o izquierda de) campos editados"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"'Tarea' edite campos y comentarios cuando ocupen la misma posición (izquierda, derecha o debajo)"	"checkbox"
-"'Started Today' task colour"	"Color de tareas iniciadas hoy"	"checkbox"
+"'Starts Today' task colour"	"Color de tareas iniciadas hoy"	"checkbox"
 "'Started' task colour"	"Color de tareas iniciadas"	"checkbox"
 "'Today' colour"	"'Hoy' color"	"checkbox"
 "'Weekend' colour"	"'Fin de semana' color"	"checkbox"

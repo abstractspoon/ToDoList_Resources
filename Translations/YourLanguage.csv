@@ -56,7 +56,7 @@ NEED_TRANSLATION
 "'Overlapping' tasks colour"	""	"checkbox"
 "'Stack' comments above (or left of) edit fields"	""	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	""	"checkbox"
-"'Started Today' task colour"	""	"checkbox"
+"'Starts Today' task colour"	""	"checkbox"
 "'Started' task colour"	""	"checkbox"
 "'Today' colour"	""	"checkbox"
 "'Weekend' colour"	""	"checkbox"

@@ -196,7 +196,7 @@ TRANSLATED
 "'Non-working hours' colour"	"Couleur des 'heures non-ouvrées'"	"checkbox"
 "'Stack' comments above (or left of) edit fields"	"'Empiler' les commentaires au-dessus (ou à gauche) des champs d'édition"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"'Empiler' les champs d'édition et les commentaires quand ils occupent la même position (gauche, droite ou dessous)"	"checkbox"
-"'Started Today' task colour"	"Couleur tâche 'démarrée aujourd'hui'"	"checkbox"
+"'Starts Today' task colour"	"Couleur tâche 'démarrée aujourd'hui'"	"checkbox"
 "'Started' task colour"	"Couleur tâche 'démarrée'"	"checkbox"
 "'Today' colour"	"Couleur 'aujourd'hui'"	"checkbox"
 "'Weekend' colour"	"Couleur 'week-end'"	"checkbox"

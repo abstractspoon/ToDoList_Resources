@@ -157,7 +157,7 @@ TRANSLATED
 "'New Task' button places task"	"'Nowe zadanie' przycisk umieszcza zadanie"	"label"
 "'Stack' comments above (or left of) edit fields"	"Komentarze „Stos” powyżej pól edycji (lub po lewej stronie)"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"Edytuj pola i komentarze kiedy używają tej samej pozycji (prawo, lewo albo poniżej)"	"checkbox"
-"'Started Today' task colour"	"Kolor zadania dla 'Rozpoczętych Dzisiaj'"	"checkbox"
+"'Starts Today' task colour"	"Kolor zadania dla 'Rozpoczętych Dzisiaj'"	"checkbox"
 "'Started' task colour"	"Kolor zadania dla 'Rozpoczętych'"	"checkbox"
 "'Today' colour"	"'Dzisiaj' kolor"	"checkbox"
 "'Weekend' colour"	"'Weekend' kolor"	"checkbox"

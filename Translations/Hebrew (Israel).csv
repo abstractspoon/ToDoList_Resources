@@ -581,7 +581,7 @@ TRANSLATED
 "'New Subtask' button places subtask"	"כפתור תת-משימה יוצר תת-משימה"	"label"
 "'New Task' button places task"	"כפתור משימה חדשה יוצר משימה חדשה"	"label"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"מחסנית משמשת לעריכת שדות והערות התופסים אותו מיקום (שמאל, ימין או מתחת)"	"checkbox"
-"'Started Today' task colour"	"צבע משימה התחילה היום"	"checkbox"
+"'Starts Today' task colour"	"צבע משימה התחילה היום"	"checkbox"
 "'Started' task colour"	"צבע משימה התחילה"	"checkbox"
 "'Today' colour"	"צבע היום"	"checkbox"
 "'Weekend' colour"	"צבע סוף שבוע"	"checkbox"

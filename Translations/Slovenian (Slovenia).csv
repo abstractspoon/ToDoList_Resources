@@ -125,7 +125,7 @@ TRANSLATED
 "'Non-working hours' colour"	"Barva ne delovnih ur"	"checkbox"
 "'Stack' comments above (or left of) edit fields"	"'Sklad' komentarji nad (ali levo od) polj za urejanje"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"Polja za urejanje 'Sklad' in komentarji, ko zasedajo isti položaj (levo, desno ali spodaj)"	"checkbox"
-"'Started Today' task colour"	"Barva opravila 'Začeto danes'"	"checkbox"
+"'Starts Today' task colour"	"Barva opravila 'Začeto danes'"	"checkbox"
 "'Started' task colour"	"Barva opravila 'Začeto'"	"checkbox"
 "'Today' colour"	"Barva 'Danes'"	"checkbox"
 "'Weekend' colour"	"Barva 'Vikend'"	"checkbox"

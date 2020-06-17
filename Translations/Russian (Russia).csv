@@ -143,7 +143,7 @@ TRANSLATED
 "'New Task' button places task"	"Новая задача' помещает задачу:"	"label"
 "'Stack' comments above (or left of) edit fields"	"'Группировать' заметки над (или слева от) полей редактирования"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"Группировать' поля редактирования и заметок, когда они занимают одинаковую позицию (слева, справа или снизу)"	"checkbox"
-"'Started Today' task colour"	"Цвет задачи 'Начато сегодня'"	"checkbox"
+"'Starts Today' task colour"	"Цвет задачи 'Начато сегодня'"	"checkbox"
 "'Started' task colour"	"Цвет задачи 'Начато'"	"checkbox"
 "'Today' colour"	"Цвет 'Сегодня'"	"checkbox"
 "'Weekend' colour"	"Цвет 'Выходные'"	"checkbox"

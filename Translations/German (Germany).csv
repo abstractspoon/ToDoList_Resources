@@ -56,7 +56,7 @@ TRANSLATED
 "'Overlapping' tasks colour"	"Farbe für 'Überlappung'"	"checkbox"
 "'Stack' comments above (or left of) edit fields"	"Kommentare oberhalb (oder links) der Eingabefelder 'stapeln'"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"Eingabefelder und Kommentare 'stapeln', wenn sie die gleiche Position (links, rechts oder unten) beanspruchen"	"checkbox"
-"'Started Today' task colour"	"Farbe 'Heute begonnen'"	"checkbox"
+"'Starts Today' task colour"	"Farbe 'Heute begonnen'"	"checkbox"
 "'Started' task colour"	"Farbe 'Begonnen'"	"checkbox"
 "'Today' colour"	"Farbe für 'Heute'"	"checkbox"
 "'Weekend' colour"	"Farbe für Wochenende"	"checkbox"

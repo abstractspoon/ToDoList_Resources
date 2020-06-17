@@ -151,7 +151,7 @@ TRANSLATED
 "'Overlapping' tasks colour"	"'겹치는' 작업 색상 표시"	"checkbox"
 "'Stack' comments above (or left of) edit fields"	"작업 설명을 편집 영역 위에 (또는 왼쪽에) 쌓기"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"편집 영역과 작업 설명 위치가 같을 시 (왼쪽, 오른쪽 또는 아래) 쌓기"	"checkbox"
-"'Started Today' task colour"	"'오늘 시작된' 작업 색상"	"checkbox"
+"'Starts Today' task colour"	"'오늘 시작된' 작업 색상"	"checkbox"
 "'Started' task colour"	"'시작된' 작업 색상"	"checkbox"
 "'Today' colour"	"'오늘' 색상"	"checkbox"
 "'Weekend' colour"	"'주말' 색상"	"checkbox"

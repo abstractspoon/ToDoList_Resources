@@ -144,7 +144,7 @@ TRANSLATED
 "'New Task' button places task"	"Il pulsante 'Nuovo compito' inserisce un compito"	"label"
 "'Stack' comments above (or left of) edit fields"	"'Impila' i commenti sopra (o a sinistra) ai campi di modifica"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"'Impila' i campi di modifica e i commenti quando occupano la stessa posizione (sinistra, destra o sotto)"	"checkbox"
-"'Started Today' task colour"	"Colore dei compiti 'Iniziati oggi'"	"checkbox"
+"'Starts Today' task colour"	"Colore dei compiti 'Iniziati oggi'"	"checkbox"
 "'Started' task colour"	"Colore dei compiti 'Iniziati'"	"checkbox"
 "'Today' colour"	"Colore per 'Oggi'"	"checkbox"
 "'Weekend' colour"	"Colore per 'Fine settimana'"	"checkbox"

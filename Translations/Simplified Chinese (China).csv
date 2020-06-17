@@ -54,7 +54,7 @@ TRANSLATED
 "'Overlapping' tasks colour"	"重叠’任务的颜色"	"checkbox"
 "'Stack' comments above (or left of) edit fields"	"'Stack'上面（或左边）编辑字段的注释"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"叠放编辑字段和注释, 当它们占据相同位置时(左,右或下方)."	"checkbox"
-"'Started Today' task colour"	"今天开始的任务颜色"	"checkbox"
+"'Starts Today' task colour"	"今天开始的任务颜色"	"checkbox"
 "'Started' task colour"	"开始的任务颜色"	"checkbox"
 "'Today' colour"	"今天的颜色"	"checkbox"
 "'Weekend' colour"	"周末的颜色"	"checkbox"

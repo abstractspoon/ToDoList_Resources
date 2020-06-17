@@ -448,7 +448,7 @@ TRANSLATED
 "'New Subtask' button places subtask"	"Knop 'Nieuwe deeltaak' plaatst deeltaak:"	"label"
 "'New Task' button places task"	"Knop 'Nieuwe taak' plaatst taak:"	"label"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"'Stapel' werkvelden en notities als ze dezelfde positie hebben (links, rechts of onderaan)"	"checkbox"
-"'Started Today' task colour"	"Taakkleur 'Vandaag begonnen'"	"checkbox"
+"'Starts Today' task colour"	"Taakkleur 'Vandaag begonnen'"	"checkbox"
 "'Started' task colour"	"Taakkleur 'Begonnen'"	"checkbox"
 "'Today' colour"	"Kleur 'Vandaag'"	"checkbox"
 "'Weekend' colour"	"Kleur 'Weekeinde'"	"checkbox"

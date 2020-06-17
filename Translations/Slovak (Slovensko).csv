@@ -332,7 +332,7 @@ TRANSLATED
 "'New Task' button places task"	"Tlačidlo 'Nová úlo&ha' umiestni úlohu:"	"label"
 "'Stack' comments above (or left of) edit fields"	"'Stack' komentáre nad (alebo vľavo) od editačných polí"	"checkbox"
 "'Stack' edit fields and comments when they occupy the same position (left, right or below)"	"Úpravné polia „Stack“ a komentáre, keď sa nachádzajú na rovnakej pozícii (vľavo, vpravo alebo dole)"	"checkbox"
-"'Started Today' task colour"	"Farba úlohy „Started Today“"	"checkbox"
+"'Starts Today' task colour"	"Farba úlohy „Started Today“"	"checkbox"
 "'Started' task colour"	"Farba úlohy „Spustená“"	"checkbox"
 "'Today' colour"	"Farba „Today“"	"checkbox"
 "'Weekend' colour"	"„Víkendová“ farba"	"checkbox"

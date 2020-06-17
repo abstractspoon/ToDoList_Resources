@@ -2162,7 +2162,7 @@ TRANSLATED
 "'Bar' colour for tasks having no colour"	"'Bar' color for tasks having no color"	"checkbox"
 "'Due Today' task colour"	"'Due Today' task color"	"checkbox"
 "'Due' task colour"	"'Due' task color"	"checkbox"
-"'Started Today' task colour"	"'Started Today' task color"	"checkbox"
+"'Starts Today' task colour"	"'Started Today' task color"	"checkbox"
 "'Started' task colour"	"'Started' task color"	"checkbox"
 "'Today' colour"	"'Today' color"	"checkbox"
 "'Weekend' colour"	"'Weekend' color"	"checkbox"

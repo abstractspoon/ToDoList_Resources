@@ -2223,7 +2223,7 @@ NEED_TRANSLATION
 "Yes, I want to be able to share some of my tasklists"	""	"radiobutton"
 "Yes, please"	""	"radiobutton"
 "Yesterday"	""	"text"
-"You must include 'Title' in your column mapping."	""	"text"
+"You must include 'Title' in your column mapping"	""	"text"
 "You will need to restart ToDoList to see the change to the window fading"	""	"text"
 "Your preferences have been successfully imported into the registry.\n\nDo you want to start using these settings immediately?"	""	"text"
 "Your registry settings have been successfully exported.\n\nDo you want to start using these preferences immediately?"	""	"text"

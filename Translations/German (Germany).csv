@@ -3,6 +3,7 @@ PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "<Existing Custom Attribute>"	""	"combobox"
+"Default Filter %d"	""	"menu"
 "Find Tasks Filter %d"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -653,7 +654,6 @@ TRANSLATED
 "Default Browser..."	"Vorgabebrowser ..."	"button"
 "Default Categories"	"Vorgabe: Kategorien"	"label"
 "Default data"	"Vorgabewert"	"label"
-"Default Filter %d"	"Default Filter %d"	"menu"
 "Default Statuses"	"Vorgabe: Status"	"label"
 "Default Tags"	"Tags - Vorgabe"	"label"
 "Default Task View Visibility"	"Vorgabe zur Darstellung der Aufgabenansichten"	"label"
@@ -880,7 +880,7 @@ TRANSLATED
 "Find Previous"	"Finde &vorherige"	"menu"
 "Find Tasks"	"Suche Aufgaben"	"dialog"
   "Find Tasks"	"Suche Aufgaben"	"tooltip"
-"Find Tasks Filter"	"Suchfilter"	"text"
+"Find Tasks Filters"	"Suchfilter"	"text"
 "Find Tasks..."	"&Suche Aufgaben..."	"menu"
 "Find what"	"Finde was"	"label"
 "Find..."	"Suchen..."	"menu"

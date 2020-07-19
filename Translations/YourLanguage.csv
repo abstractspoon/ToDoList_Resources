@@ -883,7 +883,7 @@ NEED_TRANSLATION
 "Find Previous"	""	"menu"
 "Find Tasks"	""	"dialog"
   "Find Tasks"	""	"tooltip"
-"Find Tasks Filter"	""	"text"
+"Find Tasks Filters"	""	"text"
 "Find Tasks Filter %d"	""	"menu"
 "Find Tasks..."	""	"menu"
 "Find what"	""	"label"

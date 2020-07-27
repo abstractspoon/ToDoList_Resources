@@ -910,6 +910,7 @@ TRANSLATED
 "Find Previous"	"Найти предыдущее"	"menu"
 "Find Tasks"	"Поиск задач"	"dialog"
   "Find Tasks"	"Поиск задач"	"tooltip"
+"Find Tasks Filter"	"Фильтр поиска задач"	"text"
 "Find Tasks Filters"	"Фильтр поиска задач"	"text"
 "Find Tasks..."	"Поиск задач..."	"menu"
 "Find what"	"Найти то, что"	"label"

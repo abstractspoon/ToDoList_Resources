@@ -885,6 +885,7 @@ TRANSLATED
 "Find Previous"	"Buscar Anterior"	"menu"
 "Find Tasks"	"Buscar Tareas"	"dialog"
   "Find Tasks"	""	"tooltip"
+"Find Tasks Filter"	"Filtro"	"text"
 "Find Tasks Filters"	"Filtro"	"text"
 "Find Tasks..."	"Buscar Tareas..."	"menu"
 "Find what"	"Encontrar que"	"label"

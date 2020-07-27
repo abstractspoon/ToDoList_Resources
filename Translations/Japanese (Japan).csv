@@ -1518,6 +1518,7 @@ TRANSLATED
 "Find Previous"	"前を検索"	"menu"
 "Find Tasks"	"タスクを検索"	"dialog"
   "Find Tasks"	""	"tooltip"
+"Find Tasks Filter"	"タスク検索フィルタ"	"text"
 "Find Tasks Filters"	"タスク検索フィルタ"	"text"
 "Find Tasks..."	"タスクの検索..."	"menu"
 "Find..."	"検索..."	"menu"

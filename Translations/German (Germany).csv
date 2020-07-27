@@ -879,6 +879,7 @@ TRANSLATED
 "Find Tasks"	"Suche Aufgaben"	"dialog"
   "Find Tasks"	"Suche Aufgaben"	"tooltip"
 "Find Tasks Filter %d"	"Aufgaben-Suchfilter %d"	"menu"
+"Find Tasks Filter"	"Aufgaben-Suchfilter"	"text"
 "Find Tasks Filters"	"Aufgaben-Suchfilter"	"text"
 "Find Tasks..."	"&Suche Aufgaben..."	"menu"
 "Find what"	"Finde was"	"label"

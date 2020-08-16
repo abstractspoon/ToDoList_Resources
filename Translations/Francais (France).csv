@@ -133,6 +133,7 @@ NEED_TRANSLATION
 "Report Files (*.html)|*.html||"	""	"combobox"
 "Risk Frequency"	""	"combobox"
 "Save As (%s)"	""	"text"
+"Saved Templates"	""	"tooltip"
 "Some tasks could not be imported from '%s'."	""	"text"
 "Spreadsheet (.csv)|Spreadsheets (*.csv)|*.csv||"	""	"text"
 "Started/Completed Tasks"	""	"combobox"

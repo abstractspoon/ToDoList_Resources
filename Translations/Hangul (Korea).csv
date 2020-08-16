@@ -83,6 +83,7 @@ NEED_TRANSLATION
 "Regional Settings Change|The user interface will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	""	"text"
 "Release Candidate"	""	"text"
 "Root"	""	"text"
+"Saved Templates"	""	"tooltip"
 "Sender"	""	"text"
 "Sender Email"	""	"text"
 "Sensitivity"	""	"text"

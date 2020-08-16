@@ -244,6 +244,7 @@ NEED_TRANSLATION
 "Report Files (*.html)|*.html||"	""	"combobox"
 "Risk Frequency"	""	"combobox"
 "Save As (%s)"	""	"text"
+"Saved Templates"	""	"tooltip"
 "Select File to Download (%s)"	""	"text"
 "Set '% Complete' increment  to"	""	"label"
 "Show '% Complete' as progress on task's gantt bar"	""	"checkbox"

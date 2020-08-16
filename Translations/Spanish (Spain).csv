@@ -34,6 +34,7 @@ NEED_TRANSLATION
 "Priority Frequency"	""	"combobox"
 "Report Files (*.html)|*.html||"	""	"combobox"
 "Risk Frequency"	""	"combobox"
+"Saved Templates"	""	"tooltip"
 "Status Frequency"	""	"combobox"
 "Tag Frequency"	""	"combobox"
 "Top-level tasks"	""	"menu"

@@ -75,6 +75,7 @@ NEED_TRANSLATION
 "Priority Frequency"	""	"combobox"
 "Report Files (*.html)|*.html||"	""	"combobox"
 "Risk Frequency"	""	"combobox"
+"Saved Templates"	""	"tooltip"
 "Started/Completed Tasks"	""	"combobox"
 "Status Frequency"	""	"combobox"
 "Subtask of selected task"	""	"combobox"

@@ -1554,6 +1554,7 @@ NEED_TRANSLATION
 "Save Tasklist As..."	""	"menu"
 "Save To"	""	"menu"
 "Save Transformation As"	""	"text"
+"Saved Templates"	""	"tooltip"
 "Saving"	""	"label"
 "Saving task view image..."	""	"text"
 "Saving tasklists..."	""	"text"

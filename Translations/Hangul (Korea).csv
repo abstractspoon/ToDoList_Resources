@@ -2,6 +2,7 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'Leaf' tasks"	""	"menu"
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	""	"text"
 "-at <alloc to>\tSets the 'Allocated To' for the currently selected task"	""	"text"
 "-bid <task id>\tSpecifies the sibling task below which to create the new task"	""	"text"
@@ -40,6 +41,15 @@ NEED_TRANSLATION
 "-tv <version>\tSets the 'Version' for the currently selected task"	""	"text"
 "-v\tForces ToDoList to startup visible regardless of its last saved state"	""	"text"
 "-xid <ext_id>\tSets the 'external ID' for the currently selected task"	""	"text"
+"1st subtask level"	""	"menu"
+"2nd subtask level"	""	"menu"
+"3rd subtask level"	""	"menu"
+"4th subtask level"	""	"menu"
+"5th subtask level"	""	"menu"
+"6th subtask level"	""	"menu"
+"7th subtask level"	""	"menu"
+"8th subtask level"	""	"menu"
+"9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
 "Burndown"	""	"combobox"
@@ -97,6 +107,8 @@ NEED_TRANSLATION
 "There was a problem updating ToDoList at this time.\nOften this can be a problem with file and folder permissions.\n\nWould you like to view the update log file for possible clues?"	""	"text"
 "ToDoList has detected that the handler for the 'outlook:' protocol \nhas not been installed.\n\nUntil the handler is installed, 'outlook:' links will not work correctly.\n\nDo you want to install the handler now?"	""	"text"
 "ToDoList requires version 3 or later of the msxml component.\n\nTo update your version of this component, Google for 'msxml 3.0 download', \nand follow the relevant installation instructions. Then try again."	""	"text"
+"Top-level tasks"	""	"menu"
+"Unspecified Levels"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(주의: 한 개 또는 그 이상의 작업이 하위 작업을 가지고 있으며 모두 함께 삭제됩니다.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(주의: 이 작업은 하위 작업을 가지고 있으며 모두 함께 삭제됩니다.)"	"text"
@@ -1157,8 +1169,8 @@ TRANSLATED
 "Limit width of columns to"	"항목 너비 제한"	"checkbox"
 "Line of Best Fit"	"전체 기간 평균 추이"	"combobox"
 "lines"	"줄"	"label"
-"link"	"링크"	"text"
 "Link"	"링크"	"menu"
+"link"	"링크"	"text"
 "Link Options"	"링크 옵션"	"groupbox"
 "Link to the file using 'file://...'"	"'file://...' 사용하여 파일로 링크"	"radiobutton"
 "List type"	"목룍 유형"	"label"

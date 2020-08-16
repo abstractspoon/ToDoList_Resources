@@ -2,10 +2,20 @@
 PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"'Leaf' tasks"	""	"menu"
 "-tt <title>\tSets the 'Title' for the currently selected task"	""	"text"
 "1 Day View"	""	"tooltip"
+"1st subtask level"	""	"menu"
+"2nd subtask level"	""	"menu"
 "3 Day View"	""	"tooltip"
+"3rd subtask level"	""	"menu"
+"4th subtask level"	""	"menu"
+"5th subtask level"	""	"menu"
+"6th subtask level"	""	"menu"
 "7 Day View"	""	"tooltip"
+"7th subtask level"	""	"menu"
+"8th subtask level"	""	"menu"
+"9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
 "Adjust Task % Completion to match today's date"	""	"menu"
 "By Now"	""	"text"
@@ -26,6 +36,8 @@ NEED_TRANSLATION
 "Risk Frequency"	""	"combobox"
 "Status Frequency"	""	"combobox"
 "Tag Frequency"	""	"combobox"
+"Top-level tasks"	""	"menu"
+"Unspecified Levels"	""	"menu"
 "Version Frequency"	""	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Una o más de estas tareas tiene subtareas que también serán eliminadas)"	"text"

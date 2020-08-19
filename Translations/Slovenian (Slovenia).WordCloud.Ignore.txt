@@ -9,214 +9,153 @@
 // Note: You are expected to replace them with words
 // appropriate to your specific language.
 
-a
-o
-nad
+-
+približno
+zgoraj
 po
 ponovno
 proti
 vse
 sem
-
+-
 in
-vsak
-so
-niso
+kaj
+tako
+nekater
 kot
 ob
 biti
-ker
+Ker
 bil
-pred
+prej
 biti
 spodaj
 med
-oba
-toda
-z
+oboje
+ampak
+mimo
 ne more
 ne more
-lahko
+bi lahko
 ni mogel
-počel
-ni počel
-storiti
-storil
+naredil
+ni
+stori
+naredi
 ne
-počneš
+početje
 ne
 dol
 med
 vsak
 nekaj
 za
-od
-nadalje
+iz
+dalje
 imel
 ni
-ima
+je
 ni
-ima
-nima
+so
+niso
 imeti
 on
-he'd
-he'll
-on je
+bi
+bo
+je
 njo
 tukaj
 tukaj je
 njen
 sama
 njega
-sam
-his
+sebe
+njegovo
 kako
 kako je
 jaz
 jaz bi
-jaz bom
-jaz sem
+bom
+sem
 sem
 če
 v
-vsak
-so
-niso
-kot
-ob
-biti
-ker
-bil
-pred
-biti
-pod
-med
-oba
-toda
-z
-ne morem
-ne morem
-lahko
-ni mogel
-naredil
-ni
-storiti
-ne
-ne
-delaš
-ne
-dol
-med tem
-vsak
-malo
-za
-od
-nadalje
-imela
-ni
-je
-ni
-ima
-nima
-imeti
-on
-on bi
-on bo
-on je
-njo
-tukaj
-tukaj je
-njen
-sama
-njega
-sebe
-njegov
-kako
-kako je
-i
-Jaz bi
-Jaz bom
-Jaz sem
-imam
-če
-in
 v
 je
 ni
 to
-to je
+je
 svoje
 sama
-kajne
 mene
+jaz
 več
-najbolj
+večina
 ne sme
 moj
-jaz
-ne
+sebe
+št
 niti
 ne
-za
 od
-na
+izklopljeno
+naprej
 enkrat
 samo
 ali
-drugi
-bi
-naš
-naše	
-sami
-zunaj
+drugo
+treba
+naše
+naše
+sebe
+ven
 čez
-lasten
-isti
-ne
+lastno
+enako
+ne bo
 ona
 ona bi
 ona bo
 ona je
-bi moral
+naj bi
 ne bi smel
 tako
-neki
-tako
+nekateri
+takih
 kot
-ta
+da
 to je
-na
-njihovi
-njihovo
+the
+njihove
+njihove
 njim
-sebe
-nato
+sami
+torej
 tam
 tam je
-ta
+teh
 oni
-oni bi
-oni bodo
-oni so
-oni so
-ta
-tiste
+bi
+bodo
+so
+so jih imeli
+to
+tistih
 skozi
-za
+do
 tudi
-pod
-vse do
+Spodaj
+dokler
 gor
 zelo
 je bil
 ni bilo
 mi
-Bili bi
+bi
 bomo
 smo
-smo jih
-bili
+imamo
+so bili
 ni bilo
 kaj
 kaj je
@@ -226,21 +165,21 @@ kje
 kje je
 ki
 medtem
-kdo
+WHO
 kdo je
 koga
 zakaj
-zakaj je
-z
+zakaj je tako
+s
 ne bo
 bi
 ne bi
-vi
-Ti bi
+ti
+bi
 boš
-Ti si
-ste
-vaš
-tvoj
+ti si
+imaš
+svoj
+tvoje
 sebe
-sami
+sebe

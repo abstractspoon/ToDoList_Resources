@@ -135,6 +135,7 @@ NEED_TRANSLATION
 "<New Column>"	""	"text"
 "<New Custom Attribute (List)>"	""	"combobox"
 "<New Custom Attribute>"	""	"combobox"
+"<no sound>"	""	"text"
 "<separator>"	""	"text"
 "<specific date>"	""	"text"
 "<Tasklist Attached>"	""	"text"

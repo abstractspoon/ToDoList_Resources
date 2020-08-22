@@ -52,6 +52,7 @@ NEED_TRANSLATION
 "9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
+"<no sound>"	""	"text"
 "Burndown"	""	"combobox"
   "Burndown"	""	"systabcontrol32"
 "Character Set"	""	"label"

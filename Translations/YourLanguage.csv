@@ -245,6 +245,7 @@ NEED_TRANSLATION
 "<New Column>"	""	"text"
 "<New Rule>"	""	"text"
 "<no date>"	""	"text"
+"<no sound>"	""	"text"
 "<nobody>"	""	"text"
 "<none>"	""	"combobox"
   "<none>"	""	"menu"

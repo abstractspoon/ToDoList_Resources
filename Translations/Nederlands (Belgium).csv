@@ -54,6 +54,7 @@ NEED_TRANSLATION
 "<multiple formats>"	""	"text"
 "<New Allocation>"	""	"text"
 "<New Button>"	""	"text"
+"<no sound>"	""	"text"
 "<separator>"	""	"text"
 "<unknown format>"	""	"combobox"
 "Activate Filter"	""	"menu"

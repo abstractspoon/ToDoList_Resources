@@ -241,6 +241,7 @@ NEED_TRANSLATION
 "<New Custom Attribute>"	""	"combobox"
 "<New Rule>"	""	"text"
 "<no date>"	""	"text"
+"<no sound>"	""	"text"
 "<nobody>"	""	"text"
 "<none>"	""	"combobox"
   "<none>"	""	"menu"

@@ -17,6 +17,7 @@ NEED_TRANSLATION
 "8th subtask level"	""	"menu"
 "9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
+"<no sound>"	""	"text"
 "Adjust Task % Completion to match today's date"	""	"menu"
 "By Now"	""	"text"
 "By the End of Next Year"	""	"text"

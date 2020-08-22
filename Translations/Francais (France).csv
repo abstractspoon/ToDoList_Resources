@@ -71,6 +71,7 @@ NEED_TRANSLATION
 "9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
+"<no sound>"	""	"text"
 "Active Date Range (%s)"	""	"label"
 "Adjust Task % Completion to match today's date"	""	"menu"
 "After selected task"	""	"combobox"

@@ -90,6 +90,7 @@ NEED_TRANSLATION
 "90 Day Rolling Average"	""	"combobox"
 "<Existing Custom Attribute>"	""	"combobox"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
+"<no sound>"	""	"text"
 "<multiple formats>"	""	"text"
 "<New Allocation>"	""	"text"
 "<New Button>"	""	"text"

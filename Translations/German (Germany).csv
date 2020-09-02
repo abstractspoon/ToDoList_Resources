@@ -1783,7 +1783,7 @@ TRANSLATED
 "Switch To..."	"Umschalten zu..."	"button"
 "Symbols..."	"Symbole..."	"tooltip"
 "Synchronise a task's 'Completion' to changes in its 'Status'"	"'Erledigung' einer Aufgabe mit Änderungen in ihrem 'Status' abgleichen"	"checkbox"
-"System File Required|ToDoList requires the 'Microsoft Visual C++ 2010 SP1 Redistributable Package (32-bit)' to be installed.\n\nClick 'OK' to visit the appropriate download page or 'Cancel' to quit."	"Systemdatei erforderlich|ToDoList erfordert das installierte\r\n'Microsoft Visual C++ 2010 SP1 Redistributable Package (32-bit)'.\n\nDrücken sie 'OK', um die entsprechende Downloadseite zu besuchen, oder\r\n'Abbrechen' zum Beenden."	"text"
+"System File Required|ToDoList requires the 'Microsoft Visual C++ %d (x86) Redistributable Package' to be installed.\n\nClick 'OK' to visit the appropriate download page or 'Cancel' to quit."	"Systemdatei erforderlich|ToDoList erfordert das installierte\r\n'Microsoft Visual C++ %d (x86) Redistributable Package'.\n\nDrücken sie 'OK', um die entsprechende Downloadseite zu besuchen, oder\r\n'Abbrechen' zum Beenden."	"text"
 "tab"	"Tabulator"	"combobox"
 "tab-stops"	"Tabulatoren"	"label"
 "Table"	"Tabelle"	"menu"

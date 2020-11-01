@@ -1,5 +1,5 @@
 ﻿TRANSTEXT 7.2.998.2
-PRIMARY_LANGID 0
+PRIMARY_LANGID 21
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"

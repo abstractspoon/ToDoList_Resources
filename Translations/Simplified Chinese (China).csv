@@ -646,7 +646,7 @@ TRANSLATED
 "Days, mid"	"日, 中"	"combobox"
 "Days, narrow"	"日, 窄"	"combobox"
 "Days, wide"	"日, 宽"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"十年 \t\t\t(eg, 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"十年 \t\t\t(eg. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"十年从“1”开始，而不是“0”年开始。 例如“2001”而不是“2002”"	"checkbox"
 "Decrease"	"减小"	"menu"
 "Decrease Font Size"	"减小字号"	"tooltip"

@@ -690,7 +690,7 @@ TRANSLATED
 "Days, mid"	"Дни, средние"	"combobox"
 "Days, narrow"	"Дни, узкие"	"combobox"
 "Days, wide"	"Дни, широкие"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"Десятилетия \t\t\t(пр., 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"Десятилетия \t\t\t(пр. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"Десятилетия начинаются с года '1' вместо года '0'. пр. '2001' вместо '2000'"	"checkbox"
 "Decrease"	"Уменьшить"	"menu"
 "Decrease Font Size"	"Уменьшить размер шрифта"	"tooltip"

@@ -609,7 +609,7 @@ TRANSLATED
 "Days, mid"	"Dage, mellem"	"combobox"
 "Days, narrow"	"Dage, smalle"	"combobox"
 "Days, wide"	"Dage, brede"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"Årti \t\t\t(f.eks. 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"Årti \t\t\t(f.eks. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"Årtier begynder i år '1' i stedet for i år '0'. f.eks. '2001' i stedet for '2000'"	"checkbox"
 "Decrease"	"Formindsk"	"menu"
 "Decrease Font Size"	"Formindsk skrift"	"tooltip"

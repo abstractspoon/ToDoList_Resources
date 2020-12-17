@@ -649,7 +649,7 @@ TRANSLATED
 "Days, mid"	"Tage, mittel"	"combobox"
 "Days, narrow"	"Tage, schmal"	"combobox"
 "Days, wide"	"Tage, breit"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"Jahrzehnte\t\t\t(z.B. 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"Jahrzehnte\t\t\t(z.B. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"Dekaden beginnen im Jahr '1' statt im Jahr '0'. z.B. '2001' statt '2000'"	"checkbox"
 "Decrease"	"Verkleinern"	"menu"
 "Decrease Font Size"	"Schrift verkleinern"	"tooltip"

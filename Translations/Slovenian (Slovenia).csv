@@ -653,7 +653,7 @@ TRANSLATED
 "Days, mid"	"Dni, sredi"	"combobox"
 "Days, narrow"	"Dni, ozko"	"combobox"
 "Days, wide"	"Dni, široko"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"Desetletja \t\t\t(npr. 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"Desetletja \t\t\t(npr. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"Desetletje se začne z letom '1' namesto leta '0'. Npr. '2001' namesto '2000'"	"checkbox"
 "Decrease"	"Zmanjšaj"	"menu"
 "Decrease Font Size"	"Zmanjšaj velikost pisave"	"tooltip"

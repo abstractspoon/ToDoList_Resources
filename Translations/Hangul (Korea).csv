@@ -704,7 +704,7 @@ TRANSLATED
 "Days, mid"	"일일 단위, 보통"	"combobox"
 "Days, narrow"	"일일 단위, 좁게"	"combobox"
 "Days, wide"	"일일 단위, 넓게"	"combobox"
-"Decades \t\t\t(eg, 2000-2009)"	"10년 주기 \t\t\t(예, 2000-2009)"	"text"
+"Decades \t\t\t(eg. 2000-2009)"	"10년 주기 \t\t\t(예. 2000-2009)"	"text"
 "Decades start on year '1' instead of year '0'. eg. '2001' instead of '2000'"	"10년 주기가 0년도 대신 1년도에 시작 (예, 2000년 대신 2001년)"	"checkbox"
 "Decrease"	"감소"	"menu"
 "Decrease Font Size"	"글꼴 크기 크게"	"tooltip"

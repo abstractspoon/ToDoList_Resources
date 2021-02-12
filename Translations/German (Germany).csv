@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Email Selected Tasks..."	""	"menu"
 TRANSLATED
 "'Leaf' tasks"	"'Leaf' tasks / unterste Ebene"	"menu"
 "1st subtask level"	"1. Unteraufgabenebene"	"menu"
@@ -779,8 +777,9 @@ TRANSLATED
 "Edit Tool Name"	"Werkzeugnamen bearbeiten"	"tooltip"
 "Edit..."	"Bearbeiten..."	"button"
 "Elapsed time"	"Verstrichene Zeit"	"label"
-"Email Tasks..."	"Senden an..."	"menu"
-"Email Tasks"	"Senden an"	"dialog"
+"Email Selected Tasks..."	"Gewählte Aufgaben mailen..."	"menu"
+"Email Tasks..."	"Aufgaben mailen..."	"menu"
+"Email Tasks"	"Aufgaben mailen"	"dialog"
 "Embed a copy of the file which can be viewed by double-clicking the icon"	"Dateikopie einbinden; diese kann mit Doppelklick auf das Symbol angezeigt werden"	"radiobutton"
 "Embed a link to the file which allows the original file to be edited and automatically updated"	"Dateiverweis einbinden; die Originaldatei kann bearbeitet werden und wird automatisch aktualisiert"	"radiobutton"
 "Enable"	"Aktivieren"	"checkbox"

@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 6
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Email Selected Tasks..."	""	"menu"
 TRANSLATED
 "% Complete"	"% Færdig"	"label"
 "% of page"	"% af side"	"combobox"

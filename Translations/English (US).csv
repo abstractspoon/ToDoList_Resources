@@ -755,6 +755,7 @@ NEED_TRANSLATION
 "Edit Tool Name"	""	"tooltip"
 "Edit..."	""	"button"
 "Elapsed time"	""	"label"
+"Email Selected Tasks..."	""	"menu"
 "Email Tasks..."	""	"menu"
 "Email Tasks"	""	"dialog"
 "Embed a copy of the file which can be viewed by double-clicking the icon"	""	"radiobutton"

@@ -68,6 +68,7 @@ NEED_TRANSLATION
 "Default Filter %d"	""	"menu"
 "Dependents"	""	"tooltip"
 "Duplicate"	""	"button"
+"Email Selected Tasks..."	""	"menu"
 "Estimated/Spent Days"	""	"combobox"
 "Exclude blank list item"	""	"text"
 "Export Tasklist|You must select a filename that does not match the tasklist being exported."	""	"label"

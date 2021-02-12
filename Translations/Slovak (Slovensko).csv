@@ -172,6 +172,7 @@ NEED_TRANSLATION
 "Duplicate"	""	"button"
 "Dynamic data, multi-selection"	""	"text"
 "Dynamic data, single-selection"	""	"text"
+"Email Selected Tasks..."	""	"menu"
 "Embed a copy of the file which can be viewed by double-clicking the icon"	""	"radiobutton"
 "Enable support for Right-to-Left (RTL) user input"	""	"checkbox"
 "Estimated/Spent Days"	""	"combobox"

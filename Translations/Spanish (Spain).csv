@@ -29,6 +29,7 @@ NEED_TRANSLATION
   "By Tomorrow"	""	"text"
 "By Yesterday"	""	"text"
 "Duplicate"	""	"button"
+"Email Selected Tasks..."	""	"menu"
 "Find Tasks Filter %d"	""	"menu"
 "Offset Task Dates Backwards By"	""	"menu"
 "Offset Task Dates Forwards By"	""	"menu"

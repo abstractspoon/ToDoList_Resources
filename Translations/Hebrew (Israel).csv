@@ -215,6 +215,7 @@ NEED_TRANSLATION
 "Edit Tool Name"	""	"tooltip"
 "Edit..."	""	"button"
 "Elapsed time"	""	"label"
+"Email Selected Tasks..."	""	"menu"
 "Enable"	""	"checkbox"
 "Enable 'Overload' display"	""	"checkbox"
 "Enable 'Underload' display"	""	"checkbox"

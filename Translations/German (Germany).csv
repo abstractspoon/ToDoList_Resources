@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Email Selected Tasks..."	""	"menu"
 TRANSLATED
 "'Leaf' tasks"	"'Leaf' tasks / unterste Ebene"	"menu"
 "1st subtask level"	"1. Unteraufgabenebene"	"menu"

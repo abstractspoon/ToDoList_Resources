@@ -63,6 +63,7 @@ NEED_TRANSLATION
 "Delegator"	""	"text"
 "Development Preview"	""	"text"
 "Downloading latest update..."	""	"text"
+"Email Selected Tasks..."	""	"menu"
 "Embed a copy of the file which can be viewed by double-clicking the icon"	""	"radiobutton"
 "Embed a link to the file which allows the original file to be edited and automatically updated"	""	"radiobutton"
 "Find Tasks Filter %d"	""	"menu"

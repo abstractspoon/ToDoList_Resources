@@ -2055,7 +2055,7 @@ TRANSLATED
 "Window"	"Vindue"	"menu"
 "Window %d"	"Vindue %d"	"menu"
 "Windows Clipboard"	"Windows Udklipsholder"	"radiobutton"
-"Windows registry"	"Windows Registreringsdatabase"	"radiobutton"
+"Windows Registry"	"Windows Registreringsdatabase"	"radiobutton"
 "With"	"Med"	"label"
 "Word Cloud"	"Word Cloud"	"systabcontrol32"
 "Word Wrap"	"Linjeombrydning"	"menu"

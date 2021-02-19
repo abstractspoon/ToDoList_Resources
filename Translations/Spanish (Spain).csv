@@ -2177,7 +2177,7 @@ TRANSLATED
 "Window"	"Ventana"	"menu"
 "Window %d"	"Ventana %d"	"menu"
 "Windows Clipboard"	"Portapapeles de Windows"	"radiobutton"
-"Windows registry"	"Registro de Windows"	"radiobutton"
+"Windows Registry"	"Registro de Windows"	"radiobutton"
 "With"	"Con:"	"label"
 "Word Cloud"	"Nube de Palabras"	"systabcontrol32"
 "Word Wrap"	"Ajuste de línea"	"menu"

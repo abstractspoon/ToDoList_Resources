@@ -2189,7 +2189,7 @@ TRANSLATED
 "Window"	"&Okno"	"menu"
 "Window %d"	"Okno %d"	"menu"
 "Windows Clipboard"	"&Schránka Windows"	"radiobutton"
-"Windows registry"	"Register systému Windows"	"radiobutton"
+"Windows Registry"	"Register systému Windows"	"radiobutton"
 "With"	"&S:"	"label"
 "Word Cloud"	"Slovo mrak"	"systabcontrol32"
 "Word Wrap"	"Presun slova"	"menu"

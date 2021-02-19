@@ -2156,7 +2156,7 @@ TRANSLATED
 "Window"	"Окно"	"menu"
 "Window %d"	"Окно %d"	"menu"
 "Windows Clipboard"	"Буфера обмена Windows"	"radiobutton"
-"Windows registry"	"Реестр Windows"	"radiobutton"
+"Windows Registry"	"Реестр Windows"	"radiobutton"
 "With"	"на:"	"label"
 "Word Cloud"	"Облако слов"	"systabcontrol32"
 "Word Wrap"	"Переносить по словам"	"menu"

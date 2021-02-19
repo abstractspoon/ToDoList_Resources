@@ -2186,7 +2186,7 @@ TRANSLATED
 "Window"	"&Fenêtre"	"menu"
 "Window %d"	"Fenêtre %d"	"menu"
 "Windows Clipboard"	"Presse-papier Windows"	"radiobutton"
-"Windows registry"	"Registre Windows"	"radiobutton"
+"Windows Registry"	"Registre Windows"	"radiobutton"
 "With"	"&Largeur :"	"label"
 "Word Cloud"	"Nuage de mots"	"systabcontrol32"
 "Word Wrap"	"Retour à la ligne"	"menu"

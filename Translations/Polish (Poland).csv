@@ -2193,7 +2193,7 @@ TRANSLATED
 "Window"	"Okno"	"menu"
 "Window %d"	"Okno %d"	"menu"
 "Windows Clipboard"	"Schowek systemu windows"	"radiobutton"
-"Windows registry"	"Rejestry windows"	"radiobutton"
+"Windows Registry"	"Rejestry Windows"	"radiobutton"
 "With"	"Z"	"label"
 "Word Cloud"	"Word Cloud"	"systabcontrol32"
 "Word Wrap"	"Zawijanie tekstu"	"menu"

@@ -2182,7 +2182,7 @@ TRANSLATED
 "Window"	"&Fenster"	"menu"
 "Window %d"	"Fenster %d"	"menu"
 "Windows Clipboard"	"Windows Zwischenablage"	"radiobutton"
-"Windows registry"	"Windows Registry"	"radiobutton"
+"Windows Registry"	"Windows Registry"	"radiobutton"
 "With"	"durch"	"label"
 "Word Cloud"	"Wort-Wolke"	"systabcontrol32"
 "Word Wrap"	"Zeilenumbruch"	"menu"

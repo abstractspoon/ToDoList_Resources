@@ -2211,7 +2211,7 @@ TRANSLATED
 "Window"	"창"	"menu"
 "Window %d"	"윈도우 %d"	"menu"
 "Windows Clipboard"	"윈도우 클립보드"	"radiobutton"
-"Windows registry"	"윈도우 레지스트리"	"radiobutton"
+"Windows Registry"	"윈도우 레지스트리"	"radiobutton"
 "With"	"함께"	"label"
 "Word Cloud"	"Word Cloud"	"systabcontrol32"
 "Word Wrap"	"자동 줄 바꾸기"	"menu"

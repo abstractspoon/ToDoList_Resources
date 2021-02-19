@@ -2193,7 +2193,7 @@ TRANSLATED
 "Window"	"Fi&nestra"	"menu"
 "Window %d"	"Finestra %d"	"menu"
 "Windows Clipboard"	"Appunti di Windows"	"radiobutton"
-"Windows registry"	"Registro di Windows"	"radiobutton"
+"Windows Registry"	"Registro di Windows"	"radiobutton"
 "With"	"Con"	"label"
 "Word Cloud"	"Nuvola di parole"	"systabcontrol32"
 "Word Wrap"	"A capo automatico"	"menu"

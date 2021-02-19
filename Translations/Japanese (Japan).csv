@@ -2187,7 +2187,7 @@ TRANSLATED
 "When Switching Tasklists"	"タスクリストを切り替えるとき"	"label"
 "Window"	"ウィンドウ"	"menu"
 "Windows Clipboard"	"Windows のクリップボード"	"radiobutton"
-"Windows registry"	"Windows レジストリ"	"radiobutton"
+"Windows Registry"	"Windows レジストリ"	"radiobutton"
 "With"	"→"	"label"
 "Word Wrap"	"ワードラップ"	"menu"
 "Would you like to recalculate the task time in the new units?"	"新しい単位でタスクの時間を計算し直しますか？"	"text"

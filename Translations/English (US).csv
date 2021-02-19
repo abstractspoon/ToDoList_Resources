@@ -2140,7 +2140,7 @@ NEED_TRANSLATION
 "Window"	""	"menu"
 "Window %d"	""	"menu"
 "Windows Clipboard"	""	"radiobutton"
-"Windows registry"	""	"radiobutton"
+"Windows Registry"	""	"radiobutton"
 "With"	""	"label"
 "Word Cloud"	""	"systabcontrol32"
 "Word Wrap"	""	"menu"

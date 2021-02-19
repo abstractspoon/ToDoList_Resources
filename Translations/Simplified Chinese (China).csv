@@ -2166,7 +2166,7 @@ TRANSLATED
 "Window"	"窗口"	"menu"
 "Window %d"	"窗口%d"	"menu"
 "Windows Clipboard"	"Windows剪贴板"	"radiobutton"
-"Windows registry"	"Windows注册表"	"radiobutton"
+"Windows Registry"	"Windows注册表"	"radiobutton"
 "With"	"与"	"label"
 "Word Cloud"	"词云"	"systabcontrol32"
 "Word Wrap"	"自动换行"	"menu"

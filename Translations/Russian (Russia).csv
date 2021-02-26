@@ -800,7 +800,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"Динамич. данные, мультивыбор"	"text"
 "Dynamic data, single-selection"	"Динамич. данные, простой выбор"	"text"
 "Dynamic Droplists"	"Динамические выпадающие списки"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"Для полной видимости динамически изменять высоту задач"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"Для полной видимости динамически изменять высоту задач"	"checkbox"
 "Edit"	"Редактирование"	"menu"
 "Edit Allocations"	"Изменить распределение"	"tooltip"
 "Edit Attribute Title"	"Изменить заголовок свойства"	"tooltip"

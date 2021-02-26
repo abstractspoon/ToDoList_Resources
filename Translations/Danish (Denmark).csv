@@ -719,7 +719,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"Dynamiske data, flervalg"	"text"
 "Dynamic data, single-selection"	"Dynamiske data, enkeltvalg"	"text"
 "Dynamic Droplists"	"Dynamiske valgmenuer"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"Juster opgavernes højde dynamisk for at sikre fuld synlighed"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"Juster opgavernes højde dynamisk for at sikre fuld synlighed"	"checkbox"
 "Edit"	"Redigér"	"menu"
 "Edit Allocations"	"Redigér tildelinger"	"tooltip"
 "Edit Attribute Title"	"Redigér titel på egenskab"	"tooltip"

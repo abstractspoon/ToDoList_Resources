@@ -923,7 +923,7 @@ TRANSLATED
 "Duration"	"trvanie"	"label"
   "Duration"	""	"checklistbox"
 "Dynamic Droplists"	"Dynamické kvapôčky"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"Dynamicky upravujte výšku úloh, aby ste zaistili úplnú viditeľnosť"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"Dynamicky upravujte výšku úloh, aby ste zaistili úplnú viditeľnosť"	"checkbox"
 "Edit"	"&Editácia"	"menu"
 "Edit Allocations"	"Upraviť pridelenia"	"tooltip"
 "Edit Attribute Title"	"Upraviť názov atribútu"	"tooltip"

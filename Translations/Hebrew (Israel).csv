@@ -1110,7 +1110,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"מידע דינמי, בחירה מרובה"	"text"
 "Dynamic data, single-selection"	"מידע דינמי, ללא בחירה מרובה"	"text"
 "Dynamic Droplists"	"רשימות נגללות דינמיות"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"התאם דינמית את גובה רשומת המשימה בכדי להבטיח שרואים את כולה"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"התאם דינמית את גובה רשומת המשימה בכדי להבטיח שרואים את כולה"	"checkbox"
 "Edit"	"ערוך"	"menu"
 "Edit Attribute Title"	"ערוך כותרת משתנה"	"tooltip"
 "Edit Dependency"	"ערות תלות"	"tooltip"

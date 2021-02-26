@@ -827,7 +827,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"Données dynamiques,  multi-sélection"	"text"
 "Dynamic data, single-selection"	"Données dynamiques,  sélection simple"	"text"
 "Dynamic Droplists"	"Listes déroulantes dynamiques"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"Ajuster dynamiquement la hauteur des tâches pour assurer une visibilité complète"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"Ajuster dynamiquement la hauteur des tâches pour assurer une visibilité complète"	"checkbox"
 "Edit"	"&Editer"	"menu"
 "Edit Allocations"	"Editer les allocations"	"tooltip"
 "Edit Attribute Title"	"Editer le titre de l'attribut"	"tooltip"

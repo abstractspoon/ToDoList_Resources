@@ -766,7 +766,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"Dinamični podatki, več izbir"	"text"
 "Dynamic data, single-selection"	"Dinamični podatki, enojna izbira"	"text"
 "Dynamic Droplists"	"Dinamični spustni seznami"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"Dinamično prilagodi višino opravila za zagotovitev polne vidnosti"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"Dinamično prilagodi višino opravila za zagotovitev polne vidnosti"	"checkbox"
 "Edit"	"Uredi"	"menu"
 "Edit Allocations"	"Uredi dodelitve"	"tooltip"
 "Edit Attribute Title"	"Uredi naslov atributa"	"tooltip"

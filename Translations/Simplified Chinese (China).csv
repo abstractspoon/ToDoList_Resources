@@ -759,7 +759,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"动态数据,多重选择"	"text"
 "Dynamic data, single-selection"	"动态数据,单一选择"	"text"
 "Dynamic Droplists"	"动态下拉列表"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"动态调整任务高度以确保完全可见"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"动态调整任务高度以确保完全可见"	"checkbox"
 "Edit"	"编辑(&E)"	"menu"
 "Edit Allocations"	"编辑分配"	"tooltip"
 "Edit Attribute Title"	"编辑属性标题"	"tooltip"

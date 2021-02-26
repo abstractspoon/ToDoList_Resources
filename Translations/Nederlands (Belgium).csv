@@ -1036,7 +1036,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"Dynamisch gegeven, multi-selectie"	"text"
 "Dynamic data, single-selection"	"Dynamisch gegeven, enkele-selectie"	"text"
 "Dynamic Droplists"	"Dynamische keuzelijst"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"Dynamisch aanpassen hoogte van taken voor volledige zichtbaarheid"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"Dynamisch aanpassen hoogte van taken voor volledige zichtbaarheid"	"checkbox"
 "Edit"	"Wijzigen"	"menu"
 "Edit Attribute Title"	"Wijzig titel van eigenschap"	"tooltip"
 "Edit Dependency"	"Wijzigen afhankelijkheid"	"tooltip"

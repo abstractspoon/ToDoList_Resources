@@ -368,7 +368,7 @@ NEED_TRANSLATION
 "Duplicate Tool"	""	"tooltip"
 "Duration"	""	"label"
   "Duration"	""	"checklistbox"
-"Dynamically adjust the height of tasks to ensure full visibility"	""	"checkbox"
+"Dynamically reduce items heights to display more tasks"	""	"checkbox"
 "Edit Allocations"	""	"tooltip"
 "Edit Dependency"	""	"tooltip"
 "Edit Field Visibility"	""	"sysheader32"

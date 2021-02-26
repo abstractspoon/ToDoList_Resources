@@ -813,7 +813,7 @@ TRANSLATED
 "Dynamic data, multi-selection"	"유동 데이터, 선택지 한 개"	"text"
 "Dynamic data, single-selection"	"유동 데이터, 선택지 한 개"	"text"
 "Dynamic Droplists"	"드롭다운 목록"	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	"가능한 모든 작업 보기 위해 높이를 유동적으로 조정"	"checkbox"
+"Dynamically reduce items heights to display more tasks"	"가능한 모든 작업 보기 위해 높이를 유동적으로 조정"	"checkbox"
 "Edit"	"편집"	"menu"
 "Edit Allocations"	"작업 배정"	"tooltip"
 "Edit Attribute Title"	"속성 이름 편집"	"tooltip"

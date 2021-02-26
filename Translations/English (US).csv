@@ -739,7 +739,7 @@ NEED_TRANSLATION
 "Dynamic data, multi-selection"	""	"text"
 "Dynamic data, single-selection"	""	"text"
 "Dynamic Droplists"	""	"label"
-"Dynamically adjust the height of tasks to ensure full visibility"	""	"checkbox"
+"Dynamically reduce items heights to display more tasks"	""	"checkbox"
 "Edit"	""	"menu"
 "Edit Allocations"	""	"tooltip"
 "Edit Attribute Title"	""	"tooltip"

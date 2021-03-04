@@ -13,7 +13,7 @@ NEED_TRANSLATION
 "8th subtask level"	"第8个子任务级别"	"menu"
 "9th subtask level"	"第9个子任务级别"	"menu"
 "<no sound>"	"<静音>"	"text"
-"Email Selected Tasks..."	""	"menu"
+"Email Selected Tasks..."	"通过电子邮件发送所选任务..."	"menu"
 "Saved Templates"	"保存的模板"	"tooltip"
 "Top-level tasks"	"顶层任务"	"menu"
 "Unspecified Levels"	"未指定级别"	"menu"

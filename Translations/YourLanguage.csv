@@ -720,6 +720,7 @@ NEED_TRANSLATION
 "Display notifications in HTML"	""	"checkbox"
 "Display only the first line of comments"	""	"checkbox"
 "Display reminders using 'Stickies' (by Zhorn Software)"	""	"checkbox"
+"Display report automatically"	""	"checkbox"
 "Display save confirmation dialog on exit, otherwise the tasklist will be auto-saved"	""	"checkbox"
 "Display task 'Completion' dates"	""	"checkbox"
 "Display task 'Due' dates"	""	"checkbox"

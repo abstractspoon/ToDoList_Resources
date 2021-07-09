@@ -789,7 +789,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Verzögertes Laden (Laden nach Bedarf) von Aufgabenlisten aktivieren"	"checkbox"
 "Enable Editing"	"Bearbeitung aktivieren"	"tooltip"
 "Enable full row selection"	"Ganzzeilige Auswahl einschalten"	"checkbox"
-"Enable Logging"	"Protokollierung aktivieren"	"menu"
+"Enable Debug Logging"	"Protokollierung aktivieren"	"menu"
 "Enable sorting by clicking on column headers"	"Sortierung durch Klick auf den Spaltentitel aktivieren"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Rechts-nach-Links-Unterstützung (RTL) aktivieren"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Fenster ausblenden ('Fading') bei der Anzeige von Dialogflächen"	"checkbox"

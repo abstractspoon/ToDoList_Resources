@@ -747,7 +747,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Muliggør forsinket hentning af opgavelister"	"checkbox"
 "Enable Editing"	"Aktivér redigering"	"tooltip"
 "Enable full row selection"	"Muliggør valg af hel række"	"checkbox"
-"Enable Logging"	"Aktivér logning"	"menu"
+"Enable Debug Logging"	"Aktivér logning"	"menu"
 "Enable sorting by clicking on column headers"	"Sortér automatisk ved klik på kolonnehoved"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Aktivér understøttelse af Højre-til-venstre sprog (RTL)"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Udblænding ('Fading') af vinduesvisning"	"checkbox"

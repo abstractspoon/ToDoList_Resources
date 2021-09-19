@@ -1064,7 +1064,7 @@ TRANSLATED
 "Enable 'tdl://' as a url protocol"	"Instellen van 'tdl://' als url protocol"	"checkbox"
 "Enable delayed loading of tasklists"	"Activeer het uitgesteld opladen van taaklijsten"	"checkbox"
 "Enable full row selection"	"Activeer volledige rijselectie"	"checkbox"
-"Enable sorting by clicking on column headers"	"Activeer sorteren door te klikken op kolomhoofdingen"	"checkbox"
+"Allow sorting by clicking on column headers"	"Activeer sorteren door te klikken op kolomhoofdingen"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Activeer ondersteuning voor rechts-naar-links (RNL) invoer"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Activeer venstervervaging tijdens tonen van dialoogkaders"	"checkbox"
 "Encrypt Tasklist"	"Encrypteer taaklijst"	"menu"

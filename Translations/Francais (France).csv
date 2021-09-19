@@ -865,7 +865,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Autoriser le chargement différé de listes de tâches"	"checkbox"
 "Enable Editing"	"Activer la modification"	"tooltip"
 "Enable full row selection"	"Autoriser la sélection totale des lignes"	"checkbox"
-"Enable sorting by clicking on column headers"	"Autoriser le tri en cliquant sur l'entête de la colonne"	"checkbox"
+"Allow sorting by clicking on column headers"	"Autoriser le tri en cliquant sur l'entête de la colonne"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Autoriser la saisie de Droite-à-Gauche (RTL)"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Active le fondu de la fenêtre lors de l'affichage des boites de dialogue"	"checkbox"
 "Encrypt Tasklist"	"Cr&ypter la liste de tâches active..."	"menu"

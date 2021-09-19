@@ -838,7 +838,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Включить задержку загрузки списков"	"checkbox"
 "Enable Editing"	"Разрешить редактирование"	"tooltip"
 "Enable full row selection"	"Выделять всю строку"	"checkbox"
-"Enable sorting by clicking on column headers"	"Включить сортировку щелчком на колонках"	"checkbox"
+"Allow sorting by clicking on column headers"	"Включить сортировку щелчком на колонках"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Включить поддержку пользовательского ввода Справа-Налево (RTL)"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Угасание окна при показе диалогов"	"checkbox"
 "Encrypt Tasklist"	"Шифровать список задач..."	"menu"

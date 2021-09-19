@@ -808,7 +808,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Activar carga diferida de l. de tareas"	"checkbox"
 "Enable Editing"	"Permitir la edición"	"tooltip"
 "Enable full row selection"	"Activar selección de fila completa"	"checkbox"
-"Enable sorting by clicking on column headers"	"Activar orden al pulsar sobre la cabecera de la columna"	"checkbox"
+"Allow sorting by clicking on column headers"	"Activar orden al pulsar sobre la cabecera de la columna"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Habilitar soporte para (RTL) la entrada del usuario de derecha a izquierda"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Activar fundido de ventana cuando se enseñan ventanas de diálogo"	"checkbox"
 "Encrypt Tasklist"	"Encriptar lista de tareas"	"menu"

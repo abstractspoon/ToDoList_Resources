@@ -960,7 +960,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Nastaviť oneskorené natiahnutie zoznamov úloh"	"checkbox"
 "Enable Editing"	"Povoliť úpravy"	"tooltip"
 "Enable full row selection"	"&Umožniť výber celého riadka"	"checkbox"
-"Enable sorting by clicking on column headers"	"Zoradenie povolíte kliknutím na záhlavie stĺpcov"	"checkbox"
+"Allow sorting by clicking on column headers"	"Zoradenie povolíte kliknutím na záhlavie stĺpcov"	"checkbox"
 "Enable window fading when showing dialog boxes"	"&Umožniť miznutie okna pri zobrazení dialógových okien"	"checkbox"
 "Encrypt Tasklist"	"&Zakryptuj zoznam úloh"	"menu"
 "End after"	"Koniec po"	"checkbox"

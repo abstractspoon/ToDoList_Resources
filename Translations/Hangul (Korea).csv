@@ -849,7 +849,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"작업 목록 불러오기 지연 활성화"	"checkbox"
 "Enable Editing"	"수정 활성화"	"tooltip"
 "Enable full row selection"	"모든 행 선택 활성화"	"checkbox"
-"Enable sorting by clicking on column headers"	"항목란 선택하여 정렬"	"checkbox"
+"Allow sorting by clicking on column headers"	"항목란 선택하여 정렬"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Right-to-Left (RTL) 사용자 입력 지원 활성화"	"checkbox"
 "Enable window fading when showing dialog boxes"	"대화 상자 보일 시 불투명도 활성화"	"checkbox"
 "Encrypt Tasklist"	"작업 목록 보호"	"menu"

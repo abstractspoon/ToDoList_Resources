@@ -388,7 +388,7 @@ NEED_TRANSLATION
 "Enable 'Underload' display"	""	"checkbox"
 "Enable Debug Logging"	""	"menu"
 "Enable Editing"	""	"tooltip"
-"Enable sorting by clicking on column headers"	""	"checkbox"
+"Allow sorting by clicking on column headers"	""	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	""	"checkbox"
 "End after"	""	"checkbox"
 "End Date"	""	"text"

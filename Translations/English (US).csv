@@ -774,7 +774,7 @@ NEED_TRANSLATION
 "Enable delayed loading of tasklists"	""	"checkbox"
 "Enable Editing"	""	"tooltip"
 "Enable full row selection"	""	"checkbox"
-"Enable sorting by clicking on column headers"	""	"checkbox"
+"Allow sorting by clicking on column headers"	""	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	""	"checkbox"
 "Enable window fading when showing dialog boxes"	""	"checkbox"
 "Encrypt Tasklist"	""	"menu"

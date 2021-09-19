@@ -794,7 +794,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"启用任务列表延迟加载"	"checkbox"
 "Enable Editing"	"启用编辑"	"tooltip"
 "Enable full row selection"	"启用选择整行"	"checkbox"
-"Enable sorting by clicking on column headers"	"启用通过单击列标题排序"	"checkbox"
+"Allow sorting by clicking on column headers"	"启用通过单击列标题排序"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"启用从右到左(RTL)用户输入"	"checkbox"
 "Enable window fading when showing dialog boxes"	"对话框启用窗口渐变效果"	"checkbox"
 "Encrypt Tasklist"	"加密任务列表(&E)"	"menu"

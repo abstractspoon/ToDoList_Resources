@@ -852,7 +852,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Włącz opóźnienie ładowania listy zadań"	"checkbox"
 "Enable Editing"	"Umożliwić edycję"	"tooltip"
 "Enable full row selection"	"Włącz pełny wybór wiersza"	"checkbox"
-"Enable sorting by clicking on column headers"	"Włącz sortowanie poprzez naciśnięcie na nagłówek kolumny"	"checkbox"
+"Allow sorting by clicking on column headers"	"Włącz sortowanie poprzez naciśnięcie na nagłówek kolumny"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Włącz pomoc dla wprowadzania Prawy-Do-Lewy"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Włącz blaknięcie okien kiedy ukazuje się okno dialogowe"	"checkbox"
 "Encrypt Tasklist"	"Odkoduj listę zadań"	"menu"

@@ -1138,7 +1138,7 @@ TRANSLATED
 "Enable 'tdl://' as a url protocol"	"אפשר  'tdl://' כפרוטוקול URL"	"checkbox"
 "Enable delayed loading of tasklists"	"אפשר טעינה מושהית של רשימות משימה"	"checkbox"
 "Enable full row selection"	"אפשר בחירת שורה מלאה"	"checkbox"
-"Enable sorting by clicking on column headers"	"אפשר מיון בהקלקה על כותרת עמודה"	"checkbox"
+"Allow sorting by clicking on column headers"	"אפשר מיון בהקלקה על כותרת עמודה"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"הפעל תמיכה במצב כתיבה מימין לשמאל"	"checkbox"
 "Enable window fading when showing dialog boxes"	"אפשר להעלים חלון כשמוצגות תיבות דו-שיח"	"checkbox"
 "Encrypt Tasklist"	"הצפן את רשימת המשימות"	"menu"

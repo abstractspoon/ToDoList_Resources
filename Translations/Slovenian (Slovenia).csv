@@ -801,7 +801,7 @@ TRANSLATED
 "Enable delayed loading of tasklists"	"Omogoči zakasnjeno nalaganje seznamov opravil"	"checkbox"
 "Enable Editing"	"Omogoči urejanje"	"tooltip"
 "Enable full row selection"	"Omogoči izbiro celotne vrstice"	"checkbox"
-"Enable sorting by clicking on column headers"	"Omogoči razvrščanje s klikom na glave stolpcev"	"checkbox"
+"Allow sorting by clicking on column headers"	"Omogoči razvrščanje s klikom na glave stolpcev"	"checkbox"
 "Enable support for Right-to-Left (RTL) user input"	"Omogoči podporo uporabniškega vnosa z desne proti levi (RTL)"	"checkbox"
 "Enable window fading when showing dialog boxes"	"Omogoči pojemanje okna pri prikazu pogovornih oken"	"checkbox"
 "Encrypt Tasklist"	"Šifriraj seznam opravil"	"menu"

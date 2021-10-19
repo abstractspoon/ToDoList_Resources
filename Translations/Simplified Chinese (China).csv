@@ -1567,7 +1567,7 @@ TRANSLATED
 "Save Report Template As"	"将报告模板另存为"	"tooltip"
 "Save Search"	"保存搜索"	"tooltip"
 "Save Task View to Image"	"将任务视图保存到图像"	"text"
-"Save Task View to Image..."	"将任务视图保存到图像"	"menu"
+"Save Screenshot of Active Task View (%s)..."	"将任务视图保存到图像"	"menu"
 "Save Tasklist"	"保存任务列表"	"menu"
   "Save Tasklist"	"保存任务列表"	"tooltip"
 "Save Tasklist As"	"保存任务列表为"	"dialog"

@@ -1616,7 +1616,7 @@ TRANSLATED
 "Save Report Template As"	"Enregistrer le modèle de rapport sous"	"tooltip"
 "Save Search"	"Enregistrer la recherche"	"tooltip"
 "Save Task View to Image"	"Enregistrer vue vers image"	"text"
-"Save Task View to Image..."	"Enregistrer vue vers image..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Enregistrer vue vers image (%s)..."	"menu"
 "Save Tasklist"	"&Enregistrer liste de tâches active"	"menu"
   "Save Tasklist"	""	"tooltip"
 "Save Tasklist As"	"Enregistrer la liste de tâches sous"	"dialog"

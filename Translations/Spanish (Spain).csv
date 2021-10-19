@@ -1584,7 +1584,7 @@ TRANSLATED
 "Save Report Template As"	"Guardar plantilla de informe como"	"tooltip"
 "Save Search"	"Guardar búsqueda"	"tooltip"
 "Save Task View to Image"	"Grabar la Vista de Tarea a una imagen"	"text"
-"Save Task View to Image..."	"Grabar Vista de Tarea como Imagen..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Grabar Vista de Tarea como Imagen (%s)..."	"menu"
 "Save Tasklist"	"Guardar lista de tareas"	"menu"
   "Save Tasklist"	""	"tooltip"
 "Save Tasklist As"	"Guardar lista de tareas como"	"dialog"

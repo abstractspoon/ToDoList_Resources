@@ -1552,7 +1552,7 @@ NEED_TRANSLATION
 "Save Report Template As"	""	"tooltip"
 "Save Search"	""	"tooltip"
 "Save Task View to Image"	""	"text"
-"Save Task View to Image..."	""	"menu"
+"Save Screenshot of Active Task View (%s)..."	""	"menu"
 "Save Tasklist"	""	"menu"
   "Save Tasklist"	""	"dialog"
   "Save Tasklist"	""	"tooltip"

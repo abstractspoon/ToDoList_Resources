@@ -1671,7 +1671,7 @@ TRANSLATED
 "Save Report Template As"	"Uložiť šablónu prehľadu ako"	"tooltip"
 "Save Search"	"Uložiť hľadanie"	"tooltip"
 "Save Task View to Image"	"Uložiť zobrazenie úloh do obrázka"	"text"
-"Save Task View to Image..."	"Uložiť zobrazenie úlohy do obrázka ..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Uložiť zobrazenie úlohy do obrázka (%s)..."	"menu"
 "Save Tasklist"	"&Uložiť zoznam úloh"	"menu"
   "Save Tasklist"	"Uložiť zoznam úloh &ako…"	"tooltip"
 "Save Tasklist As"	"Uložiť zoznam úloh &ako…"	"dialog"

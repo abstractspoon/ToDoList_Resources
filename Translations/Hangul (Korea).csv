@@ -1628,7 +1628,7 @@ TRANSLATED
 "Save Report Template As"	"보고 템플릿 다른 이름으로 저장"	"tooltip"
 "Save Search"	"검색 저장"	"tooltip"
 "Save Task View to Image"	"이미지로 작업 뷰 저장"	"text"
-"Save Task View to Image..."	"이미지로 작업 뷰 저장..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"이미지로 작업 뷰 저장..."	"menu"
 "Save Tasklist"	"작업 목록 저장"	"menu"
   "Save Tasklist"	""	"dialog"
   "Save Tasklist"	""	"tooltip"

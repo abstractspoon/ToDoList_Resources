@@ -1489,7 +1489,7 @@ TRANSLATED
 "Save Report Template As"	"Gem rapportformular som"	"tooltip"
 "Save Search"	"Gem søgning"	"tooltip"
 "Save Task View to Image"	"Gem opgavevisning som billede"	"text"
-"Save Task View to Image..."	"Gem opgavevisning som billede..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Gem opgavevisning som billede (%s)..."	"menu"
 "Save Tasklist"	"Gem opgaveliste"	"menu"
 "Save Tasklist As"	"Gem opgaveliste som"	"dialog"
 "Save Tasklist As..."	"Gem opgaveliste som..."	"menu"

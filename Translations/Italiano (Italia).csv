@@ -1608,7 +1608,7 @@ TRANSLATED
 "Save Report Template As"	"Salva modello rapporto come"	"tooltip"
 "Save Search"	"Salva ricerca"	"tooltip"
 "Save Task View to Image"	"Salva attività Visualizza su immagine"	"text"
-"Save Task View to Image..."	"Salva vista dei compiti su immagine…"	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Salva vista dei compiti su immagine (%s)..."	"menu"
 "Save Tasklist"	"Salva lista di compiti"	"menu"
   "Save Tasklist"	"Salva lista di compiti"	"dialog"
   "Save Tasklist"	"Salva lista di compiti"	"tooltip"

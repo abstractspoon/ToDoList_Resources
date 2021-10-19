@@ -1582,7 +1582,7 @@ TRANSLATED
 "Save Report Template As"	"Сохранить шаблон отчета как"	"tooltip"
 "Save Search"	"Сохранить результаты поиска"	"tooltip"
 "Save Task View to Image"	"Сохранить вид задачи в изображение"	"text"
-"Save Task View to Image..."	"Сохранить вид задач как изображение..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Сохранить вид задач как изображение (%s)..."	"menu"
 "Save Tasklist"	"Сохранить список задач"	"menu"
   "Save Tasklist"	"Сохранить список задач"	"tooltip"
 "Save Tasklist As"	"Сохранить список задач как"	"dialog"

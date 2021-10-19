@@ -1614,7 +1614,7 @@ TRANSLATED
 "Save Report Template As"	"Zapisz szablon raportu jako"	"tooltip"
 "Save Search"	"Zapisz wyszukiwanie"	"tooltip"
 "Save Task View to Image"	"Zapisz widok zadania do obrazu"	"text"
-"Save Task View to Image..."	"Zapisz widok zadania do obrazu ..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Zapisz widok zadania do obrazu (%s)..."	"menu"
 "Save Tasklist"	"Zapisz listę zadań"	"menu"
   "Save Tasklist"	"Zapisz listę zadań"	"dialog"
   "Save Tasklist"	"Zapisz zistę zadań"	"tooltip"

@@ -1596,7 +1596,7 @@ TRANSLATED
 "Save Report Template As"	"Shrani predlogo poročila kot"	"tooltip"
 "Save Search"	"Shrani iskanje"	"tooltip"
 "Save Task View to Image"	"Shrani prikaz opravila v sliko"	"text"
-"Save Task View to Image..."	"Shrani Prikaz opravila v sliko..."	"menu"
+"Save Screenshot of Active Task View (%s)..."	"Shrani Prikaz opravila v sliko (%s)..."	"menu"
 "Save Tasklist"	"Shrani seznam opravil"	"menu"
   "Save Tasklist"	"Shrani seznam opravil"	"dialog"
   "Save Tasklist"	"Shrani seznam opravil"	"tooltip"

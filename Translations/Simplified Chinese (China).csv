@@ -1580,7 +1580,7 @@ TRANSLATED
 "Saving tasklists..."	"正在保存任务列表..."	"text"
 "Schedule and Priority"	"进度和优先权"	"text"
 "Scheme"	"方案"	"radiobutton"
-"Screenshot of active task view"	"活动任务视图的屏幕截图"	"radiobutton"
+"Screenshot of active task view (%s)"	"活动任务视图的屏幕截图"	"radiobutton"
 "Scroll To Today"	"滚动到今天"	"tooltip"
 "Search"	"查询"	"label"
 "Search Preferences"	"搜索设置"	"text"

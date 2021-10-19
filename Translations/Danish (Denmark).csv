@@ -1501,7 +1501,7 @@ TRANSLATED
 "Saving tasklists..."	"Gemmer opgavelister..."	"text"
 "Schedule and Priority"	"Tidsskema og prioritet"	"text"
 "Scheme"	"Skema"	"radiobutton"
-"Screenshot of active task view"	"Skærmbillede af den aktive opgavevisning"	"radiobutton"
+"Screenshot of active task view (%s)"	"Skærmbillede af den aktive opgavevisning (%s)"	"radiobutton"
 "Scroll To Today"	"Gå til i dag"	"tooltip"
 "Search"	"Søg"	"label"
 "Search Preferences"	"Søg i Indstillinger"	"text"

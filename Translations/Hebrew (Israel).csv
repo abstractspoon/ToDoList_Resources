@@ -428,7 +428,7 @@ NEED_TRANSLATION
 "Saving task view image..."	""	"text"
 "Schedule and Priority"	""	"text"
 "Scheme"	""	"radiobutton"
-"Screenshot of active task view"	""	"radiobutton"
+"Screenshot of active task view (%s)"	""	"radiobutton"
 "Search Preferences"	""	"text"
 "Select a value"	""	"text"
 "Select Image File"	""	"dialog"

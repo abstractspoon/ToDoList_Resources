@@ -1641,7 +1641,7 @@ TRANSLATED
 "Saving tasklists..."	"작업 목록 저장 중..."	"text"
 "Schedule and Priority"	"스케쥴 및 우선 순위"	"text"
 "Scheme"	"배색"	"radiobutton"
-"Screenshot of active task view"	"활성화된 작업 뷰 스크린샷"	"radiobutton"
+"Screenshot of active task view (%s)"	"활성화된 작업 뷰 스크린샷"	"radiobutton"
 "Scroll To Today"	"오늘로 이동"	"tooltip"
 "Search"	"검색"	"label"
 "Search Preferences"	"설정 검색"	"text"

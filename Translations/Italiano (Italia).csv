@@ -1621,7 +1621,7 @@ TRANSLATED
 "Saving tasklists..."	"Salvataggio delle liste di compiti…"	"text"
 "Schedule and Priority"	"Pianificazione e priorità"	"text"
 "Scheme"	"schema"	"radiobutton"
-"Screenshot of active task view"	"Schermata della vista attività attiva"	"radiobutton"
+"Screenshot of active task view (%s)"	"Schermata della vista attività attiva (%s)"	"radiobutton"
 "Scroll To Today"	"Passa a oggi"	"tooltip"
 "Search"	"Ricerca"	"label"
 "Search Preferences"	"Preferenze di ricerca"	"text"

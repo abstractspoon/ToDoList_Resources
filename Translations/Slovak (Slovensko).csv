@@ -1683,7 +1683,7 @@ TRANSLATED
 "Saving tasklists..."	"Ukladajú sa zoznamy úloh ..."	"text"
 "Schedule and Priority"	"Harmonogram a priorita"	"text"
 "Scheme"	"systém"	"radiobutton"
-"Screenshot of active task view"	"Screenshot aktívneho zobrazenia úlohy"	"radiobutton"
+"Screenshot of active task view (%s)"	"Screenshot aktívneho zobrazenia úlohy (%s)"	"radiobutton"
 "Scroll To Today"	"Prejdite na dnešný deň"	"tooltip"
 "Search"	"&Hľadať"	"label"
 "Search Preferences"	"Predvoľby vyhľadávania"	"text"

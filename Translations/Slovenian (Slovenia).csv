@@ -1610,7 +1610,7 @@ TRANSLATED
 "Saving tasklists..."	"Shranjevanje seznamov opravil..."	"text"
 "Schedule and Priority"	"Rokovnik in prioriteta"	"text"
 "Scheme"	"Shema"	"radiobutton"
-"Screenshot of active task view"	"Posnetek zaslona aktivnega pogleda naloge"	"radiobutton"
+"Screenshot of active task view (%s)"	"Posnetek zaslona aktivnega pogleda naloge (%s)"	"radiobutton"
 "Scroll To Today"	"Zdrsni na Danes"	"tooltip"
 "Search"	"Poišči"	"label"
 "Search Preferences"	"Nastavitve iskanja"	"text"

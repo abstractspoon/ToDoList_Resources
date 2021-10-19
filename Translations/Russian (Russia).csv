@@ -1594,7 +1594,7 @@ TRANSLATED
 "Saving tasklists..."	"Сохранение списка(ов) задач…"	"text"
 "Schedule and Priority"	"План и приоритет"	"text"
 "Scheme"	"Схема"	"radiobutton"
-"Screenshot of active task view"	"Снимок экрана: вид активной задачи"	"radiobutton"
+"Screenshot of active task view (%s)"	"Снимок экрана: вид активной задачи (%s)"	"radiobutton"
 "Scroll To Today"	"Сегодня"	"tooltip"
 "Search"	"Искать"	"label"
 "Search Preferences"	"Настройки поиска"	"text"

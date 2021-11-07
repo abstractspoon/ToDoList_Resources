@@ -8,7 +8,8 @@ NEED_TRANSLATION
 "Display report automatically"	""	"checkbox"
 "Email Selected Tasks..."	""	"menu"
 "Hide All"	""	"menu"
-"Selected task"	""	"tooltip"
+"Selected task (Task ID)"	""	"tooltip"
+"Selected task (Path) (Task ID)"	""	"tooltip"
 "Show All"	""	"menu"
 "Unallocated"	""	"text"
 TRANSLATED

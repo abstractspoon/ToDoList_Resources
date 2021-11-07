@@ -7,7 +7,8 @@ NEED_TRANSLATION
 "<No task selected>,"	""	"text"
 "Display report automatically"	""	"checkbox"
 "Hide All"	""	"menu"
-"Selected task"	""	"tooltip"
+"Selected task (Task ID)"	""	"tooltip"
+"Selected task (Path) (Task ID)"	""	"tooltip"
 "Show All"	""	"menu"
 "Unallocated"	""	"text"
 TRANSLATED

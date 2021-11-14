@@ -5,11 +5,12 @@ NEED_TRANSLATION
 "%d more tasks"	""	"tooltip"
 "<Multiple tasks selected>,"	""	"text"
 "<No task selected>,"	""	"text"
+"Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Email Selected Tasks..."	""	"menu"
 "Hide All"	""	"menu"
 "Selected task (Task ID)"	""	"tooltip"
-"Selected task (Path) (Task ID)"	""	"tooltip"
+"Selected task [Path] (Task ID)"	""	"tooltip"
 "Show All"	""	"menu"
 "Unallocated"	""	"text"
 TRANSLATED

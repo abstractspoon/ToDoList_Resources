@@ -2,8 +2,9 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Display completed tasks"	""	"checkbox"
 "Selected task (Task ID)"	"Gewählte Aufgabe"	"tooltip"
-"Selected task (Path) (Task ID)"	""	"tooltip"
+"Selected task [Path] (Task ID)"	""	"tooltip"
 TRANSLATED
 "%d more tasks"	"%d weitere Aufgaben"	"tooltip"
 "<Multiple tasks selected>,"	"<Mehrere Aufgaben gewählt>,"	"text"

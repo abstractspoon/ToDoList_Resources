@@ -3,6 +3,7 @@ PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "Display completed tasks"	""	"checkbox"
+"Requires Admin Privileges to modify"	""	"label"
 "Selected task (Task ID)"	"Gewählte Aufgabe"	"tooltip"
 "Selected task [Path] (Task ID)"	""	"tooltip"
 TRANSLATED
@@ -73,7 +74,7 @@ TRANSLATED
 "'Weekend' colour"	"Farbe für Wochenende"	"checkbox"
 "'{0}' appears in {1} tasks"	"'{0}' erscheint in {1} Aufgaben"	"tooltip"
 "(completed: %s)"	"(abgeschlossen: %s)"	"text"
-"(handler not installed)"	"(Handler nicht installiert)"	"label"
+"<handler not installed>"	"<Handler nicht installiert>"	"label"
 "(Note: You should only use this option if you are certain that the incoming tasks will have the correct task IDs)"	"(Hinweis: Verwenden sie diese Option nur wenn sie sicher sind, dass die eingehenden Aufgaben die richtige Aufgaben-ID haben.)"	"label"
 "(paused)"	"(angehalten)"	"text"
 "(Relative)"	"(Relativ)"	"text"
@@ -2024,8 +2025,6 @@ TRANSLATED
 "ToDoList requires version 3 or later of the msxml component.\n\nTo update your version of this component, Google for 'msxml 3.0 download', \nand follow the relevant installation instructions. Then try again."	"ToDoList erfordert Version 3 oder höher der MSXML-Komponente.\n\nFür ein Update ihrer Version googlen sie nach 'msxml 3.0 download'\nund folgenden sie den relevanten Installationsanweisungen.\nVersuchen sie es dann nochmals."	"text"
 "ToDoList Setup"	"ToDoList Setup"	"dialog"
 "ToDoList supports the following commandline options"	"ToDoList unterstützt die folgenden Befehlszeilenoptionen"	"label"
-"ToDoList was unable to install the '.tdl' extension handler.\n\nYou may need to run ToDoList with administrator privileges to install the handler.\n\nOnce installed you can then revert to your original security settings."	"ToDoList konnte den Handler für die '.tdl' Erweiterung nicht installieren.\n\nSie sollten ToDoList als Administrator starten.\n\nNach der Installation können sie die vorherigen Sicherheitseinstellungen wieder aktivieren."	"text"
-"ToDoList was unable to install the 'tdl://' protocol handler.\n\nYou may need to run ToDoList with administrator privileges to install the handler.\n\nOnce installed you can then revert to your original security settings."	"ToDoList konnte den Handler für die 'tdl://' Protokoll nicht installieren.\n\nSie sollten ToDoList als Administrator starten.\n\nNach der Installation können sie die vorherigen Sicherheitseinstellungen wieder aktivieren."	"text"
 "ToDoList was unable to print the active tasklist via your default  browser, which may mean that your browser does not support the 'print' command.\n\nPlease see your browser help for more information."	"ToDoList konnte die aktive Aufgabenliste nicht mit ihrem Standardbrowser drucken; vielleicht unterstützt ihr Browser nicht den 'Print'-Befehl.\n\nBitte suchen sie in der Hilfe des Browsers nach weiteren Informationen."	"text"
 "ToDoList Web Update"	"ToDoList Web Update"	"dialog"
 "ToDoList Wiki"	"ToDoList &Wiki"	"menu"

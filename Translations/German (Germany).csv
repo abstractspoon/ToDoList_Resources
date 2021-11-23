@@ -1,12 +1,11 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Display completed tasks"	""	"checkbox"
-"Requires Admin Privileges to modify"	""	"label"
-"Selected task (Task ID)"	"Gewählte Aufgabe"	"tooltip"
-"Selected task [Path] (Task ID)"	""	"tooltip"
 TRANSLATED
+"Display completed tasks"	"Erledigte Aufgaben anzeigen"	"checkbox"
+"Requires Admin Privileges to modify"	"Änderungen benötigen Admin-Rechte"	"label"
+"Selected task (Task ID)"	"Gewählte Aufgabe (Aufgaben ID)"	"tooltip"
+"Selected task [Path] (Task ID)"	"Gewählte Aufgabe [Pfad] (Aufgaben ID)"	"tooltip"
 "%d more tasks"	"%d weitere Aufgaben"	"tooltip"
 "<Multiple tasks selected>,"	"<Mehrere Aufgaben gewählt>,"	"text"
 "<No task selected>,"	"<Keine Aufgabe gewählt>,"	"text"

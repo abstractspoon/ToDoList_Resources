@@ -708,7 +708,7 @@ NEED_TRANSLATION
 "Display task 'Completion' dates"	""	"checkbox"
 "Display task 'Due' dates"	""	"checkbox"
 "Display task 'Start' dates"	""	"checkbox"
-"Display tasks as continuous between their 'Start' and 'Due' dates"	""	"checkbox"
+"Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	""	"checkbox"
 "Display the following attributes for each task"	""	"groupbox"
 "Display the image file directly\n(currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"

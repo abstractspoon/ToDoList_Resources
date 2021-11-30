@@ -1,6 +1,10 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Zeige die Aufgaben durchgehend zwischen 'Beginn' und 'Fällig'"	"checkbox"
+"The earlier of the task's 'Due' (or 'Completion') date and 'Today'"	"Der frühere Wert von 'Aufgabenfälligkeit' und 'Heute'"	"radiobutton"
+"The task's 'Due' (or 'Completion') date"	"Das Fälligkeitsdatum der Aufgabe"	"radiobutton"
 TRANSLATED
 "Display completed tasks"	"Erledigte Aufgaben anzeigen"	"checkbox"
 "Requires Admin Privileges to modify"	"Änderungen benötigen Admin-Rechte"	"label"
@@ -733,7 +737,6 @@ TRANSLATED
 "Display task 'Completion' dates"	"Erledigungsdatum anzeigen"	"checkbox"
 "Display task 'Due' dates"	"Zeige Fälligkeitsdatum der Aufgabe"	"checkbox"
 "Display task 'Start' dates"	"Zeige Beginndatum der Aufgabe"	"checkbox"
-"Display tasks as continuous between their 'Start' and 'Due' dates"	"Zeige die Aufgaben durchgehend zwischen 'Beginn' und 'Fällig'"	"checkbox"
 "Display the following attributes for each task"	"Zeige folgende Attribute für jede Aufgabe"	"groupbox"
 "Display the image file directly\n(currently supports bmp, ico, gif, jpg, png)"	"Bilder direkt anzeigen\n(derzeit für bmp, ico, gif, jpg, png)"	"radiobutton"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	"Bilddatei direkt anzeigen (derzeit bmp, ico, gif, jpg, png)"	"radiobutton"
@@ -1881,7 +1884,6 @@ TRANSLATED
 "the Close button is selected"	"die Schaltfläche 'Schließen' gewählt wird"	"combobox"
 "the computer is hibernated or in stand-by"	"Der Computer im Ruhezustand oder in Stand-By ist"	"checkbox"
 "The confirmation did not match the password.\n\nPlease try again."	"Die Bestätigung entspricht nicht dem Passwort.\n\nBitte versuchen sie es nochmals."	"text"
-"The earlier of the task's 'Due' (or 'Completion') date and 'Today'"	"Der frühere Wert von 'Aufgabenfälligkeit' und 'Heute'"	"radiobutton"
 "The earliest of its due date and all its subtasks' due dates"	"Das früheste Fälligkeitsdatum dieser Aufgabe und aller Teilaufgaben"	"radiobutton"
 "The earliest of its start date and all its subtasks' start dates"	"Das früheste Startdatum dieser Aufgabe und aller Teilaufgaben"	"radiobutton"
 "The exported content could not be saved to '%s'"	"Der exportierte Inhalt konnte nicht in '%s' gespeichert werden."	"text"
@@ -1925,7 +1927,6 @@ TRANSLATED
 "The status of the file '%s' has changed \nfrom 'writable' to 'read-only'."	"Der Status der Datei '%s' hat sich von 'beschreibbar' auf 'schreibgeschützt' geändert."	"text"
 "the task is not selected"	"die Aufgabe nicht ausgewählt ist"	"checkbox"
 "The task's 'Creation' date"	"Das Erstellungsdatum der Aufgabe"	"radiobutton"
-"The task's 'Due' (or 'Completion') date"	"Das Fälligkeitsdatum der Aufgabe"	"radiobutton"
 "The task's 'Start' date"	"Das Beginndatum der Aufgabe"	"radiobutton"
 "The tasklist '%s' contained specific characters that could not be saved. Typically these will be found in a task's comments having been copied and pasted from another application.\n\nYou will need to remove these characters before you can save your tasklist."	"Die Aufgabenliste '%s' enthielt Sonderzeichen, die nicht gespeichert werden konnten. Normalerweise finden sie sich in den Kommentaren einer Aufgabe, wenn aus einer anderen Anwendung kopiert und eingefügt wurde.\n\nSie müssen diese Zeichen erst entfernen, bevor sie die Aufgabenliste speichern können."	"text"
 "The tasklist '%s' could not be decrypted using the provided password.\n\nWould you like to try again?"	"Die Aufgabenliste '%s' konnte mit dem angegebenen Passwort nicht entschlüsselt werden.\n\nMöchten sie es nochmals versuchen?"	"text"

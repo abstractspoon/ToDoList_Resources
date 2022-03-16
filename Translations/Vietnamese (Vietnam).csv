@@ -1,6 +1,9 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Offset Task Start/Due Dates Backwards By"	"Chênh lệch ngày công việc lùi lại bằng"	"menu"
+"Offset Task Start/Due Dates Forwards By"	"Chênh lệch Ngày Nhiệm vụ Chuyển tiếp Bởi"	"menu"
 TRANSLATED
 "% Complete"	"% Hoàn thành"	"label"
 "% of page"	"% trang"	"combobox"
@@ -1325,8 +1328,6 @@ TRANSLATED
 "Offset Dates..."	"Ngày bù đắp ..."	"menu"
 "Offset subtask dates by the same amount"	"Chênh lệch ngày công việc phụ theo cùng một số tiền"	"checkbox"
 "Offset Task Dates"	"Chênh lệch ngày công việc"	"dialog"
-"Offset Task Dates Backwards By"	"Chênh lệch ngày công việc lùi lại bằng"	"menu"
-"Offset Task Dates Forwards By"	"Chênh lệch Ngày Nhiệm vụ Chuyển tiếp Bởi"	"menu"
 "Offset Task Dates..."	"Chênh lệch Ngày công việc ..."	"menu"
 "OK"	"OK"	"button"
 "On that day"	"Vào ngày đó"	"combobox"

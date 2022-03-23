@@ -146,6 +146,7 @@ NEED_TRANSLATION
 "Display in toolbar"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Toon taken als continu tussen 'start-' en 'streef-' datums"	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Due date"	""	"label"
 "Duplicate"	""	"button"
 "Duplicate Tool"	""	"tooltip"

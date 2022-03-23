@@ -73,6 +73,7 @@ NEED_TRANSLATION
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Отображать задачи как продолжающиеся между их 'Началом' и 'Выполнением'"	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Duplicate"	""	"button"
 "Email Selected Tasks..."	""	"menu"
 "Estimated/Spent Days"	""	"combobox"

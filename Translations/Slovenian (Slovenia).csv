@@ -7,6 +7,7 @@ NEED_TRANSLATION
 "<No task selected>,"	""	"text"
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Email Selected Tasks..."	""	"menu"
 "Hide All"	""	"menu"
 "Offset Task Start/Due Dates Backwards By"	"Odmik datumov opravil od zadaj"	"menu"

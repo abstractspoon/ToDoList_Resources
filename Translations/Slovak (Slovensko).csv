@@ -171,6 +171,7 @@ NEED_TRANSLATION
 "Display save confirmation dialog on exit, otherwise the tasklist will be auto-saved"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Úlohy zobrazujte ako nepretržité medzi dátumami začiatku a splatnosti"	"checkbox"
 "Display the image file directly\n(currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
+"Double-click to go to task"	""	"tooltip"
 "Download Progress (%d%%)"	""	"text"
 "Downloading '%s' from '%s'"	""	"text"
 "Downloading latest update..."	""	"text"

@@ -211,6 +211,7 @@ NEED_TRANSLATION
 "Display the following attributes for each task"	""	"groupbox"
 "Display the image file directly (currently supports bmp, ico, gif, jpg, png)"	""	"radiobutton"
 "Do you want to delete the existing column definitions?"	""	"text"
+"Double-click to go to task"	""	"tooltip"
 "Due date"	""	"label"
 "Duplicate"	""	"button"
 "Duplicate Tool"	""	"tooltip"

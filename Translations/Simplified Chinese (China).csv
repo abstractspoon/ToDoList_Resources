@@ -8,6 +8,7 @@ NEED_TRANSLATION
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"在任务的开始和到期日期之间连续显示"	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Hide All"	""	"menu"
 "Offset Task Start/Due Dates Backwards By"	"向后偏移任务日期"	"menu"
 "Offset Task Start/Due Dates Forwards By"	"向前偏移任务日期"	"menu"

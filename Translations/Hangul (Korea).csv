@@ -68,6 +68,7 @@ NEED_TRANSLATION
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"'시작'과 '만료' 일자 사이 계속 표시"	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Downloading latest update..."	""	"text"
 "Email Selected Tasks..."	""	"menu"
 "Embed a copy of the file which can be viewed by double-clicking the icon"	""	"radiobutton"

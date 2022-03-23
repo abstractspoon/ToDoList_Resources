@@ -1,13 +1,15 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Double-click to go to task"	""	"tooltip"
+"Offset Task Start/Due Dates Backwards By"	"Aufgabendatum zurück verschieben um"	"menu"
+"Offset Task Start/Due Dates Forwards By"	"Aufgabendatum vorwärts verschieben um"	"menu"
 TRANSLATED
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Zeige die Aufgaben durchgehend zwischen 'Beginn' und 'Fällig' (oder 'Erledigung')"	"checkbox"
 "The earlier of the task's 'Due' (or 'Completion') date and 'Today'"	"Der frühere Wert von 'Aufgabenfälligkeit' (oder 'Erledigung') und 'Heute'"	"radiobutton"
 "The task's 'Due' (or 'Completion') date"	"Das 'Fälligkeits'- (oder 'Erledigung-')datum der Aufgabe"	"radiobutton"
 "Display completed tasks"	"Erledigte Aufgaben anzeigen"	"checkbox"
-"Offset Task Start/Due Dates Backwards By"	"Aufgabendatum zurück verschieben um"	"menu"
-"Offset Task Start/Due Dates Forwards By"	"Aufgabendatum vorwärts verschieben um"	"menu"
 "Requires Admin Privileges to modify"	"Änderungen benötigen Admin-Rechte"	"label"
 "Selected task (Task ID)"	"Gewählte Aufgabe (Aufgaben ID)"	"tooltip"
 "Selected task [Path] (Task ID)"	"Gewählte Aufgabe [Pfad] (Aufgaben ID)"	"tooltip"

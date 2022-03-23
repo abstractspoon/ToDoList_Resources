@@ -34,6 +34,7 @@ NEED_TRANSLATION
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Mostrar tareas como continua entre sus fechas de 'Inicio' y 'Vencimiento'"	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Duplicate"	""	"button"
 "Email Selected Tasks..."	""	"menu"
 "Find Tasks Filter %d"	""	"menu"

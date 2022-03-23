@@ -8,6 +8,7 @@ NEED_TRANSLATION
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	"Vis opgaver som gennemgående mellem deres 'Startdato' og 'Forfaldsdato'"	"checkbox"
+"Double-click to go to task"	""	"tooltip"
 "Email Selected Tasks..."	""	"menu"
 "Hide All"	""	"menu"
 "Offset Task Start/Due Dates Backwards By"	"Forskyd opgavedatoer tilbage med"	"menu"

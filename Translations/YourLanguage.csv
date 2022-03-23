@@ -743,6 +743,7 @@ NEED_TRANSLATION
 "does not include"	""	"text"
 "Donate..."	""	"menu"
 "Done!"	""	"text"
+"Double-click to go to task"	""	"tooltip"
 "Download More Dictionaries"	""	"label"
 "Download Progress"	""	"dialog"
 "Download Progress (%d%%)"	""	"text"

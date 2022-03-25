@@ -2,6 +2,7 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Complete"	""	"button"
 "Double-click to go to task"	""	"tooltip"
 "Offset Task Start/Due Dates Backwards By"	"Aufgabendatum zurück verschieben um"	"menu"
 "Offset Task Start/Due Dates Forwards By"	"Aufgabendatum vorwärts verschieben um"	"menu"
@@ -708,7 +709,6 @@ TRANSLATED
 "Dictionaries (*.dic)|*.dic||"	"Wörterbücher (*.dic)|*.dic||"	"text"
 "Direction"	"Richtung:"	"label"
 "Dismiss"	"Ausschalten"	"button"
-"Dismiss and Go to Task"	"Ausschalten, zur Aufgabe gehen"	"button"
 "Display"	"Anzeige"	"label"
 "Display 'Alloc To' after task's gantt bar"	"Zeige 'Zugewiesen an' nach dem Aufgabenbalken"	"checkbox"
 "Display 'Alloc To' column"	"Zeige die Spalte 'Zugewiesen an'"	"checkbox"

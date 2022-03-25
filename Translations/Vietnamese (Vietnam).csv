@@ -2,6 +2,7 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Complete"	""	"button"
 "Double-click to go to task"	""	"tooltip"
 "Offset Task Start/Due Dates Backwards By"	"Chênh lệch ngày công việc lùi lại bằng"	"menu"
 "Offset Task Start/Due Dates Forwards By"	"Chênh lệch Ngày Nhiệm vụ Chuyển tiếp Bởi"	"menu"
@@ -699,7 +700,6 @@ TRANSLATED
 "Dictionaries (*.dic)|*.dic||"	"Từ điển (* .dic) | * .dic ||"	"text"
 "Direction"	"Phương hướng"	"label"
 "Dismiss"	"Bỏ qua"	"button"
-"Dismiss and Go to Task"	"Bỏ qua và đi đến công việc"	"button"
 "Display"	"Trưng bày"	"label"
 "Display 'Alloc To' after task's gantt bar"	"Hiển thị 'Phân bổ đến' sau thanh gantt của tác vụ"	"checkbox"
 "Display 'Alloc To' column"	"Hiển thị cột 'Phân bổ cho'"	"checkbox"

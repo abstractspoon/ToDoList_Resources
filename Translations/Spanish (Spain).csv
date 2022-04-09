@@ -22,6 +22,8 @@ NEED_TRANSLATION
 "<no sound>"	""	"text"
 "<No task selected>,"	""	"text"
 "Adjust Task % Completion to match today's date"	""	"menu"
+"Anonymise Tasklist"	""	"menu"
+"Any status can match"	""	"text"
 "By Now"	""	"text"
 "By the End of Next Year"	""	"text"
 "By the End of This Year"	""	"text"
@@ -58,6 +60,7 @@ NEED_TRANSLATION
 "Unallocated"	""	"text"
 "Unspecified Levels"	""	"menu"
 "Version Frequency"	""	"combobox"
+"View Debug Log File"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Una o más de estas tareas tiene subtareas que también serán eliminadas)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Esta tarea tiene subtareas que también serán eliminadas)"	"text"

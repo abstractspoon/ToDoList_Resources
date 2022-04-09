@@ -56,6 +56,8 @@ NEED_TRANSLATION
 "<Multiple tasks selected>,"	""	"text"
 "<no sound>"	""	"text"
 "<No task selected>,"	""	"text"
+"Anonymise Tasklist"	""	"menu"
+"Any status can match"	""	"text"
 "Burndown"	""	"combobox"
   "Burndown"	""	"systabcontrol32"
 "Character Set"	""	"label"
@@ -128,6 +130,7 @@ NEED_TRANSLATION
 "Top-level tasks"	""	"menu"
 "Unallocated"	""	"text"
 "Unspecified Levels"	""	"menu"
+"View Debug Log File"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(주의: 한 개 또는 그 이상의 작업이 하위 작업을 가지고 있으며 모두 함께 삭제됩니다.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(주의: 이 작업은 하위 작업을 가지고 있으며 모두 함께 삭제됩니다.)"	"text"

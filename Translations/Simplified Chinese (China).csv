@@ -5,6 +5,8 @@ NEED_TRANSLATION
 "%d more tasks"	""	"tooltip"
 "<Multiple tasks selected>,"	""	"text"
 "<No task selected>,"	""	"text"
+"Anonymise Tasklist"	""	"menu"
+"Any status can match"	""	"text"
 "Complete"	""	"button"
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
@@ -20,6 +22,7 @@ NEED_TRANSLATION
 "The earlier of the task's 'Due' (or 'Completion') date and 'Today'"	"任务的“到期”日期和“今天”的较早者"	"radiobutton"
 "The task's 'Due' (or 'Completion') date"	"任务的“到期”日期"	"radiobutton"
 "Unallocated"	""	"text"
+"View Debug Log File"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

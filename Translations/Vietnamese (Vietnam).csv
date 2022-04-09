@@ -2,10 +2,13 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Anonymise Tasklist"	""	"menu"
+"Any status can match"	""	"text"
 "Complete"	""	"button"
 "Double-click to go to task"	""	"tooltip"
 "Offset Task Start/Due Dates Backwards By"	"Chênh lệch ngày công việc lùi lại bằng"	"menu"
 "Offset Task Start/Due Dates Forwards By"	"Chênh lệch Ngày Nhiệm vụ Chuyển tiếp Bởi"	"menu"
+"View Debug Log File"	""	"menu"
 TRANSLATED
 "% Complete"	"% Hoàn thành"	"label"
 "% of page"	"% trang"	"combobox"

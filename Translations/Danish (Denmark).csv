@@ -5,6 +5,8 @@ NEED_TRANSLATION
 "%d more tasks"	""	"tooltip"
 "<Multiple tasks selected>,"	""	"text"
 "<No task selected>,"	""	"text"
+"Anonymise Tasklist"	""	"menu"
+"Any status can match"	""	"text"
 "Complete"	""	"button"
 "Display completed tasks"	""	"checkbox"
 "Display report automatically"	""	"checkbox"
@@ -21,6 +23,7 @@ NEED_TRANSLATION
 "The earlier of the task's 'Due' (or 'Completion') date and 'Today'"	"Den tidligste af opgavens forfaldsdato og i dag"	"radiobutton"
 "The task's 'Due' (or 'Completion') date"	"Opgavens forfaldsdato"	"radiobutton"
 "Unallocated"	""	"text"
+"View Debug Log File"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"(OBS: En eller flere af disse opgaver har underopgaver, som også slettes)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"(OBS: Denne opgave har underopgaver som også slettes)"	"text"

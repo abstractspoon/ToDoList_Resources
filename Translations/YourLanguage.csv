@@ -971,6 +971,7 @@ NEED_TRANSLATION
 "Gradient"	""	"radiobutton"
 "Graphs"	""	"systabcontrol32"
 "Group By"	""	"checkbox"
+"Group header background colour"	""	"checkbox"
 "H"	""	"menu"
 "Have subtasks inherit the following attributes from their parent when they are created"	""	"checkbox"
 "Heading 1"	""	"menu"

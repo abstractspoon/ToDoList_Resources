@@ -2036,7 +2036,7 @@ NEED_TRANSLATION
   "Title"	""	"label"
   "Title"	""	"menu"
 "Title or Comments"	""	"text"
-"Titles and comments"	""	"radiobutton"
+"Titles and comments only"	""	"radiobutton"
 "Titles only"	""	"radiobutton"
 "To"	""	"label"
 "to"	""	"label"

@@ -1993,7 +1993,7 @@ TRANSLATED
   "Title"	""	"label"
   "Title"	""	"menu"
 "Title or Comments"	"标题或评论"	"text"
-"Titles and comments"	"标题和评论"	"radiobutton"
+"Titles and comments only"	"标题和评论"	"radiobutton"
 "Titles only"	"仅标题"	"radiobutton"
 "To"	"至"	"label"
 "to"	"至"	"label"

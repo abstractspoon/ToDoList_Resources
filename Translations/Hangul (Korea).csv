@@ -2042,7 +2042,7 @@ TRANSLATED
   "Title"	""	"label"
   "Title"	""	"menu"
 "Title or Comments"	"이름 또는 설명"	"text"
-"Titles and comments"	"이름 및 작업 설명 검색"	"radiobutton"
+"Titles and comments only"	"이름 및 작업 설명 검색"	"radiobutton"
 "Titles only"	"이름만 검색"	"radiobutton"
 "To"	"끝"	"label"
 "to"	"to"	"label"

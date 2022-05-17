@@ -2032,7 +2032,7 @@ TRANSLATED
   "Title"	"Naslov"	"label"
   "Title"	"Naslov"	"menu"
 "Title or Comments"	"Naslov ali komentarji"	"text"
-"Titles and comments"	"Naslove in komentarje"	"radiobutton"
+"Titles and comments only"	"Naslove in komentarje"	"radiobutton"
 "Titles only"	"Samo naslove"	"radiobutton"
 "To"	"Do"	"label"
 "to"	"do"	"label"

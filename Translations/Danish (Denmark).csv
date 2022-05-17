@@ -1891,7 +1891,7 @@ TRANSLATED
 "Timestamp Change"	"Ændring af filens tidsstempling"	"text"
 "Title"	"Titel"	"combobox"
 "Title or Comments"	"Titel eller kommentarer"	"text"
-"Titles and comments"	"Titler og kommentarer"	"radiobutton"
+"Titles and comments only"	"Titler og kommentarer"	"radiobutton"
 "Titles only"	"Kun titel"	"radiobutton"
 "To"	"Til"	"label"
 "to"	"til"	"label"

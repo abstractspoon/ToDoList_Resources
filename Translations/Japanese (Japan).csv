@@ -2101,7 +2101,7 @@ TRANSLATED
   "Title"	"タスク名"	"label"
   "Title"	""	"menu"
 "Title or Comments"	"タイトル、またはコメント"	"text"
-"Titles and comments"	"タイトルとコメント"	"radiobutton"
+"Titles and comments only"	"タイトルとコメント"	"radiobutton"
 "Titles only"	"タイトルのみ"	"radiobutton"
 "To"	"割当先"	"label"
 "to"	"～"	"label"

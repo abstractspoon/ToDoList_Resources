@@ -1990,7 +1990,7 @@ TRANSLATED
   "Title"	"Название"	"label"
   "Title"	"Название"	"menu"
 "Title or Comments"	"Название или заметки"	"text"
-"Titles and comments"	"Названия и заметки"	"radiobutton"
+"Titles and comments only"	"Названия и заметки"	"radiobutton"
 "Titles only"	"Только названия"	"radiobutton"
 "To"	"Ответственный"	"label"
 "to"	"до"	"label"

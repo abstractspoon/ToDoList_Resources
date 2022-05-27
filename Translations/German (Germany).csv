@@ -1,12 +1,11 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Bottom"	""	"combobox"
-"Default"	""	"combobox"
-"Middle"	""	"combobox"
-"Top"	""	"combobox"
 TRANSLATED
+"Bottom"	"Unten"	"combobox"
+"Default"	"Vorgabe"	"combobox"
+"Middle"	"Mitte"	"combobox"
+"Top"	"Oben"	"combobox"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"
@@ -727,7 +726,7 @@ TRANSLATED
 "Display confirmation dialog for each period logged"	"Bestätigungsdialog für jede protokollierte Zeitspanne einblenden"	"checkbox"
 "Display dates and times in ISO format"	"Zeige Datum im ISO Format"	"checkbox"
 "Display delete confirmation dialog"	"Zeige Bestätigungsdialog beim Löschen"	"checkbox"
-"Display future occurrences of recurring tasks"	"Zukünftige Vorkommen anzeigen"	"checkbox"
+"Display future occurrences of recurring tasks"	"Zukünftige Vorkommen von Aufgabenwiederholungen anzeigen"	"checkbox"
 "Display in toolbar"	"In Werkzeugleiste anzeigen"	"checkbox"
 "Display Language"	"Sprache wählen"	"label"
 "Display notifications in HTML"	"Zeige Benachrichtigungen in HTML"	"checkbox"

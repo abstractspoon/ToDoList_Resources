@@ -1,6 +1,11 @@
 ﻿TRANSTEXT 7.2.998.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Bottom"	""	"combobox"
+"Default"	""	"combobox"
+"Middle"	""	"combobox"
+"Top"	""	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -722,7 +727,7 @@ TRANSLATED
 "Display confirmation dialog for each period logged"	"Bestätigungsdialog für jede protokollierte Zeitspanne einblenden"	"checkbox"
 "Display dates and times in ISO format"	"Zeige Datum im ISO Format"	"checkbox"
 "Display delete confirmation dialog"	"Zeige Bestätigungsdialog beim Löschen"	"checkbox"
-"Display future occurrences"	"Zukünftige Vorkommen anzeigen"	"checkbox"
+"Display future occurrences of recurring tasks"	"Zukünftige Vorkommen anzeigen"	"checkbox"
 "Display in toolbar"	"In Werkzeugleiste anzeigen"	"checkbox"
 "Display Language"	"Sprache wählen"	"label"
 "Display notifications in HTML"	"Zeige Benachrichtigungen in HTML"	"checkbox"
@@ -986,14 +991,13 @@ TRANSLATED
 "Hide 'Start' and 'Due' dates for completed tasks"	"Verberge Beginn- und Fälligkeitsdatum für erledigte Aufgaben"	"checkbox"
 "Hide <none> group"	"Gruppe '<keine>' verbergen"	"combobox"
 "Hide All"	"Alle verbergen"	"menu"
-"Hide collapsed tasks"	"Verberge reduzierte Aufgaben (Listenansicht)"	"text"
+"Hide collapsed tasks"	"Verberge reduzierte Aufgaben"	"text"
 "Hide completed tasks"	"Verberge erledigte Aufgaben"	"text"
 "Hide confidential attributes"	"Verstecke vertrauliche Attribute"	"checkbox"
 "Hide empty attribute values"	"Leere Attributwerte ausblenden"	"checkbox"
 "Hide empty columns"	"Leere Spalten ausblenden"	"combobox"
 "Hide overdue tasks"	"Verberge überfällige Aufgaben"	"text"
 "Hide parent tasks"	"Hauptaufgaben ausblenden"	"checkbox"
-"Hide parent tasks (List View)"	"Hauptaufgaben ausblenden (Listenansicht)"	"text"
 "Hide subtasks"	"Teilaufgaben verbergen"	"combobox"
 "Hide tab bar when only one tasklist is open"	"Verbergen, wenn nur eine Aufgabenliste offen ist"	"checkbox"
 "Hide tasks whose Start and Due dates do not fall on the same day"	"Aufgaben ausblenden, wenn Beginn oder Fälligkeit nicht auf den gleichen Tag fallen"	"checkbox"

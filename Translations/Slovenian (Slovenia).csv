@@ -21,7 +21,6 @@ NEED_TRANSLATION
 "Display tasks as continuous between their 'Start' and 'Due' (or 'Completion') dates"	""	"checkbox"
 "Display watermark image (applies to all html comments)"	""	"checkbox"
 "Double-click to go to task"	""	"tooltip"
-"Email Selected Tasks..."	""	"menu"
 "Graph colours"	""	"label"
 "Group header background colour"	""	"checkbox"
 "Hide <none> group"	""	"combobox"

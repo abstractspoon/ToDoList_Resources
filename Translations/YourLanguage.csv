@@ -241,7 +241,7 @@ NEED_TRANSLATION
 "<anyone>"	""	"text"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
 "<multiple formats>"	""	"text"
-"<Multiple tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	""	"text"
 "<New Allocation>"	""	"text"
 "<New Button>"	""	"text"
 "<New Column>"	""	"text"

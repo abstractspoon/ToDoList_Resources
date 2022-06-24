@@ -111,7 +111,7 @@ NEED_TRANSLATION
 "12 months / 1 year"	""	"combobox"
 "<Existing Custom Attribute>"	""	"combobox"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
-"<Multiple tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	""	"text"
 "<no sound>"	""	"text"
 "<No task selected>"	""	"text"
 "<specific dates>"	""	"combobox"

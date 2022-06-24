@@ -53,7 +53,7 @@ NEED_TRANSLATION
 "<Existing Custom Attribute>"	""	"combobox"
 "<handler not installed>"	""	"label"
 "<multiple formats>"	""	"text"
-"<Multiple tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	""	"text"
 "<New Allocation>"	""	"text"
 "<New Button>"	""	"text"
 "<no sound>"	""	"text"

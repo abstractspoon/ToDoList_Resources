@@ -72,7 +72,7 @@ NEED_TRANSLATION
 "9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
 "<filepath>\tOpens/selects the specified tasklist"	""	"text"
-"<Multiple tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	""	"text"
 "<no sound>"	""	"text"
 "<No task selected>"	""	"text"
 "<specific dates>"	""	"combobox"

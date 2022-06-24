@@ -246,7 +246,7 @@ TRANSLATED
 "<filepath>\tOpens/selects the specified tasklist"	"<Dateipfad>\tÖffnet/wählt die definierte Aufgabenliste"	"text"
 "<handler not installed>"	"<Handler nicht installiert>"	"label"
 "<multiple formats>"	"<mehrfache Formate>"	"text"
-"<Multiple tasks selected>"	"<Mehrere Aufgaben gewählt>"	"text"
+"<Multiple (%d) tasks selected>"	"<Mehrere (%d) Aufgaben gewählt>"	"text"
 "<New Allocation>"	"<Neue Zuweisung>"	"text"
 "<New Button>"	"<Neue Schaltfläche>"	"text"
 "<New Column>"	"<Neue Spalte>"	"text"

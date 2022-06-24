@@ -6,7 +6,7 @@ NEED_TRANSLATION
 "'%s' already exists.\nDo you want to replace it?"	""	"text"
 "-ic <icon name/number>\tSets the 'Icon' for the currently selected task"	""	"text"
 "-tp <prefix>\tApplies a prefix to the application title"	""	"text"
-"<Multiple tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	""	"text"
 "<No task selected>"	""	"text"
 "<specific dates>"	""	"combobox"
 "Anonymise Tasklist"	""	"menu"

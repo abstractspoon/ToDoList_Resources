@@ -39,7 +39,7 @@ NEED_TRANSLATION
 "8th subtask level"	""	"menu"
 "9th subtask level"	""	"menu"
 "<Existing Custom Attribute>"	""	"combobox"
-"<Multiple tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	""	"text"
 "<no sound>"	""	"text"
 "<No task selected>"	""	"text"
 "<specific dates>"	""	"combobox"

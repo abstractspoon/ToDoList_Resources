@@ -252,7 +252,7 @@ TRANSLATED
 "<filepath>\tOpens/selects the specified tasklist"	"<potdatoteke>\tOdpre/izbere določen seznam opravil"	"text"
 "<handler not installed>"	"upravljalnik ni nameščen"	"label"
 "<multiple formats>"	"<več formatov>"	"text"
-"<Multiple tasks selected>"	"Več izbranih atributov"	"text"
+"<Multiple (%d) tasks selected>"	"Več (%d) izbranih atributov"	"text"
 "<New Allocation>"	"<Nova dodelitev>"	"text"
 "<New Button>"	"<Nov gumb>"	"text"
 "<New Column>"	"<Novi stolpec>"	"text"

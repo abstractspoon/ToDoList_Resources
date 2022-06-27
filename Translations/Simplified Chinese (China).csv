@@ -2,7 +2,7 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"<Multiple (%d) tasks selected>"	""	"text"
+"<Multiple (%d) tasks selected>"	"选择了多个(%d)任务"	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

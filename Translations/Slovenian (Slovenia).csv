@@ -1,19 +1,18 @@
 ﻿TRANSTEXT 8.1.2
 PRIMARY_LANGID 36
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"2 weeks"	""	"combobox"
-"4 Weeks"	""	"combobox"
-"Display future occurrences of recurring tasks"	""	"checkbox"
-"Display watermark image (applies to all html comments)"	""	"checkbox"
-"Go To Task Dependency"	""	"menu"
-"Go To Today"	""	"button"
-"Hide collapsed tasks"	""	"text"
-"Hide empty columns"	""	"combobox"
-"Hide subtasks"	""	"combobox"
-"Previous Match"	""	"tooltip"
-"Show dependencies"	""	"combobox"
 TRANSLATED
+"2 weeks"	"2 tedna"	"combobox"
+"4 Weeks"	"4 tedne"	"combobox"
+"Display future occurrences of recurring tasks"	"Prikaži prihodnje pojavitve ponavljajočih se opravil"	"checkbox"
+"Display watermark image (applies to all html comments)"	"Prikaži slike vodnega žiga (velja za vse komentarje html)"	"checkbox"
+"Go To Task Dependency"	"Pojdi na Odvisnost opravil"	"menu"
+"Go To Today"	"Pojdi na Danes"	"button"
+"Hide collapsed tasks"	"Skrij strnjena opravila"	"text"
+"Hide empty columns"	"Skrij prazne stolpce"	"combobox"
+"Hide subtasks"	"Skrij podopravila"	"combobox"
+"Previous Match"	"Prejšnje ujemanje"	"tooltip"
+"Show dependencies"	Prikaži odvisnosti""	"combobox"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(POZOR: Eno ali več teh opravil ima podopravila, ki bodo tudi izbrisana)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(POZOR: To opravilo ima podopravila, ki bodo tudi izbrisana)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nAli želite na silo preveriti seznam opravil?\n\nOpomba: vsi neshranjeni podatki iz '%s' bodo izgubljeni!"	"text"

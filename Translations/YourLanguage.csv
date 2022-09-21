@@ -1454,6 +1454,7 @@ NEED_TRANSLATION
 "Plain Text (.txt)|Text Files (*.txt)|*.txt||"	""	"text"
 "Play"	""	"text"
 "Play this sound"	""	"label"
+"Please ensure that the following files are not open in another application"	""	"text"
 "Please wait"	""	"text"
 "Plugins Out of Date"	""	"text"
 "Point size"	""	"label"

@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 8.1.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Please ensure that the following files are not open in another application"	""	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1439,6 +1437,7 @@ TRANSLATED
 "Plain Text (.txt)|Text Files (*.txt)|*.txt||"	"Nur Text (.txt)|Textdateien (*.txt)|*.txt||"	"text"
 "Play"	"Abspielen"	"text"
 "Play this sound"	"Spiele diesen Klang"	"label"
+"Please ensure that the following files are not open in another application"	"Bitte stellen sie sicher, dass die folgenden Dateien nicht in anderen Applikationen geöffnet sind"	"text"
 "Please wait"	"Bitte warten"	"text"
 "Plugins Out of Date"	"Plugins nicht mehr aktuell"	"text"
 "Point size"	"Schriftgrad"	"label"

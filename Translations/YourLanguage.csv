@@ -784,6 +784,7 @@ NEED_TRANSLATION
 "Edit Html"	""	"text"
 "Edit Label"	""	"button"
 "Edit Task Dependency"	""	"dialog"
+"Edit Task Dependency..."	""	"menu"
 "Edit Task Log File"	""	"menu"
 "Edit Task Recurrence..."	""	"menu"
 "Edit Task Title"	""	"menu"

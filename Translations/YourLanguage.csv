@@ -355,6 +355,7 @@ NEED_TRANSLATION
 "Apply"	""	"button"
 "Apply as Filter"	""	"button"
 "Apply changes to"	""	"groupbox"
+"Apply offset from 'Today'"	""	"checkbox"
 "archive"	""	"text"
 "Archive completed tasks"	""	"checkbox"
 "Archive Completed Tasks"	""	"menu"

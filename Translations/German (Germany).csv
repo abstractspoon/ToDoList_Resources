@@ -1439,7 +1439,7 @@ TRANSLATED
 "Plain Text (.txt)|Text Files (*.txt)|*.txt||"	"Nur Text (.txt)|Textdateien (*.txt)|*.txt||"	"text"
 "Play"	"Abspielen"	"text"
 "Play this sound"	"Spiele diesen Klang"	"label"
-"Please ensure that the following files are not open in another application"	"Bitte stellen sie sicher, dass die folgenden Dateien nicht in anderen Applikationen geöffnet sind"	"text"
+"Please ensure that the following files are not open in another application"	"Bitte stellen sie sicher, dass die folgenden Dateien nicht in anderen Applikationen geöffnet sind:"	"text"
 "Please wait"	"Bitte warten"	"text"
 "Plugins Out of Date"	"Plugins nicht mehr aktuell"	"text"
 "Point size"	"Schriftgrad"	"label"

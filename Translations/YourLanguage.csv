@@ -981,6 +981,7 @@ NEED_TRANSLATION
 "Group header background colour"	""	"checkbox"
 "H"	""	"menu"
 "Have subtasks inherit the following attributes from their parent when they are created"	""	"checkbox"
+"Having the following tag:"	""	"checkbox"
 "Heading 1"	""	"menu"
 "Heading 2"	""	"menu"
 "Heading 3"	""	"menu"

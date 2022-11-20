@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 8.1.2
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Having the following tag"	""	"checkbox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -975,6 +973,7 @@ TRANSLATED
 "Group header background colour"	"Hintergrundfarbe für Gruppentitel"	"checkbox"
 "H"	"S"	"menu"
 "Have subtasks inherit the following attributes from their parent when they are created"	"Teilaufgaben erhalten beim Erstellen folgende Attribute ihrer Hauptaufgabe"	"checkbox"
+"Having the following tag"	"Mit dem folgenden Tag"	"checkbox"
 "Heading 1"	"Überschrift 1"	"menu"
 "Heading 2"	"Überschrift 2"	"menu"
 "Heading 3"	"Überschrift 3"	"menu"

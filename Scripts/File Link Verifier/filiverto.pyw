@@ -155,7 +155,7 @@ def main() -> int:
             message="Please provide \n* no argument or \n* the file name of the \
             ToDoList as the only argument.",
         )
-        exit(1)
+        return 1
     elif len(args) == 1:
         file_path = args[0]
     else:
@@ -171,7 +171,7 @@ def main() -> int:
                 title="File not found",
                 message="The file \n" + file_path + "\ncould not be found.",
             )
-        exit(1)
+        return 2
 
     # Set working directory to make sure that relative file links
     # will be evaluated correctly.
@@ -196,7 +196,7 @@ def main() -> int:
             + f" link{'s'[:num_links^1]} checked.\n"
             + "Congratulations! There are no dangling file references.",
         )
-        exit(0)
+        return 0
 
     if len(missing_files) > 1:
         msg_text = " defective file links were found."
@@ -212,7 +212,7 @@ def main() -> int:
         + msg_text,
     )
 
-    exit(0)
+    return 0
 
 
 if __name__ == "__main__":

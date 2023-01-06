@@ -152,8 +152,8 @@ def main() -> int:
     if len(args) > 1:
         messagebox.showinfo(
             title="Too many arguments",
-            message="Please provide \n* no argument or \n* the file name of the \
-            ToDoList as the only argument.",
+            message="Please provide \n* no argument or \n* "
+            + "the file name of the ToDoList as the only argument.",
         )
         return 1
     elif len(args) == 1:

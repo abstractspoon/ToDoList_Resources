@@ -215,7 +215,7 @@ def main() -> int:
         # An error occurred
         if len(os.path.dirname(report_path)) > 30:
             report_path = "...\\" + os.path.basename(report_path)
-            message_icon = "error"
+        message_icon = "error"
         msg_text = (
             f"The report file {report_path} cannot be written. "
             + "It already exists and is in use by another application.\n\n"

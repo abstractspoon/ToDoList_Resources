@@ -56,7 +56,7 @@ def check_and_add(id, full_link, missing_files):
     return
 
 
-def process_FILEREFPATH(xml_tree):
+def process_FILEREFPATH(xml_tree) -> tuple[list, int]:
     """Gather and check links from the FILEREFPATH element."""
     missing_files = []
     filerefpaths = xml_tree.xpath("//FILEREFPATH")
@@ -67,7 +67,7 @@ def process_FILEREFPATH(xml_tree):
     return missing_files, len(filerefpaths)
 
 
-def process_COMMENTS(xml_tree):
+def process_COMMENTS(xml_tree) -> tuple[list, int]:
     """Gather and check links from the COMMENTS element."""
     missing_files = []
     checked_links = 0
@@ -108,14 +108,20 @@ def process_COMMENTS(xml_tree):
     return missing_files, checked_links
 
 
-def save_csv_report(file_path, missing_files):
+def save_csv_report(report_path, missing_files) -> int:
     """Save the missing files report as "<<ToDoList name>>_missing_files.csv"."""
 
-    report_file = file_path.rstrip(".tdl") + "_missing_files.csv"
+    # Make sure that the file is writable
+    if os.path.exists(report_path):
+        try:
+            os.rename(report_path, report_path)
+        except OSError as e:
+            return 1
+
     # newline='' is necessary to prevent Excel from showing empty lines.
     # utf-8-sig needs to be chosen as encoding because Excel expects a BOM,
     # otherwise umlauts are not properly displayed.
-    with open(report_file, "w", newline="", encoding="utf-8-sig") as csvfile:
+    with open(report_path, "w", newline="", encoding="utf-8-sig") as csvfile:
         csvwriter = csv.writer(
             csvfile, delimiter=",", quotechar="|", quoting=csv.QUOTE_MINIMAL
         )
@@ -125,6 +131,7 @@ def save_csv_report(file_path, missing_files):
 
         for entry in missing_files:
             csvwriter.writerow([entry["id"], entry["file"]])
+    return 0
 
 
 def main() -> int:
@@ -152,34 +159,34 @@ def main() -> int:
     if len(args) > 1:
         messagebox.showinfo(
             title="Too many arguments",
-            message="Please provide \n* no argument or \n* the file name of the \
-            ToDoList as the only argument.",
+            message="Please provide \n* no argument or \n* "
+            + "the file name of the ToDoList as the only argument.",
         )
-        exit(1)
+        return 1
     elif len(args) == 1:
-        file_path = args[0]
+        tdl_path = args[0]
     else:
-        file_path = filedialog.askopenfilename(
+        tdl_path = filedialog.askopenfilename(
             initialdir=".",
-            title="Choose ToDoList for verifying file links",
+            title="For verifiying file links, choose a task list",
             filetypes=[("Abstractspoon ToDoList", ".tdl")],
         )
 
-    if os.path.isfile(file_path) == False:
+    if os.path.isfile(tdl_path) == False:
         if len(args) == 1:
             messagebox.showinfo(
                 title="File not found",
-                message="The file \n" + file_path + "\ncould not be found.",
+                message="The file \n" + tdl_path + "\ncould not be found.",
             )
-        exit(1)
+        return 2
 
     # Set working directory to make sure that relative file links
     # will be evaluated correctly.
-    if os.path.dirname(file_path):
-        os.chdir(os.path.dirname(file_path))
+    if os.path.dirname(tdl_path):
+        os.chdir(os.path.dirname(tdl_path))
 
     xml_parser = etree.XMLParser(remove_blank_text=True)
-    xml_tree = etree.parse(file_path, xml_parser)
+    xml_tree = etree.parse(tdl_path, xml_parser)
 
     # Gather all dangling file references and their task IDs.
     missing_files = []
@@ -196,23 +203,37 @@ def main() -> int:
             + f" link{'s'[:num_links^1]} checked.\n"
             + "Congratulations! There are no dangling file references.",
         )
-        exit(0)
+        return 0
 
-    if len(missing_files) > 1:
-        msg_text = " defective file links were found."
+    # Save the report file and deal with potential errors
+    report_path = tdl_path.rstrip(".tdl") + "_missing_files.csv"
+    if save_csv_report(report_path, missing_files) == 0:
+        # It's all good
+        message_icon = "info"
+        msg_text = ""
     else:
-        msg_text = " defective file link was found."
+        # An error occurred
+        if len(os.path.dirname(report_path)) > 30:
+            report_path = "...\\" + os.path.basename(report_path)
+        message_icon = "error"
+        msg_text = (
+            f"The report file {report_path} cannot be written. "
+            + "It already exists and is in use by another application.\n\n"
+        )
 
-    save_csv_report(file_path, missing_files)
+    msg_text += f"{str(num_links)} links checked.\n"
+    if len(missing_files) > 1:
+        msg_text += f"{str(len(missing_files))} defective file links were found."
+    else:
+        msg_text = "1 defective file link was found."
+
     messagebox.showinfo(
         title="Process completed",
-        message=str(num_links)
-        + " links checked.\n"
-        + str(len(missing_files))
-        + msg_text,
+        message=msg_text,
+        icon=message_icon,
     )
 
-    exit(0)
+    return 0
 
 
 if __name__ == "__main__":

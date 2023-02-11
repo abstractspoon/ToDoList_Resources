@@ -206,7 +206,7 @@ def main() -> int:
         return 0
 
     # Save the report file and deal with potential errors
-    report_path = tdl_path.rstrip(".tdl") + "_missing_files.csv"
+    report_path = tdl_path.rstrip("tdl").rstrip(".") + "_missing_files.csv"
     if save_csv_report(report_path, missing_files) == 0:
         # It's all good
         message_icon = "info"

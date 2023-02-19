@@ -1883,7 +1883,7 @@ NEED_TRANSLATION
 "Task Path"	""	"menu"
 "Task Reminders"	""	"dialog"
 "Task Reminders (%d)"	""	"dialog"
-"Task Selection"	""	"label"
+"Task/Attribute Selection"	""	"label"
 "Task Title"	""	"menu"
 "Task title"	""	"label"
 "Task Tree"	""	"menu"

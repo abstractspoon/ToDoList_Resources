@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 8.1.16
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Task/Attribute Selection"	""	"label"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1833,6 +1831,7 @@ TRANSLATED
   "Tags"	"Tags"	"menu"
 "Take a task's '% Complete' into account when calculating time estimates"	"Berücksichtige '% erledigt' einer Aufgabe bei der Zeitschätzung"	"checkbox"
 "Target"	"Ziel"	"label"
+"Task/Attribute Selection"	"Aufgaben-/Attributauswahl"	"label"
 "Task"	"Aufgabe"	"sysheader32"
   "Task"	"Aufgabe"	"label"
 "Task Attribute Visibility"	"Standard-Attribute anzeigen"	"dialog"

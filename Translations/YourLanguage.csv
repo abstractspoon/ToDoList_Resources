@@ -1827,6 +1827,7 @@ NEED_TRANSLATION
 "Steps"	""	"groupbox"
 "Stickies|Stickies*.exe||"	""	"text"
 "Stop Tracking"	""	"text"
+"Straight line connections"	""	"combobox"
 "Strike-through completed tasks"	""	"checkbox"
 "Strikethrough"	""	"menu"
   "Strikethrough"	""	"tooltip"

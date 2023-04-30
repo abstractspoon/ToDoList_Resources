@@ -1,14 +1,13 @@
 ﻿TRANSTEXT 8.1.16
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"(Weeks {0}-{1})"	""	"label"
-"1st attribute"	""	"label"
-"2nd attribute"	""	"label"
-"Operation"	""	"label"
-"Result type"	""	"label"
-"Straight line connections"	""	"combobox"
 TRANSLATED
+"(Weeks {0}-{1})"	"(Wochen {0}-{1})"	"label"
+"1st attribute"	"1. Attribut"	"label"
+"2nd attribute"	"2. Attribut"	"label"
+"Operation"	"Ablauf"	"label"
+"Result type"	"Ergebnistyp"	"label"
+"Straight line connections"	"Gerade Linienverbindungen"	"combobox"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"

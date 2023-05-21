@@ -1,9 +1,6 @@
 ﻿TRANSTEXT 8.1.16
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Any version can match"	""	"combobox"
-"Show close buttons on tabs"	""	"checkbox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -353,12 +350,13 @@ TRANSLATED
 "And/Or"	"Und/Oder"	"sysheader32"
 "Anonymise Tasklist"	"Aufgabenliste anonymisieren"	"menu"
 "Anonymous Login"	"Anonymer Login"	"checkbox"
-"Any category can match"	"Irgendeine Kategorie kann zutreffen"	"combobox"
-"Any person can match"	"Irgendeine Person kann zutreffen"	"combobox"
+"Any category can match"	"Jede Kategorie kann zutreffen"	"combobox"
+"Any person can match"	"Jedee Person kann zutreffen"	"combobox"
 "Any status can match"	"Jeder Status kann entsprechen"	"combobox"
-"Any tag can match"	"Irgendein Tag kann zutreffen"	"combobox"
+"Any tag can match"	"Jeder Tag kann zutreffen"	"combobox"
 "Any text field"	"Irgendein Textfeld"	"text"
 "Any text field (eg. Allocated To, External ID, etc)"	"Jedes Textfeld (z.B. 'Zugewiesen an', 'Externe ID' usw.)"	"radiobutton"
+"Any version can match"	"Jede Version kann zutreffen"	"combobox"
 "Append the following text when pasting the 'Date/Time'"	"Folgenden Text anhängen, wenn 'Datum/Uhrzeit' eingefügt werden"	"checkbox"
 "Append the user's 'Created By' name when pasting the 'Date/Time'"	"'Erstellt von' des Anwenders anhängen, wenn 'Datum/Uhrzeit' eingefügt werden"	"checkbox"
 "Application"	"Anwendung"	"label"
@@ -1710,6 +1708,7 @@ TRANSLATED
 "Show all subtasks"	"Zeige alle Teilaufgaben"	"text"
 "Show attribute columns to the right of the task tree"	"Zeige Spalten rechts von der Baumansicht"	"checkbox"
 "Show checkbox beside task title when completion column is hidden"	"Checkbox neben Aufgabentitel anzeigen, wenn Erledigt-Spalte ausgeblendet ist"	"checkbox"
+"Show close buttons on tabs"	"'Schliessen-Button' auf den Tabs anzeigen"	"checkbox"
 "Show comments as simple text"	"Kommentare als einfachen Text anzeigen"	"checkbox"
 "Show comments even when task view is maximised"	"Kommentare auch bei Vollbild anzeigen"	"checkbox"
 "Show default filters in 'Filter Bar'"	"Zeige Vorgabefilter"	"checkbox"

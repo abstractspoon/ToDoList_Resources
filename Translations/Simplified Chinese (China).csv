@@ -2,17 +2,17 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
-"Add"	""	"combobox"
-"Calculation"	""	"text"
-"Divide"	""	"combobox"
-"Graph Preferences"	""	"tooltip"
-"Multiply"	""	"combobox"
-"New External Tool"	""	"tooltip"
-"New ToDoList Tool"	""	"tooltip"
-"Operation"	""	"label"
-"Show full date in each cell"	""	"checkbox"
-"Show the 'Week Number' on the first day of the week"	""	"checkbox"
-"Subtract"	""	"combobox"
+"Add"	"加"	"combobox"
+"Calculation"	"运算"	"text"
+"Divide"	"除"	"combobox"
+"Graph Preferences"	"图形首选项"	"tooltip"
+"Multiply"	"乘"	"combobox"
+"New External Tool"	"新建外部工具"	"tooltip"
+"New ToDoList Tool"	"新建ToDoList工具"	"tooltip"
+"Operation"	"操作"	"label"
+"Show full date in each cell"	"在每个单元格中显示完整日期"	"checkbox"
+"Show the 'Week Number' on the first day of the week"	"在一周的第一天显示周数"	"checkbox"
+"Subtract"	"减"	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"

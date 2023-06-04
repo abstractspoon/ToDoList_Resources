@@ -983,7 +983,7 @@ NEED_TRANSLATION
 "Gradient"	""	"radiobutton"
 "Graphs"	""	"systabcontrol32"
 "Graph colours"	""	"label"
-"Graph Preferences"	""	"tooltip"
+"Graphs Preferences"	""	"tooltip"
 "Group by"	""	"checkbox"
   "Group by"	""	"label"
 "Group header background colour"	""	"checkbox"

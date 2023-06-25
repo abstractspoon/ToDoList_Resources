@@ -1,18 +1,17 @@
 ﻿TRANSTEXT 8.1.16
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Add"	""	"combobox"
-"Calculation"	""	"text"
-"Divide"	""	"combobox"
-"Graphs Preferences"	""	"tooltip"
-"Multiply"	""	"combobox"
-"New External Tool"	""	"tooltip"
-"New ToDoList Tool"	""	"tooltip"
-"Show full date in each cell"	""	"checkbox"
-"Show the 'Week Number' on the first day of the week"	""	"checkbox"
-"Subtract"	""	"combobox"
 TRANSLATED
+"Add"	"Addieren"	"combobox"
+"Calculation"	"Berechnung"	"text"
+"Divide"	"Dividieren"	"combobox"
+"Graphs Preferences"	"Diagrammeinstellungen"	"tooltip"
+"Multiply"	"Multiplizieren"	"combobox"
+"New External Tool"	"Neues externes Werkzeug"	"tooltip"
+"New ToDoList Tool"	"Neues ToDoList Werkzeug"	"tooltip"
+"Show full date in each cell"	"Vollständiges Datum in jeder Zelle anzeigen"	"checkbox"
+"Show the 'Week Number' on the first day of the week"	"'Wochennummer' bei jedem ersten Wochentag anzeigen"	"checkbox"
+"Subtract"	"Subtrahieren"	"combobox"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"

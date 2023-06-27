@@ -2241,6 +2241,7 @@ NEED_TRANSLATION
 "Web Page (.html)|Web Pages (*.html, *.htm)|*.html;*.htm||"	""	"text"
 "Week Planner"	""	"systabcontrol32"
 "Week Planner Preferences"	""	"dialog"
+"weekday"	""	"combobox"
 "weekdays"	""	"label"
 "Weekdays"	""	"combobox"
   "Weekdays"	""	"menu"

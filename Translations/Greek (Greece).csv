@@ -36,6 +36,7 @@ NEED_TRANSLATION
 "Subtract"	""	"combobox"
 "Toggle All Tasks Expanded State"	""	"menu"
 "Use 'No' colour"	""	"radiobutton"
+"weekday"	""	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ΠΡΟΣΟΧΗ: Μία ή περισσότερες από αυτές τις εργασίες έχουν υποεργασίες που επίσης θα διαγραφούν)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"text"

@@ -1,5 +1,5 @@
 ﻿TRANSTEXT 8.1.16
-PRIMARY_LANGID 0
+PRIMARY_LANGID 8
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "-bid <task id>\tSpecifies the sibling task below which to create the new task"	""	"text"

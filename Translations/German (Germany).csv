@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 8.1.16
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"weekday"	""	"combobox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -22,7 +20,7 @@ TRANSLATED
 "%s (Custom, Relative)"	"%s (Benutzerdefiniert, Relativ)"	"text"
 "%s (Delay loaded)"	"%s (wird verzögert geladen)"	"text"
 "%s - %d tasks"	"%s - %d Aufgaben"	"text"
-"%s weekdays"	"%s Wochentage"	"text"
+"%s weekdays"	"%s Werktage"	"text"
 "'%s' already exists.\nDo you want to replace it?"	"'%s' ist bereits vorhanden.\nMöchten sie die Datei ersetzen?"	"text"
 "'%s' contained no tasks which could be imported."	"'%s' enthielt keine Aufgaben, die importiert werden konnten."	"text"
 "'%s' could not be checked out \nbecause it is currently checked out to '%s' (Last saved: %s)."	"'%s' konnte nicht ausgecheckt werden;\nes ist bereits ausgecheckt von '%s' (Zuletzt gespeichert: %s)."	"text"
@@ -634,7 +632,7 @@ TRANSLATED
 "Current Folder"	"Aktuelles  Verzeichnis"	"label"
 "Current folder"	"Aktueller Ordner"	"label"
 "Current Period (%s)"	"Aktuelle Periode (%s)"	"text"
-"Current Period: %d weekdays"	"Aktuelle Periode: %d Wochentage"	"label"
+"Current Period: %d weekdays"	"Aktuelle Periode: %d Werktage"	"label"
 "Current Period: %s"	"Aktuelle Periode: %s"	"text"
 "Current shortcut key"	"Aktuelles Tastaturkürzel:"	"label"
 "Currently assigned to:\n\n'%s'"	"Derzeit zugewiesen an:\n\n'%s'"	"text"
@@ -1370,7 +1368,7 @@ TRANSLATED
 "One or more tasks could not be imported successfully."	"Ein oder mehrere Aufgaben konnten nicht erfolgreich importiert werden."	"text"
 "One Week"	"eine Woche"	"menu"
 "One week equals"	"Eine Woche entspricht"	"label"
-"One Weekday"	"einen Arbeitstag"	"menu"
+"One Weekday"	"einen Werktag"	"menu"
 "One Year"	"ein Jahr"	"menu"
 "Online Documentation"	"ToDoList &Hilfe"	"menu"
 "Online Help"	"Onlinehilfe"	"menu"
@@ -2215,9 +2213,10 @@ TRANSLATED
 "Web Page (.html)|Web Pages (*.html, *.htm)|*.html;*.htm||"	"Webseite (.html)|Webseiten (*.html, *.htm)|*.html;*.htm||"	"text"
 "Week Planner"	"Wochenplaner"	"systabcontrol32"
 "Week Planner Preferences"	"Einstellungen für Wochenplaner"	"dialog"
-"weekdays"	"Wochentage"	"label"
-"Weekdays"	"Wochentage"	"combobox"
-  "Weekdays"	"Wochentage"	"menu"
+"weekday"	"Werktag"	"combobox"
+"weekdays"	"Werktage"	"label"
+"Weekdays"	"Werktage"	"combobox"
+  "Weekdays"	"Werktage"	"menu"
 "Weekly"	"Wöchentlich"	"radiobutton"
 "weeks"	"Wochen"	"label"
 "Weeks"	"Wochen"	"menu"

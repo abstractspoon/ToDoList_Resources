@@ -114,7 +114,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Una o más de estas tareas tiene subtareas que también serán eliminadas)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ATENCIÓN: Esta tarea tiene subtareas que también serán eliminadas)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\n¿Deseas forzar la salida de la lista de tareas?\n\nNota: ¡Cualquier dato que no haya sido grabado de '%s' se perderá!"	"text"
-"\nWould you like to update to this version?"	"\n¿Quieres actualizar a esta versión?"	"text"
+"Would you like to update to this version?"	"¿Quieres actualizar a esta versión?"	"text"
 "% Complete"	"% Finalizado"	"label"
 "% of page"	"% de página"	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f Kb descargado hasta ahora (%0.1f Kb pendiente)"	"text"

@@ -5,7 +5,7 @@ NEED_TRANSLATION
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	""	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	""	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
-"\nWould you like to update to this version?"	""	"text"
+"Would you like to update to this version?"	""	"text"
 "% of page"	""	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"
 "%d more tasks"	""	"tooltip"

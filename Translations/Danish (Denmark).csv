@@ -78,7 +78,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"(OBS: En eller flere af disse opgaver har underopgaver, som også slettes)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"(OBS: Denne opgave har underopgaver som også slettes)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nØnsker du tvungen udcheckning af opgavelisten?\n\nBemærk: Alle ikke gemte data fra '%s' mistes!"	"text"
-"\nWould you like to update to this version?"	"\nØnsker du at opdatere til denne version?"	"text"
+"Would you like to update to this version?"	"Ønsker du at opdatere til denne version?"	"text"
 "% Complete"	"% Færdig"	"label"
 "% of page"	"% af side"	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f kB er hentet (%0.1f kB mangler)"	"text"

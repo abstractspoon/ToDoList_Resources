@@ -624,7 +624,7 @@ NEED_TRANSLATION
 "{0} Day View"	""	"tooltip"
 "{0} minutes"	""	"text"
 TRANSLATED
-"\nWould you like to update to this version?"	"\nהאם תרצה לעדכן גרסה זו"	"text"
+"Would you like to update to this version?"	"האם תרצה לעדכן גרסה זו"	"text"
 "% Complete"	"% הושלמו"	"label"
 "%d / %d tasks"	"%d / %d משימות"	"text"
 "%d tasks selected"	"%d"	"text"

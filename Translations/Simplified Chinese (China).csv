@@ -264,7 +264,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(注意：这个带有子任务的任务将被删除)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\n您是否想要强制检出任务列表？\n\n请注意：'%s'中未保存的任何数据将会丢失！"	"text"
-"\nWould you like to update to this version?"	"\n你想要更新到这个版本吗?"	"text"
+"Would you like to update to this version?"	"你想要更新到这个版本吗?"	"text"
 "A connection to '%s' could not be established.\n\nWould you like to check your details and try again?"	"到%s的连接无法建立.\n\n你想检查细节并再次尝试?"	"text"
 "a screensaver is running or the desktop is locked"	"一个屏保程序正在运行或桌面已经锁定"	"checkbox"
 "A simple and effective way to keep on top of your daily tasks"	"简单、高效地管理日常任务"	"label"

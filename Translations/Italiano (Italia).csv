@@ -187,7 +187,7 @@ NEED_TRANSLATION
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ATTENZIONE: uno o più di questi compiti ha sotto-compiti: verranno eliminati anch'essi)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ATTENZIONE: questo compito ha dei sotto-compiti: verranno eliminati anch'essi)"	"text"
-"\nWould you like to update to this version?"	"\nAggiornare a questa versione?"	"text"
+"Would you like to update to this version?"	"Aggiornare a questa versione?"	"text"
 "% Complete"	"% completo"	"label"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f Kb scaricati sinora (%0.1f Kb rimanenti)"	"text"
 "%d / %d tasks"	"%d / %d compiti"	"text"

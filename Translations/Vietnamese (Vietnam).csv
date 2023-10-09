@@ -32,7 +32,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(LƯU Ý: Một hoặc nhiều trong số các nhiệm vụ này có các nhiệm vụ phụ cũng sẽ bị xóa)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(LƯU Ý: Nhiệm vụ này có các nhiệm vụ phụ cũng sẽ bị xóa)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nBạn có muốn bắt buộc kiểm tra danh sách nhiệm vụ không? \n\nLưu ý: Mọi dữ liệu chưa được lưu từ '%s' sẽ bị mất!"	"text"
-"\nWould you like to update to this version?"	"\nBạn có muốn cập nhật lên phiên bản này không?"	"text"
+"Would you like to update to this version?"	"Bạn có muốn cập nhật lên phiên bản này không?"	"text"
 "% Complete"	"% Hoàn thành"	"label"
 "% of page"	"% trang"	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"Đã tải xuống%0.1f Kb cho đến nay (%0.1f Kb Kb còn lại)"	"text"

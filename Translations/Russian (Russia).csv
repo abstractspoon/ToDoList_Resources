@@ -185,7 +185,7 @@ NEED_TRANSLATION
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Одна или более задач имеют подзадачи, которые тоже будут удалены)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Эта задача имеет подзадачи, которые тоже будут удалены)"	"text"
-"\nWould you like to update to this version?"	"\nОбновить до этой версии?"	"text"
+"Would you like to update to this version?"	"Обновить до этой версии?"	"text"
 "% Complete"	"Завершено %"	"label"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f Кб загружено (осталось %0.1f Кб)"	"text"
 "%d / %d tasks"	"%d / %d задач"	"text"

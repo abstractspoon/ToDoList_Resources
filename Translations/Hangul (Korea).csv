@@ -187,7 +187,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(주의: 한 개 또는 그 이상의 작업이 하위 작업을 가지고 있으며 모두 함께 삭제됩니다.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(주의: 이 작업은 하위 작업을 가지고 있으며 모두 함께 삭제됩니다.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\n강제로 작업 목록에서 Checkout 하시겠습니까?\n\n주의: '%s' 상 저장 되지 않은 데이터를 잃습니다."	"text"
-"\nWould you like to update to this version?"	"\n이 버전으로 업데이트 하시겠습니까?"	"text"
+"Would you like to update to this version?"	"이 버전으로 업데이트 하시겠습니까?"	"text"
 "% Complete"	"% 완료"	"label"
 "% of page"	"% 페이지"	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f Kb 현재까지 다운로드됨 (%0.1f Kb 남음)"	"text"

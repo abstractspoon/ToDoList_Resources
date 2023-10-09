@@ -28,7 +28,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(UWAGA: co najmniej jedno z tych zadań ma podzadania, które również zostaną usunięte)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(UWAGA: To zadanie ma podzadania, które również zostaną usunięte)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nCzy chcesz wymusić wyewidencjonowanie listy zadań?\n\nUwaga: Wszelkie niezapisane dane z '%s' zostaną utracone!"	"text"
-"\nWould you like to update to this version?"	"\nCzy chcesz zaktualizować do tej wersji?"	"text"
+"Would you like to update to this version?"	"Czy chcesz zaktualizować do tej wersji?"	"text"
 "% Complete"	"% kompletny"	"label"
 "% of page"	"% strony"	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"Pobrano do tej pory %0.1f KB (pozostało %0.1f KB)"	"text"

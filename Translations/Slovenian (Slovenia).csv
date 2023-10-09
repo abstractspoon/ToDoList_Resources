@@ -27,7 +27,7 @@ TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(POZOR: Eno ali več teh opravil ima podopravila, ki bodo tudi izbrisana)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(POZOR: To opravilo ima podopravila, ki bodo tudi izbrisana)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nAli želite na silo preveriti seznam opravil?\n\nOpomba: vsi neshranjeni podatki iz '%s' bodo izgubljeni!"	"text"
-"\nWould you like to update to this version?"	"\nAli želite posodobiti na to različico?"	"text"
+"Would you like to update to this version?"	"Ali želite posodobiti na to različico?"	"text"
 "% Complete"	"% končano"	"label"
 "% of page"	"% stran"	"combobox"
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f Kb preneseno do zdaj (%0.1f Kb preostalo)"	"text"

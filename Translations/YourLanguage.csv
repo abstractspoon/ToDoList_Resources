@@ -1447,6 +1447,7 @@ NEED_TRANSLATION
   "Path"	""	"menu"
 "Path (list view only)"	""	"text"
 "Path to Stickies executable"	""	"label"
+"PDF Tree View Options"	""	"dialog"
 "Percent Complete"	""	"checklistbox"
   "Percent Complete"	""	"combobox"
   "Percent Complete"	""	"menu"

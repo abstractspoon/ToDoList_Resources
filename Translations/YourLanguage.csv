@@ -735,6 +735,7 @@ NEED_TRANSLATION
 "Display future occurrences of recurring tasks"	""	"checkbox"
 "Display in toolbar"	""	"checkbox"
 "Display Language"	""	"label"
+"Display active tasks on 'Today'"	""	"checkbox"
 "Display notifications in HTML"	""	"checkbox"
 "Display only the first line of comments"	""	"checkbox"
 "Display reminders using 'Stickies' (by Zhorn Software)"	""	"checkbox"

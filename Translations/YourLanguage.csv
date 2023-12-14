@@ -1981,6 +1981,7 @@ NEED_TRANSLATION
 "the Minimise button is selected"	""	"combobox"
 "the Minimise or Close button is selected"	""	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	""	"text"
+"The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"
 "The selected file could not be opened.\n\nPlease check that the file exists and that there is an application \nregistered for opening the selected file type."	""	"text"
 "The selected folder contains no items"	""	"text"
 "The selected preference file contains no tools.\n\nWould you like to try an alternative preference file?"	""	"text"

@@ -2250,7 +2250,6 @@ NEED_TRANSLATION
 "Use Microsoft Word for content format conversions"	""	"checkbox"
 "Use no colour"	""	"radiobutton"
 "Use same font for 'Comments'"	""	"checkbox"
-"Use same font for 'Find Task Results'"	""	"checkbox"
 "Use same font for 'Find Tasks Results'"	""	"checkbox"
 "Use same font for 'Task Reminders'"	""	"checkbox"
 "Use same font for comments field also"	""	"checkbox"

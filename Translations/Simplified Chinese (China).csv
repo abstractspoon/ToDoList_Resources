@@ -2,15 +2,19 @@
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"-mp\tUses the password of the first decrypted tasklist as a master password for decrypting subsequent tasklists. Requires password prompting to be turned off (-x)"	""	"text"
+"<New Dependency>"	""	"text"
 "Apply font to all content"	""	"radiobutton"
 "Background colour"	""	"checkbox"
 "Display an image behind content pages"	""	"checkbox"
 "File not found (%s)"	""	"tooltip"
 "Font Options"	""	"label"
 "Installed font"	""	"radiobutton"
+"Lead In (Days)"	""	"sysheader32"
 "Only apply font to unformatted content"	""	"radiobutton"
 "Other font"	""	"radiobutton"
 "PDF Tree View"	""	"combobox"
+"Specific"	""	"radiobutton"
 "Watermark"	""	"label"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"

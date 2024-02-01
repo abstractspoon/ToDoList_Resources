@@ -1477,7 +1477,7 @@ TRANSLATED
 "No, thanks"	"Ne, hvala"	"radiobutton"
 "Normal"	"Običajno"	"menu"
 "Not a list"	"Ni seznam"	"text"
-"Not Yet Loaded (%s)"	"Ni še naloženo (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Ni še naloženo (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Opomba: uporaba INI datoteke je odlična za prenosne in skupne nastavitve"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Opomba: to izbiro lahko kasneje spremenite z uporabo 'Orodja > Nastavitve'"	"label"
 "Notification"	"Obvestilo"	"text"

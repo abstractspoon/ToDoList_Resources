@@ -1377,7 +1377,7 @@ NEED_TRANSLATION
 "None"	""	"combobox"
 "Normal"	""	"menu"
 "Not a list"	""	"text"
-"Not Yet Loaded (%s)"	""	"tooltip"
+"Not yet loaded (%s)"	""	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	""	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	""	"label"
 "Notification"	""	"text"

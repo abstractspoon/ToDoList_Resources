@@ -1682,7 +1682,7 @@ TRANSLATED
 "No, let me see all available options"	"הראו לי את כל האפשרויות"	"radiobutton"
 "No, thanks"	"לא"	"radiobutton"
 "Not a list"	"איננה רשימה"	"text"
-"Not Yet Loaded (%s)"	"טרם נטען"	"tooltip"
+"Not yet loaded (%s)"	"טרם נטען"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"הערה: שימוש בקובץ ini טוב לניידות ושיתוף העדפות"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"הערה: תוכל לשנות אפשרות זו מאוחר יותר, תחת 'כלים > העדפות'"	"label"
 "Notify me if the tasklist is read-only"	"הודע לי אם רשימת משימה היא לקריאה בלבד"	"checkbox"

@@ -1382,7 +1382,7 @@ TRANSLATED
 "No, thanks"	"Ні, дякую"	"radiobutton"
 "Normal"	"Звичайний"	"menu"
 "Not a list"	"Не список"	"text"
-"Not Yet Loaded (%s)"	"Ще не завантажено (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Ще не завантажено (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Примітка: Використання файлу ini чудово підходить для перенесення та налаштувань спільного доступу"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Примітка: Ви можете змінити цей вибір пізніше, використовуючи «Інструменти > Налаштування»"	"label"
 "Notification"	"Сповіщення"	"text"

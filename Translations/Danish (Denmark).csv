@@ -1384,7 +1384,7 @@ TRANSLATED
 "No, thanks"	"Nej tak"	"radiobutton"
 "Normal"	"Normal"	"menu"
 "Not a list"	"Ikke en liste"	"text"
-"Not Yet Loaded (%s)"	"Endnu ikke hentet (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Endnu ikke hentet (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Bemærk: En ini-fil er god for flytbarhed og indstillinger til deling"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Bemærk: Du kan ændre dit valg senere i 'Værktøjer > Indstillinger'"	"label"
 "Notification"	"Påmindelse"	"text"

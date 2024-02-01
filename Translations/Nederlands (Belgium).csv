@@ -1637,7 +1637,7 @@ TRANSLATED
 "No, let me see all available options"	"Nee, laat me alle mogelijke opties zien"	"radiobutton"
 "No, thanks"	"Nee, bedankt"	"radiobutton"
 "Not a list"	"Geen lijst"	"text"
-"Not Yet Loaded (%s)"	"Nog niet geladen (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Nog niet geladen (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Opmerking: Het gebruik van een ini bestand is uitstekend voor de draagbaarheid en het delen van voorkeuren"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Opmerking: Je kan deze keuze later wijzigen via Extra > Voorkeuren'"	"label"
 "Notification"	"Kennisgeving"	"text"

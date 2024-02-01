@@ -1530,7 +1530,7 @@ TRANSLATED
 "No, thanks"	"아니요, 괜찮습니다."	"radiobutton"
 "Normal"	"일반"	"menu"
 "Not a list"	"목록 아님"	"text"
-"Not Yet Loaded (%s)"	"아직 불러오기 안됨 (%s)"	"tooltip"
+"Not yet loaded (%s)"	"아직 불러오기 안됨 (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"참고: 휴대성 및 공유 설정이 편리한 Ini 파일 사용을 추천합니다."	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"참고: '도구>설정'에서 다시 설정하실 수 있습니다."	"label"
 "Notification"	"알림"	"text"

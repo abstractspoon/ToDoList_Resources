@@ -734,7 +734,7 @@ NEED_TRANSLATION
 "No tasks were imported."	""	"text"
 "None"	""	"combobox"
 "Normal"	""	"menu"
-"Not Yet Loaded (%s)"	""	"tooltip"
+"Not yet loaded (%s)"	""	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	""	"label"
 "Notification"	""	"text"
 "Number of Allocated Tasks"	""	"text"

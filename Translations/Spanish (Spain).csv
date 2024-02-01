@@ -1488,7 +1488,7 @@ TRANSLATED
 "No, thanks"	"No, gracias"	"radiobutton"
 "Normal"	"Normal"	"menu"
 "Not a list"	"No es una lista"	"text"
-"Not Yet Loaded (%s)"	"Aún no está cargado (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Aún no está cargado (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Nota: El uso de archivo ini es mejor para portabilidad y preferencias compartidas"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Nota: Puedes modificar esta opción más tarde usando Herramientas > Preferencias"	"label"
 "Notification"	"Notificación"	"text"

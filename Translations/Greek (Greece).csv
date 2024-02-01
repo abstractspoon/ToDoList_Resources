@@ -1478,7 +1478,7 @@ TRANSLATED
 "No, thanks"	"Όχι, ευχαριστώ"	"radiobutton"
 "Normal"	"Κανονικό"	"menu"
 "Not a list"	"Δεν είναι λίστα"	"text"
-"Not Yet Loaded (%s)"	"Δεν έχει φορτωθεί ακόμα (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Δεν έχει φορτωθεί ακόμα (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Σημείωση: Η χρήση ενός αρχείου ini είναι εξαιρετική για τη φορητότητα και την κοινή χρήση των προτιμήσεων"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Σημείωση: Μπορείτε να τροποποιήσετε αυτή την επιλογή αργότερα χρησιμοποιώντας το 'Εργαλεία > Προτιμήσεις'."	"label"
 "Notification"	"Ειδοποίηση"	"text"

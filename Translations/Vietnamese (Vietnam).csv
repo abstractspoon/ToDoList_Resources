@@ -1480,7 +1480,7 @@ TRANSLATED
 "No, thanks"	"Không, cám ơn"	"radiobutton"
 "Normal"	"Bình thường"	"menu"
 "Not a list"	"Không phải danh sách"	"text"
-"Not Yet Loaded (%s)"	"Chưa được tải (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Chưa được tải (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Lưu ý: Sử dụng tệp ini rất tốt cho tính di động và sở thích chia sẻ"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Lưu ý: Bạn có thể sửa đổi lựa chọn này sau bằng cách sử dụng 'Công cụ> Tùy chọn'"	"label"
 "Notification"	"Thông báo"	"text"

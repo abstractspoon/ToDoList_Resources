@@ -1595,7 +1595,7 @@ TRANSLATED
 "No, thanks"	"Nie ďakujem"	"radiobutton"
 "Normal"	"normálne"	"menu"
 "Not a list"	"Nie je to zoznam"	"text"
-"Not Yet Loaded (%s)"	"Zatiaľ nie je načítaný (%s)"	"tooltip"
+"Not yet loaded (%s)"	"Zatiaľ nie je načítaný (%s)"	"tooltip"
 "Note: Using an ini file is great for portability and sharing preferences"	"Poznámka: Použitie súboru ini je skvelé pre preferencie prenosnosti a zdieľania"	"label"
 "Note: You can modify this choice later using 'Tools > Preferences'"	"Poznámka: Túto možnosť môžete neskôr zmeniť pomocou ponuky Nástroje> Predvoľby."	"label"
 "Notification"	"oznámenia"	"text"

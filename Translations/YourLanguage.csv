@@ -2,6 +2,7 @@
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"True Type Fonts (*.ttf)|*.ttf"	""	"combobox"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	""	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	""	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
@@ -1118,7 +1119,7 @@ NEED_TRANSLATION
 "Ignore Selected Word"	""	"tooltip"
 "Image"	""	"text"
 "Image Button"	""	"menu"
-"Image Files (*.png, *.bmp, *.ico, *.jpg, *.jpeg, *.tiff, *.gif)|*.png;*.bmp;*.ico;*.jpg;*.jpeg;*.tiff;*.gif||"	""	"text"
+"Image Files (*.png, *.bmp, *.ico, *.jpg, *.jpeg, *.tiff, *.gif)|*.png;*.bmp;*.ico;*.jpg;*.jpeg;*.tiff;*.gif||"	""	"combobox"
 "Image of active task view (%s)"	""	"radiobutton"
 "Images..."	""	"tooltip"
 "Import"	""	"button"

@@ -2268,7 +2268,7 @@ TRANSLATED
 "Treat tasks with the following tag as 'Milestones'"	"Behandle Aufgaben mit dem folgenden Tag als 'Meilenstein'"	"checkbox"
 "Treat tasks without a due date as being due 'Today' or on the 'Start' date whichever is later"	"Behandle Aufgaben ohne Fälligkeit mit 'Fällig: Heute' oder 'Fällig = Start' (jeweils das spätere)"	"checkbox"
 "Trend"	"Trend"	"label"
-"True Type Fonts (*.ttf)|*.ttf"	"True Type Fonts (*.ttf)"	"combobox"
+"True Type Fonts (*.ttf)|*.ttf"	"True Type Fonts (*.ttf)|*.ttf"	"combobox"
 "Two (2) Equal Subtasks"	"&2 gleiche Teilaufgaben"	"menu"
 "Two (2) Subtasks"	"2 Teilaufgaben"	"menu"
 "Two or more attributes shared the unique ID '%s'.\n\nYou will need to resolve this before closing the dialog."	"Zwei oder mehr Attribute verwenden die gleiche eindeutige ID '%s'. Sie müssen das Problem lösen bevor sie den Dialog schliessen können."	"text"

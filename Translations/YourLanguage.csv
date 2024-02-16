@@ -2331,6 +2331,7 @@ NEED_TRANSLATION
 "Unmerge Cells"	""	"menu"
 "Unsorted"	""	"menu"
 "Unspecified Levels"	""	"menu"
+"Until"	""	"label"
 "untitled"	""	"text"
 "Untyped"	""	"combobox"
 "Unzipping update..."	""	"text"

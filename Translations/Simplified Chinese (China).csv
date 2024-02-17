@@ -1,6 +1,8 @@
 TRANSTEXT 8.2.999.3
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"ReoGrid XML Format"	""	"combobox"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"
 "% of page"	"% 的页面"	"combobox"
@@ -645,9 +647,9 @@ TRANSLATED
 "Create Tasks from Outlook"	"从Outlook创建任务"	"dialog"
 "Create Time Block"	"创建时间段"	"dialog"
 "Created"	"创建"	"text"
+"Created by"	"创建者"	"label"
 "Created By"	"创建自"	"sysheader32"
   "Created By"	"创建自"	"menu"
-"Created by"	"创建者"	"label"
 "Creation Date"	"创建日期"	"checklistbox"
   "Creation Date"	"创建日期(&R)"	"menu"
 "Creation Time"	"创建时间"	"text"
@@ -1037,8 +1039,8 @@ TRANSLATED
 "Graphs"	"图"	"systabcontrol32"
 "Graphs Preferences"	"图形首选项"	"tooltip"
 "Group"	"分组"	"menu"
-"Group By"	"分组依据"	"label"
 "Group by"	"分组依据"	"checkbox"
+"Group By"	"分组依据"	"label"
 "Group header background colour"	"组标题背景色"	"checkbox"
 "H"	"H"	"menu"
 "Have subtasks inherit the following attributes from their parent when they are created"	"新建子任务时从父任务继承以下属性"	"checkbox"
@@ -1266,8 +1268,8 @@ TRANSLATED
 "Low..."	"低..."	"button"
 "Lowest"	"最低"	"text"
 "Lunch break (added to duration)"	"午餐休息时间（加入持续时间）"	"checkbox"
-"M"	"M"	"menu"
 "m"	"m"	"menu"
+"M"	"M"	"menu"
 "Main Toolbar"	"主工具栏"	"label"
 "Make this list read-only"	"此列表设置为只读"	"checkbox"
 "Make this my automatic choice"	"作为我的自动选择"	"checkbox"
@@ -1303,8 +1305,8 @@ TRANSLATED
 "Minimise ToDoList when [Escape] is pressed"	"当按下[Escape]键盘时，最小化 ToDoList"	"checkbox"
 "Minimum"	"最小"	"combobox"
 "Minimum height of each interval"	"每个间隔的最小高度"	"label"
-"minutes"	"分钟"	"label"
 "Minutes"	"分钟"	"menu"
+"minutes"	"分钟"	"label"
 "Modified Date"	"修改日期"	"checklistbox"
   "Modified Date"	"修改日期(&M)"	"menu"
 "Modify all connections of the same type"	"修改所有相同类型的连接"	"checkbox"

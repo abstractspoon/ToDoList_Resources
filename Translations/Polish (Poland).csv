@@ -832,7 +832,7 @@ TRANSLATED
 "Creation Date"	"Data utworzenia"	"checklistbox"
   "Creation Date"	"Data utworzenia"	"menu"
 "Creation Time"	"Czas utworzenia"	"text"
-"Csv delimiter"	"Ogranicznik csv"	"label"
+"Delimiter"	"Ogranicznik"	"label"
 "Current Folder"	"Bieżący katalog"	"label"
 "Current folder"	"Bieżący katalog"	"label"
 "Current Period (%s)"	"Bieżący okres (%s)"	"text"

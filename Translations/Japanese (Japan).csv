@@ -1618,7 +1618,7 @@ TRANSLATED
   "Created By"	""	"menu"
 "Creation Date"	"作成日"	"checklistbox"
   "Creation Date"	""	"menu"
-"Csv delimiter"	"CSV区切り文字"	"label"
+"Delimiter"	"区切り文字"	"label"
 "Current shortcut key"	"現在のショートカットキー"	"label"
 "Currently focused field"	"フォーカスしている領域"	"text"
 "Cut"	"切り取り"	"menu"

@@ -923,7 +923,7 @@ TRANSLATED
 "Creation Date"	"만든 일자"	"checklistbox"
   "Creation Date"	""	"menu"
 "Creation Time"	"만든 시간"	"text"
-"Csv delimiter"	"Csv 구분 문자"	"label"
+"Delimiter"	"구분 문자"	"label"
 "Current Folder"	"현재 폴더"	"label"
 "Current folder"	"현재 폴더"	"label"
 "Current Period (%s)"	"현재 기간 (%s)"	"text"

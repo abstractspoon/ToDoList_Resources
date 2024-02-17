@@ -835,7 +835,7 @@ TRANSLATED
 "Creation Date"	"Ημερομηνία δημιουργίας"	"checklistbox"
   "Creation Date"	"Ημερομηνία δημιουργίας"	"menu"
 "Creation Time"	"Ώρα δημιουργίας"	"text"
-"Csv delimiter"	"Οριοθέτης Csv"	"label"
+"Delimiter"	"Οριοθέτης"	"label"
 "Current Folder"	"Τρέχων φάκελος"	"label"
 "Current folder"	"Τρέχων φάκελος"	"label"
 "Current Period (%s)"	"Τρέχουσα περίοδος (%s)"	"text"

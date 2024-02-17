@@ -833,7 +833,7 @@ TRANSLATED
 "Creation Date"	"Datum nastanka"	"checklistbox"
   "Creation Date"	"Datum nastanka"	"menu"
 "Creation Time"	"Čas nastanka"	"text"
-"Csv delimiter"	"Ločilo CSV"	"label"
+"Delimiter"	"Ločilo"	"label"
 "Current Folder"	"Trenutna mapa"	"label"
 "Current folder"	"Trenutna mapa"	"label"
 "Current Period (%s)"	"Trenutno obdobje (%s)"	"text"

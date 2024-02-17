@@ -934,7 +934,7 @@ TRANSLATED
 "Creation Date"	"Date de création"	"checklistbox"
   "Creation Date"	"Date de création"	"menu"
 "Creation Time"	"Heure de création"	"text"
-"Csv delimiter"	"Délimiteur de Csv"	"label"
+"Delimiter"	"Délimiteur"	"label"
 "Current folder"	"Dossier actuel"	"label"
 "Current Folder"	"Dossier actuel"	"label"
 "Current shortcut key"	"Raccourci actuel :"	"label"

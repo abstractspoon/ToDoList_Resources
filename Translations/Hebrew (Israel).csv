@@ -1242,7 +1242,7 @@ TRANSLATED
 "Creation Date"	"נוצר בתאריך"	"checklistbox"
   "Creation Date"	"נוצר בתאריך"	"menu"
 "Creation Time"	"נוצר בשעה"	"text"
-"Csv delimiter"	"CSV מפריד"	"label"
+"Delimiter"	"מפריד"	"label"
 "Current folder"	"ספריה נוכחית"	"label"
 "Current Folder"	"ספריה נוכחית"	"label"
 "Current shortcut key"	"קיצור דרך נוכחי"	"label"

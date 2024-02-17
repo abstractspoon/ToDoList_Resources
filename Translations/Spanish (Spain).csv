@@ -876,7 +876,7 @@ TRANSLATED
 "Creation Date"	"Fecha de creación"	"checklistbox"
   "Creation Date"	"Fecha de creación"	"menu"
 "Creation Time"	"Hora de creación"	"text"
-"Csv delimiter"	"Delimitador CSV"	"label"
+"Delimiter"	"Delimitador"	"label"
 "Current Folder"	"Carpeta Activa"	"label"
 "Current folder"	"Carpeta Activa"	"label"
 "Current Period (%s)"	"Periodo Actual (%s)"	"text"

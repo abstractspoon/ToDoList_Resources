@@ -913,7 +913,7 @@ TRANSLATED
 "Creation Date"	"Дата создания"	"checklistbox"
   "Creation Date"	"Дата создания"	"menu"
 "Creation Time"	"Время создания"	"text"
-"Csv delimiter"	"Разделитель csv"	"label"
+"Delimiter"	"Разделитель"	"label"
 "Current Folder"	"Текущая папка"	"label"
 "Current folder"	"Текущая папка"	"label"
 "Current shortcut key"	"Текущая быстрая клавиша:"	"label"

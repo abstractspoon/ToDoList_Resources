@@ -1042,7 +1042,7 @@ TRANSLATED
 "Creation Date"	"Vytvorené"	"checklistbox"
   "Creation Date"	"Dátum vytvo&renia"	"menu"
 "Creation Time"	"Čas vytvorenia"	"text"
-"Csv delimiter"	"Oddelovač v CSV"	"label"
+"Delimiter"	"Oddelovač"	"label"
 "Current Folder"	"Aktuálny priečinok"	"label"
 "Current folder"	"Aktuálny priečinok"	"label"
 "Current shortcut key"	"Aktuálna klávesová skratka:"	"label"

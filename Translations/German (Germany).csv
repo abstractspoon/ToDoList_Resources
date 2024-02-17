@@ -668,7 +668,7 @@ TRANSLATED
 "Creation Date"	"Erstellungsdatum"	"checklistbox"
   "Creation Date"	"Erstellungsdatum"	"menu"
 "Creation Time"	"Erstellungszeit"	"text"
-"Csv delimiter"	"CSV Trennzeichen"	"label"
+"Delimiter"	"Trennzeichen"	"label"
 "Current folder"	"Aktueller Ordner"	"label"
 "Current Folder"	"Aktuelles  Verzeichnis"	"label"
 "Current Period (%s)"	"Aktuelle Periode (%s)"	"text"

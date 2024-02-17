@@ -1167,7 +1167,7 @@ TRANSLATED
 "Creation Date"	"Datum aanmaak"	"checklistbox"
   "Creation Date"	"Datum aanmaak"	"menu"
 "Creation Time"	"Aanmaaktijd"	"text"
-"Csv delimiter"	"CSV scheidingsteken"	"label"
+"Delimiter"	"Scheidingsteken"	"label"
 "Current folder"	"Huidige map"	"label"
 "Current Folder"	"Huidige map:"	"label"
 "Current shortcut key"	"Huidige sneltoets:"	"label"

@@ -780,7 +780,7 @@ TRANSLATED
 "Created by"	"Oprettet af"	"label"
 "Creation Date"	"Oprettelsestidspunkt"	"checklistbox"
 "Creation Time"	"Oprettelsestid"	"text"
-"Csv delimiter"	"CSV skilletegn"	"label"
+"Delimiter"	"Skilletegn"	"label"
 "Current Folder"	"Aktuel mappe"	"label"
 "Current folder"	"Aktuel mappe"	"label"
 "Current Period (%s)"	"Aktuel periode (%s)"	"text"

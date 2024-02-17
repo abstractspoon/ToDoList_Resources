@@ -838,7 +838,7 @@ TRANSLATED
 "Creation Date"	"Ngày thành lập"	"checklistbox"
   "Creation Date"	""	"menu"
 "Creation Time"	"Thời gian sáng tạo"	"text"
-"Csv delimiter"	"Dấu phân cách csv"	"label"
+"Delimiter"	"Dấu phân cách"	"label"
 "Current folder"	"Thư mục hiện tại"	"label"
 "Current Folder"	"Thư mục hiện tại"	"label"
 "Current Period (%s)"	"Khoảng thời gian hiện tại (%s')"	"text"

@@ -919,7 +919,7 @@ TRANSLATED
 "Creation Date"	"Data di creazione"	"checklistbox"
   "Creation Date"	"Data di creazione"	"menu"
 "Creation Time"	"Ora di creazione"	"text"
-"Csv delimiter"	"Delimitatore nel CSV"	"label"
+"Delimiter"	"Delimitatore"	"label"
 "Current folder"	"Cartella corrente"	"label"
 "Current Folder"	"Cartella corrente"	"label"
 "Current shortcut key"	"Tasto rapito attuale"	"label"

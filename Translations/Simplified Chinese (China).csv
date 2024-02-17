@@ -655,7 +655,7 @@ TRANSLATED
 "Creation Date"	"创建日期"	"checklistbox"
   "Creation Date"	"创建日期(&R)"	"menu"
 "Creation Time"	"创建时间"	"text"
-"Csv delimiter"	"Csv分隔符"	"label"
+"Delimiter"	"分隔符"	"label"
 "Current folder"	"当前文件夹"	"label"
 "Current Folder"	"当前文件夹"	"label"
 "Current Period (%s)"	"当前期间 (%s)"	"text"

@@ -661,7 +661,7 @@ NEED_TRANSLATION
 "Creation Date"	""	"checklistbox"
   "Creation Date"	""	"menu"
 "Creation Time"	""	"text"
-"Csv delimiter"	""	"label"
+"Delimiter"	""	"label"
 "Current Folder"	""	"label"
 "Current folder"	""	"label"
 "Current Period (%s)"	""	"text"

@@ -71,6 +71,7 @@ NEED_TRANSLATION
 "(untitled)"	""	"text"
 "(Week {0})"	""	"label"
 "(Weeks {0}-{1})"	""	"label"
+"(Reduce visible date range)"	""	"combobox"
 "- Fixed Columns -"	""	"combobox"
 "- unnamed -"	""	"text"
 "-ab <alloc by>\tSets the 'Allocated By' for the currently selected task"	""	"text"

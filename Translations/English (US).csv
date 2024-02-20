@@ -1364,7 +1364,7 @@ NEED_TRANSLATION
 "Nearest Quarter"	""	"combobox"
 "Nearest Week"	""	"combobox"
 "Nearest Year"	""	"combobox"
-"Negative Numbers"	""	"label"
+"Negative numbers"	""	"label"
 "Negative Progress"	""	"menu"
 "New"	""	"menu"
 "New Attribute"	""	"tooltip"

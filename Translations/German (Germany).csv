@@ -7,7 +7,7 @@ NEED_TRANSLATION
 "DateTime"	""	"listbox"
 "Decimal places"	""	"label"
 "Locale (location)"	""	"text"
-"Negative Numbers"	""	"label"
+"Negative numbers"	""	"label"
 "Number"	""	"listbox"
 "Pattern"	""	"label"
 "Percent"	""	"listbox"

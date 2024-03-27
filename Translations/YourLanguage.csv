@@ -943,7 +943,6 @@ NEED_TRANSLATION
 "Features"	""	"label"
 "Feedback and Support"	""	"menu"
   "Feedback and Support"	""	"tooltip"
-"fifth"	""	"combobox"
 "File"	""	"radiobutton"
   "File"	""	"label"
   "File"	""	"menu"

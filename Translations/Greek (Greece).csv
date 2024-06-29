@@ -1207,7 +1207,7 @@ TRANSLATED
 "Group header background colour"	"Χρώμα φόντου κεφαλίδας ομάδας"	"checkbox"
 "H"	"Ω"	"menu"
 "Have subtasks inherit the following attributes from their parent when they are created"	"Να κληρονομήσουν οι υποεργασίες τα ακόλουθα χαρακτηριστικά από τον γονέα τους κατά τη δημιουργία τους"	"checkbox"
-"Having the following tag"	"Να έχουν την ακόλουθη ετικέτα:"	"checkbox"
+"Having the following tag"	"Να έχουν την ακόλουθη ετικέτα"	"checkbox"
 "Heading 1"	"Επικεφαλίδα 1"	"menu"
 "Heading 2"	"Επικεφαλίδα 2"	"menu"
 "Heading 3"	"Επικεφαλίδα 3"	"menu"

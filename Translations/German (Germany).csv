@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 8.2.999.3
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Paste Attribute Value"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1557,6 +1555,7 @@ TRANSLATED
 "Paste as Subtask"	"Einfügen als Teilaufgabe"	"menu"
 "Paste as Subtask of Selected Task"	"&Einfügen als Teilaufgabe der ausgewählten Aufgabe"	"menu"
 "Paste at bottom of tasklist"	"Am Ende der Aufgabenliste einfügen"	"text"
+"Paste Attribute Value"	"Attributwert einfügen"	"menu"
 "Paste Below"	"Danach einfügen"	"menu"
 "Paste Below Selected Task"	"Nach der ausgewählten Aufgabe einfügen"	"menu"
 "Paste Formatting"	"Formatierung übertragen"	"menu"

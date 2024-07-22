@@ -1303,7 +1303,7 @@ TRANSLATED
 "Ignore '{0}'"	"Ignorar '{0}'"	"menu"
 "Image"	"Imagen"	"text"
 "Image Files"	"Archivos de imágenes"	"combobox"
-"Images..."	"Imágenes..."	"tooltip"
+"Icons..."	"Imágenes..."	"tooltip"
 "Import"	"Importar"	"button"
 "Import From"	"Importa desde"	"groupbox"
 "Import Preferences into Registry..."	"Importar Preferencias al Registro..."	"menu"

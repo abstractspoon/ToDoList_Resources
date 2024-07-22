@@ -595,7 +595,7 @@ NEED_TRANSLATION
 "Image Button"	""	"menu"
 "Image Files"	""	"combobox"
 "Image of active task view (%s)"	""	"radiobutton"
-"Images..."	""	"tooltip"
+"Icons..."	""	"tooltip"
 "Import Tasklist"	""	"text"
 "Import Tasks from CSV"	""	"text"
 "Import Tasks from File"	""	"dialog"

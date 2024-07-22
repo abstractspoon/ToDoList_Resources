@@ -1344,7 +1344,7 @@ TRANSLATED
 "If you reload the tasklist you will lose your current \nchanges.\n\nAre you sure you want to continue?"	"Si vous rechargez la liste de tâches vous perdrez les derniers \nchangements.\n\nÊtes-vous sûr de vouloir continuer ?"	"text"
 "Ignore '{0}'"	"Ignorer '{0}'"	"menu"
 "Image"	"Image"	"text"
-"Images..."	"Images..."	"tooltip"
+"Icons..."	"Icons..."	"tooltip"
 "Import"	"Importer"	"button"
 "Import From"	"Importer depuis"	"groupbox"
 "Import Preferences into Registry..."	"Importer les préférences dans le registre..."	"menu"

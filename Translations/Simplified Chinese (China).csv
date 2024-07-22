@@ -1119,7 +1119,7 @@ TRANSLATED
 "Image Button"	"图像按钮"	"menu"
 "Image Files"	"图像文件"	"combobox"
 "Image of active task view (%s)"	"活动任务视图的图像 (%s)"	"radiobutton"
-"Images..."	"图片..."	"tooltip"
+"Icons..."	"图片..."	"tooltip"
 "Import"	"导入"	"button"
 "Import From"	"导入来源"	"groupbox"
 "Import Preferences into Registry..."	"导入选项到注册表(&I)..."	"menu"

@@ -1280,7 +1280,7 @@ TRANSLATED
 "Ignore '{0}'"	"Αγνοήστε το '{0}'"	"menu"
 "Image"	"Εικόνα"	"text"
 "Image Files"	"Αρχεία εικόνας"	"combobox"
-"Images..."	"Εικόνες..."	"tooltip"
+"Icons..."	"Εικόνες..."	"tooltip"
 "Import"	"Εισαγωγή"	"button"
 "Import From"	"Εισαγωγή από"	"groupbox"
 "Import Preferences into Registry..."	"Εισαγωγή προτιμήσεων στο μητρώο..."	"menu"

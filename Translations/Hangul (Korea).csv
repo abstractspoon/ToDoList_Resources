@@ -1345,7 +1345,7 @@ TRANSLATED
 "Ignore '{0}'"	"'{0}' 제외"	"menu"
 "Image"	"이미지"	"text"
 "Image Files"	"이미지 파일"	"combobox"
-"Images..."	"이미지..."	"tooltip"
+"Icons..."	"이미지..."	"tooltip"
 "Import"	"가져오기"	"button"
 "Import From"	"가져오기 대상"	"groupbox"
 "Import Preferences into Registry..."	"레지스트리로 설정 가져오기"	"menu"

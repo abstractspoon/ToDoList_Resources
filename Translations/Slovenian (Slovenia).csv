@@ -1280,7 +1280,7 @@ TRANSLATED
 "Ignore '{0}'"	"Prezri '{0}'"	"menu"
 "Image"	"Slika"	"text"
 "Image Files"	"Slikovne datoteke"	"combobox"
-"Images..."	"Slike..."	"tooltip"
+"Icons..."	"Slike..."	"tooltip"
 "Import"	"Uvozi"	"button"
 "Import From"	"Uvozi iz"	"groupbox"
 "Import Preferences into Registry..."	"Uvozi nastavitve iz Registra..."	"menu"

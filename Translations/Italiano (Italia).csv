@@ -1330,7 +1330,7 @@ TRANSLATED
 "If a tasklist's timestamp changes"	"Se la data di modifica della lista di compiti cambia"	"checkbox"
 "If you reload the tasklist you will lose your current \nchanges.\n\nAre you sure you want to continue?"	"Se si ricarica la lista di compiti, le modifiche correnti\nandranno perse.\n\nSi è certi di voler procedere comunque?"	"text"
 "Image"	"Immagine"	"text"
-"Images..."	"Immagini…"	"tooltip"
+"Icons..."	"Immagini…"	"tooltip"
 "Import"	"Importa"	"button"
 "Import From"	"Importa da"	"groupbox"
 "Import Preferences into Registry..."	"Im&porta le opzioni nel registro…"	"menu"

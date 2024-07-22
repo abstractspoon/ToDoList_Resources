@@ -1162,7 +1162,7 @@ TRANSLATED
 "Image Button"	"Кнопка изображения"	"menu"
 "Image Files"	"Файлы изображений"	"combobox"
 "Image of active task view (%s)"	"Изображение активного представления задач (%s)"	"radiobutton"
-"Images..."	"Изображения…"	"tooltip"
+"Icons..."	"Изображения…"	"tooltip"
 "Import"	"Импортир."	"button"
 "Import From"	"Импортировать из"	"groupbox"
 "Import Preferences into Registry..."	"Импортировать настройки в реестр…"	"menu"

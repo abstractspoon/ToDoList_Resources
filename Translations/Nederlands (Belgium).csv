@@ -1137,7 +1137,7 @@ TRANSLATED
 "Image Button"	"Afbeeldingsknop"	"menu"
 "Image Files"	"Afbeeldingsbestanden"	"combobox"
 "Image of active task view (%s)"	"Beeld van actieve taakweergave (%s)"	"radiobutton"
-"Images..."	"Afbeeldingen..."	"tooltip"
+"Icons..."	"Afbeeldingen..."	"tooltip"
 "Import"	"Importeer"	"button"
 "Import From"	"Importeer van"	"groupbox"
 "Import Preferences into Registry..."	"Importeer voorkeuren in Register..."	"menu"

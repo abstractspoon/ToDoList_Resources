@@ -1275,7 +1275,7 @@ TRANSLATED
 "Ignore '{0}'"	"Ignoruj '{0}'"	"menu"
 "Image"	"Obraz"	"text"
 "Image Files"	"Pliki obrazów"	"combobox"
-"Images..."	"Obrazy..."	"tooltip"
+"Icons..."	"Obrazy..."	"tooltip"
 "Import"	"Importuj"	"button"
 "Import From"	"Importuj z"	"groupbox"
 "Import Preferences into Registry..."	"Importuj preferencje do rejestru..."	"menu"

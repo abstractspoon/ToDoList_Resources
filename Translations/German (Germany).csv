@@ -1128,7 +1128,7 @@ TRANSLATED
 "Image Button"	"Bildschaltfläche"	"menu"
 "Image Files"	"Bilddateien"	"combobox"
 "Image of active task view (%s)"	"Bild der aktiven Aufgabenansicht (%s)"	"radiobutton"
-"Images..."	"Bilder..."	"tooltip"
+"Icons..."	"Bilder..."	"tooltip"
 "Import"	"Importieren"	"button"
 "Import From"	"Importiere von"	"groupbox"
 "Import Preferences into Registry..."	"&Importiere Einstellungen in die Registry..."	"menu"

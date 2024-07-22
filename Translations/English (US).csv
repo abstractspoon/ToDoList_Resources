@@ -1108,7 +1108,7 @@ NEED_TRANSLATION
 "Image Button"	""	"menu"
 "Image Files"	""	"combobox"
 "Image of active task view (%s)"	""	"radiobutton"
-"Images..."	""	"tooltip"
+"Icons..."	""	"tooltip"
 "Import"	""	"button"
 "Import From"	""	"groupbox"
 "Import Preferences into Registry..."	""	"menu"

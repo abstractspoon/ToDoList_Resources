@@ -1427,7 +1427,7 @@ TRANSLATED
 "If a tasklist's status changes to writable"	"&Ak sa stav zoznamu úloh zmení na zapisovateľný"	"checkbox"
 "If a tasklist's timestamp changes"	"A&k sa zmení časová pečiatka zoznamov úloh"	"checkbox"
 "Image"	"obraz"	"text"
-"Images..."	"Snímky..."	"tooltip"
+"Icons..."	"Snímky..."	"tooltip"
 "Import"	"import"	"button"
 "Import From"	"Importovať z"	"groupbox"
 "Import Preferences into Registry..."	"&Importuj preferencie do registrov..."	"menu"

@@ -30,7 +30,7 @@ NEED_TRANSLATION
 "Bottom Border"	""	"tooltip"
 "Button"	""	"menu"
 "Calculation"	""	"text"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
 "Check Box"	""	"menu"

@@ -95,7 +95,7 @@ NEED_TRANSLATION
   "By Tomorrow"	""	"text"
 "By Yesterday"	""	"text"
 "Calculation"	""	"text"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Category Frequency"	""	"combobox"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"

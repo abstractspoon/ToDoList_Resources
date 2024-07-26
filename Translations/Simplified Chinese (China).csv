@@ -508,7 +508,7 @@ TRANSLATED
 "Cat."	"类别"	"text"
 "Categories"	"类别"	"label"
   "Categories"	"类别"	"text"
-"Categorise Attributes"	"属性分类"	"tooltip"
+"Group Attributes"	"属性分类"	"tooltip"
 "Category"	"类别"	"label"
   "Category"	"类别"	"menu"
 "Category Frequency"	"类别频率"	"combobox"

@@ -499,7 +499,7 @@ NEED_TRANSLATION
 "Cat."	""	"text"
 "Categories"	""	"label"
   "Categories"	""	"text"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Category"	""	"label"
   "Category"	""	"menu"
 "Category Frequency"	""	"combobox"

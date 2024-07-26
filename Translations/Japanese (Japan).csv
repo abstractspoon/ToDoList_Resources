@@ -270,7 +270,7 @@ NEED_TRANSLATION
 "Calculation"	""	"text"
 "Calendar Preferences"	""	"dialog"
 "Caption"	""	"label"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Category Frequency"	""	"combobox"
 "Cc"	""	"text"
 "Cell padding"	""	"label"

@@ -5,7 +5,7 @@ NEED_TRANSLATION
 "(more tasks not shown...)"	""	"text"
 "(Reduce visible date range)"	""	"combobox"
 "<value varies>"	""	"text"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"
 "Copy '%s' Values"	""	"menu"

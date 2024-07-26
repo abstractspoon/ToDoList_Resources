@@ -3,7 +3,7 @@ PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "<value varies>"	""	"text"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"
 "Copy '%s' Values"	""	"menu"

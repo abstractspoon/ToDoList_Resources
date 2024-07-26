@@ -94,7 +94,7 @@ NEED_TRANSLATION
   "Burndown"	""	"systabcontrol32"
 "Button"	""	"menu"
 "Calculation"	""	"text"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
 "Character Set"	""	"label"

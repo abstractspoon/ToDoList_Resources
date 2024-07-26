@@ -510,7 +510,7 @@ TRANSLATED
 "Cat."	"Kat."	"text"
 "Categories"	"Kategorien"	"label"
   "Categories"	"Kategorien"	"text"
-"Categorise Attributes"	"Attribute kategorisieren"	"tooltip"
+"Group Attributes"	"Attribute kategorisieren"	"tooltip"
 "Category"	"Kategorie"	"label"
   "Category"	"Kategorie"	"menu"
 "Category Frequency"	"Kategorienhäufigkeit"	"combobox"

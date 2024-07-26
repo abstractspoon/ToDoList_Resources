@@ -181,7 +181,7 @@ NEED_TRANSLATION
 "By Yesterday"	""	"text"
 "Calculation"	""	"text"
 "Caption"	""	"label"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Category Frequency"	""	"combobox"
 "Cell padding"	""	"label"
 "Cell Properties"	""	"menu"

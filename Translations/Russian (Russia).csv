@@ -6,7 +6,7 @@ NEED_TRANSLATION
 "(more tasks not shown...)"	""	"text"
 "<value varies>"	""	"text"
 "AaBbYyZz"	""	"label"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Column Operations"	""	"menu"
 "Confirm Save As"	""	"dialog"
 "Copy '%s' Value"	""	"menu"

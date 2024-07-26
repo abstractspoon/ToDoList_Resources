@@ -24,7 +24,7 @@ NEED_TRANSLATION
 "Bottom Align"	""	"tooltip"
 "Bottom Border"	""	"tooltip"
 "Button"	""	"menu"
-"Categorise Attributes"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
 "Check Box"	""	"menu"

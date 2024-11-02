@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.2.999.3
+﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 27
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -179,7 +179,6 @@ NEED_TRANSLATION
   "By Tomorrow"	""	"text"
 "By Yesterday"	""	"text"
 "Calculation"	""	"text"
-"Group Attributes"	""	"tooltip"
 "Category Frequency"	""	"combobox"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
@@ -298,6 +297,7 @@ NEED_TRANSLATION
 "Graph colours"	""	"label"
 "Graphs Preferences"	""	"tooltip"
 "Group"	""	"menu"
+"Group Attributes"	""	"tooltip"
 "Group By"	""	"label"
 "Group header background colour"	""	"checkbox"
 "Having the following tag"	""	"checkbox"
@@ -591,6 +591,7 @@ NEED_TRANSLATION
 "Ungroup"	""	"menu"
 "Ungroup All"	""	"menu"
 "Unhide"	""	"menu"
+"Unmaximise"	""	"menu"
 "Unmerge Cells"	""	"menu"
 "Unspecified Levels"	""	"menu"
 "Until"	""	"label"
@@ -1422,12 +1423,12 @@ TRANSLATED
 "Icon"	"Ikona"	"label"
   "Icon"	""	"menu"
 "Icon Path"	"Cesta k ikonám"	"sysheader32"
+"Icons..."	"Snímky..."	"tooltip"
 "ID"	"ID"	"sysheader32"
 "If a task list cannot be checked out, keep re-trying periodically"	"Ak nemôže byť zoznam úloh na výstupe skontrolovaný, periodicky to opakovať"	"checkbox"
 "If a tasklist's status changes to writable"	"&Ak sa stav zoznamu úloh zmení na zapisovateľný"	"checkbox"
 "If a tasklist's timestamp changes"	"A&k sa zmení časová pečiatka zoznamov úloh"	"checkbox"
 "Image"	"obraz"	"text"
-"Icons..."	"Snímky..."	"tooltip"
 "Import"	"import"	"button"
 "Import From"	"Importovať z"	"groupbox"
 "Import Preferences into Registry..."	"&Importuj preferencie do registrov..."	"menu"

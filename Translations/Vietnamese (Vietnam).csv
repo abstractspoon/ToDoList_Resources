@@ -1,11 +1,10 @@
-﻿TRANSTEXT 8.2.999.3
+﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 42
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "(more tasks not shown...)"	""	"text"
 "(Reduce visible date range)"	""	"combobox"
 "<value varies>"	""	"text"
-"Group Attributes"	""	"tooltip"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"
 "Copy '%s' Values"	""	"menu"
@@ -16,6 +15,7 @@ NEED_TRANSLATION
 "DateTime"	""	"listbox"
 "Decimal places"	""	"label"
 "Future Occurrence"	""	"tooltip"
+"Group Attributes"	""	"tooltip"
 "Locale (location)"	""	"text"
 "Markdeep Files"	""	"text"
 "Nearest Decade"	""	"combobox"
@@ -38,6 +38,7 @@ NEED_TRANSLATION
 "Time Block"	""	"tooltip"
 "Toggle Image Visibility"	""	"tooltip"
 "Toggle Sort Direction"	""	"tooltip"
+"Unmaximise"	""	"menu"
 "Use 1000s Separator"	""	"checkbox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(LƯU Ý: Một hoặc nhiều trong số các nhiệm vụ này có các nhiệm vụ phụ cũng sẽ bị xóa)"	"text"
@@ -1148,6 +1149,7 @@ TRANSLATED
 "Icon"	"Biểu tượng"	"label"
   "Icon"	""	"menu"
 "Icon Path"	"Đường dẫn biểu tượng"	"sysheader32"
+"Icons..."	"Hình ảnh ..."	"tooltip"
 "ID"	"ID"	"sysheader32"
 "If a task list cannot be checked out, keep re-trying periodically"	"Nếu không thể kiểm tra danh sách nhiệm vụ, hãy tiếp tục thử lại định kỳ"	"checkbox"
 "If a tasklist's status changes to writable"	"Nếu trạng thái của danh sách nhiệm vụ thay đổi thành có thể ghi"	"checkbox"
@@ -1159,7 +1161,6 @@ TRANSLATED
 "Image Button"	"Nút hình ảnh"	"menu"
 "Image Files"	"Tệp Hình ảnh"	"combobox"
 "Image of active task view (%s)"	"Hình ảnh của chế độ xem tác vụ đang hoạt động (%s)"	"radiobutton"
-"Icons..."	"Hình ảnh ..."	"tooltip"
 "Import"	"Nhập"	"button"
 "Import From"	"Nhập từ"	"groupbox"
 "Import Preferences into Registry..."	"Nhập cài đặt vào Registry ..."	"menu"

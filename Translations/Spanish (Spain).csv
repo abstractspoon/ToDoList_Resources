@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.2.999.3
+﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 10
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -63,7 +63,6 @@ NEED_TRANSLATION
   "By Tomorrow"	""	"text"
 "By Yesterday"	""	"text"
 "Calculation"	""	"text"
-"Group Attributes"	""	"tooltip"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
 "Check Box"	""	"menu"
@@ -142,6 +141,7 @@ NEED_TRANSLATION
 "Graph colours"	""	"label"
 "Graphs Preferences"	""	"tooltip"
 "Group"	""	"menu"
+"Group Attributes"	""	"tooltip"
 "Group By"	""	"label"
 "Group header background colour"	""	"checkbox"
 "Having the following tag"	""	"checkbox"
@@ -317,6 +317,7 @@ NEED_TRANSLATION
 "Ungroup"	""	"menu"
 "Ungroup All"	""	"menu"
 "Unhide"	""	"menu"
+"Unmaximise"	""	"menu"
 "Unmerge Cells"	""	"menu"
 "Unspecified Levels"	""	"menu"
 "Until"	""	"label"
@@ -1295,6 +1296,7 @@ TRANSLATED
 "Icon"	"Icono"	"label"
   "Icon"	"Icono"	"menu"
 "Icon Path"	"Ruta de ícono"	"sysheader32"
+"Icons..."	"Imágenes..."	"tooltip"
 "ID"	"ID"	"sysheader32"
 "If a task list cannot be checked out, keep re-trying periodically"	"Si una lista de tareas no se puede desbloquear, reintenta periódicamente"	"checkbox"
 "If a tasklist's status changes to writable"	"Si el estado de una lista de tareas cambia a escribible"	"checkbox"
@@ -1303,7 +1305,6 @@ TRANSLATED
 "Ignore '{0}'"	"Ignorar '{0}'"	"menu"
 "Image"	"Imagen"	"text"
 "Image Files"	"Archivos de imágenes"	"combobox"
-"Icons..."	"Imágenes..."	"tooltip"
 "Import"	"Importar"	"button"
 "Import From"	"Importa desde"	"groupbox"
 "Import Preferences into Registry..."	"Importar Preferencias al Registro..."	"menu"

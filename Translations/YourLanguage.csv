@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.2.999.3
+﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 0
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -2365,6 +2365,7 @@ NEED_TRANSLATION
 "Uninstall..."	""	"menu"
 "Unique ID"	""	"label"
 "Unless they are flagged"	""	"checkbox"
+"Unmaximise"	""	"menu"
 "Unmerge Cells"	""	"menu"
 "Unsorted"	""	"menu"
 "Unspecified Levels"	""	"menu"

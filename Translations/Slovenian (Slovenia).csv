@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.2.999.3
+﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 36
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -30,7 +30,6 @@ NEED_TRANSLATION
 "Bottom Border"	""	"tooltip"
 "Button"	""	"menu"
 "Calculation"	""	"text"
-"Group Attributes"	""	"tooltip"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
 "Check Box"	""	"menu"
@@ -97,6 +96,7 @@ NEED_TRANSLATION
 "Future Occurrence"	""	"tooltip"
 "Graphs Preferences"	""	"tooltip"
 "Group"	""	"menu"
+"Group Attributes"	""	"tooltip"
 "Group By"	""	"label"
 "Having the following tag"	""	"checkbox"
 "Hide"	""	"menu"
@@ -237,6 +237,7 @@ NEED_TRANSLATION
 "Ungroup"	""	"menu"
 "Ungroup All"	""	"menu"
 "Unhide"	""	"menu"
+"Unmaximise"	""	"menu"
 "Unmerge Cells"	""	"menu"
 "Until"	""	"label"
 "Untyped"	""	"combobox"
@@ -1272,6 +1273,7 @@ TRANSLATED
 "Icon"	"Ikona"	"label"
   "Icon"	"Ikona"	"menu"
 "Icon Path"	"Pot ikone"	"sysheader32"
+"Icons..."	"Slike..."	"tooltip"
 "ID"	"ID"	"sysheader32"
 "If a task list cannot be checked out, keep re-trying periodically"	"Če seznama opravil ni mogoče odjaviti obdrži periodične znova poskuse"	"checkbox"
 "If a tasklist's status changes to writable"	"Če se spremeni stanje seznama opravil na 'za pisanje'"	"checkbox"
@@ -1280,7 +1282,6 @@ TRANSLATED
 "Ignore '{0}'"	"Prezri '{0}'"	"menu"
 "Image"	"Slika"	"text"
 "Image Files"	"Slikovne datoteke"	"combobox"
-"Icons..."	"Slike..."	"tooltip"
 "Import"	"Uvozi"	"button"
 "Import From"	"Uvozi iz"	"groupbox"
 "Import Preferences into Registry..."	"Uvozi nastavitve iz Registra..."	"menu"

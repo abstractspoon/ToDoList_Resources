@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Unmaximise"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -2337,6 +2335,7 @@ TRANSLATED
 "Uninstall..."	"Deinstallieren..."	"menu"
 "Unique ID"	"Eindeutige ID"	"label"
 "Unless they are flagged"	"Außer sie sind gekennzeichnet"	"checkbox"
+"Unmaximise"	"Verkleinern"	"menu"
 "Unmerge Cells"	"Zellverbindung auflösen"	"menu"
 "Unsorted"	"&Unsortiert"	"menu"
 "Unspecified Levels"	"Undefinierte Ebenen"	"menu"

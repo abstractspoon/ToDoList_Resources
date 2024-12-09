@@ -19,6 +19,8 @@ NEED_TRANSLATION
 "Paste Values Into Selected Tasks In Column"	""	"menu"
 "Select Custom Icons"	""	"dialog"
 "Select Search Icon"	""	"dialog"
+"Show a 'partially-complete' checkbox for incomplete parent tasks with completed subtasks"	""	"checkbox"
+"Task Completion"	""	"label"
 "Toggle Sort Direction"	""	"tooltip"
 "Unmaximise"	""	"menu"
 TRANSLATED

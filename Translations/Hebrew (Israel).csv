@@ -1057,7 +1057,7 @@ TRANSLATED
 "Allow multiple instances of ToDoList"	"אפשר יותר ממופע אחד של התוכנה"	"checkbox"
 "Allow sorting by clicking on column headers"	"אפשר מיון בהקלקה על כותרת עמודה"	"checkbox"
 "Allow time-tracking on parent tasks"	"אפשר מעקב זמן במשימות אב"	"checkbox"
-"Also add time to task's time spent"	"הוסף זמן גם לזמן שהושקע במשימה"	"checkbox"
+"Also add time to task's 'Time Spent'"	"הוסף זמן גם לזמן שהושקע במשימה"	"checkbox"
 "Alternate line colour"	"צבע קו חילופי"	"checkbox"
 "Always export task ID and Parent task ID"	"ייצא תמיד מספר משימה ומספר משימת אב"	"checkbox"
 "Always hide parent tasks in List View"	"הסתר משימות אב בתצוגת רשימה"	"checkbox"

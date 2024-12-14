@@ -693,7 +693,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Abilita l'ordinamento facendo clic sulle intestazioni di colonna"	"checkbox"
 "Allow time-tracking on parent tasks"	"Permetti la tracciatura temporale nei compiti padre"	"checkbox"
 "Alpha Release"	"Versione alfa"	"text"
-"Also add time to task's time spent"	"Aggiungi anche il tempo speso per i compiti"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Aggiungi anche il tempo speso per i compiti"	"checkbox"
 "Alternate line colour"	"Colori alternati delle linee"	"checkbox"
 "Always export task ID and Parent task ID"	"Esporta sempre l'ID dei compito e l'ID del compito padre"	"checkbox"
 "Always hide parent tasks in List View"	"Nascondi sempre i compiti padre nella Vista a elenco"	"checkbox"

@@ -682,7 +682,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"항목란 선택하여 정렬"	"checkbox"
 "Allow time-tracking on parent tasks"	"상위 작업에 타이머 설정 허용"	"checkbox"
 "Alpha Release"	"Alpha Release"	"text"
-"Also add time to task's time spent"	"작업 시간에 해당 시간 더하기"	"checkbox"
+"Also add time to task's 'Time Spent'"	"작업 시간에 해당 시간 더하기"	"checkbox"
 "Alternate line colour"	"대체선 색상"	"checkbox"
 "Always export task ID and Parent task ID"	"항상 작업 ID와 상위 작업 ID 내보내기"	"checkbox"
 "Always hide parent tasks in List View"	"목록 보기에서 상위 작업 항상 숨김"	"checkbox"

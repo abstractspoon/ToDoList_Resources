@@ -360,7 +360,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Разрешить сортировку нажатием на название столбца"	"checkbox"
 "Allow time-tracking on parent tasks"	"Разрешить отслеживание времени для родительских задач"	"checkbox"
 "Alpha Release"	"α-версия"	"text"
-"Also add time to task's time spent"	"Также добавить ⌚ к потраченн. ⌚ задачи"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Также добавить ⌚ к потраченн. ⌚ задачи"	"checkbox"
 "Alternate line colour"	"Цвет чередования строк"	"checkbox"
 "Always export task ID and Parent task ID"	"Всегда экспортировать ID задачи и ID родительской задачи"	"checkbox"
 "Always hide parent tasks in List View"	"Всегда скрывать родительские задачи в представлении [Список]"	"checkbox"

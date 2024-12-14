@@ -346,7 +346,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Sortierung durch Klick auf den Spaltentitel aktivieren"	"checkbox"
 "Allow time-tracking on parent tasks"	"Erlaube Zeiterfassung in Hauptaufgaben"	"checkbox"
 "Alpha Release"	"Alpha-Version"	"text"
-"Also add time to task's time spent"	"Zeitaufwand der Aufgabe auch anpassen"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Zeitaufwand der Aufgabe auch anpassen"	"checkbox"
 "Alternate line colour"	"Unterschiedliche Linienfarben"	"checkbox"
 "Always export task ID and Parent task ID"	"Immer Aufgaben ID und Hauptaufgaben ID export."	"checkbox"
 "Always hide parent tasks in List View"	"Hauptaufgaben in Listenansicht immer ausblenden"	"checkbox"

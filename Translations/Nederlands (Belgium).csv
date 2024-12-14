@@ -362,7 +362,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Activeer sorteren door te klikken op kolomhoofdingen"	"checkbox"
 "Allow time-tracking on parent tasks"	"Tijdsregistratie voor groepstaken toelaten"	"checkbox"
 "Alpha Release"	"Alfa Versie"	"text"
-"Also add time to task's time spent"	"Voeg ook tijd toe aan gebruikte tijd van de taak"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Voeg ook tijd toe aan gebruikte tijd van de taak"	"checkbox"
 "Alternate line colour"	"Alternatieve lijnkleur"	"checkbox"
 "Always export task ID and Parent task ID"	"Exporteer altijd taak ID en groepstaak ID"	"checkbox"
 "Always hide parent tasks in List View"	"Verberg altijd de groepstaak in Lijstweergave"	"checkbox"

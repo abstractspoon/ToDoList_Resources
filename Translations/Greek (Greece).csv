@@ -584,7 +584,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Να επιτρέπει την ταξινόμηση κάνοντας κλικ στις επικεφαλίδες των στηλών"	"checkbox"
 "Allow time-tracking on parent tasks"	"Να επιτρέπεται η παρακολούθηση του χρόνου στις γονικές εργασίες"	"checkbox"
 "Alpha Release"	"Alpha Έκδοση"	"text"
-"Also add time to task's time spent"	"Επίσης να προσθέτετε χρόνο στο χρόνο που δαπανάται στην εργασία"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Επίσης να προσθέτετε χρόνο στο χρόνο που δαπανάται στην εργασία"	"checkbox"
 "Alternate line colour"	"Εναλλακτικό χρώμα γραμμής"	"checkbox"
 "Always export task ID and Parent task ID"	"Πάντα να εξάγετε το αναγνωριστικό ID της εργασίας και το αναγνωριστικό ID της γονικής εργασίας"	"checkbox"
 "Always hide parent tasks in List View"	"Πάντα να αποκρύπτονται οι γονικές εργασίες στην προβολή λίστας"	"checkbox"

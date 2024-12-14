@@ -643,7 +643,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Activar orden al pulsar sobre la cabecera de la columna"	"checkbox"
 "Allow time-tracking on parent tasks"	"Permitir rastreo del tiempo en las tareas padre"	"checkbox"
 "Alpha Release"	"Versión Alfa"	"text"
-"Also add time to task's time spent"	"También agregue tiempo a una tarea en tiempo invertido"	"checkbox"
+"Also add time to task's 'Time Spent'"	"También agregue tiempo a una tarea en tiempo invertido"	"checkbox"
 "Alternate line colour"	"Alternar color de línea"	"checkbox"
 "Always export task ID and Parent task ID"	"Siempre exportar ID de tarea e ID de tarea padre"	"checkbox"
 "Always hide parent tasks in List View"	"Ocultar siempre las tareas de los padres en Vista de lista"	"checkbox"

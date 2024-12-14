@@ -381,7 +381,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Cho phép sắp xếp bằng cách nhấp vào tiêu đề cột"	"checkbox"
 "Allow time-tracking on parent tasks"	"Cho phép theo dõi thời gian đối với các nhiệm vụ chính"	"checkbox"
 "Alpha Release"	"Bản phát hành Alpha"	"text"
-"Also add time to task's time spent"	"Đồng thời thêm thời gian vào thời gian dành cho nhiệm vụ"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Đồng thời thêm thời gian vào thời gian dành cho nhiệm vụ"	"checkbox"
 "Alternate line colour"	"Màu đường thay thế"	"checkbox"
 "Always export task ID and Parent task ID"	"Luôn xuất ID nhiệm vụ và ID nhiệm vụ chính"	"checkbox"
 "Always hide parent tasks in List View"	"Luôn ẩn các nhiệm vụ chính trong Chế độ xem danh sách"	"checkbox"

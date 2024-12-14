@@ -329,7 +329,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Sortér automatisk ved klik på kolonnehoved"	"checkbox"
 "Allow time-tracking on parent tasks"	"Tillad tidregistrering på ophavsopgaver"	"checkbox"
 "Alpha Release"	"Alpha-version"	"text"
-"Also add time to task's time spent"	"Tilføj også tid til opgavens forbrugte tid"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Tilføj også tid til opgavens forbrugte tid"	"checkbox"
 "Alternate line colour"	"Alternativ linjefarve"	"checkbox"
 "Always export task ID and Parent task ID"	"Eksportér altid opgave-ID og ophavs-ID"	"checkbox"
 "Always hide parent tasks in List View"	"Gem altid ophav i listevisning"	"checkbox"

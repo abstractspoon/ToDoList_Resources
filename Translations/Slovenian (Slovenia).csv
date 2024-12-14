@@ -579,7 +579,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Omogoči razvrščanje s klikom na glavo stolpca"	"checkbox"
 "Allow time-tracking on parent tasks"	"Dovoli sledenje časa na nadrejenih opravilih"	"checkbox"
 "Alpha Release"	"Alfa izdaja"	"text"
-"Also add time to task's time spent"	"Dodaj tudi čas za porabo časa opravila"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Dodaj tudi čas za porabo časa opravila"	"checkbox"
 "Alternate line colour"	"Nadomestna barva črte"	"checkbox"
 "Always export task ID and Parent task ID"	"Vedno izvozi ID opravila in ID nadrejenega opravila"	"checkbox"
 "Always hide parent tasks in List View"	"Vedno skrij nadrejeno opravilo v Prikazu opravila"	"checkbox"

@@ -703,7 +703,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Autoriser le tri en cliquant sur l'entête de la colonne"	"checkbox"
 "Allow time-tracking on parent tasks"	"Autoriser le chronométrage sur tâches-mères"	"checkbox"
 "Alpha Release"	"Version alpha"	"text"
-"Also add time to task's time spent"	"Ajouter le temps au temps passé de la tâche"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Ajouter le temps au temps passé de la tâche"	"checkbox"
 "Alternate line colour"	"Couleur des lignes alternatives"	"checkbox"
 "Always export task ID and Parent task ID"	"Toujours exporter l'ID de tâche et l'ID de tâche mère"	"checkbox"
 "Always hide parent tasks in List View"	"Toujours cacher les tâches parent en vue liste"	"checkbox"

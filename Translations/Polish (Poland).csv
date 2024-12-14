@@ -582,7 +582,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Zezwalaj na sortowanie, klikając nagłówki kolumn"	"checkbox"
 "Allow time-tracking on parent tasks"	"Zezwalaj na śledzenie czasu w zadaniach nadrzędnych"	"checkbox"
 "Alpha Release"	"Wydanie alfa"	"text"
-"Also add time to task's time spent"	"Dodaj również czas do czasu spędzonego na zadaniu"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Dodaj również czas do czasu spędzonego na zadaniu"	"checkbox"
 "Alternate line colour"	"Alternatywny kolor linii"	"checkbox"
 "Always export task ID and Parent task ID"	"Zawsze eksportuj ID zadania i ID zadania nadrzędnego"	"checkbox"
 "Always hide parent tasks in List View"	"Zawsze ukrywaj zadania nadrzędne w widoku listy"	"checkbox"

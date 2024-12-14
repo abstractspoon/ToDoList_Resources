@@ -341,7 +341,7 @@ NEED_TRANSLATION
 "Allow sorting by clicking on column headers"	""	"checkbox"
 "Allow time-tracking on parent tasks"	""	"checkbox"
 "Alpha Release"	""	"text"
-"Also add time to task's time spent"	""	"checkbox"
+"Also add time to task's 'Time Spent'"	""	"checkbox"
 "Alternate line colour"	""	"checkbox"
 "Always export task ID and Parent task ID"	""	"checkbox"
 "Always hide parent tasks in List View"	""	"checkbox"

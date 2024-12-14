@@ -833,7 +833,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Zoradenie povolíte kliknutím na záhlavie stĺpcov"	"checkbox"
 "Allow time-tracking on parent tasks"	"Umožniť sledovanie času rodičovských úloh"	"checkbox"
 "Alpha Release"	"Vydanie Alpha"	"text"
-"Also add time to task's time spent"	"Pridať čas tiež do ubehnutého času úlohy"	"checkbox"
+"Also add time to task's 'Time Spent'"	"Pridať čas tiež do ubehnutého času úlohy"	"checkbox"
 "Alternate line colour"	"&Zmeniť farbu linky"	"checkbox"
 "Always export task ID and Parent task ID"	"Vždy exportovať ID úlohy a ID rodičovskej úlohy"	"checkbox"
 "Always hide parent tasks in List View"	"V zobrazení zoznamu vždy skryte nadradené úlohy"	"checkbox"

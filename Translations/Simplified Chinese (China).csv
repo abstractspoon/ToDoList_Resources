@@ -347,7 +347,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"启用通过单击列标题排序"	"checkbox"
 "Allow time-tracking on parent tasks"	"允许对父任务进行时间跟踪"	"checkbox"
 "Alpha Release"	"内部测试版"	"text"
-"Also add time to task's time spent"	"将时间添加到任务的消耗时间中"	"checkbox"
+"Also add time to task's 'Time Spent'"	"将时间添加到任务的消耗时间中"	"checkbox"
 "Alternate line colour"	"交替行颜色"	"checkbox"
 "Always export task ID and Parent task ID"	"总是导出项目ID和父项目ID"	"checkbox"
 "Always hide parent tasks in List View"	"在列表视图中总是隐藏父任务"	"checkbox"

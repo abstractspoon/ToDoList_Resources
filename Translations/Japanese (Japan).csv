@@ -1504,7 +1504,7 @@ TRANSLATED
 "Allow multi selection in the filter droplists"	"フィルタのドロップリストで複数選択を可能にする"	"checkbox"
 "Allow multiple instances of ToDoList"	"ToDoList の同時起動を許可"	"checkbox"
 "Allow time-tracking on parent tasks"	"親タスクでの時間計測を有効にする"	"checkbox"
-"Also add time to task's time spent"	"タスクの経過時間も加える"	"checkbox"
+"Also add time to task's 'Time Spent'"	"タスクの経過時間も加える"	"checkbox"
 "Alternate line colour"	"1行おきの色"	"checkbox"
 "Always export task ID and Parent task ID"	"常にタスクIDと親タスクIDをエクスポートする"	"checkbox"
 "Always hide parent tasks in List View"	"リストビューで常に親タスクを隠す"	"checkbox"

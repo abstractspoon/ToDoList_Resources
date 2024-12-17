@@ -2193,7 +2193,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Η μεταγενέστερη από τις ημερομηνίεςΈναρξη καιΣήμερα της εργασίας"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Η μεταγενέστερη από την ημερομηνία λήξης της και τις ημερομηνίες λήξης όλων των υποεργασιών της"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Η πιο πρόσφατη από την ημερομηνία έναρξής της και τις ημερομηνίες έναρξης όλων των υποεργασιών της"	"radiobutton"
-"The log file could not be updated.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Το αρχείο καταγραφής δεν μπόρεσε να ενημερωθεί.\n\nΠαρακαλούμε βεβαιωθείτε ότι το αρχείο δεν είναι ήδη ανοιχτό για επεξεργασία και ότι έχετε τα σωστά δικαιώματα και στη συνέχεια δοκιμάστε ξανά."	"text"
+"The log file could not be accessed.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Το αρχείο καταγραφής δεν μπόρεσε να ενημερωθεί.\n\nΠαρακαλούμε βεβαιωθείτε ότι το αρχείο δεν είναι ήδη ανοιχτό για επεξεργασία και ότι έχετε τα σωστά δικαιώματα και στη συνέχεια δοκιμάστε ξανά."	"text"
 "the Minimise button is selected"	"το κουμπί Ελαχιστοποίηση είναι επιλεγμένο"	"combobox"
 "the Minimise or Close button is selected"	"έχει επιλεγεί το κουμπί Ελαχιστοποίηση ή Κλείσιμο"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Η διαδρομή εξόδου%s δεν μπόρεσε να δημιουργηθεί.\n\nΠαρακαλούμε καθορίστε μια εναλλακτική τοποθεσία."	"text"

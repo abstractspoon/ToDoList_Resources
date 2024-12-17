@@ -2159,7 +2159,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Более поздняя из даты начала задачи и сегодня"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Самый поздний срок этой задачи и всех её подзадач"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Самая поздняя дата начала этой задачи и всех её подзадач"	"radiobutton"
-"The log file could not be updated.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Не удалось обновить файл журнала регистрации.\n\nУбедитесь, что файл уже не открыт для редактирования \nи что имеются правильные разрешения, а затем попробуйте снова."	"text"
+"The log file could not be accessed.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Не удалось обновить файл журнала регистрации.\n\nУбедитесь, что файл уже не открыт для редактирования \nи что имеются правильные разрешения, а затем попробуйте снова."	"text"
 "the Minimise button is selected"	"нажатии на кнопку [−]"	"combobox"
 "the Minimise or Close button is selected"	"нажатии на кнопки [−] или [×]"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Не удалось создать путь вывода данных [%s].\n\nУкажите альтернативное местоположение."	"text"

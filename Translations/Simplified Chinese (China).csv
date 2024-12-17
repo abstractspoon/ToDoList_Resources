@@ -2116,7 +2116,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"任务的开始日期和今天中的较晚日期"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"最迟的到期日及其所有子任务的到期日期"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"最新的开始日期及其所有子任务的开始日期"	"radiobutton"
-"The log file could not be updated.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"无法更新日志文件。\n\n请确保尚未打开该文件进行编辑，\n并且您具有正确的权限，然后重试。"	"text"
+"The log file could not be accessed.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"无法更新日志文件。\n\n请确保尚未打开该文件进行编辑，\n并且您具有正确的权限，然后重试。"	"text"
 "the Minimise button is selected"	"选择最小化按钮"	"combobox"
 "the Minimise or Close button is selected"	"选择最小化或关闭按钮"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"无法创建输出路径%s。\n\n请指定另一个位置。"	"text"

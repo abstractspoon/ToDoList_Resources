@@ -2162,7 +2162,7 @@ NEED_TRANSLATION
 "The later of the task's 'Start' date and 'Today'"	""	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	""	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	""	"radiobutton"
-"The log file could not be updated.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	""	"text"
+"The log file could not be accessed.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	""	"text"
 "the Minimise button is selected"	""	"combobox"
 "the Minimise or Close button is selected"	""	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	""	"text"

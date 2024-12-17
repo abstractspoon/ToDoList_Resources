@@ -2134,7 +2134,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Der spätere Wert von 'Aufgabenstart' und 'Heute'"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Das späteste Fälligkeitsdatum dieser Aufgabe und aller Teilaufgaben"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Das späteste Startdatum dieser Aufgabe und aller Teilaufgaben"	"radiobutton"
-"The log file could not be updated.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Die Protokolldatei konnte nicht aktualisiert werden.\n\nBitte stellen sie sicher, dass die Datei nicht bereits zur Bearbeitung geöffnet ist \nund dass sie die erforderlichen Zugriffsrechte besitzen.\nVersuchen sie es dann erneut."	"text"
+"The log file could not be accessed.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Die Protokolldatei konnte nicht aktualisiert werden.\n\nBitte stellen sie sicher, dass die Datei nicht bereits zur Bearbeitung geöffnet ist \nund dass sie die erforderlichen Zugriffsrechte besitzen.\nVersuchen sie es dann erneut."	"text"
 "the Minimise button is selected"	"die Schaltfläche 'Minimieren' gewählt wird"	"combobox"
 "the Minimise or Close button is selected"	"die Schaltfläche 'Minimieren' oder 'Schließen'  gewählt wird"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Das Ausgabeziel '%s' kann nicht angelegt werden.\n\nBitte geben sie einen anderen Ort an."	"text"

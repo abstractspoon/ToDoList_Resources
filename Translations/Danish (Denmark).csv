@@ -2021,7 +2021,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Den seneste af opgavens startdato og i dag"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Den seneste af forfaldsdatoen og alle dens underopgavers forfaldsdatoer"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Den seneste af startdatoen og alle dens underopgavers startdatoer"	"radiobutton"
-"The log file could not be updated.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Logfilen kunne ikke opdateres.\n\nSørg for, at filen ikke allerede er åben til redigering, og\nat du har de rigtige tilladelser, og prøv derefter igen."	"text"
+"The log file could not be accessed.\n\nPlease ensure that the file is not already open for editing and \nthat you have the correct permissions and then try again."	"Logfilen kunne ikke opdateres.\n\nSørg for, at filen ikke allerede er åben til redigering, og\nat du har de rigtige tilladelser, og prøv derefter igen."	"text"
 "the Minimise button is selected"	"knappen 'Minimer' er valgt"	"combobox"
 "the Minimise or Close button is selected"	"knappen 'Minimer' eller 'Luk' er valgt"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Outputstien '% s' kunne ikke oprettes.\n\nAngiv en alternativ placering."	"text"

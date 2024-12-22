@@ -2188,7 +2188,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Au plus tard entre 'date de début' de tâche et 'aujourd'hui'"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"La 'date prévue' la plus tard parmi les 'date prévue' de ses sous tâches"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"La 'date de début' la plus tard parmi les 'date de début' de ses sous tâches"	"radiobutton"
-"The log file could not be accessed."	"Le fichier Log ne peut être mis à jour."	"text"
+"The log file could not be updated."	"Le fichier Log ne peut être mis à jour."	"text"
 "the Minimise button is selected"	"le bouton Minimiser est sélectionné"	"combobox"
 "the Minimise or Close button is selected"	"le bouton Minimiser ou Fermer est sélectionné"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Le chemin de sortie '%s' ne peut être créé.\n\nVeuillez spécifier un autre chemin."	"text"

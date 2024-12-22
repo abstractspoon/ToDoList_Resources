@@ -2100,7 +2100,7 @@ NEED_TRANSLATION
 "The later of the task's 'Start' date and 'Today'"	""	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	""	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	""	"radiobutton"
-"The log file could not be accessed."	""	"text"
+"The log file could not be updated."	""	"text"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	""	"text"
 "The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"
 "The selected file could not be opened.\n\nPlease check that the file exists and that there is an application \nregistered for opening the selected file type."	""	"text"

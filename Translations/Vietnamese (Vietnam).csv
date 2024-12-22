@@ -2163,7 +2163,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Sau ngày 'Bắt ​​đầu' của nhiệm vụ và 'Hôm nay'"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Ngày đến hạn muộn nhất và ngày đến hạn của tất cả các nhiệm vụ phụ của nó"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Ngày bắt đầu muộn nhất và ngày bắt đầu của tất cả các nhiệm vụ phụ"	"radiobutton"
-"The log file could not be accessed."	"Không thể cập nhật tệp nhật ký."	"text"
+"The log file could not be updated."	"Không thể cập nhật tệp nhật ký."	"text"
 "the Minimise button is selected"	"nút Thu nhỏ được chọn"	"combobox"
 "the Minimise or Close button is selected"	"nút Thu nhỏ hoặc Đóng được chọn"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Không thể tạo đường dẫn đầu ra '%s'. \n\nVui lòng chỉ định một vị trí thay thế."	"text"

@@ -2137,7 +2137,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"De laatste van 'startdatum taak' en 'vandaag'"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"De laatste van haar streefdatum en alle streefdatums van haar deeltaken"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"De laatste van haar startdatum en alle startdatums van haar deeltaken"	"radiobutton"
-"The log file could not be accessed."	"Het logbestand kan niet worden bijgewerkt."	"text"
+"The log file could not be updated."	"Het logbestand kan niet worden bijgewerkt."	"text"
 "the Minimise button is selected"	"de knop Minimaliseren wordt geselecteerd"	"combobox"
 "the Minimise or Close button is selected"	"de knop Minimaliseren of Sluiten wordt geselecteerd"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Het outputpad '%s' kan niet worden gemaakt.\n\nGeef een alternatieve locatie."	"text"

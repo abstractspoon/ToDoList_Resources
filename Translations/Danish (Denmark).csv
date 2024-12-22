@@ -2022,7 +2022,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Den seneste af opgavens startdato og i dag"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Den seneste af forfaldsdatoen og alle dens underopgavers forfaldsdatoer"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Den seneste af startdatoen og alle dens underopgavers startdatoer"	"radiobutton"
-"The log file could not be accessed."	"Logfilen kunne ikke opdateres."	"text"
+"The log file could not be updated."	"Logfilen kunne ikke opdateres."	"text"
 "the Minimise button is selected"	"knappen 'Minimer' er valgt"	"combobox"
 "the Minimise or Close button is selected"	"knappen 'Minimer' eller 'Luk' er valgt"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Outputstien '% s' kunne ikke oprettes.\n\nAngiv en alternativ placering."	"text"

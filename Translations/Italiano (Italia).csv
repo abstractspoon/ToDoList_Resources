@@ -2188,7 +2188,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"La data maggiore tra quella di inizio del compito ed oggi"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"La data maggiore tra la sua scadenza e le scadenze di tutti i suoi sotto-compiti"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"La data maggiore tra quella del suo inizio e l'inizio di tutti i suoi sotto-compiti"	"radiobutton"
-"The log file could not be accessed."	"Non è stato possibile aggiornare il file di registro."	"text"
+"The log file could not be updated."	"Non è stato possibile aggiornare il file di registro."	"text"
 "the Minimise button is selected"	"il pulsante Minimizza è selezionato"	"combobox"
 "the Minimise or Close button is selected"	"il pulsante Minimizza o Chiudi è selezionato"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Non è stato possibile creare il percorso di output '%s'.\n\nSpecificare una posizione alternativa."	"text"

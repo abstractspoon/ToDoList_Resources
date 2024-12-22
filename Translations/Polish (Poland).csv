@@ -2172,7 +2172,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Późniejsza data 'Rozpoczęcia' zadania i 'Dzisiaj'"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Najpóźniejszy termin i terminy wszystkich podzadań"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Najpóźniejsza data rozpoczęcia i data rozpoczęcia wszystkich podzadań"	"radiobutton"
-"The log file could not be accessed."	"Nie można zaktualizować pliku dziennika."	"text"
+"The log file could not be updated."	"Nie można zaktualizować pliku dziennika."	"text"
 "the Minimise button is selected"	"wybrany jest przycisk Minimalizuj"	"combobox"
 "the Minimise or Close button is selected"	"wybrany jest przycisk Minimalizuj lub Zamknij"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Nie można utworzyć ścieżki wyjściowej '%s'.\n\nProszę określić alternatywną lokalizację."	"text"

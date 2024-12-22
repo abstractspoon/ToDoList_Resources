@@ -2160,7 +2160,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Более поздняя из даты начала задачи и сегодня"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Самый поздний срок этой задачи и всех её подзадач"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Самая поздняя дата начала этой задачи и всех её подзадач"	"radiobutton"
-"The log file could not be accessed."	"Не удалось обновить файл журнала регистрации."	"text"
+"The log file could not be updated."	"Не удалось обновить файл журнала регистрации."	"text"
 "the Minimise button is selected"	"нажатии на кнопку [−]"	"combobox"
 "the Minimise or Close button is selected"	"нажатии на кнопки [−] или [×]"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"Не удалось создать путь вывода данных [%s].\n\nУкажите альтернативное местоположение."	"text"

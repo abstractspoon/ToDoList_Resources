@@ -2232,7 +2232,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"המאוחר מבין תאריך ה'התחלה' של המשימה ו'היום'"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"המאוחר מבין תאריך ה'יעד' שלה ושל כל המשימות הבנות שלה"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"המאוחר מבין תאריך ה'התחלה' שלה ושל כל המשימות הבנות שלה"	"radiobutton"
-"The log file could not be accessed."	"לא ניתן לעדכן את קובץ היומן."	"text"
+"The log file could not be updated."	"לא ניתן לעדכן את קובץ היומן."	"text"
 "the Minimise button is selected"	"נבחר כפתור הקטן"	"combobox"
 "the Minimise or Close button is selected"	"נבחר כפתור הקטן או סגור"	"combobox"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	"לא ניתן ליצור את נתיב המוצא '%s' .\n\nיש לציין נתיב אחר."	"text"

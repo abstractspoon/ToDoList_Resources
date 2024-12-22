@@ -2,6 +2,8 @@
 PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"<multiple tasklists>"	""	"label"
+"<multiple tasks>"	""	"label"
 "<value varies>"	""	"text"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"
@@ -1341,8 +1343,8 @@ TRANSLATED
 "Minimise ToDoList when [Escape] is pressed"	"Minimaliseer ToDoList indien [Escape] geklikt wordt"	"checkbox"
 "Minimum"	"Minimum"	"combobox"
 "Minimum height of each interval"	"Minimale hoogte van elk interval"	"label"
-"Minutes"	"Minuten"	"menu"
 "minutes"	"minuten"	"label"
+"Minutes"	"Minuten"	"menu"
 "Modified Date"	"Gewijzigde datum"	"checklistbox"
   "Modified Date"	"Gewijzigde datum"	"combobox"
   "Modified Date"	"Gewijzigde datum"	"menu"
@@ -1353,9 +1355,9 @@ TRANSLATED
 "Modify Task Reminder"	"Wijzig Taakherinnering"	"text"
 "Modify..."	"Wijzig..."	"button"
 "Monthly"	"Maandelijks"	"radiobutton"
-"months"	"maanden"	"label"
 "Months"	"Maanden"	"menu"
   "Months"	"maanden"	"combobox"
+"months"	"maanden"	"label"
 "months after previous task is completed"	"maanden nadat de vorige taak afgewerkt is"	"label"
 "Months, mid \t\t(eg. Jan 2013)"	"Maanden, mid \t\t(vb. Jan 2013)"	"combobox"
 "Months, narrow \t\t(eg. 01/13)"	"Maanden, smal \t\t(vb. 01/13)"	"combobox"

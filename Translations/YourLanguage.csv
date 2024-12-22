@@ -247,6 +247,8 @@ NEED_TRANSLATION
 "<handler not installed>"	""	"label"
 "<%d tasks selected>"	""	"text"
 "<multiple formats>"	""	"text"
+"<multiple tasks>"	""	"label"
+"<multiple tasklists>"	""	"label"
 "<new allocation>"	""	"text"
 "<new button>"	""	"text"
 "<new custom list attribute>"	""	"combobox"

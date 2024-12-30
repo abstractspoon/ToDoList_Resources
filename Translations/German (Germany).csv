@@ -1,14 +1,13 @@
 ﻿TRANSTEXT 8.3.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"<multiple tasklists>"	""	"label"
-"<multiple tasks>"	""	"label"
-"Select Custom Icons"	""	"dialog"
-"Select Search Icon"	""	"dialog"
-"Show a 'partially-complete' checkbox for incomplete parent tasks with completed subtasks"	""	"checkbox"
-"Task Completion"	""	"label"
 TRANSLATED
+"<multiple tasklists>"	"<mehrere Aufgabenlisten>"	"label"
+"<multiple tasks>"	"<mehrere Aufgaben>"	"label"
+"Select Custom Icons"	"Benutzericon wählen"	"dialog"
+"Select Search Icon"	"Suchicon wählen"	"dialog"
+"Show a 'partially-complete' checkbox for incomplete parent tasks with completed subtasks"	"Kontrollkästchen 'teilweise erledigt' (Hauptaufgabe nicht, Teilaufgabe schon erledigt) anzeigen"	"checkbox"
+"Task Completion"	""	"label"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"

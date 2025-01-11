@@ -337,7 +337,7 @@ NEED_TRANSLATION
 "Fill"	""	"systabcontrol32"
 "Fill Pattern"	""	"label"
 "Filterable"	""	"combobox"
-"Filters"	""	"menu"
+"Default Filters"	""	"menu"
 "Find"	""	"label"
 "Find in Comments"	""	"dialog"
 "Find in Task Titles"	""	"dialog"

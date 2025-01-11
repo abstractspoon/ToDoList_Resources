@@ -982,7 +982,7 @@ TRANSLATED
 "Filtered Tasks"	"Gefilterte Aufgaben"	"radiobutton"
 "Filtered-out tasks"	"Ausgefilterte Aufgaben"	"combobox"
 "Filtering"	"Filterung"	"label"
-"Filters"	"Filter"	"menu"
+"Default Filters"	"Filter"	"menu"
 "Find"	"Suche"	"label"
 "Find in Comments"	"Suche in Kommentaren"	"dialog"
 "Find in Task Titles"	"In Aufgabentiteln suchen"	"dialog"

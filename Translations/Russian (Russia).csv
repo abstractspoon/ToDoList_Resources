@@ -1052,7 +1052,7 @@ TRANSLATED
 "Filtered Tasks"	"Отфильтрованн. задачи"	"radiobutton"
 "Filtered-out tasks"	"Отфильтрованные задачи"	"text"
 "Filtering"	"Фильтрация"	"label"
-"Filters"	"фильтры"	"menu"
+"Default Filters"	"фильтры"	"menu"
 "Find"	"Найти"	"label"
 "Find in Comments"	"Поиск в заметках"	"dialog"
 "Find in Task Titles"	"Поиск в названиях задач"	"dialog"

@@ -1152,7 +1152,7 @@ TRANSLATED
 "Filtered Tasks"	"Φιλτραρισμένες εργασίες"	"radiobutton"
 "Filtered-out tasks"	"Φιλτραρισμένες εργασίες"	"combobox"
 "Filtering"	"Φιλτράρισμα"	"label"
-"Filters"	"Φίλτρα"	"menu"
+"Default Filters"	"Φίλτρα"	"menu"
 "Find"	"Εύρεση"	"label"
 "Find in Comments"	"Εύρεση σε σχόλια"	"dialog"
 "Find in Task Titles"	"Εύρεση σε τίτλους εργασιών"	"dialog"

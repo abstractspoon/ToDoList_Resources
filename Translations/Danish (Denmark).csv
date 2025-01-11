@@ -936,7 +936,7 @@ TRANSLATED
 "Filtered Tasks"	"Filtrerede opgaver"	"radiobutton"
 "Filtered-out tasks"	"Frafiltrerede opgaver"	"combobox"
 "Filtering"	"Filtréring"	"label"
-"Filters"	"Filtre"	"menu"
+"Default Filters"	"Filtre"	"menu"
 "Find"	"Søg"	"label"
 "Find in Comments"	"Søg i kommentarer"	"dialog"
 "Find in Task Titles"	"Søg i opgavetitler"	"dialog"

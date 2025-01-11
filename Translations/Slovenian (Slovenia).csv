@@ -1153,7 +1153,7 @@ TRANSLATED
 "Filtered Tasks"	"Filtrirana opravila"	"radiobutton"
 "Filtered-out tasks"	"Filtrirana opravila"	"combobox"
 "Filtering"	"Filtriranje"	"label"
-"Filters"	"Filtri"	"menu"
+"Default Filters"	"Filtri"	"menu"
 "Find"	"Najti"	"label"
 "Find in Comments"	"Poišči v komentarjih"	"dialog"
 "Find in Task Titles"	"Poišči v naslovih opravil"	"dialog"

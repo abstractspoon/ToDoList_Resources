@@ -1327,7 +1327,7 @@ TRANSLATED
 "Filtered task count / Total task count"	"Počet filtrovaných úloh / celkový počet úloh"	"text"
 "Filtered Tasks"	"&Filtrované úlohy"	"radiobutton"
 "Filtering"	"Filtrovanie"	"label"
-"Filters"	"filtre"	"menu"
+"Default Filters"	"filtre"	"menu"
 "Find"	"Nájsť"	"label"
 "Find in Comments"	"Nájsť v komentároch"	"dialog"
 "Find in Task Titles"	"Nájsť v názvoch úloh"	"dialog"

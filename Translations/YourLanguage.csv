@@ -988,7 +988,7 @@ NEED_TRANSLATION
 "Filtered Tasks"	""	"radiobutton"
 "Filtered-out tasks"	""	"combobox"
 "Filtering"	""	"label"
-"Filters"	""	"menu"
+"Default Filters"	""	"menu"
 "Find"	""	"label"
 "Find in Comments"	""	"dialog"
 "Find in Task Titles"	""	"dialog"

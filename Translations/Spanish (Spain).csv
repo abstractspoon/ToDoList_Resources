@@ -1185,7 +1185,7 @@ TRANSLATED
 "Filtered Tasks"	"Tareas filtradas"	"radiobutton"
 "Filtered-out tasks"	"Tareas filtradas"	"combobox"
 "Filtering"	"Filtrado"	"label"
-"Filters"	"Filtros"	"menu"
+"Default Filters"	"Filtros"	"menu"
 "Find"	"Encontrar"	"label"
 "Find in Comments"	"Encuentra en los comentarios"	"dialog"
 "Find in Task Titles"	"Busca en los Título de Tareas"	"dialog"

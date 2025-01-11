@@ -1015,7 +1015,7 @@ TRANSLATED
 "Filtered Tasks"	"Nhiệm vụ được lọc"	"radiobutton"
 "Filtered-out tasks"	"Các nhiệm vụ được lọc ra"	"combobox"
 "Filtering"	"Lọc"	"label"
-"Filters"	"Bộ lọc"	"menu"
+"Default Filters"	"Bộ lọc"	"menu"
 "Find"	"Tìm thấy"	"label"
 "Find in Comments"	"Tìm trong Nhận xét"	"dialog"
 "Find in Task Titles"	"Tìm trong Tiêu đề Nhiệm vụ"	"dialog"

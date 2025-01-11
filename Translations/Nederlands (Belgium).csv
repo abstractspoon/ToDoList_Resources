@@ -993,7 +993,7 @@ TRANSLATED
 "Filtered Tasks"	"Gefilterde taken"	"radiobutton"
 "Filtered-out tasks"	"Uitgefilterde taken"	"combobox"
 "Filtering"	"Filtering"	"label"
-"Filters"	"Filters"	"menu"
+"Default Filters"	"Default Filters"	"menu"
 "Find"	"Zoek"	"label"
 "Find in Comments"	"Zoek in notities"	"dialog"
 "Find in Task Titles"	"Zoek in Taaktitels"	"dialog"

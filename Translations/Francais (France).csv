@@ -1231,7 +1231,7 @@ TRANSLATED
 "Filtered Tasks"	"Tâches &filtrées"	"radiobutton"
 "Filtered-out tasks"	"Défiltrer les tâches"	"combobox"
 "Filtering"	"Lors du filtrage"	"label"
-"Filters"	"Les filtres"	"menu"
+"Default Filters"	"Les filtres"	"menu"
 "Find"	"Trouver"	"label"
 "Find in Comments"	"Trouver dans les commentaires"	"dialog"
 "Find in Task Titles"	"Rechercher dans les titres de tâches"	"dialog"

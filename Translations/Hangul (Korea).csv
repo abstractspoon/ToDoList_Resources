@@ -1229,7 +1229,7 @@ TRANSLATED
 "Filtered Tasks"	"필터링된 작업"	"radiobutton"
 "Filtered-out tasks"	"필터링 되지 않은 작업"	"combobox"
 "Filtering"	"필터링"	"label"
-"Filters"	"필터"	"menu"
+"Default Filters"	"필터"	"menu"
 "Find"	"찾기"	"label"
 "Find in Comments"	"작업 설명에서 찾기"	"dialog"
 "Find in Task Titles"	"작업 이름으로 찾기"	"dialog"

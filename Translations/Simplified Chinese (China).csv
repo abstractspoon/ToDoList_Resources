@@ -977,7 +977,7 @@ TRANSLATED
 "Filtered Tasks"	"已筛选任务"	"radiobutton"
 "Filtered-out tasks"	"已滤除的任务"	"combobox"
 "Filtering"	"筛选"	"label"
-"Filters"	"筛选"	"menu"
+"Default Filters"	"筛选"	"menu"
 "Find"	"查找"	"label"
 "Find in Comments"	"在注释中查找"	"dialog"
 "Find in Task Titles"	"在任务标题中查找"	"dialog"

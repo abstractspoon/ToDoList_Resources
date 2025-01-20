@@ -10,3 +10,4 @@
 *.pdb binary
 *.svg binary
 *.zip binary
+*.tdl binary

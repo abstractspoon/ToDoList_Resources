@@ -4,6 +4,10 @@ English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "<multiple tasklists>"	""	"label"
 "<multiple tasks>"	""	"label"
+"Paste %d Values from '%s' Column to '%s' Column"	""	"menu"
+"Paste %d Values from '%s' Column to Selected Tasks in '%s' Column"	""	"menu"
+"Paste Single Value from '%s' Column to All Selected Tasks in '%s' Column"	""	"menu"
+"Paste Single Value from '%s' Column to All Tasks in '%s' Column"	""	"menu"
 "Select Custom Icons"	""	"dialog"
 "Select Search Icon"	""	"dialog"
 "Show a 'partially-complete' checkbox for incomplete parent tasks with completed subtasks"	""	"checkbox"

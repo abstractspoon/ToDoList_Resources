@@ -2,6 +2,10 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Paste %d Values from '%s' Column to '%s' Column"	""	"menu"
+"Paste %d Values from '%s' Column to Selected Tasks in '%s' Column"	""	"menu"
+"Paste Single Value from '%s' Column to All Selected Tasks in '%s' Column"	""	"menu"
+"Paste Single Value from '%s' Column to All Tasks in '%s' Column"	""	"menu"
 "Task Completion"	""	"label"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"

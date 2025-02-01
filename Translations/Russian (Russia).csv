@@ -1836,7 +1836,7 @@ TRANSLATED
 "Reload it and notify me"	"Перезагрузить его и уведомить меня"	"combobox"
 "Reload it without asking me"	"Перезагрузить его, не спрашивая меня"	"combobox"
 "Reload Tasklist"	"Перезагрузить список задач"	"menu"
-"Remaining Time"	"Оставшееся время"	"menu"
+"Time Remaining"	"Оставшееся время"	"menu"
 "Remind me"	"Напомнить за"	"label"
 "Remind me again at"	"Напомнить снова в:"	"radiobutton"
 "Remind me again in"	"Напомнить снова через:"	"radiobutton"

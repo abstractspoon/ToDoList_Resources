@@ -18,6 +18,7 @@ NEED_TRANSLATION
 "<new dependency>"	""	"text"
 "<new rule>"	""	"text"
 "<no task selected>"	""	"text"
+"<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "A connection already exists between the two selected tasks"	""	"text"
 "All Borders"	""	"tooltip"

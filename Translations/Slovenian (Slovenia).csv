@@ -13,6 +13,7 @@ NEED_TRANSLATION
 "<multiple tasklists>"	""	"label"
 "<multiple tasks>"	""	"label"
 "<new dependency>"	""	"text"
+"<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "A connection already exists between the two selected tasks"	""	"text"
 "Add"	""	"combobox"

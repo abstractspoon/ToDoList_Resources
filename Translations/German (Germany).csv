@@ -2,6 +2,7 @@
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"<today>"	""	"combobox"
 "Paste %d Values from '%s' Column to '%s' Column"	""	"menu"
 "Paste %d Values from '%s' Column to Selected Tasks in '%s' Column"	""	"menu"
 "Paste Single Value from '%s' Column to All Selected Tasks in '%s' Column"	""	"menu"

@@ -152,6 +152,7 @@ NEED_TRANSLATION
 "<specific date>"	""	"text"
 "<specific dates>"	""	"combobox"
 "<Tasklist Attached>"	""	"text"
+"<today>"	""	"combobox"
 "<unknown format>"	""	"combobox"
 "<value varies>"	""	"text"
 "A connection already exists between the two selected tasks"	""	"text"

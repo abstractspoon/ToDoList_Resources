@@ -265,6 +265,7 @@ NEED_TRANSLATION
 "<specific date>"	""	"text"
 "<specific dates>"	""	"combobox"
 "<Tasklist Attached>"	""	"text"
+"<today>"	""	"combobox"
 "<unknown format>"	""	"combobox"
 "<value varies>"	""	"text"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	""	"text"

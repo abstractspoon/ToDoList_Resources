@@ -4,6 +4,7 @@ English Text	Translated Text	Item Type
 NEED_TRANSLATION
 "<multiple tasklists>"	""	"label"
 "<multiple tasks>"	""	"label"
+"<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"

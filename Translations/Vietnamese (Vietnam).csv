@@ -6,6 +6,7 @@ NEED_TRANSLATION
 "(Reduce visible date range)"	""	"combobox"
 "<multiple tasklists>"	""	"label"
 "<multiple tasks>"	""	"label"
+"<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"

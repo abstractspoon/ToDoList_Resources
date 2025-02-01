@@ -111,6 +111,7 @@ NEED_TRANSLATION
 "<no task selected>"	""	"text"
 "<separator>"	""	"text"
 "<specific dates>"	""	"combobox"
+"<today>"	""	"combobox"
 "<unknown format>"	""	"combobox"
 "<value varies>"	""	"text"
 "A connection already exists between the two selected tasks"	""	"text"

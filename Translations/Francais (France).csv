@@ -84,6 +84,7 @@ NEED_TRANSLATION
 "<no sound>"	""	"text"
 "<no task selected>"	""	"text"
 "<specific dates>"	""	"combobox"
+"<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "A connection already exists between the two selected tasks"	""	"text"
 "Active Date Range (%s)"	""	"label"

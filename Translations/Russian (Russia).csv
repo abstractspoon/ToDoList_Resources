@@ -2,6 +2,7 @@
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"Clear '%s' Values"	""	"menu"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Одна или несколько задач имеют подзадачи, которые также будут удалены)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Эта задача имеет подзадачи, которые также будут удалены)"

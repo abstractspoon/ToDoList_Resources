@@ -68,6 +68,8 @@ NEED_TRANSLATION
 "Calculation"	""	"text"
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Check Box"	""	"menu"
 "Clear Borders"	""	"tooltip"
 "Clear Zoom"	""	"tooltip"

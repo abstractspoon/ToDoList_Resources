@@ -293,6 +293,8 @@ NEED_TRANSLATION
 "Cleanup Ini Preferences"	""	"dialog"
 "Cleanup Ini Preferences..."	""	"menu"
 "Clear"	""	"menu"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Clear Background Colour"	""	"tooltip"
 "Clear Background Image"	""	"tooltip"
 "Clear Borders"	""	"tooltip"

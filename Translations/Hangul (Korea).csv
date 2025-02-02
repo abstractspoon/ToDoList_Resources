@@ -101,6 +101,8 @@ NEED_TRANSLATION
 "Change Cell Type"	""	"menu"
 "Character Set"	""	"label"
 "Check Box"	""	"menu"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Clear Borders"	""	"tooltip"
 "Clear Focused Task Attribute"	""	"menu"
 "Clear Zoom"	""	"tooltip"

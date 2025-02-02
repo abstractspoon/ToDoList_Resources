@@ -46,6 +46,8 @@ NEED_TRANSLATION
 "Cells"	""	"menu"
 "Change Cell Type"	""	"menu"
 "Check Box"	""	"menu"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Clear Borders"	""	"tooltip"
 "Clear Zoom"	""	"tooltip"
 "Collapse All Images"	""	"tooltip"

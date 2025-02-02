@@ -5,6 +5,8 @@ NEED_TRANSLATION
 "<multiple tasklists>"	""	"label"
 "<multiple tasks>"	""	"label"
 "<today>"	""	"combobox"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Paste %d Values from '%s' Column to '%s' Column"	""	"menu"
 "Paste %d Values from '%s' Column to Selected Tasks in '%s' Column"	""	"menu"
 "Paste Single Value from '%s' Column to All Selected Tasks in '%s' Column"	""	"menu"

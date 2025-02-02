@@ -189,6 +189,8 @@ NEED_TRANSLATION
 "Change Week"	""	"tooltip"
 "Check Box"	""	"menu"
 "Checked in (read-only)"	""	"text"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Clear Borders"	""	"tooltip"
 "Clear Zoom"	""	"tooltip"
 "Collapse All Images"	""	"tooltip"

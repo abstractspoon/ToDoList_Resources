@@ -6,6 +6,8 @@ NEED_TRANSLATION
 "<multiple tasks>"	""	"label"
 "<today>"	""	"combobox"
 "<value varies>"	""	"text"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Column Operations"	""	"menu"
 "Copy '%s' Value"	""	"menu"
 "Copy '%s' Values"	""	"menu"

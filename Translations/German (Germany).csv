@@ -554,6 +554,8 @@ TRANSLATED
 "Cleanup Ini Preferences"	"Einstellungen für Ini-Säuberung"	"dialog"
 "Cleanup Ini Preferences..."	"Einstellungen für Ini-Säuberung..."	"menu"
 "Clear"	"Löschen"	"menu"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Clear All"	"Alles löschen"	"button"
 "Clear Background Colour"	"Hintergrundfarbe entfernen"	"tooltip"
 "Clear Background Image"	"Hintergrundbild entfernen"	"tooltip"

@@ -104,6 +104,8 @@ NEED_TRANSLATION
 "Change Day"	""	"tooltip"
 "Change Week"	""	"tooltip"
 "Check Box"	""	"menu"
+"Clear '%s' Value"	""	"menu"
+"Clear '%s' Values"	""	"menu"
 "Clear Borders"	""	"tooltip"
 "Clear Zoom"	""	"tooltip"
 "Collapse All Images"	""	"tooltip"

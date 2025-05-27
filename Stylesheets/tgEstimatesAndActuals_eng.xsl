@@ -567,6 +567,7 @@ using tg_EstimatesAndActuals XSL v]]></xsl:text>
       body {
       font-family: Tahoma, serif;
       margin: 5px 5px 5px 5px;
+      color: #000000;
       background-color: #FFFFFF;
       font-size: 11px;
       }

@@ -467,6 +467,7 @@ using tg_Estimates XSL v]]></xsl:text><xsl:value-of select="$pVersion" />
       body {
       font-family: Tahoma, serif;
       margin: 5px 5px 5px 5px;
+      color: #000000;
       background-color: #FFFFFF;
       font-size: 11px;
       }

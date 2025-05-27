@@ -174,6 +174,8 @@ June 2103 (added coloured tasks, HTML comments, ability to handle CATEGORY, TAG,
 					body {
 						font-family: Arial;
 						vertical-align: center;
+						color: Black;
+						background-color: White;
 					}
 				</xsl:text>
 			</xsl:element>

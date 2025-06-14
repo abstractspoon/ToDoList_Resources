@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.3.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 6
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -7,6 +7,7 @@ NEED_TRANSLATION
 "<today>"	""	"combobox"
 "Clear '%s' Value"	""	"menu"
 "Clear '%s' Values"	""	"menu"
+"Modify"	""	"tooltip"
 "Paste %d Values from '%s' Column to '%s' Column"	""	"menu"
 "Paste %d Values from '%s' Column to Selected Tasks in '%s' Column"	""	"menu"
 "Paste Single Value from '%s' Column to All Selected Tasks in '%s' Column"	""	"menu"

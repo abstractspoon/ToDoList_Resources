@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.3.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 9
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -1310,6 +1310,7 @@ NEED_TRANSLATION
 "Modified Date"	""	"checklistbox"
   "Modified Date"	""	"combobox"
   "Modified Date"	""	"menu"
+"Modify"	""	"tooltip"
 "Modify all connections of the same type"	""	"checkbox"
 "Modify Connection"	""	"dialog"
 "Modify Reminder..."	""	"menu"

@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.3.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 12
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -268,6 +268,7 @@ NEED_TRANSLATION
 "Merge Cells"	""	"menu"
 "Middle"	""	"combobox"
 "Middle Align"	""	"tooltip"
+"Modify"	""	"tooltip"
 "Modify all connections of the same type"	""	"checkbox"
 "Modify Connection"	""	"dialog"
 "More..."	""	"button"

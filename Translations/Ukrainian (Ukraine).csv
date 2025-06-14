@@ -1,6 +1,8 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 34
 English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Modify"	""	"tooltip"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(УВАГА: одне або кілька із цих завдань мають підзавдання, які також будуть видалені)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(УВАГА: це завдання має підзавдання, які також будуть видалені)"	"text"

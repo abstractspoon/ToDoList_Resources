@@ -1,4 +1,4 @@
-TRANSTEXT 9.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 22
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -120,6 +120,7 @@ NEED_TRANSLATION
 "m"	""	"menu"
 "M"	""	"menu"
 "Microsoft Outlook"	""	"combobox"
+"Modify"	""	"tooltip"
 "Months, mid \t\t(eg. Jan 2013)"	""	"combobox"
 "Months, narrow \t\t(eg. 01/13)"	""	"combobox"
 "Months, wide \t\t(eg. January 2013)"	""	"combobox"

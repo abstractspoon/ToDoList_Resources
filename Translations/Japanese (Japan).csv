@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.3.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 17
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -724,6 +724,7 @@ NEED_TRANSLATION
 "Minimise to System Tray"	""	"menu"
 "Minimum"	""	"combobox"
 "Minimum height of each interval"	""	"label"
+"Modify"	""	"tooltip"
 "Modify all connections of the same type"	""	"checkbox"
 "Modify Connection"	""	"dialog"
 "Modify Reminder..."	""	"menu"

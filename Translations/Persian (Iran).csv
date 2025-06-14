@@ -1349,6 +1349,7 @@ NEED_TRANSLATION
 "Modified Date"	""	"checklistbox"
   "Modified Date"	""	"combobox"
   "Modified Date"	""	"menu"
+"Modify"	""	"tooltip"
 "Modify all connections of the same type"	""	"checkbox"
 "Modify Connection"	""	"dialog"
 "Modify Reminder..."	""	"menu"

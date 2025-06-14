@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.3.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 19
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -13,6 +13,7 @@ NEED_TRANSLATION
 "Copy '%s' Values"	""	"menu"
 "Date must be set"	""	"tooltip"
 "Group Attributes"	""	"tooltip"
+"Modify"	""	"tooltip"
 "Nearest Decade"	""	"combobox"
 "Nearest Half-Hour"	""	"combobox"
 "Paste %d Values from '%s' Column to '%s' Column"	""	"menu"

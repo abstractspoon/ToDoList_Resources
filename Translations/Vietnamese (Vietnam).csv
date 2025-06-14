@@ -1,4 +1,4 @@
-﻿TRANSTEXT 8.3.0
+﻿TRANSTEXT 9.0
 PRIMARY_LANGID 42
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
@@ -21,6 +21,7 @@ NEED_TRANSLATION
 "Group Attributes"	""	"tooltip"
 "Locale (location)"	""	"text"
 "Markdeep Files"	""	"text"
+"Modify"	""	"tooltip"
 "Nearest Decade"	""	"combobox"
 "Nearest Half-Hour"	""	"combobox"
 "Negative numbers"	""	"label"

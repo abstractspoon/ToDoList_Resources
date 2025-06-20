@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Modify"	""	"tooltip"
 TRANSLATED
 "% Complete"	"% erledigt"	"label"
 "% of page"	"% der Seite"	"combobox"
@@ -1344,6 +1342,7 @@ TRANSLATED
 "Modify Table"	"Tabelle ändern"	"dialog"
 "Modify Task Reminder"	"Aufgabenerinnerung ändern"	"text"
 "Modify..."	"Ändern..."	"button"
+"Modify"	"Ändern"	"tooltip"
 "Monthly"	"Monatlich"	"radiobutton"
 "months"	"Monate"	"label"
 "Months"	"Monate"	"menu"
@@ -1958,7 +1957,7 @@ TRANSLATED
 "Sorting"	"Sortierung"	"label"
 "Sounds"	"Klänge"	"text"
 "Source Control"	"Versionskontrolle"	"menu"
-"Source Control Changes"	"Quellcodeänderungen"	"text"
+"Source Control Changes"	"Versionsänderungen"	"text"
 "spaces"	"Leerstellen"	"label"
 "Specific"	"Benutzerdefiniert"	"radiobutton"
 "Specific days"	"Benutzerdef. Tage"	"label"

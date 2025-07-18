@@ -2525,3 +2525,7 @@ NEED_TRANSLATION
 "{0} (Custom)"	""	"menu"
 "{0} Day View"	""	"tooltip"
 "{0} minutes"	""	"text"
+"{0}H duration"	""	"text"
+"{0}H logged"	""	"text"
+"{0}m duration"	""	"text"
+"{0}m logged"	""	"text"

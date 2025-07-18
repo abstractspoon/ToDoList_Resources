@@ -2,6 +2,12 @@
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION
+"%s\nDue %s\nCompleted %s"	""	"tooltip"
+"Due/Completion Dates"	""	"combobox"
+"{0}H duration"	""	"text"
+"{0}H logged"	""	"text"
+"{0}m duration"	""	"text"
+"{0}m logged"	""	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Одна или несколько задач имеют подзадачи, которые также будут удалены)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Эта задача имеет подзадачи, которые также будут удалены)"
@@ -13,7 +19,7 @@ TRANSLATED
 "%d more tasks"	"ещё несколько (%d) задач"	"tooltip"
 "%d tasks selected"	"%d задач выбрано"	"text"
 "%s\n%d Estimated\n%d Actual"	"%s\n%d оценено\n%d фактически"	"tooltip"
-"%s\n%d Estimated\n%d Spent"	"%s\n%d оценено\n%d потрачено"	"tooltip"
+"%s\n%0.2f Estimated\n%0.2f Spent"	"%s\n%0.2f оценено\n%0.2f потрачено"	"tooltip"
 "%s\n%d Started\n%d Completed"	"%s\n%d начато\n%d выполнено"	"tooltip"
 "%s\n%d Tasks"	"%s\n%d задач"	"tooltip"
 "%s (Custom)"	"%s (пользовательское)"	"text"

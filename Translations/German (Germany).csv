@@ -1,12 +1,11 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"<optional>"	""	"text"
-"Connect to Server"	""	"dialog"
-"List"	""	"menu"
-"Select File to Download"	""	"text"
 TRANSLATED
+"<optional>"	"<optional>"	"text"
+"Connect to Server"	"Mit Server verbinden"	"dialog"
+"List"	"Liste"	"menu"
+"Select File to Download"	"Datei zum Download wählen"	"text"
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	"\n\nMöchten sie das Auschecken der Aufgabenliste erzwingen?\n\nAnmerkung: Alle ungespeicherten Daten von '%s' gehen dabei verloren!"	"text"
@@ -350,7 +349,7 @@ TRANSLATED
 "Allow sorting by clicking on column headers"	"Sortierung durch Klick auf den Spaltentitel aktivieren"	"checkbox"
 "Allow time-tracking on parent tasks"	"Erlaube Zeiterfassung in Hauptaufgaben"	"checkbox"
 "Alpha Release"	"Alpha-Version"	"text"
-"Also add time to task 'Time Spent'"	"Zeit auch zur Aufgabe 'Zeitaufwand' hinzufügen"	"text"
+"Also add time to task 'Time Spent'"	"Zeitaufwand der Aufgabe auch anpassen"	"text"
 "Also add time to task's 'Time Spent'"	"Zeitaufwand der Aufgabe auch anpassen"	"checkbox"
 "Alternate line colour"	"Unterschiedliche Linienfarben"	"checkbox"
 "Always export task ID and Parent task ID"	"Immer Aufgaben ID und Hauptaufgaben ID export."	"checkbox"

@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
-"Database"	""	"label"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -696,6 +694,7 @@ TRANSLATED
 "Dark Mode|Dark Mode will be updated next time you restart ToDoList.\n\nWould you like to restart ToDoList now?"	"Dunkler Modus|Der Dunkle Modus wird beim nächsten Neustart von Todolist umgeschaltet.\n\nMöchten sie ToDoList jetzt neu starten?"	"text"
 "Dashed"	"Gestrichelt"	"menu"
 "Data"	"Daten"	"menu"
+"Database"	"Datenbank"	"label"
 "Data Format"	"Datenformat"	"menu"
 "Data Type"	"Datentyp"	"text"
 "Data type"	"Datentyp"	"label"

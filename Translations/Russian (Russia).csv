@@ -3,7 +3,6 @@ PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
 "<multiple tasklists>"	""	"label"
-"AaBbYyZz"	""	"label"
 "Confirm Save As"	""	"dialog"
 "Edit Dropdown List Items..."	""	"menu"
 "HTML"	""	"groupbox"

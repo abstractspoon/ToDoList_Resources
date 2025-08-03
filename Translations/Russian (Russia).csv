@@ -1,7 +1,17 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
+NEED_TRANSLATION 0
+"<multiple tasklists>"	""	"label"
+"AaBbYyZz"	""	"label"
+"Confirm Save As"	""	"dialog"
+"Edit Dropdown List Items..."	""	"menu"
+"HTML"	""	"groupbox"
+  "HTML"	""	"menu"
+"ID"	""	"sysheader32"
+"Microsoft Outlook"	""	"combobox"
+"OK"	""	"button"
+"PID"	""	"sysheader32"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Одна или несколько задач имеют подзадачи, которые также будут удалены)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Эта задача имеет подзадачи, которые также будут удалены)"

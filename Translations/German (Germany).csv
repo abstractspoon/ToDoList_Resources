@@ -1,9 +1,6 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION 0
-"JSON"	""	"combobox"
-"The active log file was successfully anonymised.\n\nWould you like to load the anonymised version?"	""	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1299,6 +1296,7 @@ TRANSLATED
 "Italic"	"Kursiv"	"menu"
   "Italic"	"Kursiv"	"tooltip"
 "Its assigned date"	"Das zugewiesene Datum"	"radiobutton"
+"JSON"	"JSON"	"combobox"
 "Justify"	"Ausrichtung"	"menu"
   "Justify"	"Blocksatz"	"tooltip"
 "Kanban"	"Kanban"	"systabcontrol32"
@@ -2235,6 +2233,7 @@ TRANSLATED
 "Text Files"	"Textdateien"	"combobox"
 "Text prompt"	"Text eingeben"	"text"
 "The"	"Am"	"radiobutton"
+"The active log file was successfully anonymised.\n\nWould you like to load the anonymised version?"	"Die aktive Protokolldatei wurde erfolgreich anonymisiert.\n\nMöchten Sie die anonymisierte Version laden?"	"text"
 "The active tasklist"	"die aktive Aufgabenliste"	"combobox"
 "the active tasklist"	"die aktive Aufgabenliste"	"combobox"
 "The active tasklist was successfully anonymised.\n\nWould you like to load the anonymised version?"	"Die aktive Aufgabenliste wurde erfolgreich anonymisiert.\n\nMöchten Sie die anonymisierte Version laden?"	"text"

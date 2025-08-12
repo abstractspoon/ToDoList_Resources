@@ -196,7 +196,6 @@ NEED_TRANSLATION 7
 "Top Left"	""	"menu"
 "Top Right"	""	"menu"
 "Unmaximise"	""	"menu"
-"Unmerge"	""	"menu"
 "Use 1000s Separator"	""	"checkbox"
 "Web Pages"	""	"text"
 "{0}H duration"	""	"text"

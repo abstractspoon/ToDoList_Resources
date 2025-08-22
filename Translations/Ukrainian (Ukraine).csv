@@ -95,6 +95,7 @@ NEED_TRANSLATION 6
 "New Log Entry"	""	"dialog"
 "New Name"	""	"label"
   "New Name"	""	"dialog"
+"New Tool"	""	"text"
 "No date set"	""	"tooltip"
 "No matching menu items found"	""	"menu"
 "Note: You will also need to enable the 'Inheritable' feature on each relevant custom attribute."	""	"label"

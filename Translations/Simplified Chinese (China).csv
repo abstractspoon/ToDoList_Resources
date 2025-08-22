@@ -12,6 +12,7 @@ NEED_TRANSLATION 0
 "7 : 36 points"	""	"combobox"
 "Bar Style"	""	"combobox"
 "Bitmap Images (*.bmp)|*.bmp|GIF Images (*.gif)|*.gif|JPEG Images (*.jpg, *.jpeg)|*.jpg;*.jpeg|PNG Images (*.png)|*.png|TIFF Images (*.tif)|*.tif||"	""	"text"
+"New Tool"	""	"text"
 "Pie Style"	""	"combobox"
 "ToDoList Web Update (c) AbstractSpoon"	""	"dialog"
 TRANSLATED

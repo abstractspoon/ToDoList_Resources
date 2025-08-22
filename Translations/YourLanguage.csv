@@ -1565,6 +1565,7 @@ NEED_TRANSLATION
 "New Time Block"	""	"dialog"
   "New Time Block"	""	"tooltip"
 "New ToDoList Tool"	""	"tooltip"
+"New Tool"	""	"text"
 "Next >"	""	"button"
 "Next Image"	""	"tooltip"
 "Next Match"	""	"tooltip"

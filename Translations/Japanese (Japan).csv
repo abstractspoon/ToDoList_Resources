@@ -869,6 +869,7 @@ NEED_TRANSLATION 57
 "New Report Template"	""	"tooltip"
 "New Time Block"	""	"dialog"
 "New ToDoList Tool"	""	"tooltip"
+"New Tool"	""	"text"
 "Next >"	""	"button"
 "Next Image"	""	"tooltip"
 "Next Match"	""	"tooltip"

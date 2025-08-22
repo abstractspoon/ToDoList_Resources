@@ -117,6 +117,7 @@ NEED_TRANSLATION 7
 "New Log Entry"	""	"dialog"
 "New Name"	""	"label"
   "New Name"	""	"dialog"
+"New Tool"	""	"text"
 "Next Image"	""	"tooltip"
 "No date set"	""	"tooltip"
 "No matching menu items found"	""	"menu"

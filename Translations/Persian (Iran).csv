@@ -1542,6 +1542,7 @@ NEED_TRANSLATION 100
 "New tasklist"	""	"radiobutton"
 "New Time Block"	""	"dialog"
 "New ToDoList Tool"	""	"tooltip"
+"New Tool"	""	"text"
 "Next >"	""	"button"
 "Next Image"	""	"tooltip"
 "Next Match"	""	"tooltip"

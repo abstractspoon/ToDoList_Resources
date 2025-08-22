@@ -254,6 +254,7 @@ NEED_TRANSLATION 15
 "New Named Range"	""	"dialog"
 "New Time Block"	""	"dialog"
 "New ToDoList Tool"	""	"tooltip"
+"New Tool"	""	"text"
 "Next Image"	""	"tooltip"
 "No date set"	""	"tooltip"
 "No matching menu items found"	""	"menu"

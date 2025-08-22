@@ -379,6 +379,7 @@ NEED_TRANSLATION 22
 "New project name"	""	"label"
 "New Time Block"	""	"dialog"
 "New ToDoList Tool"	""	"tooltip"
+"New Tool"	""	"text"
 "Next Image"	""	"tooltip"
 "Next Match"	""	"tooltip"
 "Next/Previous {0} days"	""	"tooltip"

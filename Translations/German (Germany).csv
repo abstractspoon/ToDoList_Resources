@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION 0
-"New Tool"	""	"text"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -1530,6 +1528,7 @@ TRANSLATED
 "New Tasklist"	"&Neue Aufgabenliste"	"menu"
 "New Time Block"	"Neuer Zeitblock"	"dialog"
 "New ToDoList Tool"	"Neues ToDoList Werkzeug"	"tooltip"
+"New Tool"	"Neues Werkzeug"	"text"
 "Next >"	"Weiter >"	"button"
 "Next Image"	"Nächstes Bild"	"tooltip"
 "Next Match"	"Nächster Treffer"	"tooltip"

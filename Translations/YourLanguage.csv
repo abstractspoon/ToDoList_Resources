@@ -7,6 +7,7 @@ NEED_TRANSLATION
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"
 "%d / %d tasks"	""	"text"
 "%d more tasks"	""	"tooltip"
+"%d Tasks"	""	"tooltip"
 "%d tasks selected"	""	"text"
 "%s (Custom)"	""	"text"
 "%s (Custom, Relative)"	""	"text"

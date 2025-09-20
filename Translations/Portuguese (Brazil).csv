@@ -4,6 +4,7 @@ English Text	Translated Text	Item Type
 NEED_TRANSLATION 13
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	""	"text"
 "\n\nDo you want to forcibly checkout the tasklist?\n\nNote: Any unsaved data from '%s' will be lost!"	""	"text"
+"%d Tasks"	""	"tooltip"
 "%s\n%0.2f Estimated\n%0.2f Spent"	""	"tooltip"
 "%s\n%d Estimated\n%d Actual"	""	"tooltip"
 "%s\n%d Started\n%d Completed"	""	"tooltip"

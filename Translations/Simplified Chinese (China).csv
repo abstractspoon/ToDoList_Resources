@@ -2,6 +2,7 @@ TRANSTEXT 9.0
 PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
+"%d Tasks"	""	"tooltip"
 "%s\nDue %s\nCompleted %s"	""	"tooltip"
 "1 : 8  points"	""	"combobox"
 "2 : 10 points"	""	"combobox"

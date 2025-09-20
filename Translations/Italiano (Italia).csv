@@ -1,7 +1,8 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 16
 English Text	Translated Text	Item Type
-NEED_TRANSLATION 19
+NEED_TRANSLATION 20
+"%d Tasks"	""	"tooltip"
 "%s\nDue %s\nCompleted %s"	""	"tooltip"
 "%s (Fixed Columns)"	""	"combobox"
 "%s ago"	""	"text"

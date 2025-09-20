@@ -2,6 +2,7 @@
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
+"%d Tasks"	""	"tooltip"
 "New Tool"	""	"text"
 TRANSLATED
 "% Complete"	"% выполнения"	"label"

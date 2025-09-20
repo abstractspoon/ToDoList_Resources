@@ -2,6 +2,7 @@
 PRIMARY_LANGID 36
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 15
+"%d Tasks"	""	"tooltip"
 "%s\nDue %s\nCompleted %s"	""	"tooltip"
 "%s (Fixed Columns)"	""	"combobox"
 "%s ago"	""	"text"

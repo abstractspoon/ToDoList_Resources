@@ -10,6 +10,7 @@ NEED_TRANSLATION 100
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	""	"text"
 "%d / %d tasks"	""	"text"
 "%d more tasks"	""	"tooltip"
+"%d Tasks"	""	"tooltip"
 "%d tasks selected"	""	"text"
 "%s\n%0.2f Estimated\n%0.2f Spent"	""	"tooltip"
 "%s\n%d Estimated\n%d Actual"	""	"tooltip"

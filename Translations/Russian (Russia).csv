@@ -1,7 +1,7 @@
 TRANSTEXT 9.0
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
-NEED_TRANSLATION
+NEED_TRANSLATION 0
 TRANSLATED
 "% Complete"	"% выполнения"	"label"
 "% of page"	"% страницы"	"combobox"
@@ -682,7 +682,7 @@ TRANSLATED
 "Continue to update subtasks as parent changes"	"Продолжать обновление подзадач при изменении в родительской задаче"	"checkbox"
 "Contribution"	"Вклад"	"sysheader32"
 "Contributor"	"Автор"	"sysheader32"
-"Contributors"	"Авторы:\t\t\tперевод by 𝓔𝔁𝔀𝓻𝓲 𝓜𝔂𝓵𝓮𝓲 for v9.1.2"	"label"
+"Contributors"	"Авторы:"	"label"
 "Control each field individually"	"Настроить каждое поле по отдельности"	"radiobutton"
 "Conversation Topic"	"Тема беседы"	"text"
 "Convert selected object between types\nConvert Object"	"Конвертировать выбранный объект между типами\nКонвертировать объект"	"text"

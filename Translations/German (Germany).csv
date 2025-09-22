@@ -1,8 +1,6 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 7
 English Text	Translated Text	Item Type
-NEED_TRANSLATION 0
-"%d Tasks"	""	"tooltip"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Eine oder mehrere Aufgaben haben Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ACHTUNG: Diese Aufgabe hat Teilaufgaben, die ebenfalls gelöscht werden.)"	"text"
@@ -12,6 +10,7 @@ TRANSLATED
 "%0.1f Kb downloaded so far (%0.1f Kb remaining)"	"%0.1f kB bisher heruntergeladen (%0.1f kB verbleibend)"	"text"
 "%d / %d tasks"	"%d / %d Aufgaben"	"text"
 "%d more tasks"	"%d weitere Aufgaben"	"tooltip"
+"%d Tasks"	"%d Aufgaben"	"tooltip"
 "%d tasks selected"	"%d Aufgaben ausgewählt"	"text"
 "%s\n%0.2f Estimated\n%0.2f Spent"	"%s\n%0.2f Geschätzt\n%0.2f Zeitaufwand"	"tooltip"
 "%s\n%d Estimated\n%d Actual"	"%s\n%d Geschätzt\n%d Aktuell"	"tooltip"

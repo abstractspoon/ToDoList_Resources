@@ -509,6 +509,7 @@ NEED_TRANSLATION 21
 "Text Control"	""	"label"
 "The active log file was successfully anonymised.\n\nWould you like to load the anonymised version?"	""	"text"
 "The active tasklist was successfully anonymised.\n\nWould you like to load the anonymised version?"	""	"text"
+"The log file could not be loaded."	""	"text"
 "The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"
 "Then by"	""	"label"
 "There was a problem updating ToDoList at this time.\nOften this can be a problem with file and folder permissions.\n\nWould you like to view the update log file for possible clues?"	""	"text"

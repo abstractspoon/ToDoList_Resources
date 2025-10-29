@@ -15,6 +15,7 @@ NEED_TRANSLATION 0
 "Bitmap Images (*.bmp)|*.bmp|GIF Images (*.gif)|*.gif|JPEG Images (*.jpg, *.jpeg)|*.jpg;*.jpeg|PNG Images (*.png)|*.png|TIFF Images (*.tif)|*.tif||"	""	"text"
 "New Tool"	""	"text"
 "Pie Style"	""	"combobox"
+"The log file could not be loaded."	""	"text"
 "ToDoList Web Update (c) AbstractSpoon"	""	"dialog"
 TRANSLATED
 "% Complete"	"完成百分比"	"label"

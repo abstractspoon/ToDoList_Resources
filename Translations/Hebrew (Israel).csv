@@ -884,6 +884,7 @@ NEED_TRANSLATION 37
 "The file '%s' does not have a recognised format."	""	"text"
 "The following files will be be overwritten by the export"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
+"The log file could not be loaded."	""	"text"
 "The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"
 "The selected tasks have no dependents."	""	"text"
 "The tool '%s' could not be found.\n\nPlease check that it has not been moved or deleted and try again."	""	"text"

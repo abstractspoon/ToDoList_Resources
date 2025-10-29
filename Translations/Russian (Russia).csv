@@ -2,6 +2,7 @@ TRANSTEXT 9.0
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
+"The log file could not be loaded."	""	"text"
 TRANSLATED
 "% Complete"	"% выполнения"	"label"
 "% of page"	"% страницы"	"combobox"

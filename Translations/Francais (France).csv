@@ -537,6 +537,7 @@ NEED_TRANSLATION 22
 "The exported content could not be saved to '%s'"	""	"text"
 "The file '%s' does not have a recognised format."	""	"text"
 "The following tasklists have been checked in:\n\n%s"	""	"text"
+"The log file could not be loaded."	""	"text"
 "The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"
 "The tool '%s' could not be found.\n\nPlease check that it has not been moved or deleted and try again."	""	"text"
 "The tool '%s' could not be run.\n\nPlease check you have the required access rights and try again."	""	"text"

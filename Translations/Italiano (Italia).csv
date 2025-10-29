@@ -467,6 +467,7 @@ NEED_TRANSLATION 20
 "The active tasklist was successfully anonymised.\n\nWould you like to load the anonymised version?"	""	"text"
 "The exported content could not be saved to '%s'"	""	"text"
 "The following task has been tracked for %d minutes:\n\n%s: %s"	""	"text"
+"The log file could not be loaded."	""	"text"
 "The log file could not be updated."	""	"text"
 "The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"
 "The updater is missing from the installation folder.\n\nWould you like to try downloading the update file manually?"	""	"text"

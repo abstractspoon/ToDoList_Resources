@@ -673,6 +673,7 @@ NEED_TRANSLATION 29
 "The following tasklists have been checked out:\n\n%s"	""	"text"
 "The following tasklists have been reloaded:\n\n%s"	""	"text"
 "The keyboard shortcut you have just used is now reserved for use by ToDoList.\n\nWould you like to change it to something else?"	""	"text"
+"The log file could not be loaded."	""	"text"
 "The log file could not be updated."	""	"text"
 "The output path '%s' could not be created.\n\nPlease specify an alternative location."	""	"text"
 "The requested image was too large to be created.\n\nTry zooming out or otherwise reducing the extents of the tasks to be rendered."	""	"text"

@@ -2,7 +2,6 @@ TRANSTEXT 9.0
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
-"The log file could not be loaded."	""	"text"
 TRANSLATED
 "% Complete"	"% выполнения"	"label"
 "% of page"	"% страницы"	"combobox"
@@ -2332,6 +2331,7 @@ TRANSLATED
 "The later of the task's 'Start' date and 'Today'"	"Более поздняя из даты начала задачи и сегодня"	"radiobutton"
 "The latest of its due date and all its subtasks' due dates"	"Самый поздний срок этой задачи и всех её подзадач"	"radiobutton"
 "The latest of its start date and all its subtasks' start dates"	"Самая поздняя дата начала этой задачи и всех её подзадач"	"radiobutton"
+"The log file could not be loaded."	"Не удалось загрузить журнал учёта."	"text"
 "The log file could not be updated."	"Не удалось обновить журнал учёта."	"text"
 "the Minimise button is selected"	"нажатии на кнопку [−]"	"combobox"
 "the Minimise or Close button is selected"	"нажатии на кнопки [−] или [×]"	"combobox"

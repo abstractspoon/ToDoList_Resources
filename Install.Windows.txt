@@ -24,22 +24,33 @@ To install ToDoList, carry out the following steps:
 4. When you are ready double-click 'ToDoList.exe' to start working.
    
 ----------------------------------------------------------------------
-Extra steps for Windows 8/8.1/10 users with 4K screens
 
-1. Rename the file 'todolist.exe.4K.manifest' to 'todolist.exe.manifest',
-   otherwise Windows will auto-scale ToDoList which may appear blurry.
+Extra steps if you are not seeing the following plugin task views:
+
+* Evidence Board
+* Logged Time
+* Mind Map
+* Week Planner
+* Word Cloud
+ 
+1. Install the x86 version of the 'MS Visual C++ VS2015 Redistributable'
+   (Google for that exact quoted text)
+    
+2. Install the 'Microsoft .NET Framework 4.6.2' package
+   (Google for that exact quoted text)
 
 ----------------------------------------------------------------------
-Extra steps for Windows XP users
+
+Extra steps for Windows XP users:
 
 1. Rename the file 'todolist.exe.XP.manifest' to 'todolist.exe.manifest',
    otherwise ToDoList will not run.
 
-2. To enable the 'Day View', 'Word Cloud' and 'Mind Map' plugins, download and install:
 
-   a) .NET Framework 4.0:
-   https://www.microsoft.com/en-au/download/confirmation.aspx?id=17718
-
-   b) Visual C++ 2010 Redistributables:
-   https://www.microsoft.com/en-au/download/confirmation.aspx?id=5555
-   
+==========================================================
+|                                                        | 
+|  Visit our forums with any questions or difficulties:  |
+|                                                        |
+|     https://www.abstractspoon.com/phpBB/index.php      |
+|                                                        |
+|=========================================================

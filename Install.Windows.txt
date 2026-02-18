@@ -34,10 +34,10 @@ Extra steps if you are not seeing the following plugin task views:
 * Word Cloud
  
 1. Install the x86 version of the 'MS Visual C++ VS2015 Redistributable'
-   (Google for that exact quoted text)
+   (https://github.com/abstractspoon/ToDoList_Downloads/raw/master/Latest/vs2015_x86_Installer.exe)
     
 2. Install the 'Microsoft .NET Framework 4.6.2' package
-   (Google for that exact quoted text)
+   (https://github.com/abstractspoon/ToDoList_Downloads/raw/master/Latest/dotnet462_Installer.exe)
 
 ----------------------------------------------------------------------
 

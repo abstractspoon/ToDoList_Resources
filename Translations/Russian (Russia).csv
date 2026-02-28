@@ -1,23 +1,36 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
-NEED_TRANSLATION 0
+NEED_TRANSLATION 1
 "%d/%d attributes remaining"	""	"label"
 "%d/%d tools remaining"	""	"label"
+"'Time Spent' or 'Comment' required"	""	"label"
 "<Group End>"	""	"combobox"
 "<Group Start>"	""	"combobox"
 "All attributes, including"	""	"radiobutton"
 "Apply offset from"	""	"checkbox"
+"Check Spelling..."	""	"menu"
+"Completion"	""	"combobox"
 "Grouping"	""	"combobox"
 "In Task..."	""	"menu"
+"Invalid 'Date range'"	""	"label"
+"Invalid 'End' time"	""	"label"
+"Invalid 'Specific days'"	""	"label"
+"Invalid 'Time of day'"	""	"label"
 "Invalid Search|The current search contains %d unmatched %s."	""	"text"
 "Invalid Search|The current search contains no rules."	""	"text"
+"Invalid task"	""	"label"
 "Language (Country)"	""	"combobox"
 "Move Task View Tab Left"	""	"menu"
 "Move Task View Tab Right"	""	"menu"
 "New Subtask in Task..."	""	"menu"
+"No options selected"	""	"label"
+"not set"	""	"text"
 "Select New Subtask Parent"	""	"dialog"
+"Show completed tasks"	""	"checkbox"
 "Single-click Editing"	""	"tooltip"
+"Tool Details"	""	"groupbox"
+"Use legacy scrollbar positioning"	""	"checkbox"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Одна или несколько задач имеют подзадачи, которые также будут удалены)"	"text"
 "\n\n(ATTENTION: This task has subtasks which will also be deleted)"	"\n\n(ВНИМАНИЕ: Эта задача имеет подзадачи, которые также будут удалены)"	"text"

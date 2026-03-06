@@ -1,6 +1,20 @@
 ﻿TRANSTEXT 9.0
 PRIMARY_LANGID 5
 English Text	Translated Text	Item Type
+NEED_TRANSLATION 0
+"'Time Spent' or 'Comment' required"	""	"label"
+"Check Spelling..."	""	"menu"
+"Completion"	""	"combobox"
+"Invalid 'Date range'"	""	"label"
+"Invalid 'End' time"	""	"label"
+"Invalid 'Specific days'"	""	"label"
+"Invalid 'Time of day'"	""	"label"
+"Invalid task"	""	"label"
+"No options selected"	""	"label"
+"not set"	""	"text"
+"Show completed tasks"	""	"checkbox"
+"Tool Details"	""	"groupbox"
+"Use legacy scrollbar positioning"	""	"checkbox"
 TRANSLATED
 "% Complete"	"% Hotovo"	"label"
 "% of page"	"% stránky"	"combobox"

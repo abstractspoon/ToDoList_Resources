@@ -2075,6 +2075,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Schrittweite für '% erledigt'"	"label"
 "Set Background Colour"	"Hintergrundfarbe wählen"	"tooltip"
 "Set Background Image"	"Hintergrundbild wählen"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	"Fokus setzen"	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	"Immer Fokus auf Aufgabenliste setzen, wenn ToDoList aktiviert ist"	"checkbox"
 "Set Label Background Colour"	"Farbe für Texthintergrund setzen"	"tooltip"

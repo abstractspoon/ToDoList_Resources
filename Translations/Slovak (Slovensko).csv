@@ -2253,6 +2253,7 @@ TRANSLATED
 "Server Busy"	"Server je zaneprázdnený"	"dialog"
 "Set Background Colour"	"Nastaviť farbu pozadia"	"tooltip"
 "Set Background Image"	"Nastaviť obrázok na pozadí"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Nastaviť fokus na zoznam úloh keď je ToDoList aktivovaný"	"checkbox"
 "Set period to 'this' month"	"Nastavte obdobie na „tento“ mesiac"	"text"
 "Set Reminder"	"Nastaviť pripomienku"	"tooltip"

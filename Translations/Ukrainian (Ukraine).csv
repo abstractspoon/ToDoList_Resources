@@ -2077,6 +2077,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Встановити приріст '% завершення'."	"label"
 "Set Background Colour"	"Встановити колір фону"	"tooltip"
 "Set Background Image"	"Встановити фонове зображення"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	"Встановити фокус"	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	"Встановити фокус на список завдань щоразу, коли активовано ToDoList"	"checkbox"
 "Set Label Background Colour"	"Встановити колір фону мітки"	"tooltip"

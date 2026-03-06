@@ -1189,6 +1189,7 @@ NEED_TRANSLATION 57
 "Server Busy"	""	"dialog"
 "Set Background Colour"	""	"tooltip"
 "Set Background Image"	""	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	""	"menu"
 "Set Label Background Colour"	""	"tooltip"
 "Set Label Background Colour..."	""	"menu"

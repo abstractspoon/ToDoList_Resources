@@ -836,6 +836,7 @@ NEED_TRANSLATION 38
 "Selected Task Path"	""	"menu"
 "Set Background Colour"	""	"tooltip"
 "Set Background Image"	""	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	""	"menu"
 "Set Label Background Colour"	""	"tooltip"
 "Set Label Background Colour..."	""	"menu"

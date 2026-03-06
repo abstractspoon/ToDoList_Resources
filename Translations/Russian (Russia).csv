@@ -2076,6 +2076,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Задать шаг % выполнения:"	"label"
 "Set Background Colour"	"Задать цвет фона"	"tooltip"
 "Set Background Image"	"Задать фоновое изображение"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	"Установить фокус на"	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	"Установить фокус на список задач при активации окна программы"	"checkbox"
 "Set Label Background Colour"	"Задать цвет фона названия"	"tooltip"

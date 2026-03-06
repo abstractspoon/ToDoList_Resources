@@ -2110,6 +2110,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Trinstørrelse for '% Færdig'"	"label"
 "Set Background Colour"	"Vælg baggrundsfarve"	"tooltip"
 "Set Background Image"	"Vælg baggrundsbillede"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Indstil fokus til opgaveliste, når ToDoList er aktiveret"	"checkbox"
 "Set period to 'this' month"	"Indstil periode til denne måned"	"text"
 "Set Reminder"	"Sæt påmindelse"	"tooltip"

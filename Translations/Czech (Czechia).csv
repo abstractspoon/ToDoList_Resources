@@ -2006,6 +2006,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Nastavit krok '% hotovo' na"	"label"
 "Set Background Colour"	"Nastavit barvu pozadí"	"tooltip"
 "Set Background Image"	"Nastavit obrázek pozadí"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	"Zaměřit"	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	"Přenést zaměření na seznam úkolů při každé aktivaci ToDoListu"	"checkbox"
 "Set Label Background Colour"	"Nastavit barvu pozadí popisku"	"tooltip"

@@ -2197,6 +2197,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Définir l'incrément de '% Accompli' à"	"label"
 "Set Background Colour"	"Définir la couleur de fond"	"tooltip"
 "Set Background Image"	"Définir l'image de fond"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Placer le focus sur la liste des tâches lorsque ToDoList est activé"	"checkbox"
 "Set period to 'this' month"	"Définir une période pour 'ce' mois"	"text"
 "Set Reminder"	"Programmer un rappel"	"tooltip"

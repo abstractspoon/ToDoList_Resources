@@ -2077,6 +2077,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"'% Tamamlandı' artışını şu şekilde ayarlayın"	"label"
 "Set Background Colour"	"Arka Plan Rengini Ayarla"	"tooltip"
 "Set Background Image"	"Arka Plan Görüntüsünü Ayarla"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	"Odağı Ayarla"	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	"ToDoList etkinleştirildiğinde odağı görev listesine ayarla"	"checkbox"
 "Set Label Background Colour"	"Etiket Arka Plan Rengini Ayarla"	"tooltip"

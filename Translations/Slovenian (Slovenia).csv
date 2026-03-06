@@ -2159,6 +2159,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Nastavi prirastek '% dokončanja' na"	"label"
 "Set Background Colour"	"Nastavite barvo ozadja"	"tooltip"
 "Set Background Image"	"Nastavite sliko ozadja"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Nastavi fokus na seznam opravil kadarkoli je ToDoList aktiviran"	"checkbox"
 "Set period to 'this' month"	"Nastavite obdobje na ta mesec"	"text"
 "Set Reminder"	"Nastavi opomnik"	"tooltip"

@@ -2038,6 +2038,7 @@ NEED_TRANSLATION 98
 "Set '% Complete' increment  to"	""	"label"
 "Set Background Colour"	""	"tooltip"
 "Set Background Image"	""	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	""	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	""	"checkbox"
 "Set Label Background Colour"	""	"tooltip"

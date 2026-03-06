@@ -2078,6 +2078,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"设置完成百分比为"	"label"
 "Set Background Colour"	"设置背景颜色"	"tooltip"
 "Set Background Image"	"设置背景图像"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set Focus"	"设定焦点"	"menu"
 "Set focus to tasklist whenever ToDoList is activated"	"当ToDoList激活时，将焦点设置为任务列表"	"checkbox"
 "Set Label Background Colour"	"设置标签背景色"	"tooltip"

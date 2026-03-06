@@ -2111,6 +2111,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Zet '% Afgewerkt' verhoging naar"	"label"
 "Set Background Colour"	"Achtergrondkleur instellen"	"tooltip"
 "Set Background Image"	"Achtergrondafbeelding instellen"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Zet focus op taaklijst telkens ToDoList geactiveerd wordt"	"checkbox"
 "Set period to 'this' month"	"Stel periode in op 'deze' maand"	"text"
 "Set Reminder"	"Bepaal herinnering"	"tooltip"

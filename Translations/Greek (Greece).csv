@@ -2159,6 +2159,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Ορίστε την προσαύξηση% Complete σε"	"label"
 "Set Background Colour"	"Ορισμός χρώματος φόντου"	"tooltip"
 "Set Background Image"	"Ορισμός εικόνας φόντου"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Ορισμός εστίασης στη λίστα εργασιών κάθε φορά που ενεργοποιείται η λίστα εργασιών"	"checkbox"
 "Set period to 'this' month"	"Ορισμός περιόδου σε 'αυτόν' τον μήνα"	"text"
 "Set Reminder"	"Ορισμός υπενθύμισης"	"tooltip"

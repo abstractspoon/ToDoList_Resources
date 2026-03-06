@@ -2115,6 +2115,7 @@ TRANSLATED
 "Set '% Complete' increment  to"	"Đặt mức tăng '% Hoàn thành' thành"	"label"
 "Set Background Colour"	"Đặt màu nền"	"tooltip"
 "Set Background Image"	"Đặt hình nền"	"tooltip"
+  "Set Background Image"	""	"dialog"
 "Set focus to tasklist whenever ToDoList is activated"	"Đặt tiêu điểm vào danh sách nhiệm vụ bất cứ khi nào ToDoList được kích hoạt"	"checkbox"
 "Set period to 'this' month"	"Tháng hiện tại"	"text"
 "Set Reminder"	"Thiết lập nhắc nhở"	"tooltip"

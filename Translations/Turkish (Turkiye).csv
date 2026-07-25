@@ -12,6 +12,7 @@ NEED_TRANSLATION 1
 "Check Spelling..."	""	"menu"
 "Completion"	""	"combobox"
 "Dropdown List Cell Items"	""	"dialog"
+"Full"	""	"sysheader32"
 "Grouping"	""	"combobox"
 "In Task..."	""	"menu"
 "Invalid 'Date range'"	""	"label"

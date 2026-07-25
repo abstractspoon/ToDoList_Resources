@@ -5,6 +5,7 @@ NEED_TRANSLATION 0
 "'Time Spent' or 'Comment' required"	""	"label"
 "Check Spelling..."	""	"menu"
 "Completion"	""	"combobox"
+"Full"	""	"sysheader32"
 "Invalid 'Date range'"	""	"label"
 "Invalid 'End' time"	""	"label"
 "Invalid 'Specific days'"	""	"label"

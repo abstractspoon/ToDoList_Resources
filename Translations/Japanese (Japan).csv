@@ -632,6 +632,7 @@ NEED_TRANSLATION 57
 "From"	""	"radiobutton"
 "Ftp Server"	""	"dialog"
   "Ftp Server"	""	"menu"
+"Full"	""	"sysheader32"
 "Future Occurrence"	""	"tooltip"
 "Gantt Preferences"	""	"tooltip"
 "GanttProject Files"	""	"combobox"

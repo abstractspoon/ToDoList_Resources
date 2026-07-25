@@ -192,6 +192,7 @@ NEED_TRANSLATION 16
 "Freeze To Edges"	""	"menu"
 "Ftp Server"	""	"dialog"
   "Ftp Server"	""	"menu"
+"Full"	""	"sysheader32"
 "Future Occurrence"	""	"tooltip"
 "GanttProject Files"	""	"combobox"
 "Go To Tasklist"	""	"tooltip"

@@ -84,6 +84,7 @@ NEED_TRANSLATION 7
 "FreeMind Files"	""	"combobox"
 "Ftp Server"	""	"dialog"
   "Ftp Server"	""	"menu"
+"Full"	""	"sysheader32"
 "GanttProject Files"	""	"combobox"
 "Go To Tasklist"	""	"tooltip"
 "Group Columns"	""	"menu"

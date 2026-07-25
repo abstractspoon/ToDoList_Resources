@@ -1142,6 +1142,7 @@ NEED_TRANSLATION
 "From start date"	""	"combobox"
 "Ftp Server"	""	"dialog"
   "Ftp Server"	""	"menu"
+"Full"	""	"sysheader32"
 "Future Occurrence"	""	"tooltip"
 "Gantt Chart"	""	"systabcontrol32"
   "Gantt Chart"	""	"checklistbox"

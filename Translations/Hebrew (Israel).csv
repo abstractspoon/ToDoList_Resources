@@ -445,6 +445,7 @@ NEED_TRANSLATION 38
 "Frequency Distributions"	""	"combobox"
 "Ftp Server"	""	"dialog"
   "Ftp Server"	""	"menu"
+"Full"	""	"sysheader32"
 "Future Occurrence"	""	"tooltip"
 "GanttProject Files"	""	"combobox"
 "Go To Task"	""	"dialog"

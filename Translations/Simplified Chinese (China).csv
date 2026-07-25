@@ -3,6 +3,7 @@ PRIMARY_LANGID 4
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
 "Bitmap Images (*.bmp)|*.bmp|GIF Images (*.gif)|*.gif|JPEG Images (*.jpg, *.jpeg)|*.jpg;*.jpeg|PNG Images (*.png)|*.png|TIFF Images (*.tif)|*.tif||"	""	"text"
+"Full"	""	"sysheader32"
 "ToDoList Web Update (c) AbstractSpoon"	""	"dialog"
 TRANSLATED
 "\n\n(ATTENTION: One or more of these tasks has subtasks which will also be deleted)"	"\n\n(注意：这些任务的一个或更多子任务将被删除)"	"text"

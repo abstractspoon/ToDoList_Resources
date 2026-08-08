@@ -284,6 +284,7 @@ NEED_TRANSLATION 100
 "<none>"	""	"combobox"
   "<none>"	""	"menu"
 "<optional>"	""	"text"
+"<required>"	""	"text"
 "<separator>"	""	"text"
 "<specific date>"	""	"text"
 "<specific dates>"	""	"combobox"

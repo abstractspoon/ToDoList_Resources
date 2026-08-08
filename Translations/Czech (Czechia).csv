@@ -3,6 +3,7 @@ PRIMARY_LANGID 5
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
 "'Time Spent' or 'Comment' required"	""	"label"
+"<required>"	""	"text"
 "Check Spelling..."	""	"menu"
 "Completion"	""	"combobox"
 "Full"	""	"sysheader32"

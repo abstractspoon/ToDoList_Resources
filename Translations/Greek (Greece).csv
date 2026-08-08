@@ -43,6 +43,7 @@ NEED_TRANSLATION 16
 "<New Column>"	""	"text"
 "<new dependency>"	""	"text"
 "<optional>"	""	"text"
+"<required>"	""	"text"
 "<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "A connection already exists between the two selected tasks"	""	"text"

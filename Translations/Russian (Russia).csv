@@ -2,6 +2,7 @@ TRANSTEXT 9.0
 PRIMARY_LANGID 25
 English Text	Translated Text	Item Type
 NEED_TRANSLATION 0
+"<required>"	""	"text"
 "Full"	""	"sysheader32"
 TRANSLATED
 "% Complete"	"% выполнения"	"label"

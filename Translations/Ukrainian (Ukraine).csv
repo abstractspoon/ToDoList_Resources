@@ -7,6 +7,7 @@ NEED_TRANSLATION 1
 "'Time Spent' or 'Comment' required"	""	"label"
 "<Group End>"	""	"combobox"
 "<Group Start>"	""	"combobox"
+"<required>"	""	"text"
 "All attributes, including"	""	"radiobutton"
 "Apply offset from"	""	"checkbox"
 "Check Spelling..."	""	"menu"

@@ -26,6 +26,7 @@ NEED_TRANSLATION 8
 "<multiple tasks>"	""	"label"
 "<New Column>"	""	"text"
 "<optional>"	""	"text"
+"<required>"	""	"text"
 "<today>"	""	"combobox"
 "<value varies>"	""	"text"
 "All attributes, including"	""	"radiobutton"

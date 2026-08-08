@@ -129,6 +129,7 @@ NEED_TRANSLATION 38
 "<no sound>"	""	"text"
 "<no task selected>"	""	"text"
 "<optional>"	""	"text"
+"<required>"	""	"text"
 "<separator>"	""	"text"
 "<specific dates>"	""	"combobox"
 "<today>"	""	"combobox"
